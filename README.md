@@ -4,7 +4,7 @@
 >
 > 🌐 **主站入口**：https://soycodetrail.top/vibe-coding  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 00:47:04
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 00:47:45
 
 ## 📚 系列展示站（更多精选内容）
 
@@ -13,23 +13,23 @@
 
 ## 📑 内容导航（128 个条目 / 13 个分类）
 
-- [📁 Web 应用](#web-应用)
-- [📁 AI 工具](#ai-工具)
-- [📁 Agent](#agent)
-- [📁 效率工具](#效率工具)
-- [📁 游戏](#游戏)
-- [📁 金融财经](#金融财经)
-- [📁 AI办公](#ai办公)
-- [📁 教育学习](#教育学习)
-- [📁 设计创意](#设计创意)
-- [📁 电商营销](#电商营销)
-- [📁 音乐音频](#音乐音频)
-- [📁 医疗健康](#医疗健康)
-- [📁 社交社区](#社交社区)
+- [📁 Web 应用](#cat-web-应用)
+- [📁 AI 工具](#cat-ai-工具)
+- [📁 Agent](#cat-agent)
+- [📁 效率工具](#cat-效率工具)
+- [📁 游戏](#cat-游戏)
+- [📁 金融财经](#cat-金融财经)
+- [📁 AI办公](#cat-ai办公)
+- [📁 教育学习](#cat-教育学习)
+- [📁 设计创意](#cat-设计创意)
+- [📁 电商营销](#cat-电商营销)
+- [📁 音乐音频](#cat-音乐音频)
+- [📁 医疗健康](#cat-医疗健康)
+- [📁 社交社区](#cat-社交社区)
 
 ---
 
-<a id="web-应用" name="web-应用"></a>
+<a id="cat-web-应用" name="cat-web-应用"></a>
 
 ### 📁 Web 应用
 
@@ -64,7 +64,7 @@
 - [秒哒「欲望测试」](https://www.miaoda.cn) — 创作者用百度无代码平台秒哒做的可分享、可付费心理测评应用，累计页面访问 247 万次、不到 10 天变现 9 万元。  
   标签：无代码平台 / 心理测评 / 10 天变现 9 万
 
-<a id="ai-工具" name="ai-工具"></a>
+<a id="cat-ai-工具" name="cat-ai-工具"></a>
 
 ### 📁 AI 工具
 
@@ -151,7 +151,7 @@
 - [长亭 MonkeyCode - 团队 AI 编码平台](https://github.com/chaitin/MonkeyCode) — 国内安全公司长亭科技开源的企业级 AI 开发平台，内置云开发环境、多模型管理与 AI 任务工作流，支持私有化部署，GitHub 4.1k+ Star、AGPLv3。  
   标签：国产开源 / 团队平台 / 私有化部署 / 4.1k Star
 
-<a id="agent" name="agent"></a>
+<a id="cat-agent" name="cat-agent"></a>
 
 ### 📁 Agent
 
@@ -176,7 +176,7 @@
 - [Friday](https://github.com/missingus3r/friday-showcase) — 纯 Claude Code CLI + Telegram 构建的 24/7 自进化个人 AI 助手，具备长期记忆、自动获取技能与夜间反思能力。  
   标签：AI Agent / 开源 / Claude Code / 自进化
 
-<a id="效率工具" name="效率工具"></a>
+<a id="cat-效率工具" name="cat-效率工具"></a>
 
 ### 📁 效率工具
 
@@ -225,7 +225,7 @@
 - [SlapMac](https://slapmac.com/) — 开发者用 Claude Code 48 小时做出「拍打 MacBook 会惨叫」的趣味 App，上线 3 天安装破 7000、营收达 $5000，被 500+ 电台报道。  
   标签：病毒传播 / 3 天 5000 美元 / macOS
 
-<a id="游戏" name="游戏"></a>
+<a id="cat-游戏" name="cat-游戏"></a>
 
 ### 📁 游戏
 
@@ -274,7 +274,7 @@
 - [大狗叫模拟器（哈基米 Tap）](https://www.bilibili.com/toy/Dagou-Tap/index.html) — B站 UP 主马克杯 MarkCup 一晚 vibe coding 出的魔性音游：点大狗/哈基米就触发鬼畜音效，钢琴模式随手弹出和弦，B站 Toy 平台试玩超 642 万次、相关视频播放 222 万，已开源。  
   标签：音游 / 整活 / 开源 / 642万试玩
 
-<a id="金融财经" name="金融财经"></a>
+<a id="cat-金融财经" name="cat-金融财经"></a>
 
 ### 📁 金融财经
 
@@ -283,7 +283,7 @@
 - [Dash Investing Intelligence](https://dashinvest.app/) — AI 投资情报与分析平台，把研报、行情与新闻聚合为可对话的投资洞察，帮个人投资者用自然语言做尽调与决策。  
   标签：投资 / AI分析 / 研报 / 决策
 
-<a id="ai办公" name="ai办公"></a>
+<a id="cat-ai办公" name="cat-ai办公"></a>
 
 ### 📁 AI办公
 
@@ -294,7 +294,7 @@
 - [蚂蚁灵光](https://www.lingguang.com/) — 蚂蚁集团全模态通用 AI 助手，首创「30 秒用自然语言生成闪应用」，可编辑、可交互、可分享，已上线 App Store、安卓与网页版。  
   标签：蚂蚁 / 闪应用 / 多模态 / 30秒生成
 
-<a id="教育学习" name="教育学习"></a>
+<a id="cat-教育学习" name="cat-教育学习"></a>
 
 ### 📁 教育学习
 
@@ -303,7 +303,7 @@
 - [Easy-Vibe (DataWhale)](https://datawhalechina.github.io/easy-vibe/zh-cn/) — DataWhale 开源的中文 Vibe Coding 教程，三阶段体系从零基础 5 分钟做第一个 AI 应用到全栈上线，GitHub 4.6k+ stars，免费系统实战。  
   标签：开源教程 / DataWhale / 零基础 / 4.6k Star
 
-<a id="设计创意" name="设计创意"></a>
+<a id="cat-设计创意" name="cat-设计创意"></a>
 
 ### 📁 设计创意
 
@@ -318,7 +318,7 @@
 - [归藏 PPT Skill - AI 生成专业级网页 PPT](https://github.com/op7418/guizang-ppt-skill) — 歸藏开源的 AI 编码 Agent 技能包，把 PPT 生成做成版式工程（电子杂志风 + 瑞士国际主义风），25 天破万 Star、GitHub 已超 2.3 万 Star，AGPL 协议。  
   标签：开源 / AI PPT / 版式工程 / 2.3万 Star
 
-<a id="电商营销" name="电商营销"></a>
+<a id="cat-电商营销" name="cat-电商营销"></a>
 
 ### 📁 电商营销
 
@@ -327,7 +327,7 @@
 - [Durable - AI 小企业建站](https://durable.co/) — 30 秒用 AI 生成完整小企业网站与营销文案，自动配套 CRM、发票与广告，已服务数百万商家、营收破千万美元。  
   标签：AI建站 / 小企业 / 营销 / CRM
 
-<a id="音乐音频" name="音乐音频"></a>
+<a id="cat-音乐音频" name="cat-音乐音频"></a>
 
 ### 📁 音乐音频
 
@@ -336,14 +336,14 @@
 - [Udio - AI 音乐创作](https://www.udio.com/) — 与 Suno 齐名的 AI 音乐生成平台，社区热度极高，输入风格与歌词即可产出接近真人的歌曲，激发海量二创。  
   标签：AI音乐 / 社区 / 二创 / 风格多样
 
-<a id="医疗健康" name="医疗健康"></a>
+<a id="cat-医疗健康" name="cat-医疗健康"></a>
 
 ### 📁 医疗健康
 
 - [postvisit.ai - AI 诊后随访](https://postvisit.ai/) — 一位心内科医生用 Vibe Coding 做出的诊后随访助手，自动整理就医记录、提醒复查用药，入围 Anthropic 黑客松前三（约 1.3 万申请人中胜出）。  
   标签：医疗 / 诊后随访 / 医生自研 / 黑客松前三
 
-<a id="社交社区" name="社交社区"></a>
+<a id="cat-社交社区" name="cat-社交社区"></a>
 
 ### 📁 社交社区
 
