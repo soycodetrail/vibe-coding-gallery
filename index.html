@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Vibe Coding 作品展 · soycodetrail.top</title>
+<meta name="description" content="精选全球爆火的 AI 辅助开发作品——好玩、实用、灵感满满" />
+<style>
+  :root{
+    --brand:#e63946; --bg:#f7f8fa; --card:#fff; --text:#1f2329; --muted:#6b7280;
+    --border:#e6e8eb; --shadow:0 2px 12px rgba(20,20,40,.06);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+  a{color:var(--brand);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .hero{background:linear-gradient(135deg,#1f2937,#0ea5e9);color:#fff;padding:40px 20px;text-align:center}
+  .hero h1{margin:0 0 8px;font-size:30px}
+  .hero p{margin:0 0 18px;opacity:.92}
+  .hero__btns{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+  .btn{display:inline-block;padding:9px 18px;border-radius:999px;font-weight:600;font-size:14px}
+  .btn--light{background:#fff;color:#0f172a}
+  .btn--ghost{border:1px solid rgba(255,255,255,.6);color:#fff}
+  .wrap{max-width:1080px;margin:0 auto;padding:24px 20px 60px}
+  .toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:8px 0 22px}
+  .toolbar input,.toolbar select{padding:9px 12px;border:1px solid var(--border);border-radius:10px;font-size:14px;background:#fff}
+  .toolbar input{flex:1;min-width:200px}
+  .count{color:var(--muted);font-size:13px;margin-left:auto}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:18px;box-shadow:var(--shadow);transition:transform .15s,box-shadow .15s;overflow:hidden;position:relative}
+  .card:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(20,20,40,.12)}
+  .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--bg,#ddd)}
+  .card__icon{font-size:30px;margin-bottom:6px}
+  .card__name{font-size:17px;margin:0 0 6px}
+  .card__name a{color:var(--text)}
+  .card__desc{font-size:13.5px;color:#374151;margin:0 0 10px}
+  .card__tags{display:flex;flex-wrap:wrap;gap:6px}
+  .tag{background:#eef2ff;color:#3b4cca;font-size:11.5px;padding:2px 8px;border-radius:999px}
+  .empty{padding:40px;text-align:center;color:var(--muted)}
+  .follow{background:#fff;border:1px solid var(--border);border-radius:16px;padding:26px;margin-top:36px;display:flex;gap:24px;flex-wrap:wrap;align-items:center;box-shadow:var(--shadow)}
+  .follow img{width:140px;height:140px;border-radius:12px;border:1px solid var(--border)}
+  .follow h2{margin:0 0 10px;font-size:20px}
+  .follow ul{margin:0;padding-left:18px;color:#374151;font-size:14px}
+  .follow li{margin:4px 0}
+  .follow code{background:#f1f5f9;padding:1px 6px;border-radius:6px}
+  footer{text-align:center;color:var(--muted);font-size:13px;padding:24px}
+  @media(max-width:560px){.follow{flex-direction:column;text-align:center}.hero h1{font-size:24px}}
+</style>
+</head>
+<body>
+  <header class="hero">
+    <h1>Vibe Coding 作品展</h1>
+    <p>精选全球爆火的 AI 辅助开发作品——好玩、实用、灵感满满</p>
+    <div class="hero__btns">
+      <a class="btn btn--light" href="https://soycodetrail.top/vibe-coding" target="_blank" rel="noopener">访问主站对应页面 →</a>
+      <a class="btn btn--ghost" href="https://soycodetrail.top" target="_blank" rel="noopener">soycodetrail.top 全站</a>
+    </div>
+  </header>
+  <main class="wrap">
+    <div class="toolbar">
+      <input id="q" type="search" placeholder="搜索名称 / 描述 / 标签…" />
+      <select id="cat"><option value="all">全部分类</option></select>
+      <span class="count">共 <b id="count">128</b> 个</span>
+    </div>
+    <section id="grid" class="grid"></section>
+
+    <section class="follow">
+      <img src="./wechat-qrcode.jpeg" alt="微信二维码" />
+      <div>
+        <h2>📬 喜欢这个仓库？关注我，获取更多技术干货</h2>
+        <ul>
+          <li>💬 <b>微信</b>：<code>Yishisiweikongjian</code><br/>扫码或搜索微信号添加，备注「学习」更快通过</li>
+          <li>📕 <b>小红书</b>：<b>豆奶与程序猫</b><br/>搜索「豆奶与程序猫」关注，私信“邀请码”领学习资源 · <a href="https://www.xiaohongshu.com/search_result?keyword=%E8%B1%86%E5%A5%B6%E4%B8%8E%E7%A8%8B%E5%BA%8F%E7%8C%AB" target="_blank" rel="noopener">前往小红书关注 →</a></li>
+          <li>📧 <b>合作 / 交流</b>：1019296134@qq.com</li>
+        </ul>
+      </div>
+    </section>
+    <footer>内容自动同步自主站 <a href="https://soycodetrail.top">https://soycodetrail.top</a> · 与网站保持实时同步</footer>
+  </main>
+  <script>
+const SITE='https://soycodetrail.top';
+const SITE_URL='https://soycodetrail.top/vibe-coding';
+const CATS=[{"key":"Web 应用","label":"Web 应用","icon":"📁"},{"key":"AI 工具","label":"AI 工具","icon":"📁"},{"key":"Agent","label":"Agent","icon":"📁"},{"key":"效率工具","label":"效率工具","icon":"📁"},{"key":"游戏","label":"游戏","icon":"📁"},{"key":"金融财经","label":"金融财经","icon":"📁"},{"key":"AI办公","label":"AI办公","icon":"📁"},{"key":"教育学习","label":"教育学习","icon":"📁"},{"key":"设计创意","label":"设计创意","icon":"📁"},{"key":"电商营销","label":"电商营销","icon":"📁"},{"key":"音乐音频","label":"音乐音频","icon":"📁"},{"key":"医疗健康","label":"医疗健康","icon":"📁"},{"key":"社交社区","label":"社交社区","icon":"📁"}];
+const AUTHOR={"wechat":"Yishisiweikongjian","xhs":"豆奶与程序猫","email":"1019296134@qq.com"};
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+let ITEMS=[];
+fetch('./projects.json').then(function(r){return r.json();}).then(function(d){ITEMS=d.items||[];render();}).catch(function(e){document.getElementById('grid').innerHTML='<p style="padding:24px;color:#b00">数据加载失败：'+esc(e.message)+'</p>';});
+function visible(){var q=document.getElementById('q').value.trim().toLowerCase();var cat=document.getElementById('cat').value;return ITEMS.filter(function(it){if(cat!=='all'&&it.category!==cat)return false;if(!q)return true;var hay=(it.name+' '+(it.desc||'')+' '+(it.tags||[]).join(' ')).toLowerCase();return hay.indexOf(q)>=0;});}
+function render(){var grid=document.getElementById('grid');var list=visible();if(!list.length){grid.innerHTML='<p class="empty">没有匹配的内容 🐳</p>';return;}grid.innerHTML=list.map(function(it){var bg=it.bg?('style="--bg:'+esc(it.bg)+'"'):'';var tags=(it.tags||[]).map(function(t){return '<span class="tag">'+esc(t)+'</span>';}).join('');return '<article class="card" '+bg+'><div class="card__icon">'+esc(it.icon||'✨')+'</div><h3 class="card__name"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(it.name)+'</a></h3><p class="card__desc">'+esc(it.desc)+'</p><div class="card__tags">'+tags+'</div></article>';}).join('');document.getElementById('count').textContent=list.length;}
+function buildCats(){var sel=document.getElementById('cat');CATS.forEach(function(c){var o=document.createElement('option');o.value=c.key;o.textContent=c.icon+' '+c.label;sel.appendChild(o);});}
+document.getElementById('q').addEventListener('input',render);
+document.getElementById('cat').addEventListener('change',render);
+buildCats();
+  </script>
+</body>
+</html>
