@@ -4,13 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 12:20:36
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 14:15:11
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（128 个条目 / 13 个分类）
+## 📑 内容导航（133 个条目 / 13 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -62,6 +63,8 @@
   标签：小红书爆款 / 波点拼贴 / 百万下载
 - [秒哒「欲望测试」](https://www.miaoda.cn) — 创作者用百度无代码平台秒哒做的可分享、可付费心理测评应用，累计页面访问 247 万次、不到 10 天变现 9 万元。  
   标签：无代码平台 / 心理测评 / 10 天变现 9 万
+- [CodeFlying 码上飞 - 一句话做应用](https://www.codeflying.net) — 面向中文用户的零代码 AI 应用生成平台，说中文即可一键生成小程序 / 网站 / 工具应用，平台已汇聚 50 万+ 创作者，覆盖生活、办公、电商等全场景。  
+  标签：零代码 / 中文 AI / 50万创作者 / 一键发布
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -149,6 +152,8 @@
   标签：开源 / Cloudflare / 全栈部署 / 5.2k Star
 - [长亭 MonkeyCode - 团队 AI 编码平台](https://github.com/chaitin/MonkeyCode) — 国内安全公司长亭科技开源的企业级 AI 开发平台，内置云开发环境、多模型管理与 AI 任务工作流，支持私有化部署，GitHub 4.1k+ Star、AGPLv3。  
   标签：国产开源 / 团队平台 / 私有化部署 / 4.1k Star
+- [OpenCode - 开源 AI 编码智能体](https://github.com/sst/opencode) — SST 团队开源的终端 AI 编码智能体，GitHub 180K+ Star、MIT 协议，支持 75+ LLM 提供商、7.5M+ 月活开发者，可完全本地化与自托管。  
+  标签：开源 / 终端 Agent / 180K Star / MIT
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -174,6 +179,10 @@
   标签：AI 基础设施 / YC / Lovable / 开源
 - [Friday](https://github.com/missingus3r/friday-showcase) — 纯 Claude Code CLI + Telegram 构建的 24/7 自进化个人 AI 助手，具备长期记忆、自动获取技能与夜间反思能力。  
   标签：AI Agent / 开源 / Claude Code / 自进化
+- [Manus - 全球首款通用 AI Agent](https://manus.im) — Monica.im 打造的自主通用智能体，能端到端规划并执行复杂任务（研究、写代码、处理文件、生成报告），GAIA 基准 SOTA；发布 7 天 200 万+ 排队，月访问量 1450 万+，2025 年底被 Meta 收购。  
+  标签：通用 Agent / GAIA SOTA / 200万排队 / Meta 收购
+- [Suna - 开源通用 AI 智能体](https://suna.so) — Kortix 开源的通用 AI 智能体，可自主完成网页浏览、数据抓取、文件处理、命令行执行与建站等真实任务；GitHub 20K+ Star，支持自托管，被誉为「开源版 Manus」。  
+  标签：开源 / 通用 Agent / 20K Star / 自托管
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -292,6 +301,8 @@
   标签：腾讯 / 一句话生成App / 灵感广场 / Vibe Coding
 - [蚂蚁灵光](https://www.lingguang.com/) — 蚂蚁集团全模态通用 AI 助手，首创「30 秒用自然语言生成闪应用」，可编辑、可交互、可分享，已上线 App Store、安卓与网页版。  
   标签：蚂蚁 / 闪应用 / 多模态 / 30秒生成
+- [Jupid - AI 会计助手](https://jupid.com) — 面向自由职业者与 LLC 的 AI 会计，基于 Claude Code MCP 自动归类收支，分类准确率 96%、平均帮用户找回 $1,249/年漏报抵扣；Product Hunt 2026-03-31 当日 #1（500+ upvotes）。  
+  标签：AI 会计 / Product Hunt #1 / Claude Code MCP / 自由职业
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
