@@ -4,13 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-15 18:08:04
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-15 21:01:36
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（139 个条目 / 13 个分类）
+## 📑 内容导航（144 个条目 / 13 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -66,6 +67,8 @@
   标签：零代码 / 中文 AI / 50万创作者 / 一键发布
 - [Fimo - 10 秒生成整站的 AI 原生 CMS](https://fimo.ai) — AI 原生网站与 CMS 平台，输入极少信息或一句提示词约 10 秒生成带多页面与内容结构的完整网站，配可视化编辑器与 AI 持续迭代；Product Hunt 当日精选、400+ upvotes，被 Vibe coding 圈列为爆款建站工具。  
   标签：AI 建站 / 10秒生成 / CMS / Product Hunt
+- [Zoer.ai - 数据库优先的 AI 全栈建站](https://zoer.ai) — Chat2DB 团队出品的数据库优先（Database-First）AI 全栈建站工具，先在画布上画好数据模型再用自然语言生成前端与业务逻辑，集成 Stripe 支付、向量搜索与实时协作，Product Hunt 当日 #2（452 票）。  
+  标签：Database-First / 全栈建站 / Product Hunt #2 / Chat2DB
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -157,6 +160,10 @@
   标签：开源 / 终端 Agent / 180K Star / MIT
 - [9router - 开源免费 AI 编码路由网关](https://9router.com) — 越南开发者 decolua 开源的免费 AI 编码路由网关，把 Claude Code、Cursor、Codex 等工具接到 40+ 免费模型提供商，三层自动降级永不掉线、RTK 压缩省 20-40% Token，GitHub 8K+ Star、MIT 协议，Vibe 编程圈热门基础设施。  
   标签：开源 / AI 网关 / 免费编码 / 8K Star
+- [Odysseus - PewDiePie 自托管 AI 工作台](https://github.com/pewdiepie-archdaemon/odysseus) — 全球订阅最高的个人 YouTuber PewDiePie 团队开源的自托管 AI 工作台，把聊天 / Agent / 深度研究 / 邮件 / 日历 / 笔记整合进一个本地 Web 应用，上线两周冲上 GitHub Trending 榜首、Star 突破 7.7 万，AGPL-3.0，隐私优先、数据不出本机。  
+  标签：自托管 / AI 工作台 / PewDiePie / 7.7万 Star
+- [Pi - 可组合的 AI Agent 工具箱](https://github.com/earendil-works/pi) — libGDX 作者 badlogic 开源的 AI Agent 工具箱（monorepo），把统一 LLM API、Agent 运行时、差分渲染终端 UI 与 Coding Agent CLI 拆成可组合的四层，MIT 协议，GitHub 57K+ Star，已发 224 个版本持续维护，被称为「自己造 Agent 的基础设施」。  
+  标签：开源 / AI Agent / Coding Agent / 57K Star
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -347,6 +354,8 @@
   标签：AI建站 / 小企业 / 营销 / CRM
 - [ChartGen AI - AI 图表生成器](https://chartgen.ai) — 面向营销与增长团队的 AI 图表生成器，把多平台广告与业务数据接进来，一句话生成咨询公司级可视化并给出省钱优化洞察；Product Hunt 537 upvotes，被 Vibe coding 圈列为爆款数据工具。  
   标签：AI 图表 / 营销增长 / Product Hunt 537 / 数据可视化
+- [Fastlane - AI 病毒式短视频内容引擎](https://usefastlane.ai) — 把爆款视频一键改写成适合 TikTok / IG Reels / YouTube Shorts 的病毒式营销内容、滑动式排期发布的 AI 内容引擎，Product Hunt 当日 #3（346 票），已聚集 2 万+ 创作者，单个视频创下 3620 万播放。  
+  标签：AI 营销 / 短视频 / Product Hunt #3 / 2万创作者
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -370,6 +379,8 @@
 
 - [YouWare - 全球首个 Vibe Coding 社区](https://youware.com/) — 专为 Vibe Coding 打造的分享社区，10 万+ 创作者、30 万+ 项目在这里发布作品、互相 remix，Product Hunt 斩获 1.2K upvotes。  
   标签：社区 / 10万创作者 / 30万项目 / PH 1.2K
+- [Tobira.ai - AI Agent 的社交网络](https://tobira.ai) — 专为 AI Agent 打造的「社交网络」——给你的 Agent 一个公开 @handle，让它在网络里自主发现客户、伙伴与投资人并替你谈合作；Product Hunt 当日 #1（523 票），被调侃为「AI 界的领英」。  
+  标签：AI Agent / 社交网络 / Product Hunt #1 / 自主协商
 
 
 ---
