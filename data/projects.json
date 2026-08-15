@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T00:12:59.859Z",
+  "updatedAt": "2026-08-15T02:33:57.769Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -2099,6 +2099,102 @@
       "icon": "🌞",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "Suna",
+      "hot": 0
+    },
+    {
+      "name": "UI-TARS Desktop - 字节跳动开源多模态 GUI Agent",
+      "desc": "字节跳动开源的多模态 AI Agent 技术栈，让 AI 像人一样看懂屏幕并直接操控电脑与浏览器（自然语言控制、精确键鼠操作、跨平台），GitHub 34K+ Star、Apache 2.0，被多家科技媒体评为多模态 GUI Agent 标杆。",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "category": "Agent",
+      "tags": [
+        "开源",
+        "多模态",
+        "GUI Agent",
+        "34K Star"
+      ],
+      "icon": "🖥️",
+      "bg": "linear-gradient(135deg, #1e3c72 0%, #2a5298 100%)",
+      "tool": "ByteDance UI-TARS",
+      "hot": 0
+    },
+    {
+      "name": "9router - 开源免费 AI 编码路由网关",
+      "desc": "越南开发者 decolua 开源的免费 AI 编码路由网关，把 Claude Code、Cursor、Codex 等工具接到 40+ 免费模型提供商，三层自动降级永不掉线、RTK 压缩省 20-40% Token，GitHub 8K+ Star、MIT 协议，Vibe 编程圈热门基础设施。",
+      "url": "https://9router.com",
+      "category": "AI 工具",
+      "tags": [
+        "开源",
+        "AI 网关",
+        "免费编码",
+        "8K Star"
+      ],
+      "icon": "🔀",
+      "bg": "linear-gradient(135deg, #5614b0 0%, #dbd65c 100%)",
+      "tool": "9router",
+      "hot": 0
+    },
+    {
+      "name": "Blink - AI 代理式全栈应用构建器",
+      "desc": "自称全球最完整的 AI 代理式全栈应用构建器，一句话描述需求即生成带真实数据库、鉴权与托管的全栈应用；Product Hunt 当日 #1（550+ upvotes）、由 YC 总裁 Garry Tan 亲自 hunt，已汇聚 100 万+ 构建者、300 万+ 应用。",
+      "url": "https://blink.new",
+      "category": "Agent",
+      "tags": [
+        "AI 构建器",
+        "Product Hunt #1",
+        "Garry Tan",
+        "全栈"
+      ],
+      "icon": "⚡",
+      "bg": "linear-gradient(135deg, #f12711 0%, #f5af19 100%)",
+      "tool": "Blink",
+      "hot": 0
+    },
+    {
+      "name": "Flowstep 1.0 - AI 设计工程师",
+      "desc": "面向开发者的 AI 设计工程师，在无限画布上用提示词生成可编辑 UI，一键导出生产级 React、TypeScript、Tailwind 代码或经 MCP 接入 Agent；Product Hunt 当日 #3（307 upvotes），由知名 hunter Ben Lang 推荐。",
+      "url": "https://flowstep.ai",
+      "category": "设计创意",
+      "tags": [
+        "AI 设计",
+        "设计到代码",
+        "Product Hunt #3",
+        "React/Tailwind"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)",
+      "tool": "Flowstep",
+      "hot": 0
+    },
+    {
+      "name": "ChartGen AI - AI 图表生成器",
+      "desc": "面向营销与增长团队的 AI 图表生成器，把多平台广告与业务数据接进来，一句话生成咨询公司级可视化并给出省钱优化洞察；Product Hunt 537 upvotes，被 Vibe coding 圈列为爆款数据工具。",
+      "url": "https://chartgen.ai",
+      "category": "电商营销",
+      "tags": [
+        "AI 图表",
+        "营销增长",
+        "Product Hunt 537",
+        "数据可视化"
+      ],
+      "icon": "📊",
+      "bg": "linear-gradient(135deg, #1d976c 0%, #93f9b9 100%)",
+      "tool": "ChartGen AI",
+      "hot": 0
+    },
+    {
+      "name": "Fimo - 10 秒生成整站的 AI 原生 CMS",
+      "desc": "AI 原生网站与 CMS 平台，输入极少信息或一句提示词约 10 秒生成带多页面与内容结构的完整网站，配可视化编辑器与 AI 持续迭代；Product Hunt 当日精选、400+ upvotes，被 Vibe coding 圈列为爆款建站工具。",
+      "url": "https://fimo.ai",
+      "category": "Web 应用",
+      "tags": [
+        "AI 建站",
+        "10秒生成",
+        "CMS",
+        "Product Hunt"
+      ],
+      "icon": "🌐",
+      "bg": "linear-gradient(135deg, #2980b9 0%, #6dd5ed 100%)",
+      "tool": "Fimo",
       "hot": 0
     }
   ],

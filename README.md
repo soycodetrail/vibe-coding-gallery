@@ -4,13 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-15 00:12:59
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-15 02:33:57
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（133 个条目 / 13 个分类）
+## 📑 内容导航（139 个条目 / 13 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -64,6 +65,8 @@
   标签：无代码平台 / 心理测评 / 10 天变现 9 万
 - [CodeFlying 码上飞 - 一句话做应用](https://www.codeflying.net) — 面向中文用户的零代码 AI 应用生成平台，说中文即可一键生成小程序 / 网站 / 工具应用，平台已汇聚 50 万+ 创作者，覆盖生活、办公、电商等全场景。  
   标签：零代码 / 中文 AI / 50万创作者 / 一键发布
+- [Fimo - 10 秒生成整站的 AI 原生 CMS](https://fimo.ai) — AI 原生网站与 CMS 平台，输入极少信息或一句提示词约 10 秒生成带多页面与内容结构的完整网站，配可视化编辑器与 AI 持续迭代；Product Hunt 当日精选、400+ upvotes，被 Vibe coding 圈列为爆款建站工具。  
+  标签：AI 建站 / 10秒生成 / CMS / Product Hunt
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -153,6 +156,8 @@
   标签：国产开源 / 团队平台 / 私有化部署 / 4.1k Star
 - [OpenCode - 开源 AI 编码智能体](https://github.com/sst/opencode) — SST 团队开源的终端 AI 编码智能体，GitHub 180K+ Star、MIT 协议，支持 75+ LLM 提供商、7.5M+ 月活开发者，可完全本地化与自托管。  
   标签：开源 / 终端 Agent / 180K Star / MIT
+- [9router - 开源免费 AI 编码路由网关](https://9router.com) — 越南开发者 decolua 开源的免费 AI 编码路由网关，把 Claude Code、Cursor、Codex 等工具接到 40+ 免费模型提供商，三层自动降级永不掉线、RTK 压缩省 20-40% Token，GitHub 8K+ Star、MIT 协议，Vibe 编程圈热门基础设施。  
+  标签：开源 / AI 网关 / 免费编码 / 8K Star
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -182,6 +187,10 @@
   标签：通用 Agent / GAIA SOTA / 200万排队 / Meta 收购
 - [Suna - 开源通用 AI 智能体](https://suna.so) — Kortix 开源的通用 AI 智能体，可自主完成网页浏览、数据抓取、文件处理、命令行执行与建站等真实任务；GitHub 20K+ Star，支持自托管，被誉为「开源版 Manus」。  
   标签：开源 / 通用 Agent / 20K Star / 自托管
+- [UI-TARS Desktop - 字节跳动开源多模态 GUI Agent](https://github.com/bytedance/UI-TARS-desktop) — 字节跳动开源的多模态 AI Agent 技术栈，让 AI 像人一样看懂屏幕并直接操控电脑与浏览器（自然语言控制、精确键鼠操作、跨平台），GitHub 34K+ Star、Apache 2.0，被多家科技媒体评为多模态 GUI Agent 标杆。  
+  标签：开源 / 多模态 / GUI Agent / 34K Star
+- [Blink - AI 代理式全栈应用构建器](https://blink.new) — 自称全球最完整的 AI 代理式全栈应用构建器，一句话描述需求即生成带真实数据库、鉴权与托管的全栈应用；Product Hunt 当日 #1（550+ upvotes）、由 YC 总裁 Garry Tan 亲自 hunt，已汇聚 100 万+ 构建者、300 万+ 应用。  
+  标签：AI 构建器 / Product Hunt #1 / Garry Tan / 全栈
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -326,6 +335,8 @@
   标签：AI建站 / 设计师 / 发布 / 高保真
 - [归藏 PPT Skill - AI 生成专业级网页 PPT](https://github.com/op7418/guizang-ppt-skill) — 歸藏开源的 AI 编码 Agent 技能包，把 PPT 生成做成版式工程（电子杂志风 + 瑞士国际主义风），25 天破万 Star、GitHub 已超 2.3 万 Star，AGPL 协议。  
   标签：开源 / AI PPT / 版式工程 / 2.3万 Star
+- [Flowstep 1.0 - AI 设计工程师](https://flowstep.ai) — 面向开发者的 AI 设计工程师，在无限画布上用提示词生成可编辑 UI，一键导出生产级 React、TypeScript、Tailwind 代码或经 MCP 接入 Agent；Product Hunt 当日 #3（307 upvotes），由知名 hunter Ben Lang 推荐。  
+  标签：AI 设计 / 设计到代码 / Product Hunt #3 / React/Tailwind
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -335,6 +346,8 @@
   标签：Dropshipping / $1.5B估值 / Agent / 独立站
 - [Durable - AI 小企业建站](https://durable.co/) — 30 秒用 AI 生成完整小企业网站与营销文案，自动配套 CRM、发票与广告，已服务数百万商家、营收破千万美元。  
   标签：AI建站 / 小企业 / 营销 / CRM
+- [ChartGen AI - AI 图表生成器](https://chartgen.ai) — 面向营销与增长团队的 AI 图表生成器，把多平台广告与业务数据接进来，一句话生成咨询公司级可视化并给出省钱优化洞察；Product Hunt 537 upvotes，被 Vibe coding 圈列为爆款数据工具。  
+  标签：AI 图表 / 营销增长 / Product Hunt 537 / 数据可视化
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
