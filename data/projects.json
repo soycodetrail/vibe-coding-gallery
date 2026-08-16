@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:18:36.498Z",
+  "updatedAt": "2026-08-16T21:07:50.766Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -2275,6 +2275,86 @@
       "icon": "📣",
       "bg": "linear-gradient(135deg, #FF8008 0%, #1FA2FF 100%)",
       "tool": "Fastlane",
+      "hot": 0
+    },
+    {
+      "name": "DeepSeek Harness (dsh)",
+      "desc": "深度求索开源的 AI 编码「插件运行时」——把任意 MCP / 技能封装成可组合插件，号称\"万物皆插件\"。2026-08-13 发布后 42 小时破 10 万 Star、两天内冲到 10.6 万+ Star，刷新 GitHub 史上最快增长纪录，MIT 协议。",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "category": "AI 工具",
+      "tags": [
+        "开源",
+        "GitHub 10.6万★",
+        "MIT",
+        "插件运行时"
+      ],
+      "icon": "🧩",
+      "bg": "linear-gradient(135deg, #2563eb 0%, #1e3a8a 100%)",
+      "tool": "DeepSeek",
+      "hot": 0
+    },
+    {
+      "name": "大学生登山失踪事件",
+      "desc": "一个由「银河电灯」单人打造的 AI 悬疑恐怖 ARG 网页游戏：用豆包 / Gemini / DeepSeek 驱动剧情与线索，文科生零编程基础两周做出爆款，全网独立访客 43 万+，被称为\"最会写故事的 Vibe Coding 作品\"。",
+      "url": "https://missing.shiroki-y.top/introduction.html",
+      "category": "游戏",
+      "tags": [
+        "AI 恐怖 ARG",
+        "43万+访客",
+        "零基础",
+        "单人开发"
+      ],
+      "icon": "🏔️",
+      "bg": "linear-gradient(135deg, #4a5568 0%, #1a202c 100%)",
+      "tool": "豆包 / Gemini",
+      "hot": 0
+    },
+    {
+      "name": "青椒模拟器",
+      "desc": "苏州大学两名博士生用 AI 辅助编程两周做出的校园生活模拟器，玩家扮演青椒（青年教师）体验科研与教学日常，日活 9 万+、同时在线 2000+，一度因流量过大被限流，是高校圈现象级 Vibe Coding 作品。",
+      "url": "https://tenure.hqzhou.com/",
+      "category": "游戏",
+      "tags": [
+        "校园模拟",
+        "9万 DAU",
+        "博士生",
+        "现象级"
+      ],
+      "icon": "🌶️",
+      "bg": "linear-gradient(135deg, #48bb78 0%, #276749 100%)",
+      "tool": "AI 编程",
+      "hot": 0
+    },
+    {
+      "name": "Bitchat",
+      "desc": "Jack Dorsey（推特创始人）用一个周末、借助 Block 内部 AI 助手 Goose 写出的蓝牙点对点离线通讯 App——无需互联网、服务器或账号，默认端到端加密，TestFlight 上线几天内 1 万测试名额秒满，是\"名人 Vibe Coding\"标杆案例。开源（The Unlicense）。",
+      "url": "https://bitchat.app",
+      "category": "社交社区",
+      "tags": [
+        "蓝牙 mesh",
+        "Jack Dorsey",
+        "无网加密",
+        "开源"
+      ],
+      "icon": "📡",
+      "bg": "linear-gradient(135deg, #6366f1 0%, #4338ca 100%)",
+      "tool": "Goose AI",
+      "hot": 0
+    },
+    {
+      "name": "GlowUp",
+      "desc": "Louis-David Paul-Hus 用 FlutterFlow 无代码工具做出的 AI 美妆 App，帮用户虚拟试妆，上线首年营收约 80 万美金、累计 50 万+ 用户，是\"非技术创始人也能做出爆款\"的典型 Vibe Coding 故事。",
+      "url": "https://zipoapps.com/glowupmakeupios/",
+      "category": "设计创意",
+      "tags": [
+        "美妆 App",
+        "$80万美金收入",
+        "50万+用户",
+        "无代码"
+      ],
+      "icon": "💄",
+      "bg": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+      "tool": "FlutterFlow",
       "hot": 0
     }
   ],

@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-16 18:18:36
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-16 21:07:50
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（144 个条目 / 13 个分类）
+## 📑 内容导航（149 个条目 / 13 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -164,6 +164,8 @@
   标签：自托管 / AI 工作台 / PewDiePie / 7.7万 Star
 - [Pi - 可组合的 AI Agent 工具箱](https://github.com/earendil-works/pi) — libGDX 作者 badlogic 开源的 AI Agent 工具箱（monorepo），把统一 LLM API、Agent 运行时、差分渲染终端 UI 与 Coding Agent CLI 拆成可组合的四层，MIT 协议，GitHub 57K+ Star，已发 224 个版本持续维护，被称为「自己造 Agent 的基础设施」。  
   标签：开源 / AI Agent / Coding Agent / 57K Star
+- [DeepSeek Harness (dsh)](https://github.com/deepseek-ai/deepseek-harness) — 深度求索开源的 AI 编码「插件运行时」——把任意 MCP / 技能封装成可组合插件，号称"万物皆插件"。2026-08-13 发布后 42 小时破 10 万 Star、两天内冲到 10.6 万+ Star，刷新 GitHub 史上最快增长纪录，MIT 协议。  
+  标签：开源 / GitHub 10.6万★ / MIT / 插件运行时
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -295,6 +297,10 @@
   标签：央美 / 交互艺术 / 点赞近百万
 - [大狗叫模拟器（哈基米 Tap）](https://www.bilibili.com/toy/Dagou-Tap/index.html) — B站 UP 主马克杯 MarkCup 一晚 vibe coding 出的魔性音游：点大狗/哈基米就触发鬼畜音效，钢琴模式随手弹出和弦，B站 Toy 平台试玩超 642 万次、相关视频播放 222 万，已开源。  
   标签：音游 / 整活 / 开源 / 642万试玩
+- [大学生登山失踪事件](https://missing.shiroki-y.top/introduction.html) — 一个由「银河电灯」单人打造的 AI 悬疑恐怖 ARG 网页游戏：用豆包 / Gemini / DeepSeek 驱动剧情与线索，文科生零编程基础两周做出爆款，全网独立访客 43 万+，被称为"最会写故事的 Vibe Coding 作品"。  
+  标签：AI 恐怖 ARG / 43万+访客 / 零基础 / 单人开发
+- [青椒模拟器](https://tenure.hqzhou.com/) — 苏州大学两名博士生用 AI 辅助编程两周做出的校园生活模拟器，玩家扮演青椒（青年教师）体验科研与教学日常，日活 9 万+、同时在线 2000+，一度因流量过大被限流，是高校圈现象级 Vibe Coding 作品。  
+  标签：校园模拟 / 9万 DAU / 博士生 / 现象级
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -343,6 +349,8 @@
   标签：开源 / AI PPT / 版式工程 / 2.3万 Star
 - [Flowstep 1.0 - AI 设计工程师](https://flowstep.ai) — 面向开发者的 AI 设计工程师，在无限画布上用提示词生成可编辑 UI，一键导出生产级 React、TypeScript、Tailwind 代码或经 MCP 接入 Agent；Product Hunt 当日 #3（307 upvotes），由知名 hunter Ben Lang 推荐。  
   标签：AI 设计 / 设计到代码 / Product Hunt #3 / React/Tailwind
+- [GlowUp](https://zipoapps.com/glowupmakeupios/) — Louis-David Paul-Hus 用 FlutterFlow 无代码工具做出的 AI 美妆 App，帮用户虚拟试妆，上线首年营收约 80 万美金、累计 50 万+ 用户，是"非技术创始人也能做出爆款"的典型 Vibe Coding 故事。  
+  标签：美妆 App / $80万美金收入 / 50万+用户 / 无代码
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -381,6 +389,8 @@
   标签：社区 / 10万创作者 / 30万项目 / PH 1.2K
 - [Tobira.ai - AI Agent 的社交网络](https://tobira.ai) — 专为 AI Agent 打造的「社交网络」——给你的 Agent 一个公开 @handle，让它在网络里自主发现客户、伙伴与投资人并替你谈合作；Product Hunt 当日 #1（523 票），被调侃为「AI 界的领英」。  
   标签：AI Agent / 社交网络 / Product Hunt #1 / 自主协商
+- [Bitchat](https://bitchat.app) — Jack Dorsey（推特创始人）用一个周末、借助 Block 内部 AI 助手 Goose 写出的蓝牙点对点离线通讯 App——无需互联网、服务器或账号，默认端到端加密，TestFlight 上线几天内 1 万测试名额秒满，是"名人 Vibe Coding"标杆案例。开源（The Unlicense）。  
+  标签：蓝牙 mesh / Jack Dorsey / 无网加密 / 开源
 
 
 ---
