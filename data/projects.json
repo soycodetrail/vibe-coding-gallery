@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T18:06:51.337Z",
+  "updatedAt": "2026-08-17T21:05:49.527Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -2356,6 +2356,96 @@
       "bg": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
       "tool": "FlutterFlow",
       "hot": 0
+    },
+    {
+      "name": "Paradigm 自适应学习路径",
+      "desc": "大学一年级学生 Scott Fan 自 2023 年起独立打磨的个人 AI 导师：把任意学习目标拆成随进度动态调整的自适应路径（对话、编码沙箱、桌面环境随时切换）。2026-07-16 登上 Product Hunt 当日 #1，斩获 689 upvotes 与 130+ 评论，被用户盛赞\"真正因材施教的 AI 导师\"。",
+      "url": "https://paradigm.study",
+      "category": "教育学习",
+      "tags": [
+        "自适应学习",
+        "PH 当日 #1",
+        "689 upvotes"
+      ],
+      "icon": "🎓",
+      "bg": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+      "tool": "Claude Code + 云沙箱",
+      "hot": 0
+    },
+    {
+      "name": "OpenSEO 开源 SEO 工作台",
+      "desc": "对标 Semrush / Ahrefs 的开源 SEO 工具：关键词研究、排名追踪、竞品分析、外链与站点审计一站搞定，并通过 MCP 让 Claude Code 等 AI 代理直接调用。2026-07 Product Hunt 当日 #2（862 upvotes），GitHub 5.8k+ star，MIT 协议可自托管、可\"vibe code\"自定义。",
+      "url": "https://openseo.so",
+      "category": "电商营销",
+      "tags": [
+        "开源 SEO",
+        "PH #2 · 862★",
+        "GitHub 5.8k+"
+      ],
+      "icon": "🔍",
+      "bg": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+      "tool": "MCP + AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Nautis 创始人 AI 操作系统",
+      "desc": "面向创始人（0→A 轮）的 AI 原生操作系统：把融资、财务、文档、会议、CRM、招聘与日常运营整合进一个共享 AI 大脑的协作空间。Product Hunt 当日 #2、当周 #4（510 upvotes），早期即获 1700+ 候补名单与 250+ 活跃用户。",
+      "url": "https://getnautis.com",
+      "category": "AI办公",
+      "tags": [
+        "创始人 OS",
+        "PH #2",
+        "1700+ 候补"
+      ],
+      "icon": "🗂️",
+      "bg": "linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%)",
+      "tool": "AI 多 Agent 系统",
+      "hot": 0
+    },
+    {
+      "name": "Fuzzy AI 潜客预热引擎",
+      "desc": "帮 GTM 团队在发出第一封冷邮件前先\"混个脸熟\"——通过内容互动与深度评论在目标客户圈层刷存在感，再自动启动个性化 LinkedIn / 邮件营销。2026-07-20 当周 Product Hunt #1（650 upvotes），由 Serena Lam 与 Bladen Lam 推出。",
+      "url": "https://getfuzzy.ai",
+      "category": "电商营销",
+      "tags": [
+        "潜客预热",
+        "PH 周榜 #1",
+        "650 upvotes"
+      ],
+      "icon": "🎯",
+      "bg": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+      "tool": "AI 销售代理",
+      "hot": 0
+    },
+    {
+      "name": "Skippr AI 实时 AI 员工",
+      "desc": "嵌入产品内的\"实时 AI 员工\"，能看屏幕、用 10 种语言对话、并自动点击填表帮用户完成引导、激活与支持。Product Hunt 当日 #5（345 upvotes），200 免费积分即可上线，2 行代码嵌入。",
+      "url": "https://skippr.ai",
+      "category": "Agent",
+      "tags": [
+        "实时 AI 员工",
+        "PH #5",
+        "345 upvotes"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #f43f5e 0%, #e11d48 100%)",
+      "tool": "实时 AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Replay QA 自动找 Bug",
+      "desc": "给 GitHub 仓库或网址即可持续测试：自主探索应用、录制每次会话、定位真实 bug，并把根因与修复建议直接喂给你的编码 Agent。Product Hunt 当日 #4（405 upvotes），由 Replay.io 团队推出。",
+      "url": "https://qa.replay.io",
+      "category": "AI工具",
+      "tags": [
+        "自动 QA",
+        "PH #4",
+        "405 upvotes"
+      ],
+      "icon": "🐞",
+      "bg": "linear-gradient(135deg, #3b82f6 0%, #2563eb 100%)",
+      "tool": "AI 测试 Agent",
+      "hot": 0
     }
   ],
   "categories": [
@@ -2422,6 +2512,11 @@
     {
       "key": "社交社区",
       "label": "社交社区",
+      "icon": "📁"
+    },
+    {
+      "key": "AI工具",
+      "label": "AI工具",
       "icon": "📁"
     }
   ]

@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-17 18:06:51
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-17 21:05:49
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（149 个条目 / 13 个分类）
+## 📑 内容导航（155 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -26,6 +26,7 @@
 - [📁 音乐音频](#cat-音乐音频)
 - [📁 医疗健康](#cat-医疗健康)
 - [📁 社交社区](#cat-社交社区)
+- [📁 AI工具](#cat-ai工具)
 
 ---
 
@@ -199,6 +200,8 @@
   标签：开源 / 多模态 / GUI Agent / 34K Star
 - [Blink - AI 代理式全栈应用构建器](https://blink.new) — 自称全球最完整的 AI 代理式全栈应用构建器，一句话描述需求即生成带真实数据库、鉴权与托管的全栈应用；Product Hunt 当日 #1（550+ upvotes）、由 YC 总裁 Garry Tan 亲自 hunt，已汇聚 100 万+ 构建者、300 万+ 应用。  
   标签：AI 构建器 / Product Hunt #1 / Garry Tan / 全栈
+- [Skippr AI 实时 AI 员工](https://skippr.ai) — 嵌入产品内的"实时 AI 员工"，能看屏幕、用 10 种语言对话、并自动点击填表帮用户完成引导、激活与支持。Product Hunt 当日 #5（345 upvotes），200 免费积分即可上线，2 行代码嵌入。  
+  标签：实时 AI 员工 / PH #5 / 345 upvotes
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -323,6 +326,8 @@
   标签：蚂蚁 / 闪应用 / 多模态 / 30秒生成
 - [Jupid - AI 会计助手](https://jupid.com) — 面向自由职业者与 LLC 的 AI 会计，基于 Claude Code MCP 自动归类收支，分类准确率 96%、平均帮用户找回 $1,249/年漏报抵扣；Product Hunt 2026-03-31 当日 #1（500+ upvotes）。  
   标签：AI 会计 / Product Hunt #1 / Claude Code MCP / 自由职业
+- [Nautis 创始人 AI 操作系统](https://getnautis.com) — 面向创始人（0→A 轮）的 AI 原生操作系统：把融资、财务、文档、会议、CRM、招聘与日常运营整合进一个共享 AI 大脑的协作空间。Product Hunt 当日 #2、当周 #4（510 upvotes），早期即获 1700+ 候补名单与 250+ 活跃用户。  
+  标签：创始人 OS / PH #2 / 1700+ 候补
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -332,6 +337,8 @@
   标签：国产 / 教育 / 中小学生 / 98%成功率
 - [Easy-Vibe (DataWhale)](https://datawhalechina.github.io/easy-vibe/zh-cn/) — DataWhale 开源的中文 Vibe Coding 教程，三阶段体系从零基础 5 分钟做第一个 AI 应用到全栈上线，GitHub 4.6k+ stars，免费系统实战。  
   标签：开源教程 / DataWhale / 零基础 / 4.6k Star
+- [Paradigm 自适应学习路径](https://paradigm.study) — 大学一年级学生 Scott Fan 自 2023 年起独立打磨的个人 AI 导师：把任意学习目标拆成随进度动态调整的自适应路径（对话、编码沙箱、桌面环境随时切换）。2026-07-16 登上 Product Hunt 当日 #1，斩获 689 upvotes 与 130+ 评论，被用户盛赞"真正因材施教的 AI 导师"。  
+  标签：自适应学习 / PH 当日 #1 / 689 upvotes
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -364,6 +371,10 @@
   标签：AI 图表 / 营销增长 / Product Hunt 537 / 数据可视化
 - [Fastlane - AI 病毒式短视频内容引擎](https://usefastlane.ai) — 把爆款视频一键改写成适合 TikTok / IG Reels / YouTube Shorts 的病毒式营销内容、滑动式排期发布的 AI 内容引擎，Product Hunt 当日 #3（346 票），已聚集 2 万+ 创作者，单个视频创下 3620 万播放。  
   标签：AI 营销 / 短视频 / Product Hunt #3 / 2万创作者
+- [OpenSEO 开源 SEO 工作台](https://openseo.so) — 对标 Semrush / Ahrefs 的开源 SEO 工具：关键词研究、排名追踪、竞品分析、外链与站点审计一站搞定，并通过 MCP 让 Claude Code 等 AI 代理直接调用。2026-07 Product Hunt 当日 #2（862 upvotes），GitHub 5.8k+ star，MIT 协议可自托管、可"vibe code"自定义。  
+  标签：开源 SEO / PH #2 · 862★ / GitHub 5.8k+
+- [Fuzzy AI 潜客预热引擎](https://getfuzzy.ai) — 帮 GTM 团队在发出第一封冷邮件前先"混个脸熟"——通过内容互动与深度评论在目标客户圈层刷存在感，再自动启动个性化 LinkedIn / 邮件营销。2026-07-20 当周 Product Hunt #1（650 upvotes），由 Serena Lam 与 Bladen Lam 推出。  
+  标签：潜客预热 / PH 周榜 #1 / 650 upvotes
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -391,6 +402,13 @@
   标签：AI Agent / 社交网络 / Product Hunt #1 / 自主协商
 - [Bitchat](https://bitchat.app) — Jack Dorsey（推特创始人）用一个周末、借助 Block 内部 AI 助手 Goose 写出的蓝牙点对点离线通讯 App——无需互联网、服务器或账号，默认端到端加密，TestFlight 上线几天内 1 万测试名额秒满，是"名人 Vibe Coding"标杆案例。开源（The Unlicense）。  
   标签：蓝牙 mesh / Jack Dorsey / 无网加密 / 开源
+
+<a id="cat-ai工具" name="cat-ai工具"></a>
+
+### 📁 AI工具
+
+- [Replay QA 自动找 Bug](https://qa.replay.io) — 给 GitHub 仓库或网址即可持续测试：自主探索应用、录制每次会话、定位真实 bug，并把根因与修复建议直接喂给你的编码 Agent。Product Hunt 当日 #4（405 upvotes），由 Replay.io 团队推出。  
+  标签：自动 QA / PH #4 / 405 upvotes
 
 
 ---
