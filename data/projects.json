@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T18:08:40.795Z",
+  "updatedAt": "2026-08-18T21:04:36.588Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -2445,6 +2445,85 @@
       "icon": "🐞",
       "bg": "linear-gradient(135deg, #3b82f6 0%, #2563eb 100%)",
       "tool": "AI 测试 Agent",
+      "hot": 0
+    },
+    {
+      "name": "AI-Job-Search - 失业物理学家用 Claude Code 写的求职框架",
+      "desc": "被裁的地球物理学家用 Claude Code 写的本地求职操作系统：自动搜岗、按匹配度评估、起草定制 CV/求职信、模拟面试。GitHub 28.8k Star、登顶 Trending #1，作者靠它 69 份申请拿下 20 个面试、最终入职 AI 工程师。MIT 开源。",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "category": "AI办公",
+      "tags": [
+        "求职",
+        "28.8k Star",
+        "Trending #1",
+        "MIT"
+      ],
+      "icon": "💼",
+      "bg": "linear-gradient(135deg, #06b6d4 0%, #3b82f6 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Agent Reach - 给 AI Agent 装上「互联网之眼」",
+      "desc": "一个人 vibe coding 三个月、GitHub 26k+ Star 的开源能力层：一句话安装即让 Claude Code / Cursor 等 Agent 免费读取 Twitter、Reddit、YouTube、B站、小红书等 17 个平台。登顶 Trendshift 每日趋势榜 #1，MIT 开源。",
+      "url": "https://github.com/Panniantong/agent-reach",
+      "category": "AI 工具",
+      "tags": [
+        "Agent 感知",
+        "26k Star",
+        "Trendshift #1",
+        "MIT"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Pazi - 像 vibe coding 一样运营你的生意",
+      "desc": "面向独立开发者的 AI 运营团队：说一句想法（一本书 / 一家店 / 一个 App），它就组建 Agent 小队，自动推进网站、首批外联、内容。Product Hunt 2026 年 7 月月榜最高票（1,004 票），定价 $29–$79/月。",
+      "url": "https://pazi.ai",
+      "category": "Agent",
+      "tags": [
+        "业务运营",
+        "PH 月榜 #1",
+        "1,004 票"
+      ],
+      "icon": "🚀",
+      "bg": "linear-gradient(135deg, #f59e0b 0%, #ef4444 100%)",
+      "tool": "AI Agent 团队",
+      "hot": 0
+    },
+    {
+      "name": "ClawTeams - 在微信/飞书/Slack 里指挥一支 AI 团队",
+      "desc": "IM 原生的 AI 员工协作平台：一句目标，AI 组长拆解任务、并行调度 30+ 专家 Agent、质检后回传聊天窗口。Product Hunt 2026-07-14 日榜 #1（716 票），已交付 1.2M+ 任务、服务 12,000+ 活跃团队。",
+      "url": "https://clawteams.ai",
+      "category": "电商营销",
+      "tags": [
+        "电商运营",
+        "PH 日榜 #1",
+        "716 票",
+        "1.2M 任务"
+      ],
+      "icon": "🤝",
+      "bg": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+      "tool": "AI Agent 团队",
+      "hot": 0
+    },
+    {
+      "name": "Superpowers - 让 AI 编码代理变成有纪律的工程师",
+      "desc": "Jesse Vincent（obra）开源的 Agentic 技能框架与方法论，强制头脑风暴→规格→TDD→两阶段审查。GitHub 86.3k Star、6.8k Fork，MIT 协议，被称为 vibe coding 时代最-starred 的开发工具之一。",
+      "url": "https://github.com/obra/superpowers",
+      "category": "AI 工具",
+      "tags": [
+        "86.3k Star",
+        "TDD",
+        "MIT",
+        "方法论框架"
+      ],
+      "icon": "🦸",
+      "bg": "linear-gradient(135deg, #f43f5e 0%, #8b5cf6 100%)",
+      "tool": "Claude Code",
       "hot": 0
     }
   ],

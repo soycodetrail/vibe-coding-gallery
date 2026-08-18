@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-18 18:08:40
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-18 21:04:36
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（155 个条目 / 14 个分类）
+## 📑 内容导航（160 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -167,6 +167,10 @@
   标签：开源 / AI Agent / Coding Agent / 57K Star
 - [DeepSeek Harness (dsh)](https://github.com/deepseek-ai/deepseek-harness) — 深度求索开源的 AI 编码「插件运行时」——把任意 MCP / 技能封装成可组合插件，号称"万物皆插件"。2026-08-13 发布后 42 小时破 10 万 Star、两天内冲到 10.6 万+ Star，刷新 GitHub 史上最快增长纪录，MIT 协议。  
   标签：开源 / GitHub 10.6万★ / MIT / 插件运行时
+- [Agent Reach - 给 AI Agent 装上「互联网之眼」](https://github.com/Panniantong/agent-reach) — 一个人 vibe coding 三个月、GitHub 26k+ Star 的开源能力层：一句话安装即让 Claude Code / Cursor 等 Agent 免费读取 Twitter、Reddit、YouTube、B站、小红书等 17 个平台。登顶 Trendshift 每日趋势榜 #1，MIT 开源。  
+  标签：Agent 感知 / 26k Star / Trendshift #1 / MIT
+- [Superpowers - 让 AI 编码代理变成有纪律的工程师](https://github.com/obra/superpowers) — Jesse Vincent（obra）开源的 Agentic 技能框架与方法论，强制头脑风暴→规格→TDD→两阶段审查。GitHub 86.3k Star、6.8k Fork，MIT 协议，被称为 vibe coding 时代最-starred 的开发工具之一。  
+  标签：86.3k Star / TDD / MIT / 方法论框架
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -202,6 +206,8 @@
   标签：AI 构建器 / Product Hunt #1 / Garry Tan / 全栈
 - [Skippr AI 实时 AI 员工](https://skippr.ai) — 嵌入产品内的"实时 AI 员工"，能看屏幕、用 10 种语言对话、并自动点击填表帮用户完成引导、激活与支持。Product Hunt 当日 #5（345 upvotes），200 免费积分即可上线，2 行代码嵌入。  
   标签：实时 AI 员工 / PH #5 / 345 upvotes
+- [Pazi - 像 vibe coding 一样运营你的生意](https://pazi.ai) — 面向独立开发者的 AI 运营团队：说一句想法（一本书 / 一家店 / 一个 App），它就组建 Agent 小队，自动推进网站、首批外联、内容。Product Hunt 2026 年 7 月月榜最高票（1,004 票），定价 $29–$79/月。  
+  标签：业务运营 / PH 月榜 #1 / 1,004 票
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -328,6 +334,8 @@
   标签：AI 会计 / Product Hunt #1 / Claude Code MCP / 自由职业
 - [Nautis 创始人 AI 操作系统](https://getnautis.com) — 面向创始人（0→A 轮）的 AI 原生操作系统：把融资、财务、文档、会议、CRM、招聘与日常运营整合进一个共享 AI 大脑的协作空间。Product Hunt 当日 #2、当周 #4（510 upvotes），早期即获 1700+ 候补名单与 250+ 活跃用户。  
   标签：创始人 OS / PH #2 / 1700+ 候补
+- [AI-Job-Search - 失业物理学家用 Claude Code 写的求职框架](https://github.com/MadsLorentzen/ai-job-search) — 被裁的地球物理学家用 Claude Code 写的本地求职操作系统：自动搜岗、按匹配度评估、起草定制 CV/求职信、模拟面试。GitHub 28.8k Star、登顶 Trending #1，作者靠它 69 份申请拿下 20 个面试、最终入职 AI 工程师。MIT 开源。  
+  标签：求职 / 28.8k Star / Trending #1 / MIT
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -375,6 +383,8 @@
   标签：开源 SEO / PH #2 · 862★ / GitHub 5.8k+
 - [Fuzzy AI 潜客预热引擎](https://getfuzzy.ai) — 帮 GTM 团队在发出第一封冷邮件前先"混个脸熟"——通过内容互动与深度评论在目标客户圈层刷存在感，再自动启动个性化 LinkedIn / 邮件营销。2026-07-20 当周 Product Hunt #1（650 upvotes），由 Serena Lam 与 Bladen Lam 推出。  
   标签：潜客预热 / PH 周榜 #1 / 650 upvotes
+- [ClawTeams - 在微信/飞书/Slack 里指挥一支 AI 团队](https://clawteams.ai) — IM 原生的 AI 员工协作平台：一句目标，AI 组长拆解任务、并行调度 30+ 专家 Agent、质检后回传聊天窗口。Product Hunt 2026-07-14 日榜 #1（716 票），已交付 1.2M+ 任务、服务 12,000+ 活跃团队。  
+  标签：电商运营 / PH 日榜 #1 / 716 票 / 1.2M 任务
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
