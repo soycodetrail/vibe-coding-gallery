@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T19:08:07.674Z",
+  "updatedAt": "2026-08-19T21:06:47.637Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -2524,6 +2524,102 @@
       "icon": "🦸",
       "bg": "linear-gradient(135deg, #f43f5e 0%, #8b5cf6 100%)",
       "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Cal AI - 拍照算热量的减肥神器",
+      "desc": "两个 18 岁高中生用 AI 写的卡路里识别 App：拍照/扫码即出热量与营养，8 个月破 500 万下载、单月营收 $200 万、App Store 4.8★（超 27 万评价），TechCrunch 专题报道的「Z 世代 vibe coding 逆袭」代表作。",
+      "url": "https://www.calai.app/",
+      "category": "医疗健康",
+      "tags": [
+        "500万下载",
+        "$200万月营收",
+        "4.8★",
+        "Z世代"
+      ],
+      "icon": "🍎",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "AI 图像识别 + Anthropic/OpenAI 模型",
+      "hot": 0
+    },
+    {
+      "name": "Cherry Studio - 开源多模型桌面 AI 客户端",
+      "desc": "聚合 50+ 大模型（OpenAI/Claude/Gemini/本地 Ollama）与 300+ 智能体、知识库、MCP 工具的统一桌面工作台，GitHub 5 万+ Star、AGPL-3.0 开源，被全球开发者评为「最值得下载的免费 AI 客户端」。",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "category": "AI 工具",
+      "tags": [
+        "5万+ Star",
+        "AGPL 开源",
+        "多模型聚合",
+        "300+ 助手"
+      ],
+      "icon": "🍒",
+      "bg": "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)",
+      "tool": "开源社区共建",
+      "hot": 0
+    },
+    {
+      "name": "OpenDesign - 开源 Claude Design 替代品",
+      "desc": "本地优先的开源桌面设计引擎：让 Claude Code / Codex / Cursor / DeepSeek Harness 等编码代理直接生成原型、落地页、幻灯片、图片与视频，并导出 HTML/PDF/PPTX/MP4。GitHub 3 万+ Star，被誉为「开源版 Claude Design」。",
+      "url": "https://github.com/nexu-io/open-design",
+      "category": "设计创意",
+      "tags": [
+        "3万+ Star",
+        "开源设计引擎",
+        "BYOK",
+        "多格式导出"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #ee0979 0%, #ff6a00 100%)",
+      "tool": "DeepSeek Harness / Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Claude Cowork - Anthropic 的桌面级 AI 同事",
+      "desc": "Anthropic 2026 年 1 月推出的「代理型」AI 办公助手：授权文件夹后自主读/改/建文件、跑定时任务、跨 Telegram/Discord 远程派活，把 Claude 从聊天框变成能真正干活的数字化同事。Product Hunt 当日 835 票，从 Max 订阅扩展到 Pro/Team/Enterprise。",
+      "url": "https://claude.com/product/cowork",
+      "category": "AI办公",
+      "tags": [
+        "PH 835票",
+        "Anthropic 官方",
+        "代理型办公",
+        "定时任务"
+      ],
+      "icon": "🤝",
+      "bg": "linear-gradient(135deg, #00c6ff 0%, #0072ff 100%)",
+      "tool": "Claude (Anthropic)",
+      "hot": 0
+    },
+    {
+      "name": "Moltbot - 开源自托管的「龙虾」个人 AI 助手",
+      "desc": "原名 Clawdbot（2026 年初因商标更名）的开源个人 AI 助手：在你已用的 WhatsApp/Telegram/Discord 里发句话，家里的电脑就自动清邮箱、管日程、控智能家居、跑脚本。GitHub 6 万+ Star、MIT 开源，565+ 社区技能。",
+      "url": "https://github.com/moltbot/moltbot",
+      "category": "Agent",
+      "tags": [
+        "6万+ Star",
+        "MIT 开源",
+        "自托管",
+        "50+ 集成"
+      ],
+      "icon": "🦞",
+      "bg": "linear-gradient(135deg, #f12711 0%, #f5af19 100%)",
+      "tool": "Claude / GPT / 本地模型",
+      "hot": 0
+    },
+    {
+      "name": "PostSyncer - AI 一站式多平台社媒运营中枢",
+      "desc": "面向创作者与团队的多平台社媒工作台：一处连接 11+ 平台、用 Sora/Veo 等 AI 生成图文短视频、统一收件箱自动回复。Product Hunt 当日 #1（680 票），已被 23,000+ 创作者日常使用。",
+      "url": "https://postsyncer.com/",
+      "category": "社交社区",
+      "tags": [
+        "PH 日榜 #1",
+        "680 票",
+        "23K+ 创作者",
+        "11+ 平台"
+      ],
+      "icon": "📡",
+      "bg": "linear-gradient(135deg, #c471f5 0%, #fa71cd 100%)",
+      "tool": "AI Studio + MCP",
       "hot": 0
     }
   ],

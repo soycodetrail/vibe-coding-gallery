@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-19 19:08:07
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-19 21:06:47
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（160 个条目 / 14 个分类）
+## 📑 内容导航（166 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -171,6 +171,8 @@
   标签：Agent 感知 / 26k Star / Trendshift #1 / MIT
 - [Superpowers - 让 AI 编码代理变成有纪律的工程师](https://github.com/obra/superpowers) — Jesse Vincent（obra）开源的 Agentic 技能框架与方法论，强制头脑风暴→规格→TDD→两阶段审查。GitHub 86.3k Star、6.8k Fork，MIT 协议，被称为 vibe coding 时代最-starred 的开发工具之一。  
   标签：86.3k Star / TDD / MIT / 方法论框架
+- [Cherry Studio - 开源多模型桌面 AI 客户端](https://github.com/CherryHQ/cherry-studio) — 聚合 50+ 大模型（OpenAI/Claude/Gemini/本地 Ollama）与 300+ 智能体、知识库、MCP 工具的统一桌面工作台，GitHub 5 万+ Star、AGPL-3.0 开源，被全球开发者评为「最值得下载的免费 AI 客户端」。  
+  标签：5万+ Star / AGPL 开源 / 多模型聚合 / 300+ 助手
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -208,6 +210,8 @@
   标签：实时 AI 员工 / PH #5 / 345 upvotes
 - [Pazi - 像 vibe coding 一样运营你的生意](https://pazi.ai) — 面向独立开发者的 AI 运营团队：说一句想法（一本书 / 一家店 / 一个 App），它就组建 Agent 小队，自动推进网站、首批外联、内容。Product Hunt 2026 年 7 月月榜最高票（1,004 票），定价 $29–$79/月。  
   标签：业务运营 / PH 月榜 #1 / 1,004 票
+- [Moltbot - 开源自托管的「龙虾」个人 AI 助手](https://github.com/moltbot/moltbot) — 原名 Clawdbot（2026 年初因商标更名）的开源个人 AI 助手：在你已用的 WhatsApp/Telegram/Discord 里发句话，家里的电脑就自动清邮箱、管日程、控智能家居、跑脚本。GitHub 6 万+ Star、MIT 开源，565+ 社区技能。  
+  标签：6万+ Star / MIT 开源 / 自托管 / 50+ 集成
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -336,6 +340,8 @@
   标签：创始人 OS / PH #2 / 1700+ 候补
 - [AI-Job-Search - 失业物理学家用 Claude Code 写的求职框架](https://github.com/MadsLorentzen/ai-job-search) — 被裁的地球物理学家用 Claude Code 写的本地求职操作系统：自动搜岗、按匹配度评估、起草定制 CV/求职信、模拟面试。GitHub 28.8k Star、登顶 Trending #1，作者靠它 69 份申请拿下 20 个面试、最终入职 AI 工程师。MIT 开源。  
   标签：求职 / 28.8k Star / Trending #1 / MIT
+- [Claude Cowork - Anthropic 的桌面级 AI 同事](https://claude.com/product/cowork) — Anthropic 2026 年 1 月推出的「代理型」AI 办公助手：授权文件夹后自主读/改/建文件、跑定时任务、跨 Telegram/Discord 远程派活，把 Claude 从聊天框变成能真正干活的数字化同事。Product Hunt 当日 835 票，从 Max 订阅扩展到 Pro/Team/Enterprise。  
+  标签：PH 835票 / Anthropic 官方 / 代理型办公 / 定时任务
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -366,6 +372,8 @@
   标签：AI 设计 / 设计到代码 / Product Hunt #3 / React/Tailwind
 - [GlowUp](https://zipoapps.com/glowupmakeupios/) — Louis-David Paul-Hus 用 FlutterFlow 无代码工具做出的 AI 美妆 App，帮用户虚拟试妆，上线首年营收约 80 万美金、累计 50 万+ 用户，是"非技术创始人也能做出爆款"的典型 Vibe Coding 故事。  
   标签：美妆 App / $80万美金收入 / 50万+用户 / 无代码
+- [OpenDesign - 开源 Claude Design 替代品](https://github.com/nexu-io/open-design) — 本地优先的开源桌面设计引擎：让 Claude Code / Codex / Cursor / DeepSeek Harness 等编码代理直接生成原型、落地页、幻灯片、图片与视频，并导出 HTML/PDF/PPTX/MP4。GitHub 3 万+ Star，被誉为「开源版 Claude Design」。  
+  标签：3万+ Star / 开源设计引擎 / BYOK / 多格式导出
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -401,6 +409,8 @@
 
 - [postvisit.ai - AI 诊后随访](https://postvisit.ai/) — 一位心内科医生用 Vibe Coding 做出的诊后随访助手，自动整理就医记录、提醒复查用药，入围 Anthropic 黑客松前三（约 1.3 万申请人中胜出）。  
   标签：医疗 / 诊后随访 / 医生自研 / 黑客松前三
+- [Cal AI - 拍照算热量的减肥神器](https://www.calai.app/) — 两个 18 岁高中生用 AI 写的卡路里识别 App：拍照/扫码即出热量与营养，8 个月破 500 万下载、单月营收 $200 万、App Store 4.8★（超 27 万评价），TechCrunch 专题报道的「Z 世代 vibe coding 逆袭」代表作。  
+  标签：500万下载 / $200万月营收 / 4.8★ / Z世代
 
 <a id="cat-社交社区" name="cat-社交社区"></a>
 
@@ -412,6 +422,8 @@
   标签：AI Agent / 社交网络 / Product Hunt #1 / 自主协商
 - [Bitchat](https://bitchat.app) — Jack Dorsey（推特创始人）用一个周末、借助 Block 内部 AI 助手 Goose 写出的蓝牙点对点离线通讯 App——无需互联网、服务器或账号，默认端到端加密，TestFlight 上线几天内 1 万测试名额秒满，是"名人 Vibe Coding"标杆案例。开源（The Unlicense）。  
   标签：蓝牙 mesh / Jack Dorsey / 无网加密 / 开源
+- [PostSyncer - AI 一站式多平台社媒运营中枢](https://postsyncer.com/) — 面向创作者与团队的多平台社媒工作台：一处连接 11+ 平台、用 Sora/Veo 等 AI 生成图文短视频、统一收件箱自动回复。Product Hunt 当日 #1（680 票），已被 23,000+ 创作者日常使用。  
+  标签：PH 日榜 #1 / 680 票 / 23K+ 创作者 / 11+ 平台
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 
