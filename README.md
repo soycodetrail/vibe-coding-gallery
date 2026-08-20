@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-20 18:28:27
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-20 21:04:24
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（166 个条目 / 14 个分类）
+## 📑 内容导航（171 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -173,6 +173,8 @@
   标签：86.3k Star / TDD / MIT / 方法论框架
 - [Cherry Studio - 开源多模型桌面 AI 客户端](https://github.com/CherryHQ/cherry-studio) — 聚合 50+ 大模型（OpenAI/Claude/Gemini/本地 Ollama）与 300+ 智能体、知识库、MCP 工具的统一桌面工作台，GitHub 5 万+ Star、AGPL-3.0 开源，被全球开发者评为「最值得下载的免费 AI 客户端」。  
   标签：5万+ Star / AGPL 开源 / 多模型聚合 / 300+ 助手
+- [ECC - 24 万 Star 的开源 AI 编码 Agent 框架](https://github.com/affaan-m/ECC) — affaan-m 开源的 AI 编码 Agent 性能优化系统（Skills / 本能 / 记忆 / 安全 / 研究优先），可作用于 Claude Code、Codex、OpenCode、Cursor 等主流工具。GitHub 24.1 万+ Star、Trendshift 2026 年度趋势榜新晋爆款，是「超级个体」用 AI 提效的标配 harness。  
+  标签：24万+ Star / 开源 Agent 框架 / Claude Code 优化 / Skills 系统
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -314,6 +316,10 @@
   标签：AI 恐怖 ARG / 43万+访客 / 零基础 / 单人开发
 - [青椒模拟器](https://tenure.hqzhou.com/) — 苏州大学两名博士生用 AI 辅助编程两周做出的校园生活模拟器，玩家扮演青椒（青年教师）体验科研与教学日常，日活 9 万+、同时在线 2000+，一度因流量过大被限流，是高校圈现象级 Vibe Coding 作品。  
   标签：校园模拟 / 9万 DAU / 博士生 / 现象级
+- [Dialed - 父子 vibe coding 的爆款记忆游戏合集](https://dialed.gg) — 产品设计师 Geoff Teehan 与 23 岁儿子 Sam 用 Claude + Cursor 一个周末手搓的记忆小游戏合集（Color / Sound / Time / Shape / Color2）。靠 XQC 等主播带火，全系列累计 2600 万+ 次完成游玩、覆盖 239 个国家、零付费投放，月营收已达「低几万美金」。  
+  标签：2600万+ 游玩 / 239 国家 / viral 记忆游戏 / 父子共创
+- [World of ClaudeCraft - 开源浏览器 MMORPG](https://worldofclaudecraft.com) — 新西兰 Levy Street 用 Anthropic Claude Fable 5 一个周末 vibe coding 出的免费浏览器 MMORPG（9 职业 / 3 区域 / 90 任务），MIT 开源、GitHub 2.1K+ Star，已被创建 72,289 个角色，获 GlobeNewswire 报道与 a16z 合伙人盛赞「功能惊人完整」。  
+  标签：开源 MMORPG / 2.1K Star / 72K 角色 / Claude Fable 5
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -393,6 +399,10 @@
   标签：潜客预热 / PH 周榜 #1 / 650 upvotes
 - [ClawTeams - 在微信/飞书/Slack 里指挥一支 AI 团队](https://clawteams.ai) — IM 原生的 AI 员工协作平台：一句目标，AI 组长拆解任务、并行调度 30+ 专家 Agent、质检后回传聊天窗口。Product Hunt 2026-07-14 日榜 #1（716 票），已交付 1.2M+ 任务、服务 12,000+ 活跃团队。  
   标签：电商运营 / PH 日榜 #1 / 716 票 / 1.2M 任务
+- [Brila - 用 Google 评论一键生成落地页](https://brila.ai) — 华人团队做的「内容优先」AI 建站工具：贴一个 Google Maps 链接，自动抓取真实评论与照片，用 Jobs to Be Done 方法论生成带真实语气的一页式落地页。Product Hunt 2026-04 月度最高票 1,288 票登顶日榜，专为本地商家解决「套壳建站」痛点。  
+  标签：PH 日榜 #1 / 1288 票 / Google 评论建站 / 本地商家
+- [StoreClaw - 登顶 PH 的电商 AI 增长引擎](https://storeclaw.ai) — 面向电商的 AI 增长引擎（Agentic Commerce）：连接 Shopify / Amazon 后自主诊断店铺、优化 Listing、跑邮件与广告，人工审批后执行。接连斩获 Product Hunt 2026-05「日榜第一」与「周榜第一」，帮 DTC 品牌把自然流量提升 142%、CAC 降低 57%。  
+  标签：PH 日榜+周榜 #1 / Agentic Commerce / 电商增长引擎 / Shopify/Amazon
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 

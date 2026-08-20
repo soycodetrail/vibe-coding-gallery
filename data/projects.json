@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:28:27.203Z",
+  "updatedAt": "2026-08-20T21:04:24.767Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -2620,6 +2620,86 @@
       "icon": "📡",
       "bg": "linear-gradient(135deg, #c471f5 0%, #fa71cd 100%)",
       "tool": "AI Studio + MCP",
+      "hot": 0
+    },
+    {
+      "name": "Dialed - 父子 vibe coding 的爆款记忆游戏合集",
+      "desc": "产品设计师 Geoff Teehan 与 23 岁儿子 Sam 用 Claude + Cursor 一个周末手搓的记忆小游戏合集（Color / Sound / Time / Shape / Color2）。靠 XQC 等主播带火，全系列累计 2600 万+ 次完成游玩、覆盖 239 个国家、零付费投放，月营收已达「低几万美金」。",
+      "url": "https://dialed.gg",
+      "category": "游戏",
+      "tags": [
+        "2600万+ 游玩",
+        "239 国家",
+        "viral 记忆游戏",
+        "父子共创"
+      ],
+      "icon": "🎮",
+      "bg": "linear-gradient(135deg, #ff512f 0%, #dd2476 100%)",
+      "tool": "Claude + Cursor",
+      "hot": 0
+    },
+    {
+      "name": "World of ClaudeCraft - 开源浏览器 MMORPG",
+      "desc": "新西兰 Levy Street 用 Anthropic Claude Fable 5 一个周末 vibe coding 出的免费浏览器 MMORPG（9 职业 / 3 区域 / 90 任务），MIT 开源、GitHub 2.1K+ Star，已被创建 72,289 个角色，获 GlobeNewswire 报道与 a16z 合伙人盛赞「功能惊人完整」。",
+      "url": "https://worldofclaudecraft.com",
+      "category": "游戏",
+      "tags": [
+        "开源 MMORPG",
+        "2.1K Star",
+        "72K 角色",
+        "Claude Fable 5"
+      ],
+      "icon": "🗡️",
+      "bg": "linear-gradient(135deg, #1a2980 0%, #26d0ce 100%)",
+      "tool": "Claude (Anthropic)",
+      "hot": 0
+    },
+    {
+      "name": "Brila - 用 Google 评论一键生成落地页",
+      "desc": "华人团队做的「内容优先」AI 建站工具：贴一个 Google Maps 链接，自动抓取真实评论与照片，用 Jobs to Be Done 方法论生成带真实语气的一页式落地页。Product Hunt 2026-04 月度最高票 1,288 票登顶日榜，专为本地商家解决「套壳建站」痛点。",
+      "url": "https://brila.ai",
+      "category": "电商营销",
+      "tags": [
+        "PH 日榜 #1",
+        "1288 票",
+        "Google 评论建站",
+        "本地商家"
+      ],
+      "icon": "🏪",
+      "bg": "linear-gradient(135deg, #c94b4b 0%, #4b134f 100%)",
+      "tool": "AI 内容生成系统",
+      "hot": 0
+    },
+    {
+      "name": "StoreClaw - 登顶 PH 的电商 AI 增长引擎",
+      "desc": "面向电商的 AI 增长引擎（Agentic Commerce）：连接 Shopify / Amazon 后自主诊断店铺、优化 Listing、跑邮件与广告，人工审批后执行。接连斩获 Product Hunt 2026-05「日榜第一」与「周榜第一」，帮 DTC 品牌把自然流量提升 142%、CAC 降低 57%。",
+      "url": "https://storeclaw.ai",
+      "category": "电商营销",
+      "tags": [
+        "PH 日榜+周榜 #1",
+        "Agentic Commerce",
+        "电商增长引擎",
+        "Shopify/Amazon"
+      ],
+      "icon": "🛒",
+      "bg": "linear-gradient(135deg, #fc5c7d 0%, #6a82fb 100%)",
+      "tool": "AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "ECC - 24 万 Star 的开源 AI 编码 Agent 框架",
+      "desc": "affaan-m 开源的 AI 编码 Agent 性能优化系统（Skills / 本能 / 记忆 / 安全 / 研究优先），可作用于 Claude Code、Codex、OpenCode、Cursor 等主流工具。GitHub 24.1 万+ Star、Trendshift 2026 年度趋势榜新晋爆款，是「超级个体」用 AI 提效的标配 harness。",
+      "url": "https://github.com/affaan-m/ECC",
+      "category": "AI 工具",
+      "tags": [
+        "24万+ Star",
+        "开源 Agent 框架",
+        "Claude Code 优化",
+        "Skills 系统"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #8e2de2 0%, #4a00e0 100%)",
+      "tool": "Claude Code / Cursor",
       "hot": 0
     }
   ],
