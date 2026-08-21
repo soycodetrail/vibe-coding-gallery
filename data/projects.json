@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:20:52.544Z",
+  "updatedAt": "2026-08-21T21:08:55.752Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -2700,6 +2700,86 @@
       "icon": "🤖",
       "bg": "linear-gradient(135deg, #8e2de2 0%, #4a00e0 100%)",
       "tool": "Claude Code / Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Agency Agents - 14 万+ Star 的开源全栈 AI 团队",
+      "desc": "msitarzewski 开源的预制 AI 角色库：前端向导、社区运营、创意注入等数十个自带人格与可交付物的 Agent，让独立开发者一个人扛起「产品+内容+社区」。GitHub 14.7 万+ Star、1.9 万+ Fork，2026 年 Agent 浪潮断层第一。",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "category": "Agent",
+      "tags": [
+        "14.7万+ Star",
+        "开源 AI 团队",
+        "预制 Agent 角色",
+        "独立开发者"
+      ],
+      "icon": "👥",
+      "bg": "linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%)",
+      "tool": "AI Agent 框架",
+      "hot": 0
+    },
+    {
+      "name": "Vibe-Trading - 港大开源的「一句话量化交易」Agent",
+      "desc": "香港大学数据科学实验室（HKUDS）开源的个人 AI 交易 Agent：用自然语言描述策略，自动拉数据、写回测、出报告（K 线/热力图/风险指标），内置 29 个多 Agent 投研团队。GitHub 3.1 万+ Star，2026 年 GitHub Trending 金融量化标杆。",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "category": "金融财经",
+      "tags": [
+        "3.1万+ Star",
+        "港大数据科学实验室",
+        "自然语言量化",
+        "多 Agent 投研"
+      ],
+      "icon": "📈",
+      "bg": "linear-gradient(135deg, #059669 0%, #0d9488 100%)",
+      "tool": "AI 量化 Agent",
+      "hot": 0
+    },
+    {
+      "name": "Graphify - 把代码库变成知识图谱的 Claude Code 技能",
+      "desc": "Graphify Labs（YC S26）开源的 /graphify 技能：用 tree-sitter 在本地把任意代码库、文档、SQL 解析成可遍历的知识图谱，让 AI 助手「查询而非 grep」，实测少耗 71× token。GitHub 10.9 万+ Star、覆盖 36 种语言、Apache-2.0。",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "category": "AI 工具",
+      "tags": [
+        "10.9万+ Star",
+        "YC S26",
+        "代码知识图谱",
+        "本地离线解析"
+      ],
+      "icon": "🕸️",
+      "bg": "linear-gradient(135deg, #14b8a6 0%, #3b82f6 100%)",
+      "tool": "Claude Code 技能",
+      "hot": 0
+    },
+    {
+      "name": "Video-Use - 让 AI 像人一样操作软件剪视频",
+      "desc": "browser-use 出品的开源 AI 视频剪辑：用自然语言指挥 Agent 像人一样操作剪辑软件，自动完成素材整理、时间线编辑与导出，把「用代码剪视频」变成现实。GitHub 2.1 万+ Star。",
+      "url": "https://github.com/browser-use/video-use",
+      "category": "设计创意",
+      "tags": [
+        "2.1万+ Star",
+        "AI 视频剪辑",
+        "自然语言操作",
+        "browser-use 出品"
+      ],
+      "icon": "🎬",
+      "bg": "linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%)",
+      "tool": "AI 视频编辑",
+      "hot": 0
+    },
+    {
+      "name": "AgentMemory - 给 AI 编程 Agent 装上持久化记忆",
+      "desc": "rohitg00 开源的持久化记忆层：通过 12 个生命周期钩子自动捕获 Agent 操作，压缩成可搜索的结构化记忆，跨会话注入上下文；LongMemEval-S 召回 95.2%、省 92% token。GitHub 2.7 万+ Star、Product Hunt 当日 #2。",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "category": "AI 工具",
+      "tags": [
+        "2.7万+ Star",
+        "PH 当日 #2",
+        "跨会话记忆",
+        "零外部数据库"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #3b82f6 0%, #06b6d4 100%)",
+      "tool": "MCP 记忆层",
       "hot": 0
     }
   ],

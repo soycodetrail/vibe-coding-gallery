@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-21 18:20:52
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-21 21:08:55
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（171 个条目 / 14 个分类）
+## 📑 内容导航（176 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -175,6 +175,10 @@
   标签：5万+ Star / AGPL 开源 / 多模型聚合 / 300+ 助手
 - [ECC - 24 万 Star 的开源 AI 编码 Agent 框架](https://github.com/affaan-m/ECC) — affaan-m 开源的 AI 编码 Agent 性能优化系统（Skills / 本能 / 记忆 / 安全 / 研究优先），可作用于 Claude Code、Codex、OpenCode、Cursor 等主流工具。GitHub 24.1 万+ Star、Trendshift 2026 年度趋势榜新晋爆款，是「超级个体」用 AI 提效的标配 harness。  
   标签：24万+ Star / 开源 Agent 框架 / Claude Code 优化 / Skills 系统
+- [Graphify - 把代码库变成知识图谱的 Claude Code 技能](https://github.com/Graphify-Labs/graphify) — Graphify Labs（YC S26）开源的 /graphify 技能：用 tree-sitter 在本地把任意代码库、文档、SQL 解析成可遍历的知识图谱，让 AI 助手「查询而非 grep」，实测少耗 71× token。GitHub 10.9 万+ Star、覆盖 36 种语言、Apache-2.0。  
+  标签：10.9万+ Star / YC S26 / 代码知识图谱 / 本地离线解析
+- [AgentMemory - 给 AI 编程 Agent 装上持久化记忆](https://github.com/rohitg00/agentmemory) — rohitg00 开源的持久化记忆层：通过 12 个生命周期钩子自动捕获 Agent 操作，压缩成可搜索的结构化记忆，跨会话注入上下文；LongMemEval-S 召回 95.2%、省 92% token。GitHub 2.7 万+ Star、Product Hunt 当日 #2。  
+  标签：2.7万+ Star / PH 当日 #2 / 跨会话记忆 / 零外部数据库
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -214,6 +218,8 @@
   标签：业务运营 / PH 月榜 #1 / 1,004 票
 - [Moltbot - 开源自托管的「龙虾」个人 AI 助手](https://github.com/moltbot/moltbot) — 原名 Clawdbot（2026 年初因商标更名）的开源个人 AI 助手：在你已用的 WhatsApp/Telegram/Discord 里发句话，家里的电脑就自动清邮箱、管日程、控智能家居、跑脚本。GitHub 6 万+ Star、MIT 开源，565+ 社区技能。  
   标签：6万+ Star / MIT 开源 / 自托管 / 50+ 集成
+- [Agency Agents - 14 万+ Star 的开源全栈 AI 团队](https://github.com/msitarzewski/agency-agents) — msitarzewski 开源的预制 AI 角色库：前端向导、社区运营、创意注入等数十个自带人格与可交付物的 Agent，让独立开发者一个人扛起「产品+内容+社区」。GitHub 14.7 万+ Star、1.9 万+ Fork，2026 年 Agent 浪潮断层第一。  
+  标签：14.7万+ Star / 开源 AI 团队 / 预制 Agent 角色 / 独立开发者
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -329,6 +335,8 @@
   标签：一人公司 / 垂类投研 / AI Agent / OPC 金奖
 - [Dash Investing Intelligence](https://dashinvest.app/) — AI 投资情报与分析平台，把研报、行情与新闻聚合为可对话的投资洞察，帮个人投资者用自然语言做尽调与决策。  
   标签：投资 / AI分析 / 研报 / 决策
+- [Vibe-Trading - 港大开源的「一句话量化交易」Agent](https://github.com/HKUDS/Vibe-Trading) — 香港大学数据科学实验室（HKUDS）开源的个人 AI 交易 Agent：用自然语言描述策略，自动拉数据、写回测、出报告（K 线/热力图/风险指标），内置 29 个多 Agent 投研团队。GitHub 3.1 万+ Star，2026 年 GitHub Trending 金融量化标杆。  
+  标签：3.1万+ Star / 港大数据科学实验室 / 自然语言量化 / 多 Agent 投研
 
 <a id="cat-ai办公" name="cat-ai办公"></a>
 
@@ -380,6 +388,8 @@
   标签：美妆 App / $80万美金收入 / 50万+用户 / 无代码
 - [OpenDesign - 开源 Claude Design 替代品](https://github.com/nexu-io/open-design) — 本地优先的开源桌面设计引擎：让 Claude Code / Codex / Cursor / DeepSeek Harness 等编码代理直接生成原型、落地页、幻灯片、图片与视频，并导出 HTML/PDF/PPTX/MP4。GitHub 3 万+ Star，被誉为「开源版 Claude Design」。  
   标签：3万+ Star / 开源设计引擎 / BYOK / 多格式导出
+- [Video-Use - 让 AI 像人一样操作软件剪视频](https://github.com/browser-use/video-use) — browser-use 出品的开源 AI 视频剪辑：用自然语言指挥 Agent 像人一样操作剪辑软件，自动完成素材整理、时间线编辑与导出，把「用代码剪视频」变成现实。GitHub 2.1 万+ Star。  
+  标签：2.1万+ Star / AI 视频剪辑 / 自然语言操作 / browser-use 出品
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
