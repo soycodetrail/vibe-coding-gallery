@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T04:24:30.966Z",
+  "updatedAt": "2026-08-23T03:04:17.684Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -2780,6 +2780,86 @@
       "icon": "🧠",
       "bg": "linear-gradient(135deg, #3b82f6 0%, #06b6d4 100%)",
       "tool": "MCP 记忆层",
+      "hot": 0
+    },
+    {
+      "name": "Qwen-Code - 阿里通义千问开源终端 AI 编码智能体",
+      "desc": "阿里通义千问团队开源的终端 AI 编码智能体，与 Qwen3-Coder 模型同源共生、Apache-2.0 协议；内置 Auto-Memory / SubAgents / Agent Teams / MCP，支持 OpenAI·Anthropic·Gemini·Qwen 多模型运行时切换，并延伸至 IDE、桌面端与 Telegram/钉钉/飞书机器人。GitHub 2.7 万+ Star，是国产开源编码 Agent 的标杆之作。",
+      "url": "https://github.com/QwenLM/Qwen-Code",
+      "category": "AI 工具",
+      "tags": [
+        "开源",
+        "2.7万+ Star",
+        "Apache-2.0",
+        "终端 Agent"
+      ],
+      "icon": "💻",
+      "bg": "linear-gradient(135deg, #0F2027 0%, #2C5364 100%)",
+      "tool": "Qwen Code",
+      "hot": 0
+    },
+    {
+      "name": "Open Vibe - Wasp 团队开源的「AI 导师」",
+      "desc": "Wasp 团队开源的「AI 导师」：把 Claude Code / Codex / Cursor 等 Agent 变成边建边教的生产级 SaaS 教练，配套 Open SaaS 模板与交互式架构图解，100% 免费、MIT 协议。Product Hunt 当日 #2（2026-05-12），专治「不懂也能发布」的 Vibe Coding 踩坑症。",
+      "url": "https://openvibe.sh",
+      "category": "教育学习",
+      "tags": [
+        "开源",
+        "PH 当日 #2",
+        "AI 导师",
+        "MIT"
+      ],
+      "icon": "🎓",
+      "bg": "linear-gradient(135deg, #5F2C82 0%, #49A09D 100%)",
+      "tool": "Open Vibe / Wasp",
+      "hot": 0
+    },
+    {
+      "name": "CraftBot with Living UI - 会自己造软件的自托管 Agent",
+      "desc": "CraftOS 开源的自托管主动式 AI Agent（MIT），首创「Living UI」：Agent 在自己内部构建、演进并直接操作你定制的 App / 仪表盘 / CRM；内置 40+ 角色、170+ 技能、150+ MCP。Product Hunt 当日 #3（2026-05-13，261 票），把「软件随你生长」变成现实。",
+      "url": "https://craftbot.live",
+      "category": "Agent",
+      "tags": [
+        "开源",
+        "PH 当日 #3",
+        "Living UI",
+        "MIT"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #1D976C 0%, #93F9B9 100%)",
+      "tool": "CraftBot",
+      "hot": 0
+    },
+    {
+      "name": "Glaze by Raycast - 一句话生成原生 Mac App",
+      "desc": "Raycast（YC W20、$47.8M 融资）推出的原生 Mac App 生成器：用一句话描述，AI 直接规划架构、写代码、经 Xcode 编译出真实 .app，常驻 Dock、离线可用、拥有完整系统级权限。Product Hunt 当日 #1（2026-07-03，574 票），重新定义「为你而生的个人软件」。",
+      "url": "https://www.raycast.com/glaze",
+      "category": "设计创意",
+      "tags": [
+        "PH 当日 #1",
+        "原生 Mac App",
+        "Raycast",
+        "574 票"
+      ],
+      "icon": "💠",
+      "bg": "linear-gradient(135deg, #C33764 0%, #1D2671 100%)",
+      "tool": "Raycast Glaze",
+      "hot": 0
+    },
+    {
+      "name": "Acti - 世界首个「Agentic 键盘」",
+      "desc": "TypeX 出品的世界首个「Agentic 键盘」：在任何 App 的输入框里长按 Acti Bar，键盘直接把意图变成结果 / 链接 / 操作（查赛程、拉 Notion、建会议链接），还能把任意按键绑成自定义技能。Product Hunt 当日 #1、Android 10 万+ 下载，把 AI Agent 放进了你打字的地方。",
+      "url": "https://openacti.com",
+      "category": "效率工具",
+      "tags": [
+        "PH 当日 #1",
+        "Agentic 键盘",
+        "10万+ 下载",
+        "iOS/Android"
+      ],
+      "icon": "⌨️",
+      "bg": "linear-gradient(135deg, #FF416C 0%, #FF4B2B 100%)",
+      "tool": "Acti",
       "hot": 0
     }
   ],

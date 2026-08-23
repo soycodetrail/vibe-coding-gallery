@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-22 04:24:30
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-23 03:04:17
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（176 个条目 / 14 个分类）
+## 📑 内容导航（181 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -179,6 +179,8 @@
   标签：10.9万+ Star / YC S26 / 代码知识图谱 / 本地离线解析
 - [AgentMemory - 给 AI 编程 Agent 装上持久化记忆](https://github.com/rohitg00/agentmemory) — rohitg00 开源的持久化记忆层：通过 12 个生命周期钩子自动捕获 Agent 操作，压缩成可搜索的结构化记忆，跨会话注入上下文；LongMemEval-S 召回 95.2%、省 92% token。GitHub 2.7 万+ Star、Product Hunt 当日 #2。  
   标签：2.7万+ Star / PH 当日 #2 / 跨会话记忆 / 零外部数据库
+- [Qwen-Code - 阿里通义千问开源终端 AI 编码智能体](https://github.com/QwenLM/Qwen-Code) — 阿里通义千问团队开源的终端 AI 编码智能体，与 Qwen3-Coder 模型同源共生、Apache-2.0 协议；内置 Auto-Memory / SubAgents / Agent Teams / MCP，支持 OpenAI·Anthropic·Gemini·Qwen 多模型运行时切换，并延伸至 IDE、桌面端与 Telegram/钉钉/飞书机器人。GitHub 2.7 万+ Star，是国产开源编码 Agent 的标杆之作。  
+  标签：开源 / 2.7万+ Star / Apache-2.0 / 终端 Agent
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -220,6 +222,8 @@
   标签：6万+ Star / MIT 开源 / 自托管 / 50+ 集成
 - [Agency Agents - 14 万+ Star 的开源全栈 AI 团队](https://github.com/msitarzewski/agency-agents) — msitarzewski 开源的预制 AI 角色库：前端向导、社区运营、创意注入等数十个自带人格与可交付物的 Agent，让独立开发者一个人扛起「产品+内容+社区」。GitHub 14.7 万+ Star、1.9 万+ Fork，2026 年 Agent 浪潮断层第一。  
   标签：14.7万+ Star / 开源 AI 团队 / 预制 Agent 角色 / 独立开发者
+- [CraftBot with Living UI - 会自己造软件的自托管 Agent](https://craftbot.live) — CraftOS 开源的自托管主动式 AI Agent（MIT），首创「Living UI」：Agent 在自己内部构建、演进并直接操作你定制的 App / 仪表盘 / CRM；内置 40+ 角色、170+ 技能、150+ MCP。Product Hunt 当日 #3（2026-05-13，261 票），把「软件随你生长」变成现实。  
+  标签：开源 / PH 当日 #3 / Living UI / MIT
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -269,6 +273,8 @@
   标签：独居经济 / 付费榜第一 / 95 后创业
 - [SlapMac](https://slapmac.com/) — 开发者用 Claude Code 48 小时做出「拍打 MacBook 会惨叫」的趣味 App，上线 3 天安装破 7000、营收达 $5000，被 500+ 电台报道。  
   标签：病毒传播 / 3 天 5000 美元 / macOS
+- [Acti - 世界首个「Agentic 键盘」](https://openacti.com) — TypeX 出品的世界首个「Agentic 键盘」：在任何 App 的输入框里长按 Acti Bar，键盘直接把意图变成结果 / 链接 / 操作（查赛程、拉 Notion、建会议链接），还能把任意按键绑成自定义技能。Product Hunt 当日 #1、Android 10 万+ 下载，把 AI Agent 放进了你打字的地方。  
+  标签：PH 当日 #1 / Agentic 键盘 / 10万+ 下载 / iOS/Android
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -367,6 +373,8 @@
   标签：开源教程 / DataWhale / 零基础 / 4.6k Star
 - [Paradigm 自适应学习路径](https://paradigm.study) — 大学一年级学生 Scott Fan 自 2023 年起独立打磨的个人 AI 导师：把任意学习目标拆成随进度动态调整的自适应路径（对话、编码沙箱、桌面环境随时切换）。2026-07-16 登上 Product Hunt 当日 #1，斩获 689 upvotes 与 130+ 评论，被用户盛赞"真正因材施教的 AI 导师"。  
   标签：自适应学习 / PH 当日 #1 / 689 upvotes
+- [Open Vibe - Wasp 团队开源的「AI 导师」](https://openvibe.sh) — Wasp 团队开源的「AI 导师」：把 Claude Code / Codex / Cursor 等 Agent 变成边建边教的生产级 SaaS 教练，配套 Open SaaS 模板与交互式架构图解，100% 免费、MIT 协议。Product Hunt 当日 #2（2026-05-12），专治「不懂也能发布」的 Vibe Coding 踩坑症。  
+  标签：开源 / PH 当日 #2 / AI 导师 / MIT
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -390,6 +398,8 @@
   标签：3万+ Star / 开源设计引擎 / BYOK / 多格式导出
 - [Video-Use - 让 AI 像人一样操作软件剪视频](https://github.com/browser-use/video-use) — browser-use 出品的开源 AI 视频剪辑：用自然语言指挥 Agent 像人一样操作剪辑软件，自动完成素材整理、时间线编辑与导出，把「用代码剪视频」变成现实。GitHub 2.1 万+ Star。  
   标签：2.1万+ Star / AI 视频剪辑 / 自然语言操作 / browser-use 出品
+- [Glaze by Raycast - 一句话生成原生 Mac App](https://www.raycast.com/glaze) — Raycast（YC W20、$47.8M 融资）推出的原生 Mac App 生成器：用一句话描述，AI 直接规划架构、写代码、经 Xcode 编译出真实 .app，常驻 Dock、离线可用、拥有完整系统级权限。Product Hunt 当日 #1（2026-07-03，574 票），重新定义「为你而生的个人软件」。  
+  标签：PH 当日 #1 / 原生 Mac App / Raycast / 574 票
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
