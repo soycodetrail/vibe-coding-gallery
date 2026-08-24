@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-24 18:17:43
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-24 21:08:15
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（181 个条目 / 14 个分类）
+## 📑 内容导航（189 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -181,6 +181,14 @@
   标签：2.7万+ Star / PH 当日 #2 / 跨会话记忆 / 零外部数据库
 - [Qwen-Code - 阿里通义千问开源终端 AI 编码智能体](https://github.com/QwenLM/Qwen-Code) — 阿里通义千问团队开源的终端 AI 编码智能体，与 Qwen3-Coder 模型同源共生、Apache-2.0 协议；内置 Auto-Memory / SubAgents / Agent Teams / MCP，支持 OpenAI·Anthropic·Gemini·Qwen 多模型运行时切换，并延伸至 IDE、桌面端与 Telegram/钉钉/飞书机器人。GitHub 2.7 万+ Star，是国产开源编码 Agent 的标杆之作。  
   标签：开源 / 2.7万+ Star / Apache-2.0 / 终端 Agent
+- [OpenAI Codex - 官方终端编码智能体](https://github.com/openai/codex) — OpenAI 官方开源的终端编码智能体，本地运行、一句话驱动 Coding Agent，覆盖 CLI / IDE 插件 / 桌面端 / 云端四种形态。GitHub 11.7 万+ Star、Apache-2.0，空降 GitHub Trending 第一，是「官方出品 + 订阅制」赛道最强流量入口。  
+  标签：GitHub 11.7万★ / 终端 Agent / OpenAI 官方 / Apache-2.0
+- [Prime Agent - 自进化 RLM 编码智能体](https://github.com/PrimeIntellect-ai/prime-agent) — Prime Intellect 开源的自进化强化学习（RLM）编码智能体，专注长程自主任务与安全迭代。GitHub 1.8 万+ Star，单周暴涨 1.2 万 Star 登顶 GitHub 全球趋势榜，回答「Agent 能否安全跑完长任务」这一核心命题。  
+  标签：GitHub 1.8万★ / RLM 自进化 / 长程自主 / Trending #1
+- [TencentDB Agent Memory - 团队级 Agent 记忆中枢](https://github.com/TencentCloud/TencentDB-Agent-Memory) — 腾讯云开源的团队级 Agent 记忆中枢，把对话、文档与代码转成四类可复用记忆资产，让多个 Agent 共享上下文。GitHub 2.4 万+ Star，入选 GitHub 趋势榜并在「Agent 记忆」赛道领跑。  
+  标签：GitHub 2.4万★ / Agent 记忆 / 腾讯云 / 团队共享
+- [Agent Skills - Addy Osmani 的可复用技能合集](https://github.com/addyosmani/agent-skills) — 前 Chrome 工程总监 Addy Osmani 开源维护的可复用 Agent Skills 合集，把「怎么让 Agent 干好活」沉淀成标准化技能。GitHub 8.9 万+ Star，已成为 Agent 技能生态的事实标准参考。  
+  标签：GitHub 8.9万★ / Agent Skills / Addy Osmani / 技能生态
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -343,6 +351,8 @@
   标签：投资 / AI分析 / 研报 / 决策
 - [Vibe-Trading - 港大开源的「一句话量化交易」Agent](https://github.com/HKUDS/Vibe-Trading) — 香港大学数据科学实验室（HKUDS）开源的个人 AI 交易 Agent：用自然语言描述策略，自动拉数据、写回测、出报告（K 线/热力图/风险指标），内置 29 个多 Agent 投研团队。GitHub 3.1 万+ Star，2026 年 GitHub Trending 金融量化标杆。  
   标签：3.1万+ Star / 港大数据科学实验室 / 自然语言量化 / 多 Agent 投研
+- [Driven - 可信赖的 AI 投资智能体](https://driven.ai) — 可信赖的 AI 投资智能体：把市场洞察直接变成交易动作，而非只给答案。集成 260+ API、实时数据、投资组合与订单流，让投资者在一个工作空间跑完「创意→分析→执行」。Product Hunt 当日精选（2026-08-04，259 票）。  
+  标签：PH 精选 / 259 票 / AI 投资 / 260+ API
 
 <a id="cat-ai办公" name="cat-ai办公"></a>
 
@@ -362,6 +372,8 @@
   标签：求职 / 28.8k Star / Trending #1 / MIT
 - [Claude Cowork - Anthropic 的桌面级 AI 同事](https://claude.com/product/cowork) — Anthropic 2026 年 1 月推出的「代理型」AI 办公助手：授权文件夹后自主读/改/建文件、跑定时任务、跨 Telegram/Discord 远程派活，把 Claude 从聊天框变成能真正干活的数字化同事。Product Hunt 当日 835 票，从 Max 订阅扩展到 Pro/Team/Enterprise。  
   标签：PH 835票 / Anthropic 官方 / 代理型办公 / 定时任务
+- [Hey Noah - 创始人专属主动式 AI 行政助理](https://www.heynoah.io) — 创始人专属的主动式 AI 行政助理：Claude 与你对话，Noah 替你对外联络，常住短信自动管日程、人脉与跟进。Product Hunt 当日 #1（2026-08-04，571 票），已处理 30 万+ 任务，从「你问它答」跨到「它主动干活」。  
+  标签：PH 当日 #1 / 571 票 / AI 行政助理 / 30万+ 任务
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -375,6 +387,8 @@
   标签：自适应学习 / PH 当日 #1 / 689 upvotes
 - [Open Vibe - Wasp 团队开源的「AI 导师」](https://openvibe.sh) — Wasp 团队开源的「AI 导师」：把 Claude Code / Codex / Cursor 等 Agent 变成边建边教的生产级 SaaS 教练，配套 Open SaaS 模板与交互式架构图解，100% 免费、MIT 协议。Product Hunt 当日 #2（2026-05-12），专治「不懂也能发布」的 Vibe Coding 踩坑症。  
   标签：开源 / PH 当日 #2 / AI 导师 / MIT
+- [Wondering - 万物版 Duolingo 学习助手](https://wondering.app) — 被称为「万物版 Duolingo」的 AI 个性化学习助手：输入想学的内容，自动生成短视频课程 + 播客 + 互动练习，把复杂主题拆成记得住、用得上的知识。Product Hunt 当日 #2（2026-08-04，372 票）。  
+  标签：PH 当日 #2 / 372 票 / 个性化学习 / 教育
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -400,6 +414,8 @@
   标签：2.1万+ Star / AI 视频剪辑 / 自然语言操作 / browser-use 出品
 - [Glaze by Raycast - 一句话生成原生 Mac App](https://www.raycast.com/glaze) — Raycast（YC W20、$47.8M 融资）推出的原生 Mac App 生成器：用一句话描述，AI 直接规划架构、写代码、经 Xcode 编译出真实 .app，常驻 Dock、离线可用、拥有完整系统级权限。Product Hunt 当日 #1（2026-07-03，574 票），重新定义「为你而生的个人软件」。  
   标签：PH 当日 #1 / 原生 Mac App / Raycast / 574 票
+- [Diagram Design - 29 种编辑级 HTML/SVG 图表](https://github.com/cathrynlavery/diagram-design) — Cathryn Lavery 开源的 29 种编辑级图表方案，全部自包含 HTML/SVG，可直接进版本库、进 PR、进文档流水线。GitHub 2.6 万+ Star，单周暴涨 1.3 万 Star 力压多数 AI 项目，证明「成品资产」依然最能打。  
+  标签：GitHub 2.6万★ / HTML/SVG / 编辑级图表 / Trending #2
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 

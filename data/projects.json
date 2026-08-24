@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T18:17:43.464Z",
+  "updatedAt": "2026-08-24T21:08:15.816Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -2860,6 +2860,134 @@
       "icon": "⌨️",
       "bg": "linear-gradient(135deg, #FF416C 0%, #FF4B2B 100%)",
       "tool": "Acti",
+      "hot": 0
+    },
+    {
+      "name": "OpenAI Codex - 官方终端编码智能体",
+      "desc": "OpenAI 官方开源的终端编码智能体，本地运行、一句话驱动 Coding Agent，覆盖 CLI / IDE 插件 / 桌面端 / 云端四种形态。GitHub 11.7 万+ Star、Apache-2.0，空降 GitHub Trending 第一，是「官方出品 + 订阅制」赛道最强流量入口。",
+      "url": "https://github.com/openai/codex",
+      "category": "AI 工具",
+      "tags": [
+        "GitHub 11.7万★",
+        "终端 Agent",
+        "OpenAI 官方",
+        "Apache-2.0"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #1a2a6c 0%, #b21f1f 100%)",
+      "tool": "OpenAI Codex",
+      "hot": 0
+    },
+    {
+      "name": "Prime Agent - 自进化 RLM 编码智能体",
+      "desc": "Prime Intellect 开源的自进化强化学习（RLM）编码智能体，专注长程自主任务与安全迭代。GitHub 1.8 万+ Star，单周暴涨 1.2 万 Star 登顶 GitHub 全球趋势榜，回答「Agent 能否安全跑完长任务」这一核心命题。",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "category": "AI 工具",
+      "tags": [
+        "GitHub 1.8万★",
+        "RLM 自进化",
+        "长程自主",
+        "Trending #1"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #cb356b 0%, #bd3f32 100%)",
+      "tool": "Prime Agent",
+      "hot": 0
+    },
+    {
+      "name": "TencentDB Agent Memory - 团队级 Agent 记忆中枢",
+      "desc": "腾讯云开源的团队级 Agent 记忆中枢，把对话、文档与代码转成四类可复用记忆资产，让多个 Agent 共享上下文。GitHub 2.4 万+ Star，入选 GitHub 趋势榜并在「Agent 记忆」赛道领跑。",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "category": "AI 工具",
+      "tags": [
+        "GitHub 2.4万★",
+        "Agent 记忆",
+        "腾讯云",
+        "团队共享"
+      ],
+      "icon": "🧩",
+      "bg": "linear-gradient(135deg, #0575e6 0%, #021b79 100%)",
+      "tool": "Tencent Cloud",
+      "hot": 0
+    },
+    {
+      "name": "Agent Skills - Addy Osmani 的可复用技能合集",
+      "desc": "前 Chrome 工程总监 Addy Osmani 开源维护的可复用 Agent Skills 合集，把「怎么让 Agent 干好活」沉淀成标准化技能。GitHub 8.9 万+ Star，已成为 Agent 技能生态的事实标准参考。",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "category": "AI 工具",
+      "tags": [
+        "GitHub 8.9万★",
+        "Agent Skills",
+        "Addy Osmani",
+        "技能生态"
+      ],
+      "icon": "🗂️",
+      "bg": "linear-gradient(135deg, #8e54e9 0%, #4776e6 100%)",
+      "tool": "Agent Skills",
+      "hot": 0
+    },
+    {
+      "name": "Diagram Design - 29 种编辑级 HTML/SVG 图表",
+      "desc": "Cathryn Lavery 开源的 29 种编辑级图表方案，全部自包含 HTML/SVG，可直接进版本库、进 PR、进文档流水线。GitHub 2.6 万+ Star，单周暴涨 1.3 万 Star 力压多数 AI 项目，证明「成品资产」依然最能打。",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "category": "设计创意",
+      "tags": [
+        "GitHub 2.6万★",
+        "HTML/SVG",
+        "编辑级图表",
+        "Trending #2"
+      ],
+      "icon": "📐",
+      "bg": "linear-gradient(135deg, #f27121 0%, #e94057 100%)",
+      "tool": "Diagram Design",
+      "hot": 0
+    },
+    {
+      "name": "Wondering - 万物版 Duolingo 学习助手",
+      "desc": "被称为「万物版 Duolingo」的 AI 个性化学习助手：输入想学的内容，自动生成短视频课程 + 播客 + 互动练习，把复杂主题拆成记得住、用得上的知识。Product Hunt 当日 #2（2026-08-04，372 票）。",
+      "url": "https://wondering.app",
+      "category": "教育学习",
+      "tags": [
+        "PH 当日 #2",
+        "372 票",
+        "个性化学习",
+        "教育"
+      ],
+      "icon": "📚",
+      "bg": "linear-gradient(135deg, #d38312 0%, #a83279 100%)",
+      "tool": "Wondering",
+      "hot": 0
+    },
+    {
+      "name": "Hey Noah - 创始人专属主动式 AI 行政助理",
+      "desc": "创始人专属的主动式 AI 行政助理：Claude 与你对话，Noah 替你对外联络，常住短信自动管日程、人脉与跟进。Product Hunt 当日 #1（2026-08-04，571 票），已处理 30 万+ 任务，从「你问它答」跨到「它主动干活」。",
+      "url": "https://www.heynoah.io",
+      "category": "AI办公",
+      "tags": [
+        "PH 当日 #1",
+        "571 票",
+        "AI 行政助理",
+        "30万+ 任务"
+      ],
+      "icon": "📱",
+      "bg": "linear-gradient(135deg, #0cebeb 0%, #20e3b2 100%)",
+      "tool": "Hey Noah",
+      "hot": 0
+    },
+    {
+      "name": "Driven - 可信赖的 AI 投资智能体",
+      "desc": "可信赖的 AI 投资智能体：把市场洞察直接变成交易动作，而非只给答案。集成 260+ API、实时数据、投资组合与订单流，让投资者在一个工作空间跑完「创意→分析→执行」。Product Hunt 当日精选（2026-08-04，259 票）。",
+      "url": "https://driven.ai",
+      "category": "金融财经",
+      "tags": [
+        "PH 精选",
+        "259 票",
+        "AI 投资",
+        "260+ API"
+      ],
+      "icon": "📈",
+      "bg": "linear-gradient(135deg, #f5853f 0%, #f53939 100%)",
+      "tool": "Driven",
       "hot": 0
     }
   ],
