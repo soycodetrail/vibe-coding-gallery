@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-25 18:15:14
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-25 21:09:07
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（189 个条目 / 14 个分类）
+## 📑 内容导航（194 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -340,6 +340,10 @@
   标签：2600万+ 游玩 / 239 国家 / viral 记忆游戏 / 父子共创
 - [World of ClaudeCraft - 开源浏览器 MMORPG](https://worldofclaudecraft.com) — 新西兰 Levy Street 用 Anthropic Claude Fable 5 一个周末 vibe coding 出的免费浏览器 MMORPG（9 职业 / 3 区域 / 90 任务），MIT 开源、GitHub 2.1K+ Star，已被创建 72,289 个角色，获 GlobeNewswire 报道与 a16z 合伙人盛赞「功能惊人完整」。  
   标签：开源 MMORPG / 2.1K Star / 72K 角色 / Claude Fable 5
+- [38-0-0 - 英超选秀梦幻 XI](https://38-0-0.com) — 24 岁、零编程基础的 Deniz Sancar 用 Claude Code 通宵 8 小时做出英超选秀游戏：自旋俱乐部+赛季抽历史球星组梦幻 XI，算法判定能否 38 战全胜。上线 48 小时下载破 10 万、首周 200 万+ 游玩、累计用户破百万，登顶英国 App Store 免费榜第一，是 AI 改写游戏行业的标志性案例。  
+  标签：英国榜第一 / 百万用户 / Claude Code / 零基础
+- [82-0 - NBA 历史选秀游戏](https://82-0.com) — 2026 NBA 总决赛期间爆红的篮球选秀游戏：自旋球队+年代抽历史球星组首发五人，AI 判定能否 82 战全胜。NBA 球星（哈利伯顿等）纷纷晒阵容，一度成为全美 #1 热搜话题，并催生 38-0-0、98-0、8-0 等数十个体育改版，是「体育选秀游戏现象」的开山之作。  
+  标签：全美热搜第一 / NBA 球星 / 开创现象 / 体育选秀
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -374,6 +378,8 @@
   标签：PH 835票 / Anthropic 官方 / 代理型办公 / 定时任务
 - [Hey Noah - 创始人专属主动式 AI 行政助理](https://www.heynoah.io) — 创始人专属的主动式 AI 行政助理：Claude 与你对话，Noah 替你对外联络，常住短信自动管日程、人脉与跟进。Product Hunt 当日 #1（2026-08-04，571 票），已处理 30 万+ 任务，从「你问它答」跨到「它主动干活」。  
   标签：PH 当日 #1 / 571 票 / AI 行政助理 / 30万+ 任务
+- [Bond - AI 首席参谋](https://bondapp.io) — YC 系 AI 首席参谋（Chief of Staff）：连接 Slack/邮件/日历/文档，把散落的待办自动排成优先级清单、起草跟进、识别风险。Product Hunt 当日 #1（665 票，Garry Tan 亲猎），YC Spring 2025、$3M 种子轮，让创始人把「列清单」变成「执行清单」。  
+  标签：PH 当日 #1 / 665 票 / YC 系 / AI 参谋
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -416,6 +422,8 @@
   标签：PH 当日 #1 / 原生 Mac App / Raycast / 574 票
 - [Diagram Design - 29 种编辑级 HTML/SVG 图表](https://github.com/cathrynlavery/diagram-design) — Cathryn Lavery 开源的 29 种编辑级图表方案，全部自包含 HTML/SVG，可直接进版本库、进 PR、进文档流水线。GitHub 2.6 万+ Star，单周暴涨 1.3 万 Star 力压多数 AI 项目，证明「成品资产」依然最能打。  
   标签：GitHub 2.6万★ / HTML/SVG / 编辑级图表 / Trending #2
+- [Glam AI - 趋势模板生成视觉内容](https://glam.ai) — 面向创作者的 AI 视觉内容工厂：从 2000+ 每日更新的社媒爆款模板里挑趋势，上传一张照片即可生成 viral 级图片/短视频。移动端累计 1600 万+ 月下载，2026-03 网页版登 Product Hunt 当日 #2（589 票），把「追趋势」变成零门槛创作。  
+  标签：PH 当日 #2 / 1600万月下载 / 趋势模板 / 创作者
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -470,6 +478,8 @@
   标签：蓝牙 mesh / Jack Dorsey / 无网加密 / 开源
 - [PostSyncer - AI 一站式多平台社媒运营中枢](https://postsyncer.com/) — 面向创作者与团队的多平台社媒工作台：一处连接 11+ 平台、用 Sora/Veo 等 AI 生成图文短视频、统一收件箱自动回复。Product Hunt 当日 #1（680 票），已被 23,000+ 创作者日常使用。  
   标签：PH 日榜 #1 / 680 票 / 23K+ 创作者 / 11+ 平台
+- [Your AI Slop Bores Me - 反 AI 梗游戏](https://youraislopbores.me) — 独立开发者 mikidoodle（Mihir Maroju）做的反 AI 梗游戏：真人轮流扮演 AI chatbot，60 秒内回答陌生人的提问，靠「人味」对抗机器生成内容。2026-03 作为 HN Show HN 发布后一周狂揽 5000 万次访问、峰值 1.6 万人在线，被 Kotaku、Fast Company 争相报道，是年度最出圈的反 AI-slop 社会实验。  
+  标签：5000万访问 / HN 爆款 / 反 AI-slop / 真人扮演 AI
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 

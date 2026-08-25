@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T18:15:14.924Z",
+  "updatedAt": "2026-08-25T21:09:07.893Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -2988,6 +2988,86 @@
       "icon": "📈",
       "bg": "linear-gradient(135deg, #f5853f 0%, #f53939 100%)",
       "tool": "Driven",
+      "hot": 0
+    },
+    {
+      "name": "38-0-0 - 英超选秀梦幻 XI",
+      "desc": "24 岁、零编程基础的 Deniz Sancar 用 Claude Code 通宵 8 小时做出英超选秀游戏：自旋俱乐部+赛季抽历史球星组梦幻 XI，算法判定能否 38 战全胜。上线 48 小时下载破 10 万、首周 200 万+ 游玩、累计用户破百万，登顶英国 App Store 免费榜第一，是 AI 改写游戏行业的标志性案例。",
+      "url": "https://38-0-0.com",
+      "category": "游戏",
+      "tags": [
+        "英国榜第一",
+        "百万用户",
+        "Claude Code",
+        "零基础"
+      ],
+      "icon": "⚽",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "82-0 - NBA 历史选秀游戏",
+      "desc": "2026 NBA 总决赛期间爆红的篮球选秀游戏：自旋球队+年代抽历史球星组首发五人，AI 判定能否 82 战全胜。NBA 球星（哈利伯顿等）纷纷晒阵容，一度成为全美 #1 热搜话题，并催生 38-0-0、98-0、8-0 等数十个体育改版，是「体育选秀游戏现象」的开山之作。",
+      "url": "https://82-0.com",
+      "category": "游戏",
+      "tags": [
+        "全美热搜第一",
+        "NBA 球星",
+        "开创现象",
+        "体育选秀"
+      ],
+      "icon": "🏀",
+      "bg": "linear-gradient(135deg, #ee0979 0%, #ff6a00 100%)",
+      "tool": "AI 辅助",
+      "hot": 0
+    },
+    {
+      "name": "Your AI Slop Bores Me - 反 AI 梗游戏",
+      "desc": "独立开发者 mikidoodle（Mihir Maroju）做的反 AI 梗游戏：真人轮流扮演 AI chatbot，60 秒内回答陌生人的提问，靠「人味」对抗机器生成内容。2026-03 作为 HN Show HN 发布后一周狂揽 5000 万次访问、峰值 1.6 万人在线，被 Kotaku、Fast Company 争相报道，是年度最出圈的反 AI-slop 社会实验。",
+      "url": "https://youraislopbores.me",
+      "category": "社交社区",
+      "tags": [
+        "5000万访问",
+        "HN 爆款",
+        "反 AI-slop",
+        "真人扮演 AI"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #834d9b 0%, #d04ed6 100%)",
+      "tool": "AI 辅助",
+      "hot": 0
+    },
+    {
+      "name": "Glam AI - 趋势模板生成视觉内容",
+      "desc": "面向创作者的 AI 视觉内容工厂：从 2000+ 每日更新的社媒爆款模板里挑趋势，上传一张照片即可生成 viral 级图片/短视频。移动端累计 1600 万+ 月下载，2026-03 网页版登 Product Hunt 当日 #2（589 票），把「追趋势」变成零门槛创作。",
+      "url": "https://glam.ai",
+      "category": "设计创意",
+      "tags": [
+        "PH 当日 #2",
+        "1600万月下载",
+        "趋势模板",
+        "创作者"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
+      "tool": "AI 生成",
+      "hot": 0
+    },
+    {
+      "name": "Bond - AI 首席参谋",
+      "desc": "YC 系 AI 首席参谋（Chief of Staff）：连接 Slack/邮件/日历/文档，把散落的待办自动排成优先级清单、起草跟进、识别风险。Product Hunt 当日 #1（665 票，Garry Tan 亲猎），YC Spring 2025、$3M 种子轮，让创始人把「列清单」变成「执行清单」。",
+      "url": "https://bondapp.io",
+      "category": "AI办公",
+      "tags": [
+        "PH 当日 #1",
+        "665 票",
+        "YC 系",
+        "AI 参谋"
+      ],
+      "icon": "📋",
+      "bg": "linear-gradient(135deg, #1a2980 0%, #26d0ce 100%)",
+      "tool": "AI Agent",
       "hot": 0
     }
   ],
