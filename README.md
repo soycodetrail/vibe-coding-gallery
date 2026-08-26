@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-26 18:13:20
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-26 21:07:49
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（194 个条目 / 14 个分类）
+## 📑 内容导航（201 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -232,6 +232,10 @@
   标签：14.7万+ Star / 开源 AI 团队 / 预制 Agent 角色 / 独立开发者
 - [CraftBot with Living UI - 会自己造软件的自托管 Agent](https://craftbot.live) — CraftOS 开源的自托管主动式 AI Agent（MIT），首创「Living UI」：Agent 在自己内部构建、演进并直接操作你定制的 App / 仪表盘 / CRM；内置 40+ 角色、170+ 技能、150+ MCP。Product Hunt 当日 #3（2026-05-13，261 票），把「软件随你生长」变成现实。  
   标签：开源 / PH 当日 #3 / Living UI / MIT
+- [Omni - 本地工作流变云端长时 Agent](https://xpander.ai/omni) — xpander 出品的 AI 工程师：把本地的 Claude/Codex 工作流部署成可调度的云端长时运行智能体，自动测试、比较模型、调试失败运行，可团队共享。Product Hunt 381 票（2026-08-17）。  
+  标签：PH 381 票 / 云端 Agent / 长时运行 / 团队共享
+- [Soloop - 审批优先型 Agent OS](https://soloop.io) — 面向独立创始人的 agentic 公司构建系统：AI CEO 规划统筹、AI CTO 构建迭代、AI CMO 找用户卖货，重要决策回 founder 审批。从创意到营收，Product Hunt 日榜第二（约 470 票）。  
+  标签：PH 日榜 #2 / 约 470 票 / AI CEO/CTO/CMO / 审批优先
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -344,6 +348,8 @@
   标签：英国榜第一 / 百万用户 / Claude Code / 零基础
 - [82-0 - NBA 历史选秀游戏](https://82-0.com) — 2026 NBA 总决赛期间爆红的篮球选秀游戏：自旋球队+年代抽历史球星组首发五人，AI 判定能否 82 战全胜。NBA 球星（哈利伯顿等）纷纷晒阵容，一度成为全美 #1 热搜话题，并催生 38-0-0、98-0、8-0 等数十个体育改版，是「体育选秀游戏现象」的开山之作。  
   标签：全美热搜第一 / NBA 球星 / 开创现象 / 体育选秀
+- [Meccha Chameleon - Paint-to-Hide 捉迷藏爆款](https://store.steampowered.com/search/?term=Meccha+Chameleon) — 两名日本独立开发者用约两个月、零广告做出 Steam 捉迷藏爆款：玩家把自己涂成环境色躲猫猫。上线 63 天破 2000 万份、峰值 34 万同时在线、周销量登顶 Steam 全球榜，AI 辅助美术与快速迭代，被称为 Among Us / Fall Guys 接班人。  
+  标签：Steam 爆款 / 2000 万份 / 零广告 / AI 美术
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -380,6 +386,8 @@
   标签：PH 当日 #1 / 571 票 / AI 行政助理 / 30万+ 任务
 - [Bond - AI 首席参谋](https://bondapp.io) — YC 系 AI 首席参谋（Chief of Staff）：连接 Slack/邮件/日历/文档，把散落的待办自动排成优先级清单、起草跟进、识别风险。Product Hunt 当日 #1（665 票，Garry Tan 亲猎），YC Spring 2025、$3M 种子轮，让创始人把「列清单」变成「执行清单」。  
   标签：PH 当日 #1 / 665 票 / YC 系 / AI 参谋
+- [OpenWork - 开源版 Claude Cowork](https://openworklabs.com) — Different AI 出品的开源版 Claude Cowork：基于 OpenCode 构建的桌面 AI 协作工作台，支持多 Agent 并行协作、工作流编排、团队一键共享技能与 MCP。本地优先、MIT 开源，GitHub 23k+ Star，是 Cowork/Codex 最具竞争力的开源替代。  
+  标签：开源 / 23k Star / Claude Cowork 替代 / 工作流共享
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -447,6 +455,8 @@
   标签：PH 日榜 #1 / 1288 票 / Google 评论建站 / 本地商家
 - [StoreClaw - 登顶 PH 的电商 AI 增长引擎](https://storeclaw.ai) — 面向电商的 AI 增长引擎（Agentic Commerce）：连接 Shopify / Amazon 后自主诊断店铺、优化 Listing、跑邮件与广告，人工审批后执行。接连斩获 Product Hunt 2026-05「日榜第一」与「周榜第一」，帮 DTC 品牌把自然流量提升 142%、CAC 降低 57%。  
   标签：PH 日榜+周榜 #1 / Agentic Commerce / 电商增长引擎 / Shopify/Amazon
+- [Clara AI SDR - 网站访客变销售线索](https://clarasdr.ai) — TruGen AI 出品的 AI 销售代表：实时把官网访客转化为合格线索，自动互动、资质审核、演示、异议处理并预约会议，7×24 接入 CRM。Product Hunt 当日 #1（439 票）。  
+  标签：PH 当日 #1 / 439 票 / AI SDR / CRM 集成
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -487,6 +497,10 @@
 
 - [Replay QA 自动找 Bug](https://qa.replay.io) — 给 GitHub 仓库或网址即可持续测试：自主探索应用、录制每次会话、定位真实 bug，并把根因与修复建议直接喂给你的编码 Agent。Product Hunt 当日 #4（405 upvotes），由 Replay.io 团队推出。  
   标签：自动 QA / PH #4 / 405 upvotes
+- [Coldtea - Agentic IDE 自动驾驶交付](https://coldtea.ai) — 面向编码智能体的 agentic IDE：把「构建 → 可视化 QA → 生产监控」串成闭环，让团队以 agent 速度交付同时保持生产稳定。Product Hunt 周榜第一（521 票），登上 2026-08 周榜头条。  
+  标签：PH 周榜 #1 / 521 票 / Agentic IDE / 可视化 QA
+- [Taku - 顶尖 AI 配置一键变应用](https://taku.ai) — 把全球顶尖 AI 玩家的技能、智能体与工作流，一键变成普通人点开即用的桌面应用：可运行、可重组、可定制，跳过 GitHub 与繁琐配置。Product Hunt 当日精选（约 400 票）。  
+  标签：PH 精选 / 约 400 票 / 桌面应用 / 技能复用
 
 
 ---

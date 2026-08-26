@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T18:13:20.415Z",
+  "updatedAt": "2026-08-26T21:07:49.397Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -3067,6 +3067,118 @@
       ],
       "icon": "📋",
       "bg": "linear-gradient(135deg, #1a2980 0%, #26d0ce 100%)",
+      "tool": "AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Meccha Chameleon - Paint-to-Hide 捉迷藏爆款",
+      "desc": "两名日本独立开发者用约两个月、零广告做出 Steam 捉迷藏爆款：玩家把自己涂成环境色躲猫猫。上线 63 天破 2000 万份、峰值 34 万同时在线、周销量登顶 Steam 全球榜，AI 辅助美术与快速迭代，被称为 Among Us / Fall Guys 接班人。",
+      "url": "https://store.steampowered.com/search/?term=Meccha+Chameleon",
+      "category": "游戏",
+      "tags": [
+        "Steam 爆款",
+        "2000 万份",
+        "零广告",
+        "AI 美术"
+      ],
+      "icon": "🦎",
+      "bg": "linear-gradient(135deg, #FF6B6B 0%, #556270 100%)",
+      "tool": "Unreal Engine 5 + AI 辅助",
+      "hot": 0
+    },
+    {
+      "name": "OpenWork - 开源版 Claude Cowork",
+      "desc": "Different AI 出品的开源版 Claude Cowork：基于 OpenCode 构建的桌面 AI 协作工作台，支持多 Agent 并行协作、工作流编排、团队一键共享技能与 MCP。本地优先、MIT 开源，GitHub 23k+ Star，是 Cowork/Codex 最具竞争力的开源替代。",
+      "url": "https://openworklabs.com",
+      "category": "AI办公",
+      "tags": [
+        "开源",
+        "23k Star",
+        "Claude Cowork 替代",
+        "工作流共享"
+      ],
+      "icon": "🤝",
+      "bg": "linear-gradient(135deg, #7b4397 0%, #dc2430 100%)",
+      "tool": "OpenCode",
+      "hot": 0
+    },
+    {
+      "name": "Coldtea - Agentic IDE 自动驾驶交付",
+      "desc": "面向编码智能体的 agentic IDE：把「构建 → 可视化 QA → 生产监控」串成闭环，让团队以 agent 速度交付同时保持生产稳定。Product Hunt 周榜第一（521 票），登上 2026-08 周榜头条。",
+      "url": "https://coldtea.ai",
+      "category": "AI工具",
+      "tags": [
+        "PH 周榜 #1",
+        "521 票",
+        "Agentic IDE",
+        "可视化 QA"
+      ],
+      "icon": "🍵",
+      "bg": "linear-gradient(135deg, #0B486B 0%, #F56217 100%)",
+      "tool": "AI Coding Agent",
+      "hot": 0
+    },
+    {
+      "name": "Taku - 顶尖 AI 配置一键变应用",
+      "desc": "把全球顶尖 AI 玩家的技能、智能体与工作流，一键变成普通人点开即用的桌面应用：可运行、可重组、可定制，跳过 GitHub 与繁琐配置。Product Hunt 当日精选（约 400 票）。",
+      "url": "https://taku.ai",
+      "category": "AI工具",
+      "tags": [
+        "PH 精选",
+        "约 400 票",
+        "桌面应用",
+        "技能复用"
+      ],
+      "icon": "🧩",
+      "bg": "linear-gradient(135deg, #AA076B 0%, #61045F 100%)",
+      "tool": "AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Omni - 本地工作流变云端长时 Agent",
+      "desc": "xpander 出品的 AI 工程师：把本地的 Claude/Codex 工作流部署成可调度的云端长时运行智能体，自动测试、比较模型、调试失败运行，可团队共享。Product Hunt 381 票（2026-08-17）。",
+      "url": "https://xpander.ai/omni",
+      "category": "Agent",
+      "tags": [
+        "PH 381 票",
+        "云端 Agent",
+        "长时运行",
+        "团队共享"
+      ],
+      "icon": "☁️",
+      "bg": "linear-gradient(135deg, #114357 0%, #F29492 100%)",
+      "tool": "Claude / Codex",
+      "hot": 0
+    },
+    {
+      "name": "Soloop - 审批优先型 Agent OS",
+      "desc": "面向独立创始人的 agentic 公司构建系统：AI CEO 规划统筹、AI CTO 构建迭代、AI CMO 找用户卖货，重要决策回 founder 审批。从创意到营收，Product Hunt 日榜第二（约 470 票）。",
+      "url": "https://soloop.io",
+      "category": "Agent",
+      "tags": [
+        "PH 日榜 #2",
+        "约 470 票",
+        "AI CEO/CTO/CMO",
+        "审批优先"
+      ],
+      "icon": "🌀",
+      "bg": "linear-gradient(135deg, #000428 0%, #004e92 100%)",
+      "tool": "AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Clara AI SDR - 网站访客变销售线索",
+      "desc": "TruGen AI 出品的 AI 销售代表：实时把官网访客转化为合格线索，自动互动、资质审核、演示、异议处理并预约会议，7×24 接入 CRM。Product Hunt 当日 #1（439 票）。",
+      "url": "https://clarasdr.ai",
+      "category": "电商营销",
+      "tags": [
+        "PH 当日 #1",
+        "439 票",
+        "AI SDR",
+        "CRM 集成"
+      ],
+      "icon": "💬",
+      "bg": "linear-gradient(135deg, #cb2d3e 0%, #ef473a 100%)",
       "tool": "AI Agent",
       "hot": 0
     }
