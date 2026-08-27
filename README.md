@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-27 01:01:12
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-27 13:23:52
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（201 个条目 / 14 个分类）
+## 📑 内容导航（446 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -52,8 +52,6 @@
   标签：Karpathy / 图像生成 / 实验项目 / AI
 - [ShiftNex](https://shiftnex.com) — 创始人用 Lovable 构建的医疗护理人员智能排班匹配平台，从第一行提示词到 $1M ARR 仅 5 个月，5000+ 医疗从业者使用。  
   标签：医疗 SaaS / Lovable / 排班 / 独立开发
-- [ChatIQ](https://chatiq.ai) — 伦敦非技术创始人用 AI 构建的定制 AI 客服机器人，上线首月 11,300 用户、两个月做到 £7.2K MRR。  
-  标签：AI 客服 / SaaS / 无代码 / 独立开发
 - [Qconcursos](https://qconcursos.com) — 巴西最大考试备考平台（50 万+ 付费学生）用 Lovable 让 2 名开发者 14 天上线全新产品，上线 48 小时内创收约 $3M。  
   标签：EdTech / Lovable / 企业级 / 快速上线
 - [1001 Albums Generator](https://1001albumsgenerator.com) — 每天随机推荐《1001 Albums You Must Hear Before You Die》专辑并打分记录的音乐打卡工具。  
@@ -70,6 +68,20 @@
   标签：AI 建站 / 10秒生成 / CMS / Product Hunt
 - [Zoer.ai - 数据库优先的 AI 全栈建站](https://zoer.ai) — Chat2DB 团队出品的数据库优先（Database-First）AI 全栈建站工具，先在画布上画好数据模型再用自然语言生成前端与业务逻辑，集成 Stripe 支付、向量搜索与实时协作，Product Hunt 当日 #2（452 票）。  
   标签：Database-First / 全栈建站 / Product Hunt #2 / Chat2DB
+- [MPLS Coffee](https://mplscoffee.com) — 明尼苏达州咖啡店目录网站，收录本地咖啡店信息，全程用 Claude Code 完成开发。  
+  标签：目录站 / 本地生活 / Next.js
+- [LibreChat](https://github.com/danny-avila/librechat) — 自托管多模型 AI 聊天平台，在一个隐私友好的界面中统一接入 OpenAI、Anthropic 等主流服务商，支持多用户与插件扩展。  
+  标签：TypeScript / Self-hosted / Chat
+- [RAGFlow](https://github.com/infiniflow/ragflow) — 领先的开源 RAG 引擎，结合深度文档理解与 Agent 能力，可处理 Word、PDF 等复杂格式构建企业级检索问答系统。  
+  标签：Python / RAG / Enterprise
+- [FastGPT](https://github.com/labring/fastgpt) — 基于大模型的知识库问答平台，提供数据处理、RAG 检索、可视化工作流与插件系统，已有超过 50 万用户。  
+  标签：Next.js / Knowledge Base / Workflow
+- [Open WebUI](https://github.com/open-webui/open-webui) — 功能丰富的自托管 AI 平台，支持 Ollama 及各类 OpenAI 兼容接口，可完全离线运行，界面体验接近 ChatGPT。  
+  标签：Svelte / Ollama / Self-hosted
+- [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — 社区维护的开源 Bolt.new 替代品，可在浏览器里用提示词生成完整全栈应用，支持 19+ AI 提供商与本地模型。  
+  标签：WebContainer / Full-stack / Ollama
+- [Cloudflare Vibesdk](https://github.com/cloudflare/vibesdk) — Cloudflare 开源的 vibe coding 平台 SDK，让开发者快速搭建自己的「AI 生成全栈应用」体验并一键部署到边缘。  
+  标签：Workers / SDK / App Builder
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -85,14 +97,8 @@
   标签：Python / FastAPI / Stable Diffusion / Redis
 - [Mealmuse 智能餐食](https://mealmuse.ai/) — 拍一张冰箱或小票照片，AI 立刻识别食材并生成个性化食谱、购物清单，照着做就行，懒人做饭神器。  
   标签：图像识别 / 食谱 / AI / 生活
-- [Timeless Memories 老照片复活](https://timelessmemories.me/) — 把泛黄的老照片上传，选个风格，几分钟生成一段动态视频，让结婚照、童年照「活」过来，家庭回忆神器。  
-  标签：老照片 / 视频生成 / 回忆 / AI
 - [Stories of Life 成长睡前故事](https://stories-of-life.vercel.app/) — 根据孩子的年龄、兴趣和心情生成专属睡前故事，故事会随着孩子一起长大，还能追踪情绪变化。  
   标签：睡前故事 / 亲子 / 个性化 / AI
-- [Nora AI 视频家教](https://noratutor.xyz/) — 像视频通话一样跟 AI 导师学知识，实时对话、实时转录与总结，还能自动生成学习计划和提醒。  
-  标签：教育 / AI 导师 / 视频对话 / 学习
-- [CareerCloud 简历优化](https://careercloud.io/) — AI 帮你优化简历适配 ATS 系统，匹配职位描述并给出改进建议，还提供多行业模板和应用效果追踪。  
-  标签：简历 / 求职 / ATS / 职业发展
 - [Photo AI 个人写真工厂](https://photoai.com/) — Pieter Levels 的旗舰产品，上传自拍训练个人模型，一键生成写真级照片和视频，月入超 10 万美元。  
   标签：写真 / 个人模型 / 图像生成 / 变现
 - [Interior AI 装修预览](https://interiorai.com/) — 上传房间照片，AI 立刻生成多种装修风格效果图，北欧、工业、极简随意切换，装修前先看一眼效果。  
@@ -189,6 +195,62 @@
   标签：GitHub 2.4万★ / Agent 记忆 / 腾讯云 / 团队共享
 - [Agent Skills - Addy Osmani 的可复用技能合集](https://github.com/addyosmani/agent-skills) — 前 Chrome 工程总监 Addy Osmani 开源维护的可复用 Agent Skills 合集，把「怎么让 Agent 干好活」沉淀成标准化技能。GitHub 8.9 万+ Star，已成为 Agent 技能生态的事实标准参考。  
   标签：GitHub 8.9万★ / Agent Skills / Addy Osmani / 技能生态
+- [Timeless Memories](https://timelessmemories.me) — 将老照片转为 AI 动态视频的网站，让静态照片呈现动态效果。  
+  标签：图生视频 / AI 视频 / 照片修复
+- [Nano-Banana-Desktop](https://github.com/danielrosehill/Nano-Banana-Desktop) — 桌面端 AI 图像编辑小工具，调用图像模型完成快速修图操作。  
+  标签：图像编辑 / 桌面工具 / AI 绘图
+- [NanoBananaEditor](https://github.com/markfulton/NanoBananaEditor) — 基于 Gemini 2.5 Flash 图像模型的 AI 图片生成与编辑器，开源实现。  
+  标签：Gemini / 图像生成 / 开源
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code) — 将网页截图、Figma 设计稿转换为 HTML/Tailwind 或 React 等前端代码的开源工具，支持 GPT 与 Claude 视觉模型。  
+  标签：Next.js / GPT-4 Vision / Tailwind CSS
+- [Kokoro Web](https://github.com/eduardolat/kokoro-web) — 基于 Kokoro TTS 模型的免费在线语音合成网站，可在线使用或自托管，无需安装即可把文本转成语音。  
+  标签：Web Audio / TTS / 自托管
+- [Voicebox](https://github.com/jamiepine/voicebox) — 开源 AI 配音工作室，可从几秒音频克隆声音，支持 23 种语言、多引擎语音合成和全局快捷键听写。  
+  标签：TTS / 语音克隆 / Electron
+- [VibeVoice](https://microsoft.github.io/VibeVoice) — 微软开源的长篇多人有声内容生成模型，可生成表达自然的多说话人播客类音频。  
+  标签：TTS / 播客 / 深度学习
+- [Agnes Video Generator](https://github.com/lcy362/agnes-video-generator) — 可自托管的免费 AI 视频生成器，通过 Web UI 将文本转为多场景视频，自动配音并生成字幕与数字人画面。  
+  标签：文生视频 / Web UI / Python
+- [OpenShorts](https://github.com/mutonby/openshorts) — 开源短视频剪辑工具，用 AI 检测长视频中的精彩片段，自动裁成 9:16 竖屏短片并加人脸追踪字幕与配音。  
+  标签：视频剪辑 / AI 检测 / 字幕生成
+- [Podcastfy](https://github.com/souzatharsis/podcastfy) — NotebookLM 播客功能的 Python 开源替代，可将 PDF、网页、图片等多模态内容转成多语言双人对谈音频。  
+  标签：Python / LLM / TTS / RAG
+- [Open Generative AI](https://github.com/anil-matcha/open-generative-ai) — 聚合 400 多个图像、视频生成模型的开源工作台，提供图片、视频、对口型等多间工作室的统一界面。  
+  标签：Stable Diffusion / Flux / 视频生成
+- [AI SaaS 图像生成模板](https://github.com/getFrontend/next-app-ai-saas) — 基于 Next.js 的 AI 图像生成 SaaS 模板，内置积分计费与支付系统，可直接部署运营。  
+  标签：Next.js / SaaS / Stripe
+- [SD.Next](https://github.com/vladmandic/sdnext) — 基于 Stable Diffusion 的全功能一体化 WebUI，支持图像与视频生成的最新模型和扩展功能。  
+  标签：Stable Diffusion / WebUI / PyTorch
+- [AI Headshot Generator](https://github.com/SamurAIGPT/ai-headshot-generator) — 开源的 AI 职业头像生成器模板，Next.js 全栈实现，可作为自助式 SaaS 的起步项目。  
+  标签：Next.js / Replicate / SaaS
+- [Headshot AI](https://vercel.com/templates/next.js/headshot-ai) — Astria 出品的 AI 专业头像生成 starter kit，一键部署到 Vercel，包含训练与生图的完整流程。  
+  标签：Next.js / Vercel / 图像生成
+- [AnythingLLM](https://github.com/mintplex-labs/anything-llm) — 一体化 AI 应用：与文档对话、使用 AI Agent、多用户协作，支持完全离线运行，MIT 协议。  
+  标签：RAG / 向量检索 / Docker
+- [RepoClip](https://repoclip.io) — 把 GitHub 仓库自动变成带旁白解说的产品演示视频的在线工具，适合开发者做项目宣传。  
+  标签：AI 视频 / GitHub / 产品演示
+- [IndieTools](https://indietools.work) — 独立开发者常用的 AI 与开发工具导航站，收录各类建站、设计和变现工具，本身也是 vibe coding 作品。  
+  标签：导航站 / 独立开发 / Next.js
+- [Continue](https://github.com/continuedev/continue) — 开源 AI 编码助手，提供 IDE 扩展、CLI 与 CI 检查三种形态，支持自定义模型与规则的可控智能体开发。  
+  标签：VS Code Extension / CLI / CI
+- [Tabby](https://github.com/TabbyML/tabby) — 可自托管的开源 Copilot 替代品，具备仓库级上下文理解能力，支持私有化部署保障代码安全。  
+  标签：Rust / Code Completion / Self-hosted
+- [Context7](https://github.com/upstash/context7) — Upstash 出品的 MCP 服务器加 CLI，实时把最新版本框架文档注入 LLM 提示词，杜绝过时 API 幻觉。  
+  标签：MCP / Docs / Context
+- [claude-context](https://github.com/zilliztech/claude-context) — Zilliz 开发的语义代码搜索 MCP 服务器，结合 BM25 与向量检索为大模型瘦身上下文，token 消耗降低约四成。  
+  标签：MCP / Vector Search / BM25
+- [VibeKit](https://github.com/superagent-ai/vibekit) — Superagent 推出的 vibe coding 应用构建套件，封装沙箱化的代码生成运行时，方便在自己的产品中嵌入 AI 编程能力。  
+  标签：SDK / Sandbox / Embedding
+- [claude-channel-whatsapp](https://github.com/riasistemas/claude-channel-whatsapp) — 基于 Meta 官方 WhatsApp Cloud API 的 Claude 接入桥，无需逆向抓取即可合规地在 WhatsApp 中召唤智能体。  
+  标签：WhatsApp API / Bridge / Official
+- [codesight](https://github.com/Houseofmvps/codesight) — token 优化器，提取项目路由、数据库结构和组件清单供多种 AI 编码工具使用，显著压缩上传给模型的代码量。  
+  标签：Token Optimizer / Context / CLI
+- [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) — 用 tree-sitter 解析 42 种语言源码并导入 FalkorDB 构建知识图谱，让智能体按依赖关系而非文件名检索代码。  
+  标签：Knowledge Graph / Tree-sitter / FalkorDB
+- [eliniscan](https://github.com/AlpYenigun/eliniscan) — 逐文件扫描整个代码库并为每个文件开独立会话的分析器，适合让 AI 彻底摸清陌生项目的全貌。  
+  标签：Scanner / Analysis / Sessions
+- [gate4agent](https://github.com/ZENG3LD/gate4agent) — Rust 编写的智能体传输层，支持管道、NDJSON、PTY 与 ACP 多种协议，为 CLI 智能体提供稳定的进程通信底座。  
+  标签：Rust / Transport / ACP
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -236,6 +298,88 @@
   标签：PH 381 票 / 云端 Agent / 长时运行 / 团队共享
 - [Soloop - 审批优先型 Agent OS](https://soloop.io) — 面向独立创始人的 agentic 公司构建系统：AI CEO 规划统筹、AI CTO 构建迭代、AI CMO 找用户卖货，重要决策回 founder 审批。从创意到营收，Product Hunt 日榜第二（约 470 票）。  
   标签：PH 日榜 #2 / 约 470 票 / AI CEO/CTO/CMO / 审批优先
+- [PPTAgent](https://github.com/icip-cas/pptagent) — 面向 PowerPoint 生成的智能体框架，通过反思迭代机制参照现有文档版式生成新演示文稿。  
+  标签：Agent / PowerPoint / 研究项目
+- [LobeHub](https://github.com/lobehub/lobehub) — LobeChat 的演进版本，将多个 AI Agent 组织成可持续运转的团队，统一调度和管理任务。  
+  标签：Agent / TypeScript / 自动化
+- [Browser Use](https://github.com/browser-use/browser-use) — 让 AI 智能体像人类一样操作浏览器：打开页面、点击按钮、填写表单，用自然语言描述任务即可自动执行。  
+  标签：Python / Browser Automation / LLM
+- [Browser Use Web UI](https://github.com/browser-use/web-ui) — 为 Browser Use 提供的网页控制台，可在浏览器界面中配置和运行浏览器智能体任务，支持多标签执行与实时回放。  
+  标签：Gradio / Python / Browser Agent
+- [Agent Browser](https://github.com/vercel-labs/agent-browser) — Vercel 推出的 Rust 高性能浏览器自动化 CLI，专为 AI 智能体设计，输出精简文本以最大限度减少上下文占用。  
+  标签：Rust / CLI / Playwright
+- [Nanobrowser](https://github.com/nanobrowser/nanobrowser) — 开源 Chrome 扩展形式的 AI 网页自动化工具，采用多智能体架构，被视为 OpenAI Operator 的免费替代品，支持灵活更换 LLM。  
+  标签：Chrome Extension / Multi-Agent / TypeScript
+- [Skyvern](https://github.com/skyvern-ai/skyvern) — 利用 LLM 与计算机视觉自动完成浏览器工作流，提供 Playwright 兼容 SDK，可导航从未见过的网站并完成表单填写与数据提取。  
+  标签：Python / Computer Vision / Playwright
+- [Sim](https://github.com/simstudioai/sim) — 开源的 AI 智能体协作工作区，提供类 Figma 的可视化画布构建、部署和监控 Agent 工作流，常被作为 n8n 的开源替代。  
+  标签：Next.js / Workflow / Low-code
+- [Strix](https://github.com/usestrix/strix) — 自主 AI 渗透测试智能体，像真实黑客一样动态运行代码发现漏洞并验证真实性，可与 GitHub Actions 集成到 CI/CD 流程。  
+  标签：Python / Security / CI/CD
+- [OpenHands](https://github.com/OpenHands/OpenHands) — 前身为 OpenDevin 的开源自主开发智能体平台，提供 CLI、GUI 和云端三种模式，支持 Claude、GPT 等多种模型完成编码任务。  
+  标签：Python / Dev Agent / Sandbox
+- [Deep Agents](https://github.com/langchain-ai/deepagents) — LangChain 基于 LangGraph 构建的复杂智能体框架，内置规划工具、文件系统后端与子智能体调度，适合搭建深度研究类应用。  
+  标签：LangGraph / Python / Planning
+- [Plandex](https://github.com/plandex-ai/plandex) — 终端中的 AI 编程智能体，专注于大型复杂多文件任务的分步规划与执行，拥有 200 万 token 上下文与版本化沙箱机制。  
+  标签：Go / Terminal / Git
+- [gptme](https://github.com/gptme/gptme) — 个人终端 AI 智能体，内置本地工具用于写代码、执行 Shell、读写文件和浏览网页，强调在本地环境自主完成任务。  
+  标签：Python / CLI / Local Tools
+- [Claude Engineer](https://github.com/Doriandarko/claude-engineer) — 基于 Claude 的自改进命令行助手，能够为自己的工具库生成新工具，交互式完成软件工程任务的智能体项目。  
+  标签：Python / Anthropic / Tool Building
+- [MyCoder](https://github.com/bhouston/mycoder) — 开源编程助手智能体，深度集成 Git/GitHub 工作流，支持并行执行多个子任务以加速大型修改的落地。  
+  标签：TypeScript / Git / Parallel
+- [RA.Aid](https://github.com/ai-christianson/RA.Aid) — 基于 LangGraph 构建的独立研究与开发智能体，可执行研究规划与多步骤编码实现任务，独立于任何 IDE 运行。  
+  标签：Python / LangGraph / Research
+- [Kimi CLI](https://github.com/MoonshotAI/kimi-cli) — 月之暗面官方推出的 Kimi 命令行编码助手，面向终端编程工作流，支持自然语言驱动的代码生成与仓库操作。  
+  标签：Python / CLI / Coding Agent
+- [Crush](https://github.com/charmbracelet/crush) — Charmbracelet 出品的终端 AI 编码智能体，主打精美界面与多模型切换，号称「最优雅的终端编程智能体」。  
+  标签：Go / TUI / Multi-model
+- [grok-cli](https://github.com/superagent-ai/grok-cli) — 由 Grok 大模型驱动的命令行编程助手，可在终端中通过自然语言完成代码搜索、编辑与 Shell 命令执行。  
+  标签：TypeScript / CLI / Grok
+- [DeepCode](https://github.com/HKUDS/DeepCode) — 港大数据智能实验室推出的开放研究智能体（Open Deep Research），论文转代码能力强，在 PaperBench 上报告了 SOTA 表现。  
+  标签：Python / Research / Paper2Code
+- [Qwen Code](https://github.com/QwenLM/qwen-code) — 阿里 Qwen 团队开源的命令行编码智能体，针对 Qwen3 系列模型优化，支持仓库级理解与终端内的自然语言开发。  
+  标签：TypeScript / CLI / Qwen
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) — 谷歌开源的终端 AI 智能体，把 Gemini 带入命令行开发工作流，提供慷慨的免费额度并支持 ReAct 循环与工具调用。  
+  标签：TypeScript / CLI / Gemini
+- [Task Master](https://github.com/eyaltoledano/claude-task-master) — 为 Cursor、Lovable、Windsurf 等 AI 编辑器设计的即插即用任务管理系统，可将 PRD 自动拆解为带依赖关系的开发任务流。  
+  标签：Node.js / PRD / Task Planning
+- [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) — 看板式编排工具，可同时管理 10 多个 AI 编码智能体，用隔离 git worktree 并行派发任务并审查各智能体的产出。  
+  标签：Rust / Kanban / Worktree
+- [CCPM](https://github.com/automazeio/ccpm) — 基于 GitHub Issues 和 Git worktree 为 Claude Code 打造的项目管理系统，将需求规格转化为可并行执行的智能体任务流。  
+  标签：GitHub Issues / Workflow / Parallel
+- [Archon](https://github.com/coleam00/Archon) — AI 编程助手的知识库与任务管理中枢，通过 MCP 向 Claude Code 等智能体提供检索增强的记忆底座。  
+  标签：Python / MCP / Knowledge Base
+- [ORCH](https://github.com/oxgeneral/ORCH) — 把 Claude Code、Codex、Cursor 协调成类型化智能体团队的 CLI 运行时，负责跨工具的任务路由与状态管理。  
+  标签：CLI / Orchestration / Multi-agent
+- [myclaude](https://github.com/stellarlinkco/myclaude) — 多智能体编排器，可将任务智能路由给 Claude Code、Codex、Gemini、OpenCode 等不同编码智能体协同处理。  
+  标签：Routing / Multi-agent / CLI
+- [nexus-agents](https://github.com/nexus-substrate/nexus-agents) — 具备复合路由能力的智能体编排平台，内置 30 个 MCP 工具与 12 个领域专家智能体，支持复杂工作流组合。  
+  标签：MCP / Orchestration / Experts
+- [Opcode](https://github.com/winfunc/opcode) — 基于 Tauri 的桌面 GUI，用于管理 Claude Code 会话、运行自定义智能体并查看用量分析，本地优先设计。  
+  标签：Tauri / Desktop / Session Manager
+- [chief](https://github.com/MiniCodeMonkey/chief) — 把 Claude Code 包裹进循环的 CLI 工具，依据 PRD 文档逐任务推进并在每个任务完成后自动提交代码。  
+  标签：CLI / Automation / PRD
+- [Subagents 精选集](https://github.com/wshobson/agents) — 收录 100 余个面向 Claude Code 的领域专用子智能体集合，覆盖后端、前端、运维等场景，按需装配即用。  
+  标签：Subagents / Collection / MCP
+- [AutoGen](https://github.com/microsoft/autogen) — 微软开源的多智能体对话框架及示例集，涵盖群聊协作、嵌套对话、RAG 群聊与多模态智能体等大量可运行案例。  
+  标签：Python / Multi-agent / Microsoft
+- [crewAI Examples](https://github.com/crewAIInc/crewAI-examples) — CrewAI 官方多智能体应用示例库，包含旅行规划、股票分析、招聘生成、游戏制作团队等多个开箱即用的 crew 项目。  
+  标签：CrewAI / Python / Examples
+- [Agno](https://github.com/agno-agi/agno) — 全栈智能体框架及配套 cookbook，提供金融分析、研究、客服、YouTube 解析、菜谱创作等大量可直接运行的智能体实例。  
+  标签：Python / Framework / Cookbook
+- [RecAI](https://github.com/microsoft/RecAI) — 微软开源的推荐智能体项目，用 LLM 构建会话式商品推荐系统，展示推荐系统集成大模型的完整落地路径。  
+  标签：Python / Recommender / LLM
+- [Citadel](https://github.com/SethGammon/Citadel) — 编排 Claude Code 智能体舰队的框架，通过生命周期钩子管理多个智能体的启动、监督与回收，适合流水线化开发。  
+  标签：Fleet / Hooks / Orchestration
+- [AI Travel Agent](https://github.com/nirbar1985/ai-travel-agent) — 基于多智能体协作的旅行行程规划助手，自动整合航班、酒店与景点信息生成个性化旅行方案。  
+  标签：Travel / Multi-agent / Planner
+- [Jobber](https://github.com/sentient-engineering/jobber) — 招聘场景的多智能体应用，自动匹配候选人与职位要求，完成简历筛选与人岗契合度评估。  
+  标签：Recruiting / Matching / Multi-agent
+- [Executive AI Assistant](https://github.com/langchain-ai/executive-ai-assistant) — LangChain 生产级 AI 邮件助理，可在 LangGraph Platform 上运行，通过人类确认环节代你起草、分类和回复邮件。  
+  标签：LangGraph / Email / Human-in-loop
+- [Agent Inbox](https://github.com/langchain-ai/agent-inbox) — LangChain 开源的人机协同收件箱界面，用 interrupt 机制让人工介入审核 LangGraph 智能体的中间决策。  
+  标签：React / HITL / LangGraph
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -287,6 +431,88 @@
   标签：病毒传播 / 3 天 5000 美元 / macOS
 - [Acti - 世界首个「Agentic 键盘」](https://openacti.com) — TypeX 出品的世界首个「Agentic 键盘」：在任何 App 的输入框里长按 Acti Bar，键盘直接把意图变成结果 / 链接 / 操作（查赛程、拉 Notion、建会议链接），还能把任意按键绑成自定义技能。Product Hunt 当日 #1、Android 10 万+ 下载，把 AI Agent 放进了你打字的地方。  
   标签：PH 当日 #1 / Agentic 键盘 / 10万+ 下载 / iOS/Android
+- [PrintPigeon](https://printpigeon.co.uk) — 在线打印寄信服务，上传 PDF 即可自动打印并通过邮局寄出，三天内用 Lovable 完成。  
+  标签：打印服务 / 文档处理 / 支付
+- [ASCIIKeyboard](https://github.com/levz0r/ASCIIKeyboard) — macOS 菜单栏应用，把实时键入内容转换成 FIGlet 字体的 ASCII 艺术展示。  
+  标签：macOS / 菜单栏 / ASCII 艺术
+- [Context](https://github.com/indragiek/Context) — 原生 macOS 客户端，用于测试和调试 MCP 服务器，使用 Claude Code 构建。  
+  标签：MCP / 调试工具 / Swift
+- [DecayBlock](https://chromewebstore.google.com/detail/decayblock/nfkgjmgdbpeemhbhhlcbmlkeofcnbhnh) — Chrome 扩展，通过渐进式限制网站访问来帮助用户保持专注。  
+  标签：Chrome 扩展 / 专注 / 屏蔽网站
+- [Markdown Printer](https://github.com/levz0r/markdown-printer) — 浏览器扩展，把当前网页保存为排版良好的 Markdown 文件。  
+  标签：Chrome 扩展 / Markdown / 网页剪藏
+- [claude-code-statusline](https://github.com/levz0r/claude-code-statusline) — 为 Claude Code 终端添加状态栏的工具，实时显示会话信息、Token 用量与成本。  
+  标签：Claude Code / 终端 / 状态栏
+- [html-to-markdown-mcp](https://github.com/levz0r/html-to-markdown-mcp) — 基于 Turndown.js 的 MCP 服务器，把 HTML 内容转换为 Markdown 供 AI 调用。  
+  标签：MCP / HTML 转 Markdown / Node.js
+- [Flowbound](https://flowbound.app) — 基于心理学原理设计的反拖延生产力应用，帮助用户推进任务。  
+  标签：拖延症 / 任务管理 / 心理学
+- [LunchBox Buddy](https://joyful-froyo-b4482b.netlify.app) — 拍摄冰箱照片即可获得便当搭配建议的应用，解决每日午餐选题问题。  
+  标签：图像识别 / 食谱建议 / 家庭
+- [Time Tracker](https://time.wisdemic.com) — 简洁的时间记录工具，用来统计各项工作所花时长。  
+  标签：时间统计 / 计时 / 仪表盘
+- [Lash Tracker](https://lash-map-tracker.replit.app) — 用拍照方式记录美睫款式变化的应用，方便顾客与技师管理睫毛档案。  
+  标签：图像记录 / 美业 / Replit
+- [My Baby Logger](https://mybabylogger.com) — 新生儿喂养、睡眠、换尿布与用药一体化记录工具，面向新手父母。  
+  标签：育儿记录 / 日志 / 移动端
+- [How Many Layers](https://howmanylayersidag.se) — 极简天气应用，根据当日气温建议出门该穿几层衣服。  
+  标签：天气 / 极简 / 穿衣建议
+- [DummyForms](https://dummyforms.com) — 无代码表单搭建工具，曾在 Lovable 黑客松中获奖后持续迭代。  
+  标签：表单 / 无代码 / SaaS
+- [CourtSync Calendar](https://courtsynccalendar.com) — 从 PDF 法律文书中提取开庭日期并同步到日历的工具，服务律师日常工作。  
+  标签：文档解析 / 日历同步 / 法律
+- [ResumeLM](https://github.com/olyaiy/resume-lm) — 免费开源的 AI 简历构建器，可生成对 ATS 友好的专业简历，并针对具体职位定制版本。  
+  标签：Next.js / 简历 / LLM
+- [Reactive Resume](https://github.com/amruthpillai/reactive-resume) — 注重隐私的免费简历构建器，支持多页布局、LinkedIn 导入，模板可定制且数据完全自持。  
+  标签：React / Node.js / Docker
+- [AI Resume Builder](https://github.com/SamurAIGPT/ai-resume-builder) — 开源 AI 简历优化工具，可量化成果描述并按 ATS 规则输出简历，附完整 Next.js SaaS 结构。  
+  标签：Next.js / ATS / 简历解析
+- [OpenResume](https://github.com/xitanggg/open-resume) — 强大的开源简历构建与解析工具，基于 Next.js App Router 构建，实时预览并可导入现有 PDF。  
+  标签：Next.js / React / PDF 解析
+- [aichat](https://github.com/sigoden/aichat) — 全能型 LLM 命令行工具，集成 Shell 助手、REPL、RAG 与智能体功能，统一接入 20 多家模型服务商。  
+  标签：Rust / CLI / RAG
+- [Immich Photo Manager](https://github.com/drolosoft/immich-photo-manager) — 为自托管照片库 Immich 打造的自然语言管理界面，用一句话完成照片搜索、整理与批量操作。  
+  标签：Immich / NL Interface / Photos
+- [ccusage](https://github.com/ccusage/ccusage) — 离线分析 Claude Code 用量的 CLI，直接解析本地 JSONL 转录记录统计 token 消耗与费用，GitHub 万星热门小工具。  
+  标签：CLI / Analytics / Cost
+- [claude-mem](https://github.com/thedotmack/claude-mem) — 自动捕获并压缩 Claude Code 会话历史形成可检索记忆，让智能体在新会话中延续上下文不再失忆。  
+  标签：Memory / SQLite / Hooks
+- [claude-supermemory](https://github.com/supermemoryai/claude-supermemory) — 基于 Supermemory 的持久化跨会话记忆层，让 AI 助手记住历史偏好与决策并在任意会话调用。  
+  标签：Memory / Persistence / API
+- [reporecall](https://github.com/proofofwork-agency/reporecall) — 本地代码库记忆工具，用 tree-sitter AST 索引加混合检索，帮助智能体在大仓库中快速找回相关代码上下文。  
+  标签：Tree-sitter / Hybrid Search / Indexing
+- [vibeguard](https://github.com/majiayu000/vibeguard) — 实时拦截 AI 幻觉操作的守护系统，内置 88 条规则、13 个钩子与 14 个检查智能体，防止错误代码入库。  
+  标签：Guardrails / Hooks / QA
+- [whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) — 把 WhatsApp 作为 Claude 的链接设备接入的桥接插件，支持媒体传输与语音转录，随时随地向智能体下达指令。  
+  标签：WhatsApp / Bridge / Voice
+- [discoclaw](https://github.com/DiscoClaw/discoclaw) — Discord 到 Claude 的桥接机器人，带有持久记忆与定时任务能力，让你在 Discord 里驱动智能体干活。  
+  标签：Discord / Bot / Cron
+- [jarvis 运维助手](https://github.com/Ramsbaby/jarvis) — 把闲置的 AI 订阅变成 24 小时运维系统：Discord 机器人加 RAG 知识库，随时响应并自动处理例行事务。  
+  标签：Discord / RAG / Ops
+- [sniff 质检一条龙](https://github.com/Aboudjem/sniff) — 一条命令跑完 QA 套件：死链检测、无障碍审计、视觉回归与 Lighthouse 性能评分，适合 vibe coded 站点验收。  
+  标签：QA / Accessibility / Lighthouse
+- [Superset](https://github.com/superset-sh/superset) — 桌面端多智能体并行编排器，用 Git worktree 隔离多个编码智能体同时开工，互不干扰地推进不同任务。  
+  标签：Desktop / Worktree / Parallel
+- [parallel-code](https://github.com/johannesjo/parallel-code) — 在同一桌面环境中同时运行 Claude Code、Codex CLI 和 Gemini CLI，横向对比三家智能体的输出效果。  
+  标签：Electron / Comparison / CLI
+- [claude-code-organizer](https://github.com/mcpware/cross-code-organizer) — 仪表盘加 MCP 服务器的组合，集中管理 Claude Code 的记忆文件、技能、服务器配置和钩子。  
+  标签：Dashboard / MCP / Config
+- [avante.nvim](https://github.com/avante-corp/avante.nvim) — Neovim 上复刻 Cursor AI 编辑体验的插件，支持内联建议、文件级编辑与智能体模式，深受 Vim 党欢迎。  
+  标签：Neovim / Lua / IDE Plugin
+- [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) — Neovim AI 编程插件，内置智能体与斜杠命令体系，可连接多种 LLM 在编辑器内完成补全与重构。  
+  标签：Neovim / Lua / Agents
+- [peon-ping](https://github.com/PeonPing/peon-ping) — 魔兽争霸农民语音播报 AI 智能体事件的趣味通知工具，任务开始、成功、失败都有经典音效提醒。  
+  标签：Notifications / Audio / Fun
+- [notch-so-good](https://github.com/deepshal99/notch-so-good) — 住在 MacBook 刘海里的像素螃蟹，实时观察你的 AI 编码会话状态并用动画反馈当前进展。  
+  标签：macOS / Pixel Art / Status
+- [claude-time](https://github.com/nexusbuildsai/claude-time) — 向每次 AI 提示注入本地实时时间与时区的轻量钩子，避免智能体对「今天几号」产生幻觉。  
+  标签：Timezone / Hook / Prompt
+- [burnd](https://github.com/garvitsurana271/burnd) — 成本控制 CLI，识别 8 种常见 token 泄漏模式并给出节省估算，帮团队管住 AI 编码开销。  
+  标签：Cost / CLI / Optimization
+- [cc-cost](https://github.com/lob-labs/cc-cost) — 单文件 Python 命令行工具，汇报 Claude Code 使用成本、缓存命中率与最贵对话轮次。  
+  标签：Python / Cost / Report
+- [ccmanager](https://github.com/kbwo/ccmanager) — AI 编码会话管理器，统一管理 Claude Code、Gemini CLI、Codex、Cursor 等多个智能体的后台会话。  
+  标签：Session Manager / CLI / Multi-tool
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -298,8 +524,6 @@
   标签：Three.js / 多人在线 / 广告变现 / 浏览器游戏
 - [Astrocade - 许愿即游戏](https://www.astrocade.com) — 李飞飞联合创办的「AI 游戏版 TikTok」，一句话生成可玩游戏，上线 8 个月 2000 万用户、7.5 万款游戏，融资近 4 亿元。  
   标签：文生游戏 / UGC / AI / 娱乐
-- [Storypot 故事锅](https://app.thestorypot.com/) — 把几个 emoji 丢进锅里，AI 就变出一篇短故事。作者为女儿做的周末项目，暖心又上头，全家都爱玩。  
-  标签：emoji / 故事生成 / 亲子 / 创意
 - [Vibe Jam AI 游戏大赛](https://vibej.am/) — Pieter Levels 主办的 AI 游戏开发大赛，要求 90%+ 代码由 AI 编写，话题全网 1.1 亿曝光，Vibe Coding 圈的年度盛事。  
   标签：大赛 / AI 游戏 / 社区 / Levelsio
 - [VibeSail 帆船模拟器](https://vibesail.com/) — 受 Fly Pieter 启发的 3D 帆船游戏，真实航行物理、每日竞速、多人联机，上线几天就冲到 $3K+ MRR。  
@@ -322,8 +546,6 @@
   标签：Vibe Jam 季军 / 多人 / 低多边形
 - [Rotshot 丧尸射击](https://rotshot.netlify.app) — aibuiltgames 人气榜第 2（53 赞）的丧尸末日生存射击游戏，爽快的手感与紧张的求生氛围。  
   标签：生存射击 / 热门榜 / 浏览器游戏
-- [Society Fail 末日挂机](https://society.fail) — 末日废土挂机游戏，代码几乎全由 AI 编写且开源（MIT），aibuiltgames 24 赞，休闲到停不下来。  
-  标签：挂机游戏 / 开源 / 废土题材
 - [Duke Nukem 3D 2025](https://duke.jobboardsearch.com) — 用 Grok 和 Claude 重制的浏览器版 3D 射击游戏，致敬 90 年代经典，aibuiltgames 17 赞。  
   标签：FPS / 重制 / 浏览器游戏
 - [Stellar Drift 星海漂移](https://stellar-drift.web.app) — 探索宇宙收集资源的太空休闲游戏，aibuiltgames 14 赞，唯美星空与收集的满足感。  
@@ -350,6 +572,58 @@
   标签：全美热搜第一 / NBA 球星 / 开创现象 / 体育选秀
 - [Meccha Chameleon - Paint-to-Hide 捉迷藏爆款](https://store.steampowered.com/search/?term=Meccha+Chameleon) — 两名日本独立开发者用约两个月、零广告做出 Steam 捉迷藏爆款：玩家把自己涂成环境色躲猫猫。上线 63 天破 2000 万份、峰值 34 万同时在线、周销量登顶 Steam 全球榜，AI 辅助美术与快速迭代，被称为 Among Us / Fall Guys 接班人。  
   标签：Steam 爆款 / 2000 万份 / 零广告 / AI 美术
+- [DOOMscroll](https://gisnep.com/doomscroll) — DOOM 风格的滚动射击网页游戏，敌人是真实《纽约时报》新闻标题，由 AI 编程完成。  
+  标签：浏览器游戏 / Canvas / 新闻 API
+- [Cowboy Shooter](https://cowboy.raymelon.com) — 3D 西部狂野跑酷射击网页游戏，代码和音效素材 100% 由 AI 生成，无手写代码。  
+  标签：Three.js / 3D 游戏 / AI 素材
+- [Vector Tango](https://vector-tango.com) — 低多边形空中交通管制题材网页游戏，融合多机调度与对战元素，AI 辅助开发。  
+  标签：Three.js / 策略游戏 / WebGL
+- [Snake Survival](https://snake-survival.lovable.app) — 野外生存主题的 3D 动作贪吃蛇网页游戏，支持单人模式和 PvP 对战。  
+  标签：Three.js / 3D 游戏 / 多人对战
+- [Challenge Brew](https://challengebrew.com) — 创建并分享游戏会话挑战的平台，可为挑战设置惩罚与奖励规则。  
+  标签：游戏社交 / 分享 / 社区
+- [Cybertrucksim](https://cybertrucksim.vercel.app) — 驾驶特斯拉 Cybertruck 在线上世界里载客兜风的多人小游戏，数天内用 AI 完成开发并爆红。  
+  标签：Three.js / 多人 / 模拟
+- [ClaudeSpace](https://ladegeraet.github.io/claudespace) — 以 Claude Code 命名的太空射击小游戏，在小行星间穿梭躲避并消灭敌人，托管于 GitHub Pages。  
+  标签：射击 / 街机 / Canvas
+- [Suika Game 网页版](https://suika-game.vercel.app) — 西瓜游戏（合成大西瓜）的复刻网页版，水果两两合成不断进化，益智又上头。  
+  标签：益智 / 物理 / 休闲
+- [Flappi Bird 3D](https://flappi-bird.vercel.app) — 用 Three.js 打造的 3D 版 Flappy Bird，AI 参与了美术与音乐的创作，点穿即玩。  
+  标签：Three.js / 休闲 / 3D
+- [Oyster Arcade](https://arcade.oyster.to) — 复古 CRT 风格的街机合集，内含太空侵略者等多款小游戏，宣称端到端用 Claude Code 构建。  
+  标签：街机 / 复刻 / 合集
+- [Space Defenders](https://jasonleow.com/space-defenders) — 号称用 Sonnet 一次生成通关的太空保卫战，经典 Space Invaders 式塔防射击体验。  
+  标签：射击 / 街机 / 单次生成
+- [Emoji Sim](https://emojisim.com) — 指挥表情包村民的模拟经营游戏，为小人制定规则、建立村庄，看着小世界自行运转。  
+  标签：模拟 / 放置 / 创意
+- [Artbitrator](https://artbitrator.com) — 限时涂鸦对战游戏，多位玩家作画后由 AI 实时担任裁判评分，脑洞与画风齐飞。  
+  标签：多人 / 绘画 / AI
+- [Type Battles](https://typebattles.com) — 竞技打字游戏，带连击、奖杯与 Boss 战机制，把练指法变成闯关冒险。  
+  标签：打字 / RPG / 竞技
+- [Draw Line Racing](https://drawlineracing.chyuang.com) — 画出赛车行驶路线，车辆沿你绘制的轨迹在全球地图上竞速，创意十足的画线竞速玩法。  
+  标签：竞速 / 创意 / 地图
+- [Grid Golf](https://gridgolf.netlify.app) — 高尔夫主题网格解谜游戏，规划最短杆数把球送进洞，规则简单越玩越烧脑。  
+  标签：解谜 / 休闲 / 策略
+- [Mars Landing Simulator](https://marslanding.vercel.app) — 火星着陆模拟器，控制推进器克服火星重力安全降落，体验真实着陆的紧张感。  
+  标签：模拟 / 航天 / 休闲
+- [Dyson Defender](https://dyson-defender.vercel.app) — 塔防射击游戏：指挥防御系统抵御外星人 wave 攻势，守护你的戴森球。  
+  标签：塔防 / 科幻 / 射击
+- [Tanks AI](https://tanksai.com) — 坦克大战题材对战游戏，操作坦克在战场上机动走位、摧毁敌方装甲单位。  
+  标签：坦克 / 对战 / 街机
+- [Super Jumper](https://super-jumper-game.web.app) — 跳跃闯关小游戏，抓准时机拾取加速道具一路冲向终点，关卡紧凑爽快。  
+  标签：平台跳跃 / 休闲 / 街机
+- [Wildlife](https://wildlife-game.vercel.app) — 将同色瓷砖连线消除得分的休闲拼图游戏，野生动物主题画面清新治愈。  
+  标签：消除 / 休闲 / 益智
+- [Earth Simulation](https://o3-experiments-nextjs.fly.dev/earth) — 浏览器里的地球模拟器：模拟气候、地质、演化与文明兴衰及灾难事件。  
+  标签：模拟 / 沙盒 / 实验
+- [Macro Data Refinement](https://macro-data-refinement-five.vercel.app) — 美剧《人生切割术》同款数据精修工作台模拟器，还原剧中神秘 GUI 的沉浸式互动。  
+  标签：模拟 / 影视梗 / UI
+- [Word God](https://experimentswithai.com/word-god-mindfulness-game.html) — 创世文字游戏：从虚无中组合词语逐步演化出整个宇宙，兼具正念主题的文字玩法。  
+  标签：文字 / 创意 / 休闲
+- [VibeGame 引擎](https://github.com/dylanebert/vibegame) — 专为 vibe coding 设计的 3D 游戏引擎，采用声明式 HTML 风格语法与 ECS 架构，内置物理与渲染。  
+  标签：引擎 / ECS / 开源
+- [人生重开模拟器 lifeRestart](https://github.com/VickScarlet/remake) — 爆火的开源文字重开人生游戏，随机天赋与事件一键重启人生，社区贡献海量剧本。  
+  标签：文字 / 开源 / 爆款
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -363,6 +637,32 @@
   标签：3.1万+ Star / 港大数据科学实验室 / 自然语言量化 / 多 Agent 投研
 - [Driven - 可信赖的 AI 投资智能体](https://driven.ai) — 可信赖的 AI 投资智能体：把市场洞察直接变成交易动作，而非只给答案。集成 260+ API、实时数据、投资组合与订单流，让投资者在一个工作空间跑完「创意→分析→执行」。Product Hunt 当日精选（2026-08-04，259 票）。  
   标签：PH 精选 / 259 票 / AI 投资 / 260+ API
+- [Aldi Prices](https://github.com/jimlawruk/aldi-prices) — 追踪美国 Aldi 超市商品价格历史变化的网站，代码全部由 Copilot Agent 编写。  
+  标签：Python / 数据追踪 / 爬虫
+- [Actual Budget](https://github.com/actualbudget/actual) — 本地优先的信封式记账预算应用，100% 免费开源，Docker 自托管并支持多端同步。  
+  标签：记账 / 预算 / 本地优先
+- [Firefly III](https://github.com/firefly-iii/firefly-iii) — 最成熟的自托管财务管理系统之一，追踪收支与预算，内置规则引擎、分类报表等丰富功能。  
+  标签：记账 / 自托管 / 报表
+- [Maybe Finance](https://github.com/maybe-finance/maybe) — 原商业个人财务「操作系统」整体开源，多账户管理、投资追踪界面精美，可 Docker 自部署。  
+  标签：理财 / 多账户 / Rails
+- [Sure 理财分支](https://github.com/we-promise/sure) — Maybe Finance 的活跃维护分支，浏览器、macOS 与移动端均可使用，持续更新理财功能。  
+  标签：理财 / 分叉维护 / 自托管
+- [MoneyMatter](https://moneymatter.app) — 开源预算追踪器，支持银行连接自动同步账单，可云端使用也可 Docker 私有化部署。  
+  标签：预算 / 银行同步 / 开源
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio) — 开源财富管理软件，统一追踪股票、ETF 与加密资产，净值与资产配置面板一目了然。  
+  标签：投资组合 / 净值 / 自托管
+- [Wealthfolio](https://wealthfolio.app) — 本地优先的私人投资追踪桌面应用，无需注册账号即可管理投资、净资产与支出数据。  
+  标签：投资追踪 / 本地优先 / 隐私
+- [beancount-gs](https://github.com/BaoXuebin/beancount-gs) — 基于 beancount 的个人记账 RESTful 服务，新版 React + shadcn/ui 前端，支持多人协作记账。  
+  标签：复式记账 / beancount / Go
+- [EasyAccounts 中文记账](https://github.com/QingHeYang/EasyAccounts) — 面向中文家庭与个人的记账软件，Docker 本地部署数据自主可控，集成 AI 助手对话查询流水。  
+  标签：记账 / 中文 / AI 助手
+- [蜜蜂记账 BeeCount](https://github.com/TNT-Likely/BeeCount) — 轻量、本地优先的 Flutter 记账 App，完全开源隐私可控，iOS/Android 双端可用。  
+  标签：记账 App / Flutter / 隐私
+- [简帐 SimpleAccount](https://github.com/timwenx/SimpleAccount) — 专注隐私安全的本地离线记账应用，基于 uni-app 一套代码多端运行，无需联网即可使用。  
+  标签：记账 / uni-app / 离线
+- [easy_write 记账本](https://github.com/wilinz/easy_write) — UI 精美的 Android 记账 App，MVVM + Jetpack Compose 架构，开源可定制自己的记账本。  
+  标签：记账 / Compose / Android
 
 <a id="cat-ai办公" name="cat-ai办公"></a>
 
@@ -388,6 +688,28 @@
   标签：PH 当日 #1 / 665 票 / YC 系 / AI 参谋
 - [OpenWork - 开源版 Claude Cowork](https://openworklabs.com) — Different AI 出品的开源版 Claude Cowork：基于 OpenCode 构建的桌面 AI 协作工作台，支持多 Agent 并行协作、工作流编排、团队一键共享技能与 MCP。本地优先、MIT 开源，GitHub 23k+ Star，是 Cowork/Codex 最具竞争力的开源替代。  
   标签：开源 / 23k Star / Claude Cowork 替代 / 工作流共享
+- [Consile](https://consile.app) — 一体化人事运营平台，整合 HR、薪酬与任务管理，并接入 MCP AI 代理。  
+  标签：HR SaaS / 薪酬管理 / AI Agent
+- [Kalyvox](https://kalyvox.ai) — 为中小企业接听和甄别来电的 AI 语音代理，自动处理入站电话。  
+  标签：语音代理 / 电话客服 / 中小企业
+- [Hi-Ai](https://hi-ai.live) — 每月 5 美元的 AI 服务合集站，提供视频、音乐、图像生成及搜索、报告等功能。  
+  标签：AIGC 合集 / 订阅制 / 多媒体生成
+- [Blueprint Buddy](https://blueprintbuddy-b2c.lovable.app) — 把 B2C 产品页面转化为完整的数据分析埋点方案的免费工具。  
+  标签：数据分析 / 埋点 / 产品运营
+- [PodPrime.ai](https://podprime.ai) — 面向嘉宾主导型播客的一体化操作系统，管理节目制作协作流程。  
+  标签：播客 / 工作流 / SaaS
+- [Pixelco](https://pixelco.io) — 识别网站访客所属公司的线索工具，帮助团队把流量转化为销售线索。  
+  标签：销售线索 / 访客识别 / 增长
+- [Standup Buddy](https://standup-buddy.lovable.app) — 随机打乱团队每日站会发言顺序的小工具，直接在浏览器中使用。  
+  标签：团队协作 / 站会 / 轻量工具
+- [Presenton](https://github.com/presenton/presenton) — 开源 AI 幻灯片生成器与 API，可由提示词或文档生成可编辑的 PPTX/PDF，支持自托管与自定义 AI 服务商。  
+  标签：PPTX / LLM / 自托管
+- [Presentation AI](https://github.com/allweonedev/presentation-ai) — Gamma.app 的开源替代品，输入主题后自动生成带配图与主题样式的演示文稿。  
+  标签：Next.js / 幻灯片 / OpenAI API
+- [SlideDeck AI](https://github.com/barun-saha/slide-deck-ai) — 与 AI 协作共创 PowerPoint 演示文稿的助手，根据输入话题自动组织大纲并导出 PPT 文件。  
+  标签：Streamlit / LLM / PowerPoint
+- [AFFiNE](https://github.com/toeverything/AFFiNE) — 开源的 Notion + Miro 替代品，融合文档、白板与数据库的一体化工作空间，本地优先且内置 AI 能力。  
+  标签：TypeScript / Whiteboard / Local-first
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -403,6 +725,36 @@
   标签：开源 / PH 当日 #2 / AI 导师 / MIT
 - [Wondering - 万物版 Duolingo 学习助手](https://wondering.app) — 被称为「万物版 Duolingo」的 AI 个性化学习助手：输入想学的内容，自动生成短视频课程 + 播客 + 互动练习，把复杂主题拆成记得住、用得上的知识。Product Hunt 当日 #2（2026-08-04，372 票）。  
   标签：PH 当日 #2 / 372 票 / 个性化学习 / 教育
+- [Nora AI](https://noratutor.xyz) — 支持视频对话的 AI 家教应用，可根据学生情况制定学习计划。  
+  标签：AI 家教 / 视频对话 / LLM
+- [Stories of Life](https://stories-of-life.vercel.app) — 根据孩子当下情绪生成个性化睡前故事的 Web 应用。  
+  标签：儿童故事 / AIGC / LLM
+- [DrawCraft](https://drawcraft.io) — 按难度分级的绘画生成练习应用，辅助用户进行绘画创作训练。  
+  标签：绘画 / AIGC / 分级练习
+- [StudentOS](https://student-os.net) — 面向学生的 AI 学习平台，整合笔记、测验与学习计划管理功能。  
+  标签：笔记 / 测验 / 学习计划
+- [GradLoom](https://gradloom.app) — 帮助学生与应届生规划职业方向的平台，可按国家查询职业路径与薪资。  
+  标签：职业规划 / 数据查询 / 学生工具
+- [Language Practice Tutor](https://website0anaya0a.lovable.app) — 任意语言对话陪练示例应用，提供语法纠正与词汇学习的交互式 AI 老师。  
+  标签：语言学习 / 对话陪练 / LLM
+- [vibe-vibe 开源教程](https://github.com/datawhalechina/vibe-vibe) — Datawhale 推出的系统化 Vibe Coding 中文开源教程，讲解从写代码到对话式创作的路径。  
+  标签：教程 / 开源 / 中文
+- [ai-guide 零基础教程](https://github.com/liyupi/ai-guide) — 程序员鱼皮的 AI 资源大全与 Vibe Coding 零基础实战教程，半年收获上万 Star。  
+  标签：教程 / 资源合集 / 开源
+- [aicodeguide](https://github.com/automata/aicodeguide) — 整理 AI 编程入门方法与实践经验的开源指南仓库，常被牛客等社区推荐。  
+  标签：指南 / 开源 / AI 编程
+- [OpenEar](https://github.com/ShacharHarshuv/open-ear) — MIT 协议的开源练耳应用，基于 Tone.js 发声，含音程识别、旋律与和声练习。  
+  标签：Tone.js / Angular / 练耳
+- [Melodre](https://github.com/MaxDevv/Melodre) — 听音符序列并用耳朵辨认的练耳应用，使用 Tone.js 加 Salamander 钢琴采样发声。  
+  标签：Tone.js / 练耳 / 钢琴采样
+- [Audiate](https://github.com/cjbayron/audiate) — 结合机器学习的浏览器练耳游戏，技术栈为 Tone.js、Tonal.js 与 P5.js。  
+  标签：Tone.js / P5.js / 机器学习
+- [TonicSense](https://tonicsense.com) — 用 Next.js 与 Tone.js 打造的在线练耳 Web 应用，专注音准与相对音感的日常训练。  
+  标签：Next.js / Tone.js / Web 应用
+- [Vue Expense Tracker](https://github.com/bradtraversy/vue-expense-tracker) — Brad Traversy 的 Vue 3 Composition API 教学级记账应用，增删收支实时计算余额并存 localStorage。  
+  标签：记账 / Vue3 / 教学
+- [Agents From Scratch](https://github.com/langchain-ai/agents-from-scratch) — LangChain 官方教程项目，从零构建一个带 Gmail 工具的邮件助理智能体，演示 LangGraph 完整链路。  
+  标签：Tutorial / LangGraph / Email Agent
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -432,6 +784,32 @@
   标签：GitHub 2.6万★ / HTML/SVG / 编辑级图表 / Trending #2
 - [Glam AI - 趋势模板生成视觉内容](https://glam.ai) — 面向创作者的 AI 视觉内容工厂：从 2000+ 每日更新的社媒爆款模板里挑趋势，上传一张照片即可生成 viral 级图片/短视频。移动端累计 1600 万+ 月下载，2026-03 网页版登 Product Hunt 当日 #2（589 票），把「追趋势」变成零门槛创作。  
   标签：PH 当日 #2 / 1600万月下载 / 趋势模板 / 创作者
+- [roomGPT](https://github.com/nutlope/roomgpt) — 上传房间照片即可生成多种装修风格的梦想房间效果图，是 Interior.AI 的知名开源复刻。  
+  标签：Next.js / ControlNet / 图像生成
+- [Claude Directory](https://github.com/pulkitxm/claude-directory) — 用 Claude 构建的 AI 生成 UI 实验集合，包含 Hero 区块、GLSL 着色器、设计系统与 3D 组件等作品。  
+  标签：GLSL / UI 实验 / Three.js
+- [Cosmos Animated Gallery](https://v0.app/templates/cosmos-animated-gallery-vjQBnyGKdc3) — v0 社区模板，内置动态画廊、3D 地球卡片墙、黑胶唱片轮播等多种动效组件。  
+  标签：v0 / 动画 / React
+- [LogoCreator](https://github.com/Nutlope/logocreator) — 基于 Flux 模型的免费开源 Logo 生成器，几秒钟生成品牌 Logo 并导出整套品牌物料，无需注册。  
+  标签：Flux / Together AI / Next.js
+- [Logo Generator Skill](https://github.com/op7418/logo-generator-skill) — 专业 SVG Logo 生成技能，依据产品特征产出 6 个以上候选方案并附带高端展示排版。  
+  标签：SVG / Skill / 标志设计
+- [Simple Logo Generator](https://creecros.github.io/simple_logo_gen) — 浏览器端轻量工具，快速制作网站图标和简单 Logo，源码开放。  
+  标签：Canvas / 图标 / 纯前端
+- [PosterCraft](https://github.com/MeiGen-AI/PosterCraft) — 统一框架的高质量美学海报生成模型，擅长精确文字渲染与抽象艺术的自然融合。  
+  标签：海报生成 / 扩散模型 / 文字渲染
+- [CreatiPoster](https://github.com/graphic-design-ai/creatiposter) — 开源 AI 平面设计系统，支持多层可编辑构图，可程序化生成具有商业观感的设计作品。  
+  标签：平面设计 / AI 排版 / 开源
+- [Paper2Poster](https://paper2poster.github.io) — 将学术论文自动转换为结构连贯的学术海报的全流程开源系统。  
+  标签：学术海报 / PDF 解析 / Agent
+- [Airtable Poster Generator](https://github.com/harshitjuneja/airtable-poster-generator-block) — 带富画布编辑器的海报生成 Airtable 扩展，面向品牌营销人员的即时出图工具。  
+  标签：Airtable / 画布编辑 / 海报
+- [Open Pencil](https://github.com/open-pencil/open-pencil) — AI 原生的开源 Figma 替代品，可打开 .fig/.pen 文件，内置 AI 能力并提供 Vue 无头 SDK。  
+  标签：Vue / 设计工具 / Figma 替代
+- [VisoMaster](https://github.com/visomaster/VisoMaster) — 易用的 AI 图像视频换脸与编辑工具，可获得自然的换脸效果，操作门槛较低。  
+  标签：换脸 / 图像编辑 / PyTorch
+- [FaceSwap](https://faceswap.dev/download) — 老牌免费开源多平台 Deepfakes 软件，支持图片与视频中的人脸替换。  
+  标签：Deepfakes / 人脸替换 / TensorFlow
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -457,6 +835,28 @@
   标签：PH 日榜+周榜 #1 / Agentic Commerce / 电商增长引擎 / Shopify/Amazon
 - [Clara AI SDR - 网站访客变销售线索](https://clarasdr.ai) — TruGen AI 出品的 AI 销售代表：实时把官网访客转化为合格线索，自动互动、资质审核、演示、异议处理并预约会议，7×24 接入 CRM。Product Hunt 当日 #1（439 票）。  
   标签：PH 当日 #1 / 439 票 / AI SDR / CRM 集成
+- [EVE BCN](https://evebcn.com) — 巴塞罗那私人葡萄酒与卡瓦酒品鉴游网站，用于展示线路并接受预约。  
+  标签：旅游 / 预约 / 落地页
+- [Aplicativos.poker](https://aplicativos.poker) — 葡萄牙语的线上扑克 App 目录站，对比各平台奖金、返水等信息。  
+  标签：目录站 / SEO / Affiliate
+- [Medusa Next.js 店面](https://github.com/medusajs/nextjs-starter-medusa) — 开源无头电商平台 Medusa 的官方 Next.js 前端起步模板，几分钟即可搭出自有品牌商店。  
+  标签：电商 / 无头 commerce / Next.js
+- [Saleor Storefront](https://github.com/saleor/saleor-storefront) — 约 22k 星的开源无头电商平台 Saleor 官方店面，GraphQL 驱动的高性能 Next.js 商城前端。  
+  标签：电商 / GraphQL / Next.js
+- [Vercel Commerce](https://vercel.com/templates/next.js/commerce) — Vercel 官方高性能电商店面模板，Next.js + Shopify 架构，性能与转化率优化的标杆 demo。  
+  标签：电商 / 模板 / Next.js
+- [Bagisto](https://github.com/bagisto/bagisto) — 基于 Laravel + Vue.js 的开源电商框架，支持多商户市场、移动App与无头商务，开箱即用。  
+  标签：电商 / Laravel / Vue
+- [Link-in-bio 页面生成器](https://github.com/coleam00/link-in-bio-page-builder) — 类 Linktree 的全栈个人链接页生成器，用 Next.js 15 构建，支持自定义链接、标题与分隔符。  
+  标签：Link-in-bio / Next.js / 营销
+- [LibreLinks](https://github.com/urdadx/librelinks) — 开源的 Link-in-bio 平台，几分钟即可创建并自定义个人主页，聚合所有社交与商品链接。  
+  标签：Link-in-bio / 开源 / 创作者
+- [Formbricks](https://github.com/formbricks/formbricks) — 开源 Qualtrics 替代品，隐私优先的调查问卷与用户体验管理平台，支持站内、链接与邮件问卷。  
+  标签：问卷 / 用户调研 / 自托管
+- [Listmonk](https://github.com/knadh/listmonk) — 高性能自托管邮件营销与新闻通讯管理器，Go + PostgreSQL 实现，百万级列表依然迅捷。  
+  标签：EDM / Newsletter / 自托管
+- [Dub 短链接平台](https://github.com/dubinc/dub) — 开源 Bitly 替代的短链接管理平台，内置数据分析、自定义域名、二维码与 bio 页，营销利器。  
+  标签：短链 / 数据分析 / 营销
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -466,6 +866,30 @@
   标签：AI音乐 / 千万用户 / 人声 / 爆火
 - [Udio - AI 音乐创作](https://www.udio.com/) — 与 Suno 齐名的 AI 音乐生成平台，社区热度极高，输入风格与歌词即可产出接近真人的歌曲，激发海量二创。  
   标签：AI音乐 / 社区 / 二创 / 风格多样
+- [Beatseek](https://beatseek.io) — 聚合多个流媒体平台的音乐统一搜索站点，一次搜索定位歌曲在各平台的情况。  
+  标签：音乐 / 聚合搜索 / Spotify
+- [ACE-Step UI](https://github.com/fspecii/ace-step-ui) — ACE-Step 音乐模型的图形界面，本地免费生成最长 4 分钟以上的整曲，界面类似 Spotify。  
+  标签：音乐生成 / Gradio / 本地运行
+- [Awesome-Suno](https://github.com/Zizwar/Awesome-Suno) — 围绕 Suno 收录的开源 AI 音乐生成相关项目和资源的精选清单。  
+  标签：清单 / AI 音乐 / 资源合集
+- [HeartMuLa](https://heart-mula.com/suno-alternative) — 宣称效果接近 Suno 的开源 AI 音乐生成模型，采用 Apache 2.0 协议，支持本地部署。  
+  标签：音乐生成 / Apache 2.0 / 本地部署
+- [Coqui TTS](https://github.com/coqui-ai/tts) — 流行的深度学习语音合成工具箱，内置 1100 多种语言的预训练模型，可训练和微调。  
+  标签：TTS / 深度学习 / 多语言
+- [Ultimate Vocal Remover GUI](https://github.com/anjok07/ultimatevocalremovergui) — 最流行的开源人声分离工具，集成 MDX-Net、Demucs、BS-RoFormer 等前沿分离模型。  
+  标签：人声分离 / Demucs / PyTorch
+- [StemRoller](https://github.com/stemrollerapp/stemroller) — 免费桌面应用，基于 Meta Demucs 一键把任意歌曲拆成人声、伴奏等分轨。  
+  标签：Demucs / 分轨 / 桌面应用
+- [Stemdeck](https://github.com/stemdeckapp/stemdeck) — 现代化人声分轨提取平台，用人声、鼓、贝斯、钢琴的 Meta AI 模型进行音轨分离。  
+  标签：音频分离 / AI 模型 / 平台
+- [python-audio-separator](https://github.com/nomadkaraoke/python-audio-separator) — UVR 同源的 Python 音频分轨库，可批量把歌曲分离为多种乐器与人声轨道。  
+  标签：Python / 音频处理 / 卡拉OK
+- [projectM](https://github.com/projectM-visualizer/projectm) — MilkDrop 后继者，最先进的跨平台开源音乐可视化软件，把音乐实时渲染成迷幻视觉效果。  
+  标签：可视化 / OpenGL / 跨平台
+- [Wav2Bar](https://picorims.github.io/wav2bar-website) — 免费开源的音乐可视化视频制作工具，自定义外观后将音频导出为可视化视频。  
+  标签：可视化 / 视频导出 / Electron
+- [audioMotion-analyzer](https://github.com/hvianna/audioMotion-analyzer) — 高精度 JavaScript 实时音频频谱分析器与可视化库，可数分钟内嵌入任何网站。  
+  标签：Web Audio API / Canvas / 可视化
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 
@@ -475,6 +899,52 @@
   标签：医疗 / 诊后随访 / 医生自研 / 黑客松前三
 - [Cal AI - 拍照算热量的减肥神器](https://www.calai.app/) — 两个 18 岁高中生用 AI 写的卡路里识别 App：拍照/扫码即出热量与营养，8 个月破 500 万下载、单月营收 $200 万、App Store 4.8★（超 27 万评价），TechCrunch 专题报道的「Z 世代 vibe coding 逆袭」代表作。  
   标签：500万下载 / $200万月营收 / 4.8★ / Z世代
+- [Paddles.ai](https://paddles.ai) — 匹克球比赛记录与数据分析应用，提供对局统计和 AI 提升建议。  
+  标签：运动数据 / 统计 / 移动端适配
+- [Hydration Hero](https://liquid-log-glow.lovable.app) — 带提醒功能的智能饮水记录应用，跟踪每日喝水摄入量。  
+  标签：健康记录 / 提醒 / PWA
+- [CarbScan](https://carbscan.ai) — 为糖尿病与血糖管理者估算食物碳水含量的 AI 识图工具。  
+  标签：健康 / 图像识别 / 营养计算
+- [Fud AI](https://github.com/apoorvdarshan/fud-ai) — 免费开源的 iOS/Android 卡路里追踪 App，拍照识餐，自带密钥模式支持 13 家 AI 服务商。  
+  标签：Flutter / Gemini / 营养追踪
+- [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) — 免费开源卡路里追踪应用，按身高体重等活动水平计算目标并记录每餐热量与宏量营养。  
+  标签：Flutter / 营养记录 / 开源
+- [AI Calorie Tracker](https://github.com/tahaygun/ai-calorie-tracker) — BYOK 模式的 AI 卡路里追踪器，对食物照片做高级分析估算热量，无需注册账号。  
+  标签：AI 识图 / 营养 / BYOK
+- [Workout Tracker](https://github.com/jovandeginste/workout-tracker) — 面向个人或家庭使用的运动追踪 Web 应用，侧重跑步等 GPX 轨迹活动的记录与分析。  
+  标签：GPX / Go / 运动记录
+- [MedTimer](https://github.com/Futsch1/medTimer) — 隐私优先的 Android 服药提醒应用，敏感数据全部本地管理，已在 F-Droid 与 Play 上架。  
+  标签：Android / Kotlin / 用药提醒
+- [MediTrak](https://github.com/AdamGuidarini/MediTrak) — 免费开源 Android 用药追踪应用，帮助记录药物并提醒按时服药。  
+  标签：Android / Java / 服药管理
+- [Symptom Checker Chatbot](https://github.com/imonishkumar/Symptom-Checker-Chatbot) — 健康问询聊天机器人，回答常见症状问题并查找附近医疗中心，采用 PyTorch 与 NLTK 实现。  
+  标签：NLP / PyTorch / 聊天机器人
+- [Medical Symptom Checker](https://github.com/LabinatorSolutions/medical-symptom-checker) — 供医生和开发者共同贡献内容的开源症状自查器，提供在线演示，覆盖常见病症判断逻辑。  
+  标签：症状自查 / JavaScript / 开源医疗
+- [Medito](https://github.com/meditohq/medito-app) — 100% 免费无广告的开源冥想 App，Flutter 构建的双端产品，无需注册即用。  
+  标签：Flutter / 冥想 / 心理健康
+- [Table Habit](https://github.com/friesi23/mhabit) — 开源微习惯打卡应用，含积分体系、成长图表与 WebDAV 多端同步，注重隐私本地存储。  
+  标签：Flutter / 习惯打卡 / WebDAV
+- [Habo](https://github.com/xpavle00/Habo) — iOS/Android 双端隐私优先习惯追踪应用，无账号体系也不采集数据。  
+  标签：Flutter / 习惯追踪 / 隐私
+- [MoodTracker](https://github.com/codewithriza/MoodTracker) — AI 心情追踪应用，分析每日情绪记录并给出相应的洞察和建议。  
+  标签：AI 分析 / 情绪记录 / 移动端
+- [Journal Tree](https://github.com/Journal-Tree/Journal-Tree) — AI 日记应用，追踪心情并对日记内容做长期模式分析，呈现情绪变化趋势。  
+  标签：日记 / LLM / 情绪分析
+- [Menstrudel](https://github.com/J-shw/Menstrudel) — 离线免费开源的经期记录 Flutter 应用，界面简洁私密，仅本地保存数据。  
+  标签：Flutter / 经期追踪 / 离线优先
+- [Peri](https://github.com/IraSoro/peri) — 极简经期追踪应用，显示距下次生理期的天数及其他核心周期信息。  
+  标签：Flutter / 周期计算 / 女性健康
+- [Ovumcy](https://github.com/ovumcy/ovumcy-web) — 可自托管、隐私优先的周期追踪服务，提供 Docker 一键部署在自己服务器上运行。  
+  标签：自托管 / Docker / 周期追踪
+- [FlowSync](https://github.com/AmanCrafts/Menstrual-Health-Tracker) — 经期健康管理平台，提供周期预测、症状与情绪记录及健康洞察。  
+  标签：健康平台 / 预测算法 / React
+- [Yoga Pose Prediction](https://github.com/AyushD95/Yoga-Pose-Prediction) — Flask Web 应用，用 YOLO 关键点检测加 PyTorch 分类模型识别照片中的瑜伽体式。  
+  标签：YOLO / PyTorch / Flask
+- [Fitness Trainer Pose Estimation](https://github.com/yakupzengin/fitness-trainer-pose-estimation) — 实时姿态估计健身应用，可统计深蹲次数、监测动作形态并即时给出反馈。  
+  标签：MediaPipe / 姿态估计 / 动作计数
+- [Yoga Pose Detection App](https://github.com/amartya04/Yoga-Pose-Detection-App) — 基于 React 的瑜伽体式检测网页应用，摄像头实时识别并对照标准姿势。  
+  标签：React / PoseNet / 实时检测
 
 <a id="cat-社交社区" name="cat-社交社区"></a>
 
@@ -490,6 +960,26 @@
   标签：PH 日榜 #1 / 680 票 / 23K+ 创作者 / 11+ 平台
 - [Your AI Slop Bores Me - 反 AI 梗游戏](https://youraislopbores.me) — 独立开发者 mikidoodle（Mihir Maroju）做的反 AI 梗游戏：真人轮流扮演 AI chatbot，60 秒内回答陌生人的提问，靠「人味」对抗机器生成内容。2026-03 作为 HN Show HN 发布后一周狂揽 5000 万次访问、峰值 1.6 万人在线，被 Kotaku、Fast Company 争相报道，是年度最出圈的反 AI-slop 社会实验。  
   标签：5000万访问 / HN 爆款 / 反 AI-slop / 真人扮演 AI
+- [Mastodon 长毛象](https://github.com/mastodon/mastodon) — 最知名的去中心化联邦微博客网络，基于 ActivityPub 协议，任何人都可以自建实例加入联邦宇宙。  
+  标签：社交网络 / 去中心化 / ActivityPub
+- [Lemmy](https://github.com/LemmyNet/lemmy) — 联邦化的 Reddit 类链接聚合与讨论社区，支持投票、板块与跨实例互动，常作为去中心化论坛方案。  
+  标签：论坛 / 联邦宇宙 / Reddit 类
+- [Misskey](https://github.com/misskey-dev/misskey) — 功能丰富的联邦系微博客平台，支持 Reactions 表情反应、自定义仪表盘等特色交互，自托管友好。  
+  标签：微博客 / 联邦宇宙 / 自托管
+- [Flarum](https://github.com/flarum/framework) — 轻量优雅的可扩展论坛框架，界面简洁响应迅速，是搭建兴趣社区的流行选择。  
+  标签：论坛 / 社区 / 轻量
+- [Discourse](https://github.com/discourse/discourse) — 现代开源社区讨论平台的事实标准，被无数官方论坛采用，自带邮件订阅、信任等级等完整治理体系。  
+  标签：论坛 / 社区 / 成熟
+- [OSSN 开源社交网络](https://www.opensource-socialnetwork.org) — PHP 编写的全功能社交网络系统，可快速搭建类似 Facebook 的自有社交站点，含动态、好友、相册等模块。  
+  标签：社交网络 / 自建 / PHP
+- [Tweetsphere](https://github.com/devdignesh/tweetsphere) — 使用 Next.js 与 Supabase 打造的功能完整的 X（Twitter）克隆，含发帖、关注与信息流。  
+  标签：Twitter 克隆 / Next.js / Supabase
+- [全栈推特克隆](https://github.com/fatiharapoglu/twitter) — 基于 Next.js 13 与 PostgreSQL/Supabase 的全栈推特克隆，UI 打磨精致，功能覆盖完整社交流程。  
+  标签：社交媒体 / Next.js / PostgreSQL
+- [NextJS-Twitter-Clone](https://github.com/Shaban-Eissa/NextJS-Twitter-Clone) — React + Firebase 构建的社交媒体应用克隆，提供在线 Demo 可直接体验发推与互动。  
+  标签：社交 / Firebase / React
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) — 主流开源团队聊天与社区沟通平台，支持频道、语音视频会议与第三方集成，Slack 替代品。  
+  标签：聊天 / 团队协作 / 自托管
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 

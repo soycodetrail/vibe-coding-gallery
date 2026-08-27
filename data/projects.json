@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T01:01:12.976Z",
+  "updatedAt": "2026-08-27T13:23:52.022Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -338,38 +338,6 @@
       "hot": 0
     },
     {
-      "name": "Storypot 故事锅",
-      "desc": "把几个 emoji 丢进锅里，AI 就变出一篇短故事。作者为女儿做的周末项目，暖心又上头，全家都爱玩。",
-      "url": "https://app.thestorypot.com/",
-      "category": "游戏",
-      "tags": [
-        "emoji",
-        "故事生成",
-        "亲子",
-        "创意"
-      ],
-      "icon": "🍲",
-      "bg": "linear-gradient(135deg, #f83600 0%, #f9d423 100%)",
-      "tool": "Replit",
-      "hot": 0
-    },
-    {
-      "name": "Timeless Memories 老照片复活",
-      "desc": "把泛黄的老照片上传，选个风格，几分钟生成一段动态视频，让结婚照、童年照「活」过来，家庭回忆神器。",
-      "url": "https://timelessmemories.me/",
-      "category": "AI 工具",
-      "tags": [
-        "老照片",
-        "视频生成",
-        "回忆",
-        "AI"
-      ],
-      "icon": "🖼️",
-      "bg": "linear-gradient(135deg, #b721ff 0%, #21d4fd 100%)",
-      "tool": "Lovable",
-      "hot": 0
-    },
-    {
       "name": "ChoresAI 家务管家",
       "desc": "让孩子拍照打卡家务，AI 自动验证是否真的做了，还能分配任务、跟踪奖励、自动记账，带娃神器。",
       "url": "https://www.chores-ai.com/",
@@ -415,38 +383,6 @@
       "icon": "🌙",
       "bg": "linear-gradient(135deg, #41295a 0%, #2f0743 100%)",
       "tool": "Bolt",
-      "hot": 0
-    },
-    {
-      "name": "Nora AI 视频家教",
-      "desc": "像视频通话一样跟 AI 导师学知识，实时对话、实时转录与总结，还能自动生成学习计划和提醒。",
-      "url": "https://noratutor.xyz/",
-      "category": "AI 工具",
-      "tags": [
-        "教育",
-        "AI 导师",
-        "视频对话",
-        "学习"
-      ],
-      "icon": "🎓",
-      "bg": "linear-gradient(135deg, #1f4037 0%, #99f2c8 100%)",
-      "tool": "Bolt",
-      "hot": 0
-    },
-    {
-      "name": "CareerCloud 简历优化",
-      "desc": "AI 帮你优化简历适配 ATS 系统，匹配职位描述并给出改进建议，还提供多行业模板和应用效果追踪。",
-      "url": "https://careercloud.io/",
-      "category": "AI 工具",
-      "tags": [
-        "简历",
-        "求职",
-        "ATS",
-        "职业发展"
-      ],
-      "icon": "📄",
-      "bg": "linear-gradient(135deg, #396afc 0%, #2948ff 100%)",
-      "tool": "Replit",
       "hot": 0
     },
     {
@@ -1010,22 +946,6 @@
       "hot": 0
     },
     {
-      "name": "ChatIQ",
-      "desc": "伦敦非技术创始人用 AI 构建的定制 AI 客服机器人，上线首月 11,300 用户、两个月做到 £7.2K MRR。",
-      "url": "https://chatiq.ai",
-      "category": "Web 应用",
-      "tags": [
-        "AI 客服",
-        "SaaS",
-        "无代码",
-        "独立开发"
-      ],
-      "icon": "💬",
-      "bg": "linear-gradient(135deg, #f953c6 0%, #b91d73 100%)",
-      "tool": "Claude + GPT",
-      "hot": 0
-    },
-    {
       "name": "AIYOU",
       "desc": "单人 36 天 vibe coding 完成的 AI 漫剧创作平台，12 个智能节点覆盖剧本→分镜→成片全流程，生成视频成本低至 2-3 元/分钟。",
       "url": "https://github.com/lay950822/AIYOU",
@@ -1254,21 +1174,6 @@
       ],
       "icon": "🧟",
       "bg": "linear-gradient(135deg, #1a1a2e 0%, #16213e 100%)",
-      "tool": "AI 编码工具",
-      "hot": 0
-    },
-    {
-      "name": "Society Fail 末日挂机",
-      "desc": "末日废土挂机游戏，代码几乎全由 AI 编写且开源（MIT），aibuiltgames 24 赞，休闲到停不下来。",
-      "url": "https://society.fail",
-      "category": "游戏",
-      "tags": [
-        "挂机游戏",
-        "开源",
-        "废土题材"
-      ],
-      "icon": "🏚️",
-      "bg": "linear-gradient(135deg, #134e5e 0%, #71b280 100%)",
       "tool": "AI 编码工具",
       "hot": 0
     },
@@ -3180,6 +3085,3772 @@
       "icon": "💬",
       "bg": "linear-gradient(135deg, #cb2d3e 0%, #ef473a 100%)",
       "tool": "AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "DOOMscroll",
+      "desc": "DOOM 风格的滚动射击网页游戏，敌人是真实《纽约时报》新闻标题，由 AI 编程完成。",
+      "url": "https://gisnep.com/doomscroll",
+      "category": "游戏",
+      "tags": [
+        "浏览器游戏",
+        "Canvas",
+        "新闻 API"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Cowboy Shooter",
+      "desc": "3D 西部狂野跑酷射击网页游戏，代码和音效素材 100% 由 AI 生成，无手写代码。",
+      "url": "https://cowboy.raymelon.com",
+      "category": "游戏",
+      "tags": [
+        "Three.js",
+        "3D 游戏",
+        "AI 素材"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Vector Tango",
+      "desc": "低多边形空中交通管制题材网页游戏，融合多机调度与对战元素，AI 辅助开发。",
+      "url": "https://vector-tango.com",
+      "category": "游戏",
+      "tags": [
+        "Three.js",
+        "策略游戏",
+        "WebGL"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Beatseek",
+      "desc": "聚合多个流媒体平台的音乐统一搜索站点，一次搜索定位歌曲在各平台的情况。",
+      "url": "https://beatseek.io",
+      "category": "音乐音频",
+      "tags": [
+        "音乐",
+        "聚合搜索",
+        "Spotify"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Aldi Prices",
+      "desc": "追踪美国 Aldi 超市商品价格历史变化的网站，代码全部由 Copilot Agent 编写。",
+      "url": "https://github.com/jimlawruk/aldi-prices",
+      "category": "金融财经",
+      "tags": [
+        "Python",
+        "数据追踪",
+        "爬虫"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "MPLS Coffee",
+      "desc": "明尼苏达州咖啡店目录网站，收录本地咖啡店信息，全程用 Claude Code 完成开发。",
+      "url": "https://mplscoffee.com",
+      "category": "Web 应用",
+      "tags": [
+        "目录站",
+        "本地生活",
+        "Next.js"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Paddles.ai",
+      "desc": "匹克球比赛记录与数据分析应用，提供对局统计和 AI 提升建议。",
+      "url": "https://paddles.ai",
+      "category": "医疗健康",
+      "tags": [
+        "运动数据",
+        "统计",
+        "移动端适配"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "PrintPigeon",
+      "desc": "在线打印寄信服务，上传 PDF 即可自动打印并通过邮局寄出，三天内用 Lovable 完成。",
+      "url": "https://printpigeon.co.uk",
+      "category": "效率工具",
+      "tags": [
+        "打印服务",
+        "文档处理",
+        "支付"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Timeless Memories",
+      "desc": "将老照片转为 AI 动态视频的网站，让静态照片呈现动态效果。",
+      "url": "https://timelessmemories.me",
+      "category": "AI 工具",
+      "tags": [
+        "图生视频",
+        "AI 视频",
+        "照片修复"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "EVE BCN",
+      "desc": "巴塞罗那私人葡萄酒与卡瓦酒品鉴游网站，用于展示线路并接受预约。",
+      "url": "https://evebcn.com",
+      "category": "电商营销",
+      "tags": [
+        "旅游",
+        "预约",
+        "落地页"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Aplicativos.poker",
+      "desc": "葡萄牙语的线上扑克 App 目录站，对比各平台奖金、返水等信息。",
+      "url": "https://aplicativos.poker",
+      "category": "电商营销",
+      "tags": [
+        "目录站",
+        "SEO",
+        "Affiliate"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Snake Survival",
+      "desc": "野外生存主题的 3D 动作贪吃蛇网页游戏，支持单人模式和 PvP 对战。",
+      "url": "https://snake-survival.lovable.app",
+      "category": "游戏",
+      "tags": [
+        "Three.js",
+        "3D 游戏",
+        "多人对战"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Challenge Brew",
+      "desc": "创建并分享游戏会话挑战的平台，可为挑战设置惩罚与奖励规则。",
+      "url": "https://challengebrew.com",
+      "category": "游戏",
+      "tags": [
+        "游戏社交",
+        "分享",
+        "社区"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Nora AI",
+      "desc": "支持视频对话的 AI 家教应用，可根据学生情况制定学习计划。",
+      "url": "https://noratutor.xyz",
+      "category": "教育学习",
+      "tags": [
+        "AI 家教",
+        "视频对话",
+        "LLM"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Stories of Life",
+      "desc": "根据孩子当下情绪生成个性化睡前故事的 Web 应用。",
+      "url": "https://stories-of-life.vercel.app",
+      "category": "教育学习",
+      "tags": [
+        "儿童故事",
+        "AIGC",
+        "LLM"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "DrawCraft",
+      "desc": "按难度分级的绘画生成练习应用，辅助用户进行绘画创作训练。",
+      "url": "https://drawcraft.io",
+      "category": "教育学习",
+      "tags": [
+        "绘画",
+        "AIGC",
+        "分级练习"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "StudentOS",
+      "desc": "面向学生的 AI 学习平台，整合笔记、测验与学习计划管理功能。",
+      "url": "https://student-os.net",
+      "category": "教育学习",
+      "tags": [
+        "笔记",
+        "测验",
+        "学习计划"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "GradLoom",
+      "desc": "帮助学生与应届生规划职业方向的平台，可按国家查询职业路径与薪资。",
+      "url": "https://gradloom.app",
+      "category": "教育学习",
+      "tags": [
+        "职业规划",
+        "数据查询",
+        "学生工具"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Language Practice Tutor",
+      "desc": "任意语言对话陪练示例应用，提供语法纠正与词汇学习的交互式 AI 老师。",
+      "url": "https://website0anaya0a.lovable.app",
+      "category": "教育学习",
+      "tags": [
+        "语言学习",
+        "对话陪练",
+        "LLM"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "vibe-vibe 开源教程",
+      "desc": "Datawhale 推出的系统化 Vibe Coding 中文开源教程，讲解从写代码到对话式创作的路径。",
+      "url": "https://github.com/datawhalechina/vibe-vibe",
+      "category": "教育学习",
+      "tags": [
+        "教程",
+        "开源",
+        "中文"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "ZCode",
+      "hot": 0
+    },
+    {
+      "name": "ai-guide 零基础教程",
+      "desc": "程序员鱼皮的 AI 资源大全与 Vibe Coding 零基础实战教程，半年收获上万 Star。",
+      "url": "https://github.com/liyupi/ai-guide",
+      "category": "教育学习",
+      "tags": [
+        "教程",
+        "资源合集",
+        "开源"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "ZCode",
+      "hot": 0
+    },
+    {
+      "name": "aicodeguide",
+      "desc": "整理 AI 编程入门方法与实践经验的开源指南仓库，常被牛客等社区推荐。",
+      "url": "https://github.com/automata/aicodeguide",
+      "category": "教育学习",
+      "tags": [
+        "指南",
+        "开源",
+        "AI 编程"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "ZCode",
+      "hot": 0
+    },
+    {
+      "name": "Consile",
+      "desc": "一体化人事运营平台，整合 HR、薪酬与任务管理，并接入 MCP AI 代理。",
+      "url": "https://consile.app",
+      "category": "AI办公",
+      "tags": [
+        "HR SaaS",
+        "薪酬管理",
+        "AI Agent"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Kalyvox",
+      "desc": "为中小企业接听和甄别来电的 AI 语音代理，自动处理入站电话。",
+      "url": "https://kalyvox.ai",
+      "category": "AI办公",
+      "tags": [
+        "语音代理",
+        "电话客服",
+        "中小企业"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Hi-Ai",
+      "desc": "每月 5 美元的 AI 服务合集站，提供视频、音乐、图像生成及搜索、报告等功能。",
+      "url": "https://hi-ai.live",
+      "category": "AI办公",
+      "tags": [
+        "AIGC 合集",
+        "订阅制",
+        "多媒体生成"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Blueprint Buddy",
+      "desc": "把 B2C 产品页面转化为完整的数据分析埋点方案的免费工具。",
+      "url": "https://blueprintbuddy-b2c.lovable.app",
+      "category": "AI办公",
+      "tags": [
+        "数据分析",
+        "埋点",
+        "产品运营"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "PodPrime.ai",
+      "desc": "面向嘉宾主导型播客的一体化操作系统，管理节目制作协作流程。",
+      "url": "https://podprime.ai",
+      "category": "AI办公",
+      "tags": [
+        "播客",
+        "工作流",
+        "SaaS"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Pixelco",
+      "desc": "识别网站访客所属公司的线索工具，帮助团队把流量转化为销售线索。",
+      "url": "https://pixelco.io",
+      "category": "AI办公",
+      "tags": [
+        "销售线索",
+        "访客识别",
+        "增长"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Standup Buddy",
+      "desc": "随机打乱团队每日站会发言顺序的小工具，直接在浏览器中使用。",
+      "url": "https://standup-buddy.lovable.app",
+      "category": "AI办公",
+      "tags": [
+        "团队协作",
+        "站会",
+        "轻量工具"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "ASCIIKeyboard",
+      "desc": "macOS 菜单栏应用，把实时键入内容转换成 FIGlet 字体的 ASCII 艺术展示。",
+      "url": "https://github.com/levz0r/ASCIIKeyboard",
+      "category": "效率工具",
+      "tags": [
+        "macOS",
+        "菜单栏",
+        "ASCII 艺术"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Context",
+      "desc": "原生 macOS 客户端，用于测试和调试 MCP 服务器，使用 Claude Code 构建。",
+      "url": "https://github.com/indragiek/Context",
+      "category": "效率工具",
+      "tags": [
+        "MCP",
+        "调试工具",
+        "Swift"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Nano-Banana-Desktop",
+      "desc": "桌面端 AI 图像编辑小工具，调用图像模型完成快速修图操作。",
+      "url": "https://github.com/danielrosehill/Nano-Banana-Desktop",
+      "category": "AI 工具",
+      "tags": [
+        "图像编辑",
+        "桌面工具",
+        "AI 绘图"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "DecayBlock",
+      "desc": "Chrome 扩展，通过渐进式限制网站访问来帮助用户保持专注。",
+      "url": "https://chromewebstore.google.com/detail/decayblock/nfkgjmgdbpeemhbhhlcbmlkeofcnbhnh",
+      "category": "效率工具",
+      "tags": [
+        "Chrome 扩展",
+        "专注",
+        "屏蔽网站"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Markdown Printer",
+      "desc": "浏览器扩展，把当前网页保存为排版良好的 Markdown 文件。",
+      "url": "https://github.com/levz0r/markdown-printer",
+      "category": "效率工具",
+      "tags": [
+        "Chrome 扩展",
+        "Markdown",
+        "网页剪藏"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "claude-code-statusline",
+      "desc": "为 Claude Code 终端添加状态栏的工具，实时显示会话信息、Token 用量与成本。",
+      "url": "https://github.com/levz0r/claude-code-statusline",
+      "category": "效率工具",
+      "tags": [
+        "Claude Code",
+        "终端",
+        "状态栏"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "html-to-markdown-mcp",
+      "desc": "基于 Turndown.js 的 MCP 服务器，把 HTML 内容转换为 Markdown 供 AI 调用。",
+      "url": "https://github.com/levz0r/html-to-markdown-mcp",
+      "category": "效率工具",
+      "tags": [
+        "MCP",
+        "HTML 转 Markdown",
+        "Node.js"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "NanoBananaEditor",
+      "desc": "基于 Gemini 2.5 Flash 图像模型的 AI 图片生成与编辑器，开源实现。",
+      "url": "https://github.com/markfulton/NanoBananaEditor",
+      "category": "AI 工具",
+      "tags": [
+        "Gemini",
+        "图像生成",
+        "开源"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Hydration Hero",
+      "desc": "带提醒功能的智能饮水记录应用，跟踪每日喝水摄入量。",
+      "url": "https://liquid-log-glow.lovable.app",
+      "category": "医疗健康",
+      "tags": [
+        "健康记录",
+        "提醒",
+        "PWA"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Flowbound",
+      "desc": "基于心理学原理设计的反拖延生产力应用，帮助用户推进任务。",
+      "url": "https://flowbound.app",
+      "category": "效率工具",
+      "tags": [
+        "拖延症",
+        "任务管理",
+        "心理学"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "LunchBox Buddy",
+      "desc": "拍摄冰箱照片即可获得便当搭配建议的应用，解决每日午餐选题问题。",
+      "url": "https://joyful-froyo-b4482b.netlify.app",
+      "category": "效率工具",
+      "tags": [
+        "图像识别",
+        "食谱建议",
+        "家庭"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Time Tracker",
+      "desc": "简洁的时间记录工具，用来统计各项工作所花时长。",
+      "url": "https://time.wisdemic.com",
+      "category": "效率工具",
+      "tags": [
+        "时间统计",
+        "计时",
+        "仪表盘"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Lash Tracker",
+      "desc": "用拍照方式记录美睫款式变化的应用，方便顾客与技师管理睫毛档案。",
+      "url": "https://lash-map-tracker.replit.app",
+      "category": "效率工具",
+      "tags": [
+        "图像记录",
+        "美业",
+        "Replit"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Replit",
+      "hot": 0
+    },
+    {
+      "name": "My Baby Logger",
+      "desc": "新生儿喂养、睡眠、换尿布与用药一体化记录工具，面向新手父母。",
+      "url": "https://mybabylogger.com",
+      "category": "效率工具",
+      "tags": [
+        "育儿记录",
+        "日志",
+        "移动端"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "How Many Layers",
+      "desc": "极简天气应用，根据当日气温建议出门该穿几层衣服。",
+      "url": "https://howmanylayersidag.se",
+      "category": "效率工具",
+      "tags": [
+        "天气",
+        "极简",
+        "穿衣建议"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "CarbScan",
+      "desc": "为糖尿病与血糖管理者估算食物碳水含量的 AI 识图工具。",
+      "url": "https://carbscan.ai",
+      "category": "医疗健康",
+      "tags": [
+        "健康",
+        "图像识别",
+        "营养计算"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "DummyForms",
+      "desc": "无代码表单搭建工具，曾在 Lovable 黑客松中获奖后持续迭代。",
+      "url": "https://dummyforms.com",
+      "category": "效率工具",
+      "tags": [
+        "表单",
+        "无代码",
+        "SaaS"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "CourtSync Calendar",
+      "desc": "从 PDF 法律文书中提取开庭日期并同步到日历的工具，服务律师日常工作。",
+      "url": "https://courtsynccalendar.com",
+      "category": "效率工具",
+      "tags": [
+        "文档解析",
+        "日历同步",
+        "法律"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "screenshot-to-code",
+      "desc": "将网页截图、Figma 设计稿转换为 HTML/Tailwind 或 React 等前端代码的开源工具，支持 GPT 与 Claude 视觉模型。",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "category": "AI 工具",
+      "tags": [
+        "Next.js",
+        "GPT-4 Vision",
+        "Tailwind CSS"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Kokoro Web",
+      "desc": "基于 Kokoro TTS 模型的免费在线语音合成网站，可在线使用或自托管，无需安装即可把文本转成语音。",
+      "url": "https://github.com/eduardolat/kokoro-web",
+      "category": "AI 工具",
+      "tags": [
+        "Web Audio",
+        "TTS",
+        "自托管"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Voicebox",
+      "desc": "开源 AI 配音工作室，可从几秒音频克隆声音，支持 23 种语言、多引擎语音合成和全局快捷键听写。",
+      "url": "https://github.com/jamiepine/voicebox",
+      "category": "AI 工具",
+      "tags": [
+        "TTS",
+        "语音克隆",
+        "Electron"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "VibeVoice",
+      "desc": "微软开源的长篇多人有声内容生成模型，可生成表达自然的多说话人播客类音频。",
+      "url": "https://microsoft.github.io/VibeVoice",
+      "category": "AI 工具",
+      "tags": [
+        "TTS",
+        "播客",
+        "深度学习"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "Agnes Video Generator",
+      "desc": "可自托管的免费 AI 视频生成器，通过 Web UI 将文本转为多场景视频，自动配音并生成字幕与数字人画面。",
+      "url": "https://github.com/lcy362/agnes-video-generator",
+      "category": "AI 工具",
+      "tags": [
+        "文生视频",
+        "Web UI",
+        "Python"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "OpenShorts",
+      "desc": "开源短视频剪辑工具，用 AI 检测长视频中的精彩片段，自动裁成 9:16 竖屏短片并加人脸追踪字幕与配音。",
+      "url": "https://github.com/mutonby/openshorts",
+      "category": "AI 工具",
+      "tags": [
+        "视频剪辑",
+        "AI 检测",
+        "字幕生成"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Podcastfy",
+      "desc": "NotebookLM 播客功能的 Python 开源替代，可将 PDF、网页、图片等多模态内容转成多语言双人对谈音频。",
+      "url": "https://github.com/souzatharsis/podcastfy",
+      "category": "AI 工具",
+      "tags": [
+        "Python",
+        "LLM",
+        "TTS",
+        "RAG"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Open Generative AI",
+      "desc": "聚合 400 多个图像、视频生成模型的开源工作台，提供图片、视频、对口型等多间工作室的统一界面。",
+      "url": "https://github.com/anil-matcha/open-generative-ai",
+      "category": "AI 工具",
+      "tags": [
+        "Stable Diffusion",
+        "Flux",
+        "视频生成"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "AI SaaS 图像生成模板",
+      "desc": "基于 Next.js 的 AI 图像生成 SaaS 模板，内置积分计费与支付系统，可直接部署运营。",
+      "url": "https://github.com/getFrontend/next-app-ai-saas",
+      "category": "AI 工具",
+      "tags": [
+        "Next.js",
+        "SaaS",
+        "Stripe"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "SD.Next",
+      "desc": "基于 Stable Diffusion 的全功能一体化 WebUI，支持图像与视频生成的最新模型和扩展功能。",
+      "url": "https://github.com/vladmandic/sdnext",
+      "category": "AI 工具",
+      "tags": [
+        "Stable Diffusion",
+        "WebUI",
+        "PyTorch"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "AI Headshot Generator",
+      "desc": "开源的 AI 职业头像生成器模板，Next.js 全栈实现，可作为自助式 SaaS 的起步项目。",
+      "url": "https://github.com/SamurAIGPT/ai-headshot-generator",
+      "category": "AI 工具",
+      "tags": [
+        "Next.js",
+        "Replicate",
+        "SaaS"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Headshot AI",
+      "desc": "Astria 出品的 AI 专业头像生成 starter kit，一键部署到 Vercel，包含训练与生图的完整流程。",
+      "url": "https://vercel.com/templates/next.js/headshot-ai",
+      "category": "AI 工具",
+      "tags": [
+        "Next.js",
+        "Vercel",
+        "图像生成"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "Presenton",
+      "desc": "开源 AI 幻灯片生成器与 API，可由提示词或文档生成可编辑的 PPTX/PDF，支持自托管与自定义 AI 服务商。",
+      "url": "https://github.com/presenton/presenton",
+      "category": "AI办公",
+      "tags": [
+        "PPTX",
+        "LLM",
+        "自托管"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Presentation AI",
+      "desc": "Gamma.app 的开源替代品，输入主题后自动生成带配图与主题样式的演示文稿。",
+      "url": "https://github.com/allweonedev/presentation-ai",
+      "category": "AI办公",
+      "tags": [
+        "Next.js",
+        "幻灯片",
+        "OpenAI API"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "SlideDeck AI",
+      "desc": "与 AI 协作共创 PowerPoint 演示文稿的助手，根据输入话题自动组织大纲并导出 PPT 文件。",
+      "url": "https://github.com/barun-saha/slide-deck-ai",
+      "category": "AI办公",
+      "tags": [
+        "Streamlit",
+        "LLM",
+        "PowerPoint"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Replit",
+      "hot": 0
+    },
+    {
+      "name": "PPTAgent",
+      "desc": "面向 PowerPoint 生成的智能体框架，通过反思迭代机制参照现有文档版式生成新演示文稿。",
+      "url": "https://github.com/icip-cas/pptagent",
+      "category": "Agent",
+      "tags": [
+        "Agent",
+        "PowerPoint",
+        "研究项目"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "ResumeLM",
+      "desc": "免费开源的 AI 简历构建器，可生成对 ATS 友好的专业简历，并针对具体职位定制版本。",
+      "url": "https://github.com/olyaiy/resume-lm",
+      "category": "效率工具",
+      "tags": [
+        "Next.js",
+        "简历",
+        "LLM"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Reactive Resume",
+      "desc": "注重隐私的免费简历构建器，支持多页布局、LinkedIn 导入，模板可定制且数据完全自持。",
+      "url": "https://github.com/amruthpillai/reactive-resume",
+      "category": "效率工具",
+      "tags": [
+        "React",
+        "Node.js",
+        "Docker"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Windsurf",
+      "hot": 0
+    },
+    {
+      "name": "AI Resume Builder",
+      "desc": "开源 AI 简历优化工具，可量化成果描述并按 ATS 规则输出简历，附完整 Next.js SaaS 结构。",
+      "url": "https://github.com/SamurAIGPT/ai-resume-builder",
+      "category": "效率工具",
+      "tags": [
+        "Next.js",
+        "ATS",
+        "简历解析"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "OpenResume",
+      "desc": "强大的开源简历构建与解析工具，基于 Next.js App Router 构建，实时预览并可导入现有 PDF。",
+      "url": "https://github.com/xitanggg/open-resume",
+      "category": "效率工具",
+      "tags": [
+        "Next.js",
+        "React",
+        "PDF 解析"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "LobeHub",
+      "desc": "LobeChat 的演进版本，将多个 AI Agent 组织成可持续运转的团队，统一调度和管理任务。",
+      "url": "https://github.com/lobehub/lobehub",
+      "category": "Agent",
+      "tags": [
+        "Agent",
+        "TypeScript",
+        "自动化"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "ZCode",
+      "hot": 0
+    },
+    {
+      "name": "AnythingLLM",
+      "desc": "一体化 AI 应用：与文档对话、使用 AI Agent、多用户协作，支持完全离线运行，MIT 协议。",
+      "url": "https://github.com/mintplex-labs/anything-llm",
+      "category": "AI 工具",
+      "tags": [
+        "RAG",
+        "向量检索",
+        "Docker"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "RepoClip",
+      "desc": "把 GitHub 仓库自动变成带旁白解说的产品演示视频的在线工具，适合开发者做项目宣传。",
+      "url": "https://repoclip.io",
+      "category": "AI 工具",
+      "tags": [
+        "AI 视频",
+        "GitHub",
+        "产品演示"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Bolt.new",
+      "hot": 0
+    },
+    {
+      "name": "IndieTools",
+      "desc": "独立开发者常用的 AI 与开发工具导航站，收录各类建站、设计和变现工具，本身也是 vibe coding 作品。",
+      "url": "https://indietools.work",
+      "category": "AI 工具",
+      "tags": [
+        "导航站",
+        "独立开发",
+        "Next.js"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "roomGPT",
+      "desc": "上传房间照片即可生成多种装修风格的梦想房间效果图，是 Interior.AI 的知名开源复刻。",
+      "url": "https://github.com/nutlope/roomgpt",
+      "category": "设计创意",
+      "tags": [
+        "Next.js",
+        "ControlNet",
+        "图像生成"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Claude Directory",
+      "desc": "用 Claude 构建的 AI 生成 UI 实验集合，包含 Hero 区块、GLSL 着色器、设计系统与 3D 组件等作品。",
+      "url": "https://github.com/pulkitxm/claude-directory",
+      "category": "设计创意",
+      "tags": [
+        "GLSL",
+        "UI 实验",
+        "Three.js"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Cosmos Animated Gallery",
+      "desc": "v0 社区模板，内置动态画廊、3D 地球卡片墙、黑胶唱片轮播等多种动效组件。",
+      "url": "https://v0.app/templates/cosmos-animated-gallery-vjQBnyGKdc3",
+      "category": "设计创意",
+      "tags": [
+        "v0",
+        "动画",
+        "React"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "LogoCreator",
+      "desc": "基于 Flux 模型的免费开源 Logo 生成器，几秒钟生成品牌 Logo 并导出整套品牌物料，无需注册。",
+      "url": "https://github.com/Nutlope/logocreator",
+      "category": "设计创意",
+      "tags": [
+        "Flux",
+        "Together AI",
+        "Next.js"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Logo Generator Skill",
+      "desc": "专业 SVG Logo 生成技能，依据产品特征产出 6 个以上候选方案并附带高端展示排版。",
+      "url": "https://github.com/op7418/logo-generator-skill",
+      "category": "设计创意",
+      "tags": [
+        "SVG",
+        "Skill",
+        "标志设计"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "ZCode",
+      "hot": 0
+    },
+    {
+      "name": "Simple Logo Generator",
+      "desc": "浏览器端轻量工具，快速制作网站图标和简单 Logo，源码开放。",
+      "url": "https://creecros.github.io/simple_logo_gen",
+      "category": "设计创意",
+      "tags": [
+        "Canvas",
+        "图标",
+        "纯前端"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Replit",
+      "hot": 0
+    },
+    {
+      "name": "PosterCraft",
+      "desc": "统一框架的高质量美学海报生成模型，擅长精确文字渲染与抽象艺术的自然融合。",
+      "url": "https://github.com/MeiGen-AI/PosterCraft",
+      "category": "设计创意",
+      "tags": [
+        "海报生成",
+        "扩散模型",
+        "文字渲染"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "CreatiPoster",
+      "desc": "开源 AI 平面设计系统，支持多层可编辑构图，可程序化生成具有商业观感的设计作品。",
+      "url": "https://github.com/graphic-design-ai/creatiposter",
+      "category": "设计创意",
+      "tags": [
+        "平面设计",
+        "AI 排版",
+        "开源"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Paper2Poster",
+      "desc": "将学术论文自动转换为结构连贯的学术海报的全流程开源系统。",
+      "url": "https://paper2poster.github.io",
+      "category": "设计创意",
+      "tags": [
+        "学术海报",
+        "PDF 解析",
+        "Agent"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "Airtable Poster Generator",
+      "desc": "带富画布编辑器的海报生成 Airtable 扩展，面向品牌营销人员的即时出图工具。",
+      "url": "https://github.com/harshitjuneja/airtable-poster-generator-block",
+      "category": "设计创意",
+      "tags": [
+        "Airtable",
+        "画布编辑",
+        "海报"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Open Pencil",
+      "desc": "AI 原生的开源 Figma 替代品，可打开 .fig/.pen 文件，内置 AI 能力并提供 Vue 无头 SDK。",
+      "url": "https://github.com/open-pencil/open-pencil",
+      "category": "设计创意",
+      "tags": [
+        "Vue",
+        "设计工具",
+        "Figma 替代"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "VisoMaster",
+      "desc": "易用的 AI 图像视频换脸与编辑工具，可获得自然的换脸效果，操作门槛较低。",
+      "url": "https://github.com/visomaster/VisoMaster",
+      "category": "设计创意",
+      "tags": [
+        "换脸",
+        "图像编辑",
+        "PyTorch"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "FaceSwap",
+      "desc": "老牌免费开源多平台 Deepfakes 软件，支持图片与视频中的人脸替换。",
+      "url": "https://faceswap.dev/download",
+      "category": "设计创意",
+      "tags": [
+        "Deepfakes",
+        "人脸替换",
+        "TensorFlow"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "ACE-Step UI",
+      "desc": "ACE-Step 音乐模型的图形界面，本地免费生成最长 4 分钟以上的整曲，界面类似 Spotify。",
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "category": "音乐音频",
+      "tags": [
+        "音乐生成",
+        "Gradio",
+        "本地运行"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Awesome-Suno",
+      "desc": "围绕 Suno 收录的开源 AI 音乐生成相关项目和资源的精选清单。",
+      "url": "https://github.com/Zizwar/Awesome-Suno",
+      "category": "音乐音频",
+      "tags": [
+        "清单",
+        "AI 音乐",
+        "资源合集"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "HeartMuLa",
+      "desc": "宣称效果接近 Suno 的开源 AI 音乐生成模型，采用 Apache 2.0 协议，支持本地部署。",
+      "url": "https://heart-mula.com/suno-alternative",
+      "category": "音乐音频",
+      "tags": [
+        "音乐生成",
+        "Apache 2.0",
+        "本地部署"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "Coqui TTS",
+      "desc": "流行的深度学习语音合成工具箱，内置 1100 多种语言的预训练模型，可训练和微调。",
+      "url": "https://github.com/coqui-ai/tts",
+      "category": "音乐音频",
+      "tags": [
+        "TTS",
+        "深度学习",
+        "多语言"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "Ultimate Vocal Remover GUI",
+      "desc": "最流行的开源人声分离工具，集成 MDX-Net、Demucs、BS-RoFormer 等前沿分离模型。",
+      "url": "https://github.com/anjok07/ultimatevocalremovergui",
+      "category": "音乐音频",
+      "tags": [
+        "人声分离",
+        "Demucs",
+        "PyTorch"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "StemRoller",
+      "desc": "免费桌面应用，基于 Meta Demucs 一键把任意歌曲拆成人声、伴奏等分轨。",
+      "url": "https://github.com/stemrollerapp/stemroller",
+      "category": "音乐音频",
+      "tags": [
+        "Demucs",
+        "分轨",
+        "桌面应用"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Stemdeck",
+      "desc": "现代化人声分轨提取平台，用人声、鼓、贝斯、钢琴的 Meta AI 模型进行音轨分离。",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "category": "音乐音频",
+      "tags": [
+        "音频分离",
+        "AI 模型",
+        "平台"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Bolt.new",
+      "hot": 0
+    },
+    {
+      "name": "python-audio-separator",
+      "desc": "UVR 同源的 Python 音频分轨库，可批量把歌曲分离为多种乐器与人声轨道。",
+      "url": "https://github.com/nomadkaraoke/python-audio-separator",
+      "category": "音乐音频",
+      "tags": [
+        "Python",
+        "音频处理",
+        "卡拉OK"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "projectM",
+      "desc": "MilkDrop 后继者，最先进的跨平台开源音乐可视化软件，把音乐实时渲染成迷幻视觉效果。",
+      "url": "https://github.com/projectM-visualizer/projectm",
+      "category": "音乐音频",
+      "tags": [
+        "可视化",
+        "OpenGL",
+        "跨平台"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "Wav2Bar",
+      "desc": "免费开源的音乐可视化视频制作工具，自定义外观后将音频导出为可视化视频。",
+      "url": "https://picorims.github.io/wav2bar-website",
+      "category": "音乐音频",
+      "tags": [
+        "可视化",
+        "视频导出",
+        "Electron"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Replit",
+      "hot": 0
+    },
+    {
+      "name": "audioMotion-analyzer",
+      "desc": "高精度 JavaScript 实时音频频谱分析器与可视化库，可数分钟内嵌入任何网站。",
+      "url": "https://github.com/hvianna/audioMotion-analyzer",
+      "category": "音乐音频",
+      "tags": [
+        "Web Audio API",
+        "Canvas",
+        "可视化"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "OpenEar",
+      "desc": "MIT 协议的开源练耳应用，基于 Tone.js 发声，含音程识别、旋律与和声练习。",
+      "url": "https://github.com/ShacharHarshuv/open-ear",
+      "category": "教育学习",
+      "tags": [
+        "Tone.js",
+        "Angular",
+        "练耳"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Melodre",
+      "desc": "听音符序列并用耳朵辨认的练耳应用，使用 Tone.js 加 Salamander 钢琴采样发声。",
+      "url": "https://github.com/MaxDevv/Melodre",
+      "category": "教育学习",
+      "tags": [
+        "Tone.js",
+        "练耳",
+        "钢琴采样"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Audiate",
+      "desc": "结合机器学习的浏览器练耳游戏，技术栈为 Tone.js、Tonal.js 与 P5.js。",
+      "url": "https://github.com/cjbayron/audiate",
+      "category": "教育学习",
+      "tags": [
+        "Tone.js",
+        "P5.js",
+        "机器学习"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "TonicSense",
+      "desc": "用 Next.js 与 Tone.js 打造的在线练耳 Web 应用，专注音准与相对音感的日常训练。",
+      "url": "https://tonicsense.com",
+      "category": "教育学习",
+      "tags": [
+        "Next.js",
+        "Tone.js",
+        "Web 应用"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Fud AI",
+      "desc": "免费开源的 iOS/Android 卡路里追踪 App，拍照识餐，自带密钥模式支持 13 家 AI 服务商。",
+      "url": "https://github.com/apoorvdarshan/fud-ai",
+      "category": "医疗健康",
+      "tags": [
+        "Flutter",
+        "Gemini",
+        "营养追踪"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "OpenNutriTracker",
+      "desc": "免费开源卡路里追踪应用，按身高体重等活动水平计算目标并记录每餐热量与宏量营养。",
+      "url": "https://github.com/simonoppowa/OpenNutriTracker",
+      "category": "医疗健康",
+      "tags": [
+        "Flutter",
+        "营养记录",
+        "开源"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Replit",
+      "hot": 0
+    },
+    {
+      "name": "AI Calorie Tracker",
+      "desc": "BYOK 模式的 AI 卡路里追踪器，对食物照片做高级分析估算热量，无需注册账号。",
+      "url": "https://github.com/tahaygun/ai-calorie-tracker",
+      "category": "医疗健康",
+      "tags": [
+        "AI 识图",
+        "营养",
+        "BYOK"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Workout Tracker",
+      "desc": "面向个人或家庭使用的运动追踪 Web 应用，侧重跑步等 GPX 轨迹活动的记录与分析。",
+      "url": "https://github.com/jovandeginste/workout-tracker",
+      "category": "医疗健康",
+      "tags": [
+        "GPX",
+        "Go",
+        "运动记录"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "MedTimer",
+      "desc": "隐私优先的 Android 服药提醒应用，敏感数据全部本地管理，已在 F-Droid 与 Play 上架。",
+      "url": "https://github.com/Futsch1/medTimer",
+      "category": "医疗健康",
+      "tags": [
+        "Android",
+        "Kotlin",
+        "用药提醒"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Windsurf",
+      "hot": 0
+    },
+    {
+      "name": "MediTrak",
+      "desc": "免费开源 Android 用药追踪应用，帮助记录药物并提醒按时服药。",
+      "url": "https://github.com/AdamGuidarini/MediTrak",
+      "category": "医疗健康",
+      "tags": [
+        "Android",
+        "Java",
+        "服药管理"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Symptom Checker Chatbot",
+      "desc": "健康问询聊天机器人，回答常见症状问题并查找附近医疗中心，采用 PyTorch 与 NLTK 实现。",
+      "url": "https://github.com/imonishkumar/Symptom-Checker-Chatbot",
+      "category": "医疗健康",
+      "tags": [
+        "NLP",
+        "PyTorch",
+        "聊天机器人"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Replit",
+      "hot": 0
+    },
+    {
+      "name": "Medical Symptom Checker",
+      "desc": "供医生和开发者共同贡献内容的开源症状自查器，提供在线演示，覆盖常见病症判断逻辑。",
+      "url": "https://github.com/LabinatorSolutions/medical-symptom-checker",
+      "category": "医疗健康",
+      "tags": [
+        "症状自查",
+        "JavaScript",
+        "开源医疗"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Medito",
+      "desc": "100% 免费无广告的开源冥想 App，Flutter 构建的双端产品，无需注册即用。",
+      "url": "https://github.com/meditohq/medito-app",
+      "category": "医疗健康",
+      "tags": [
+        "Flutter",
+        "冥想",
+        "心理健康"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Table Habit",
+      "desc": "开源微习惯打卡应用，含积分体系、成长图表与 WebDAV 多端同步，注重隐私本地存储。",
+      "url": "https://github.com/friesi23/mhabit",
+      "category": "医疗健康",
+      "tags": [
+        "Flutter",
+        "习惯打卡",
+        "WebDAV"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "ZCode",
+      "hot": 0
+    },
+    {
+      "name": "Habo",
+      "desc": "iOS/Android 双端隐私优先习惯追踪应用，无账号体系也不采集数据。",
+      "url": "https://github.com/xpavle00/Habo",
+      "category": "医疗健康",
+      "tags": [
+        "Flutter",
+        "习惯追踪",
+        "隐私"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "MoodTracker",
+      "desc": "AI 心情追踪应用，分析每日情绪记录并给出相应的洞察和建议。",
+      "url": "https://github.com/codewithriza/MoodTracker",
+      "category": "医疗健康",
+      "tags": [
+        "AI 分析",
+        "情绪记录",
+        "移动端"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Journal Tree",
+      "desc": "AI 日记应用，追踪心情并对日记内容做长期模式分析，呈现情绪变化趋势。",
+      "url": "https://github.com/Journal-Tree/Journal-Tree",
+      "category": "医疗健康",
+      "tags": [
+        "日记",
+        "LLM",
+        "情绪分析"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Menstrudel",
+      "desc": "离线免费开源的经期记录 Flutter 应用，界面简洁私密，仅本地保存数据。",
+      "url": "https://github.com/J-shw/Menstrudel",
+      "category": "医疗健康",
+      "tags": [
+        "Flutter",
+        "经期追踪",
+        "离线优先"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Peri",
+      "desc": "极简经期追踪应用，显示距下次生理期的天数及其他核心周期信息。",
+      "url": "https://github.com/IraSoro/peri",
+      "category": "医疗健康",
+      "tags": [
+        "Flutter",
+        "周期计算",
+        "女性健康"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Windsurf",
+      "hot": 0
+    },
+    {
+      "name": "Ovumcy",
+      "desc": "可自托管、隐私优先的周期追踪服务，提供 Docker 一键部署在自己服务器上运行。",
+      "url": "https://github.com/ovumcy/ovumcy-web",
+      "category": "医疗健康",
+      "tags": [
+        "自托管",
+        "Docker",
+        "周期追踪"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "FlowSync",
+      "desc": "经期健康管理平台，提供周期预测、症状与情绪记录及健康洞察。",
+      "url": "https://github.com/AmanCrafts/Menstrual-Health-Tracker",
+      "category": "医疗健康",
+      "tags": [
+        "健康平台",
+        "预测算法",
+        "React"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Bolt.new",
+      "hot": 0
+    },
+    {
+      "name": "Yoga Pose Prediction",
+      "desc": "Flask Web 应用，用 YOLO 关键点检测加 PyTorch 分类模型识别照片中的瑜伽体式。",
+      "url": "https://github.com/AyushD95/Yoga-Pose-Prediction",
+      "category": "医疗健康",
+      "tags": [
+        "YOLO",
+        "PyTorch",
+        "Flask"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Fitness Trainer Pose Estimation",
+      "desc": "实时姿态估计健身应用，可统计深蹲次数、监测动作形态并即时给出反馈。",
+      "url": "https://github.com/yakupzengin/fitness-trainer-pose-estimation",
+      "category": "医疗健康",
+      "tags": [
+        "MediaPipe",
+        "姿态估计",
+        "动作计数"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "Yoga Pose Detection App",
+      "desc": "基于 React 的瑜伽体式检测网页应用，摄像头实时识别并对照标准姿势。",
+      "url": "https://github.com/amartya04/Yoga-Pose-Detection-App",
+      "category": "医疗健康",
+      "tags": [
+        "React",
+        "PoseNet",
+        "实时检测"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Cybertrucksim",
+      "desc": "驾驶特斯拉 Cybertruck 在线上世界里载客兜风的多人小游戏，数天内用 AI 完成开发并爆红。",
+      "url": "https://cybertrucksim.vercel.app",
+      "category": "游戏",
+      "tags": [
+        "Three.js",
+        "多人",
+        "模拟"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "ClaudeSpace",
+      "desc": "以 Claude Code 命名的太空射击小游戏，在小行星间穿梭躲避并消灭敌人，托管于 GitHub Pages。",
+      "url": "https://ladegeraet.github.io/claudespace",
+      "category": "游戏",
+      "tags": [
+        "射击",
+        "街机",
+        "Canvas"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Suika Game 网页版",
+      "desc": "西瓜游戏（合成大西瓜）的复刻网页版，水果两两合成不断进化，益智又上头。",
+      "url": "https://suika-game.vercel.app",
+      "category": "游戏",
+      "tags": [
+        "益智",
+        "物理",
+        "休闲"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Flappi Bird 3D",
+      "desc": "用 Three.js 打造的 3D 版 Flappy Bird，AI 参与了美术与音乐的创作，点穿即玩。",
+      "url": "https://flappi-bird.vercel.app",
+      "category": "游戏",
+      "tags": [
+        "Three.js",
+        "休闲",
+        "3D"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Oyster Arcade",
+      "desc": "复古 CRT 风格的街机合集，内含太空侵略者等多款小游戏，宣称端到端用 Claude Code 构建。",
+      "url": "https://arcade.oyster.to",
+      "category": "游戏",
+      "tags": [
+        "街机",
+        "复刻",
+        "合集"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Space Defenders",
+      "desc": "号称用 Sonnet 一次生成通关的太空保卫战，经典 Space Invaders 式塔防射击体验。",
+      "url": "https://jasonleow.com/space-defenders",
+      "category": "游戏",
+      "tags": [
+        "射击",
+        "街机",
+        "单次生成"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Emoji Sim",
+      "desc": "指挥表情包村民的模拟经营游戏，为小人制定规则、建立村庄，看着小世界自行运转。",
+      "url": "https://emojisim.com",
+      "category": "游戏",
+      "tags": [
+        "模拟",
+        "放置",
+        "创意"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Artbitrator",
+      "desc": "限时涂鸦对战游戏，多位玩家作画后由 AI 实时担任裁判评分，脑洞与画风齐飞。",
+      "url": "https://artbitrator.com",
+      "category": "游戏",
+      "tags": [
+        "多人",
+        "绘画",
+        "AI"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Replit",
+      "hot": 0
+    },
+    {
+      "name": "Type Battles",
+      "desc": "竞技打字游戏，带连击、奖杯与 Boss 战机制，把练指法变成闯关冒险。",
+      "url": "https://typebattles.com",
+      "category": "游戏",
+      "tags": [
+        "打字",
+        "RPG",
+        "竞技"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Draw Line Racing",
+      "desc": "画出赛车行驶路线，车辆沿你绘制的轨迹在全球地图上竞速，创意十足的画线竞速玩法。",
+      "url": "https://drawlineracing.chyuang.com",
+      "category": "游戏",
+      "tags": [
+        "竞速",
+        "创意",
+        "地图"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Grid Golf",
+      "desc": "高尔夫主题网格解谜游戏，规划最短杆数把球送进洞，规则简单越玩越烧脑。",
+      "url": "https://gridgolf.netlify.app",
+      "category": "游戏",
+      "tags": [
+        "解谜",
+        "休闲",
+        "策略"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Mars Landing Simulator",
+      "desc": "火星着陆模拟器，控制推进器克服火星重力安全降落，体验真实着陆的紧张感。",
+      "url": "https://marslanding.vercel.app",
+      "category": "游戏",
+      "tags": [
+        "模拟",
+        "航天",
+        "休闲"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Bolt.new",
+      "hot": 0
+    },
+    {
+      "name": "Dyson Defender",
+      "desc": "塔防射击游戏：指挥防御系统抵御外星人 wave 攻势，守护你的戴森球。",
+      "url": "https://dyson-defender.vercel.app",
+      "category": "游戏",
+      "tags": [
+        "塔防",
+        "科幻",
+        "射击"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Bolt.new",
+      "hot": 0
+    },
+    {
+      "name": "Tanks AI",
+      "desc": "坦克大战题材对战游戏，操作坦克在战场上机动走位、摧毁敌方装甲单位。",
+      "url": "https://tanksai.com",
+      "category": "游戏",
+      "tags": [
+        "坦克",
+        "对战",
+        "街机"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Super Jumper",
+      "desc": "跳跃闯关小游戏，抓准时机拾取加速道具一路冲向终点，关卡紧凑爽快。",
+      "url": "https://super-jumper-game.web.app",
+      "category": "游戏",
+      "tags": [
+        "平台跳跃",
+        "休闲",
+        "街机"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Replit",
+      "hot": 0
+    },
+    {
+      "name": "Wildlife",
+      "desc": "将同色瓷砖连线消除得分的休闲拼图游戏，野生动物主题画面清新治愈。",
+      "url": "https://wildlife-game.vercel.app",
+      "category": "游戏",
+      "tags": [
+        "消除",
+        "休闲",
+        "益智"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Earth Simulation",
+      "desc": "浏览器里的地球模拟器：模拟气候、地质、演化与文明兴衰及灾难事件。",
+      "url": "https://o3-experiments-nextjs.fly.dev/earth",
+      "category": "游戏",
+      "tags": [
+        "模拟",
+        "沙盒",
+        "实验"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "Macro Data Refinement",
+      "desc": "美剧《人生切割术》同款数据精修工作台模拟器，还原剧中神秘 GUI 的沉浸式互动。",
+      "url": "https://macro-data-refinement-five.vercel.app",
+      "category": "游戏",
+      "tags": [
+        "模拟",
+        "影视梗",
+        "UI"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "Word God",
+      "desc": "创世文字游戏：从虚无中组合词语逐步演化出整个宇宙，兼具正念主题的文字玩法。",
+      "url": "https://experimentswithai.com/word-god-mindfulness-game.html",
+      "category": "游戏",
+      "tags": [
+        "文字",
+        "创意",
+        "休闲"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "VibeGame 引擎",
+      "desc": "专为 vibe coding 设计的 3D 游戏引擎，采用声明式 HTML 风格语法与 ECS 架构，内置物理与渲染。",
+      "url": "https://github.com/dylanebert/vibegame",
+      "category": "游戏",
+      "tags": [
+        "引擎",
+        "ECS",
+        "开源"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "人生重开模拟器 lifeRestart",
+      "desc": "爆火的开源文字重开人生游戏，随机天赋与事件一键重启人生，社区贡献海量剧本。",
+      "url": "https://github.com/VickScarlet/remake",
+      "category": "游戏",
+      "tags": [
+        "文字",
+        "开源",
+        "爆款"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Mastodon 长毛象",
+      "desc": "最知名的去中心化联邦微博客网络，基于 ActivityPub 协议，任何人都可以自建实例加入联邦宇宙。",
+      "url": "https://github.com/mastodon/mastodon",
+      "category": "社交社区",
+      "tags": [
+        "社交网络",
+        "去中心化",
+        "ActivityPub"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Lemmy",
+      "desc": "联邦化的 Reddit 类链接聚合与讨论社区，支持投票、板块与跨实例互动，常作为去中心化论坛方案。",
+      "url": "https://github.com/LemmyNet/lemmy",
+      "category": "社交社区",
+      "tags": [
+        "论坛",
+        "联邦宇宙",
+        "Reddit 类"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Misskey",
+      "desc": "功能丰富的联邦系微博客平台，支持 Reactions 表情反应、自定义仪表盘等特色交互，自托管友好。",
+      "url": "https://github.com/misskey-dev/misskey",
+      "category": "社交社区",
+      "tags": [
+        "微博客",
+        "联邦宇宙",
+        "自托管"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Flarum",
+      "desc": "轻量优雅的可扩展论坛框架，界面简洁响应迅速，是搭建兴趣社区的流行选择。",
+      "url": "https://github.com/flarum/framework",
+      "category": "社交社区",
+      "tags": [
+        "论坛",
+        "社区",
+        "轻量"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Discourse",
+      "desc": "现代开源社区讨论平台的事实标准，被无数官方论坛采用，自带邮件订阅、信任等级等完整治理体系。",
+      "url": "https://github.com/discourse/discourse",
+      "category": "社交社区",
+      "tags": [
+        "论坛",
+        "社区",
+        "成熟"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "OSSN 开源社交网络",
+      "desc": "PHP 编写的全功能社交网络系统，可快速搭建类似 Facebook 的自有社交站点，含动态、好友、相册等模块。",
+      "url": "https://www.opensource-socialnetwork.org",
+      "category": "社交社区",
+      "tags": [
+        "社交网络",
+        "自建",
+        "PHP"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Tweetsphere",
+      "desc": "使用 Next.js 与 Supabase 打造的功能完整的 X（Twitter）克隆，含发帖、关注与信息流。",
+      "url": "https://github.com/devdignesh/tweetsphere",
+      "category": "社交社区",
+      "tags": [
+        "Twitter 克隆",
+        "Next.js",
+        "Supabase"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "全栈推特克隆",
+      "desc": "基于 Next.js 13 与 PostgreSQL/Supabase 的全栈推特克隆，UI 打磨精致，功能覆盖完整社交流程。",
+      "url": "https://github.com/fatiharapoglu/twitter",
+      "category": "社交社区",
+      "tags": [
+        "社交媒体",
+        "Next.js",
+        "PostgreSQL"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "NextJS-Twitter-Clone",
+      "desc": "React + Firebase 构建的社交媒体应用克隆，提供在线 Demo 可直接体验发推与互动。",
+      "url": "https://github.com/Shaban-Eissa/NextJS-Twitter-Clone",
+      "category": "社交社区",
+      "tags": [
+        "社交",
+        "Firebase",
+        "React"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Rocket.Chat",
+      "desc": "主流开源团队聊天与社区沟通平台，支持频道、语音视频会议与第三方集成，Slack 替代品。",
+      "url": "https://github.com/RocketChat/Rocket.Chat",
+      "category": "社交社区",
+      "tags": [
+        "聊天",
+        "团队协作",
+        "自托管"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Medusa Next.js 店面",
+      "desc": "开源无头电商平台 Medusa 的官方 Next.js 前端起步模板，几分钟即可搭出自有品牌商店。",
+      "url": "https://github.com/medusajs/nextjs-starter-medusa",
+      "category": "电商营销",
+      "tags": [
+        "电商",
+        "无头 commerce",
+        "Next.js"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "Saleor Storefront",
+      "desc": "约 22k 星的开源无头电商平台 Saleor 官方店面，GraphQL 驱动的高性能 Next.js 商城前端。",
+      "url": "https://github.com/saleor/saleor-storefront",
+      "category": "电商营销",
+      "tags": [
+        "电商",
+        "GraphQL",
+        "Next.js"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "Vercel Commerce",
+      "desc": "Vercel 官方高性能电商店面模板，Next.js + Shopify 架构，性能与转化率优化的标杆 demo。",
+      "url": "https://vercel.com/templates/next.js/commerce",
+      "category": "电商营销",
+      "tags": [
+        "电商",
+        "模板",
+        "Next.js"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "Bagisto",
+      "desc": "基于 Laravel + Vue.js 的开源电商框架，支持多商户市场、移动App与无头商务，开箱即用。",
+      "url": "https://github.com/bagisto/bagisto",
+      "category": "电商营销",
+      "tags": [
+        "电商",
+        "Laravel",
+        "Vue"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Link-in-bio 页面生成器",
+      "desc": "类 Linktree 的全栈个人链接页生成器，用 Next.js 15 构建，支持自定义链接、标题与分隔符。",
+      "url": "https://github.com/coleam00/link-in-bio-page-builder",
+      "category": "电商营销",
+      "tags": [
+        "Link-in-bio",
+        "Next.js",
+        "营销"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "LibreLinks",
+      "desc": "开源的 Link-in-bio 平台，几分钟即可创建并自定义个人主页，聚合所有社交与商品链接。",
+      "url": "https://github.com/urdadx/librelinks",
+      "category": "电商营销",
+      "tags": [
+        "Link-in-bio",
+        "开源",
+        "创作者"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Formbricks",
+      "desc": "开源 Qualtrics 替代品，隐私优先的调查问卷与用户体验管理平台，支持站内、链接与邮件问卷。",
+      "url": "https://github.com/formbricks/formbricks",
+      "category": "电商营销",
+      "tags": [
+        "问卷",
+        "用户调研",
+        "自托管"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Listmonk",
+      "desc": "高性能自托管邮件营销与新闻通讯管理器，Go + PostgreSQL 实现，百万级列表依然迅捷。",
+      "url": "https://github.com/knadh/listmonk",
+      "category": "电商营销",
+      "tags": [
+        "EDM",
+        "Newsletter",
+        "自托管"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Dub 短链接平台",
+      "desc": "开源 Bitly 替代的短链接管理平台，内置数据分析、自定义域名、二维码与 bio 页，营销利器。",
+      "url": "https://github.com/dubinc/dub",
+      "category": "电商营销",
+      "tags": [
+        "短链",
+        "数据分析",
+        "营销"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "Actual Budget",
+      "desc": "本地优先的信封式记账预算应用，100% 免费开源，Docker 自托管并支持多端同步。",
+      "url": "https://github.com/actualbudget/actual",
+      "category": "金融财经",
+      "tags": [
+        "记账",
+        "预算",
+        "本地优先"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Firefly III",
+      "desc": "最成熟的自托管财务管理系统之一，追踪收支与预算，内置规则引擎、分类报表等丰富功能。",
+      "url": "https://github.com/firefly-iii/firefly-iii",
+      "category": "金融财经",
+      "tags": [
+        "记账",
+        "自托管",
+        "报表"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Maybe Finance",
+      "desc": "原商业个人财务「操作系统」整体开源，多账户管理、投资追踪界面精美，可 Docker 自部署。",
+      "url": "https://github.com/maybe-finance/maybe",
+      "category": "金融财经",
+      "tags": [
+        "理财",
+        "多账户",
+        "Rails"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Sure 理财分支",
+      "desc": "Maybe Finance 的活跃维护分支，浏览器、macOS 与移动端均可使用，持续更新理财功能。",
+      "url": "https://github.com/we-promise/sure",
+      "category": "金融财经",
+      "tags": [
+        "理财",
+        "分叉维护",
+        "自托管"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "MoneyMatter",
+      "desc": "开源预算追踪器，支持银行连接自动同步账单，可云端使用也可 Docker 私有化部署。",
+      "url": "https://moneymatter.app",
+      "category": "金融财经",
+      "tags": [
+        "预算",
+        "银行同步",
+        "开源"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Ghostfolio",
+      "desc": "开源财富管理软件，统一追踪股票、ETF 与加密资产，净值与资产配置面板一目了然。",
+      "url": "https://github.com/ghostfolio/ghostfolio",
+      "category": "金融财经",
+      "tags": [
+        "投资组合",
+        "净值",
+        "自托管"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Wealthfolio",
+      "desc": "本地优先的私人投资追踪桌面应用，无需注册账号即可管理投资、净资产与支出数据。",
+      "url": "https://wealthfolio.app",
+      "category": "金融财经",
+      "tags": [
+        "投资追踪",
+        "本地优先",
+        "隐私"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "beancount-gs",
+      "desc": "基于 beancount 的个人记账 RESTful 服务，新版 React + shadcn/ui 前端，支持多人协作记账。",
+      "url": "https://github.com/BaoXuebin/beancount-gs",
+      "category": "金融财经",
+      "tags": [
+        "复式记账",
+        "beancount",
+        "Go"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "EasyAccounts 中文记账",
+      "desc": "面向中文家庭与个人的记账软件，Docker 本地部署数据自主可控，集成 AI 助手对话查询流水。",
+      "url": "https://github.com/QingHeYang/EasyAccounts",
+      "category": "金融财经",
+      "tags": [
+        "记账",
+        "中文",
+        "AI 助手"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "蜜蜂记账 BeeCount",
+      "desc": "轻量、本地优先的 Flutter 记账 App，完全开源隐私可控，iOS/Android 双端可用。",
+      "url": "https://github.com/TNT-Likely/BeeCount",
+      "category": "金融财经",
+      "tags": [
+        "记账 App",
+        "Flutter",
+        "隐私"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "简帐 SimpleAccount",
+      "desc": "专注隐私安全的本地离线记账应用，基于 uni-app 一套代码多端运行，无需联网即可使用。",
+      "url": "https://github.com/timwenx/SimpleAccount",
+      "category": "金融财经",
+      "tags": [
+        "记账",
+        "uni-app",
+        "离线"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Windsurf",
+      "hot": 0
+    },
+    {
+      "name": "easy_write 记账本",
+      "desc": "UI 精美的 Android 记账 App，MVVM + Jetpack Compose 架构，开源可定制自己的记账本。",
+      "url": "https://github.com/wilinz/easy_write",
+      "category": "金融财经",
+      "tags": [
+        "记账",
+        "Compose",
+        "Android"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Windsurf",
+      "hot": 0
+    },
+    {
+      "name": "Vue Expense Tracker",
+      "desc": "Brad Traversy 的 Vue 3 Composition API 教学级记账应用，增删收支实时计算余额并存 localStorage。",
+      "url": "https://github.com/bradtraversy/vue-expense-tracker",
+      "category": "教育学习",
+      "tags": [
+        "记账",
+        "Vue3",
+        "教学"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Browser Use",
+      "desc": "让 AI 智能体像人类一样操作浏览器：打开页面、点击按钮、填写表单，用自然语言描述任务即可自动执行。",
+      "url": "https://github.com/browser-use/browser-use",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "Browser Automation",
+        "LLM"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Browser Use Web UI",
+      "desc": "为 Browser Use 提供的网页控制台，可在浏览器界面中配置和运行浏览器智能体任务，支持多标签执行与实时回放。",
+      "url": "https://github.com/browser-use/web-ui",
+      "category": "Agent",
+      "tags": [
+        "Gradio",
+        "Python",
+        "Browser Agent"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Agent Browser",
+      "desc": "Vercel 推出的 Rust 高性能浏览器自动化 CLI，专为 AI 智能体设计，输出精简文本以最大限度减少上下文占用。",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "category": "Agent",
+      "tags": [
+        "Rust",
+        "CLI",
+        "Playwright"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "Nanobrowser",
+      "desc": "开源 Chrome 扩展形式的 AI 网页自动化工具，采用多智能体架构，被视为 OpenAI Operator 的免费替代品，支持灵活更换 LLM。",
+      "url": "https://github.com/nanobrowser/nanobrowser",
+      "category": "Agent",
+      "tags": [
+        "Chrome Extension",
+        "Multi-Agent",
+        "TypeScript"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Skyvern",
+      "desc": "利用 LLM 与计算机视觉自动完成浏览器工作流，提供 Playwright 兼容 SDK，可导航从未见过的网站并完成表单填写与数据提取。",
+      "url": "https://github.com/skyvern-ai/skyvern",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "Computer Vision",
+        "Playwright"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Sim",
+      "desc": "开源的 AI 智能体协作工作区，提供类 Figma 的可视化画布构建、部署和监控 Agent 工作流，常被作为 n8n 的开源替代。",
+      "url": "https://github.com/simstudioai/sim",
+      "category": "Agent",
+      "tags": [
+        "Next.js",
+        "Workflow",
+        "Low-code"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "Strix",
+      "desc": "自主 AI 渗透测试智能体，像真实黑客一样动态运行代码发现漏洞并验证真实性，可与 GitHub Actions 集成到 CI/CD 流程。",
+      "url": "https://github.com/usestrix/strix",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "Security",
+        "CI/CD"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "OpenHands",
+      "desc": "前身为 OpenDevin 的开源自主开发智能体平台，提供 CLI、GUI 和云端三种模式，支持 Claude、GPT 等多种模型完成编码任务。",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "Dev Agent",
+        "Sandbox"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Deep Agents",
+      "desc": "LangChain 基于 LangGraph 构建的复杂智能体框架，内置规划工具、文件系统后端与子智能体调度，适合搭建深度研究类应用。",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "category": "Agent",
+      "tags": [
+        "LangGraph",
+        "Python",
+        "Planning"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Plandex",
+      "desc": "终端中的 AI 编程智能体，专注于大型复杂多文件任务的分步规划与执行，拥有 200 万 token 上下文与版本化沙箱机制。",
+      "url": "https://github.com/plandex-ai/plandex",
+      "category": "Agent",
+      "tags": [
+        "Go",
+        "Terminal",
+        "Git"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Aider",
+      "hot": 0
+    },
+    {
+      "name": "gptme",
+      "desc": "个人终端 AI 智能体，内置本地工具用于写代码、执行 Shell、读写文件和浏览网页，强调在本地环境自主完成任务。",
+      "url": "https://github.com/gptme/gptme",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "CLI",
+        "Local Tools"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Aider",
+      "hot": 0
+    },
+    {
+      "name": "Claude Engineer",
+      "desc": "基于 Claude 的自改进命令行助手，能够为自己的工具库生成新工具，交互式完成软件工程任务的智能体项目。",
+      "url": "https://github.com/Doriandarko/claude-engineer",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "Anthropic",
+        "Tool Building"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "MyCoder",
+      "desc": "开源编程助手智能体，深度集成 Git/GitHub 工作流，支持并行执行多个子任务以加速大型修改的落地。",
+      "url": "https://github.com/bhouston/mycoder",
+      "category": "Agent",
+      "tags": [
+        "TypeScript",
+        "Git",
+        "Parallel"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "RA.Aid",
+      "desc": "基于 LangGraph 构建的独立研究与开发智能体，可执行研究规划与多步骤编码实现任务，独立于任何 IDE 运行。",
+      "url": "https://github.com/ai-christianson/RA.Aid",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "LangGraph",
+        "Research"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Aider",
+      "hot": 0
+    },
+    {
+      "name": "Kimi CLI",
+      "desc": "月之暗面官方推出的 Kimi 命令行编码助手，面向终端编程工作流，支持自然语言驱动的代码生成与仓库操作。",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "CLI",
+        "Coding Agent"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Kimi Code",
+      "hot": 0
+    },
+    {
+      "name": "Crush",
+      "desc": "Charmbracelet 出品的终端 AI 编码智能体，主打精美界面与多模型切换，号称「最优雅的终端编程智能体」。",
+      "url": "https://github.com/charmbracelet/crush",
+      "category": "Agent",
+      "tags": [
+        "Go",
+        "TUI",
+        "Multi-model"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "grok-cli",
+      "desc": "由 Grok 大模型驱动的命令行编程助手，可在终端中通过自然语言完成代码搜索、编辑与 Shell 命令执行。",
+      "url": "https://github.com/superagent-ai/grok-cli",
+      "category": "Agent",
+      "tags": [
+        "TypeScript",
+        "CLI",
+        "Grok"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "DeepCode",
+      "desc": "港大数据智能实验室推出的开放研究智能体（Open Deep Research），论文转代码能力强，在 PaperBench 上报告了 SOTA 表现。",
+      "url": "https://github.com/HKUDS/DeepCode",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "Research",
+        "Paper2Code"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Qwen Code",
+      "desc": "阿里 Qwen 团队开源的命令行编码智能体，针对 Qwen3 系列模型优化，支持仓库级理解与终端内的自然语言开发。",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "category": "Agent",
+      "tags": [
+        "TypeScript",
+        "CLI",
+        "Qwen"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "Gemini CLI",
+      "desc": "谷歌开源的终端 AI 智能体，把 Gemini 带入命令行开发工作流，提供慷慨的免费额度并支持 ReAct 循环与工具调用。",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "category": "Agent",
+      "tags": [
+        "TypeScript",
+        "CLI",
+        "Gemini"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "Task Master",
+      "desc": "为 Cursor、Lovable、Windsurf 等 AI 编辑器设计的即插即用任务管理系统，可将 PRD 自动拆解为带依赖关系的开发任务流。",
+      "url": "https://github.com/eyaltoledano/claude-task-master",
+      "category": "Agent",
+      "tags": [
+        "Node.js",
+        "PRD",
+        "Task Planning"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Vibe Kanban",
+      "desc": "看板式编排工具，可同时管理 10 多个 AI 编码智能体，用隔离 git worktree 并行派发任务并审查各智能体的产出。",
+      "url": "https://github.com/BloopAI/vibe-kanban",
+      "category": "Agent",
+      "tags": [
+        "Rust",
+        "Kanban",
+        "Worktree"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "CCPM",
+      "desc": "基于 GitHub Issues 和 Git worktree 为 Claude Code 打造的项目管理系统，将需求规格转化为可并行执行的智能体任务流。",
+      "url": "https://github.com/automazeio/ccpm",
+      "category": "Agent",
+      "tags": [
+        "GitHub Issues",
+        "Workflow",
+        "Parallel"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Archon",
+      "desc": "AI 编程助手的知识库与任务管理中枢，通过 MCP 向 Claude Code 等智能体提供检索增强的记忆底座。",
+      "url": "https://github.com/coleam00/Archon",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "MCP",
+        "Knowledge Base"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "ORCH",
+      "desc": "把 Claude Code、Codex、Cursor 协调成类型化智能体团队的 CLI 运行时，负责跨工具的任务路由与状态管理。",
+      "url": "https://github.com/oxgeneral/ORCH",
+      "category": "Agent",
+      "tags": [
+        "CLI",
+        "Orchestration",
+        "Multi-agent"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "myclaude",
+      "desc": "多智能体编排器，可将任务智能路由给 Claude Code、Codex、Gemini、OpenCode 等不同编码智能体协同处理。",
+      "url": "https://github.com/stellarlinkco/myclaude",
+      "category": "Agent",
+      "tags": [
+        "Routing",
+        "Multi-agent",
+        "CLI"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "nexus-agents",
+      "desc": "具备复合路由能力的智能体编排平台，内置 30 个 MCP 工具与 12 个领域专家智能体，支持复杂工作流组合。",
+      "url": "https://github.com/nexus-substrate/nexus-agents",
+      "category": "Agent",
+      "tags": [
+        "MCP",
+        "Orchestration",
+        "Experts"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Opcode",
+      "desc": "基于 Tauri 的桌面 GUI，用于管理 Claude Code 会话、运行自定义智能体并查看用量分析，本地优先设计。",
+      "url": "https://github.com/winfunc/opcode",
+      "category": "Agent",
+      "tags": [
+        "Tauri",
+        "Desktop",
+        "Session Manager"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "chief",
+      "desc": "把 Claude Code 包裹进循环的 CLI 工具，依据 PRD 文档逐任务推进并在每个任务完成后自动提交代码。",
+      "url": "https://github.com/MiniCodeMonkey/chief",
+      "category": "Agent",
+      "tags": [
+        "CLI",
+        "Automation",
+        "PRD"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Subagents 精选集",
+      "desc": "收录 100 余个面向 Claude Code 的领域专用子智能体集合，覆盖后端、前端、运维等场景，按需装配即用。",
+      "url": "https://github.com/wshobson/agents",
+      "category": "Agent",
+      "tags": [
+        "Subagents",
+        "Collection",
+        "MCP"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "AutoGen",
+      "desc": "微软开源的多智能体对话框架及示例集，涵盖群聊协作、嵌套对话、RAG 群聊与多模态智能体等大量可运行案例。",
+      "url": "https://github.com/microsoft/autogen",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "Multi-agent",
+        "Microsoft"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "crewAI Examples",
+      "desc": "CrewAI 官方多智能体应用示例库，包含旅行规划、股票分析、招聘生成、游戏制作团队等多个开箱即用的 crew 项目。",
+      "url": "https://github.com/crewAIInc/crewAI-examples",
+      "category": "Agent",
+      "tags": [
+        "CrewAI",
+        "Python",
+        "Examples"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Agno",
+      "desc": "全栈智能体框架及配套 cookbook，提供金融分析、研究、客服、YouTube 解析、菜谱创作等大量可直接运行的智能体实例。",
+      "url": "https://github.com/agno-agi/agno",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "Framework",
+        "Cookbook"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "RecAI",
+      "desc": "微软开源的推荐智能体项目，用 LLM 构建会话式商品推荐系统，展示推荐系统集成大模型的完整落地路径。",
+      "url": "https://github.com/microsoft/RecAI",
+      "category": "Agent",
+      "tags": [
+        "Python",
+        "Recommender",
+        "LLM"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Citadel",
+      "desc": "编排 Claude Code 智能体舰队的框架，通过生命周期钩子管理多个智能体的启动、监督与回收，适合流水线化开发。",
+      "url": "https://github.com/SethGammon/Citadel",
+      "category": "Agent",
+      "tags": [
+        "Fleet",
+        "Hooks",
+        "Orchestration"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "AI Travel Agent",
+      "desc": "基于多智能体协作的旅行行程规划助手，自动整合航班、酒店与景点信息生成个性化旅行方案。",
+      "url": "https://github.com/nirbar1985/ai-travel-agent",
+      "category": "Agent",
+      "tags": [
+        "Travel",
+        "Multi-agent",
+        "Planner"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Jobber",
+      "desc": "招聘场景的多智能体应用，自动匹配候选人与职位要求，完成简历筛选与人岗契合度评估。",
+      "url": "https://github.com/sentient-engineering/jobber",
+      "category": "Agent",
+      "tags": [
+        "Recruiting",
+        "Matching",
+        "Multi-agent"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Executive AI Assistant",
+      "desc": "LangChain 生产级 AI 邮件助理，可在 LangGraph Platform 上运行，通过人类确认环节代你起草、分类和回复邮件。",
+      "url": "https://github.com/langchain-ai/executive-ai-assistant",
+      "category": "Agent",
+      "tags": [
+        "LangGraph",
+        "Email",
+        "Human-in-loop"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Agents From Scratch",
+      "desc": "LangChain 官方教程项目，从零构建一个带 Gmail 工具的邮件助理智能体，演示 LangGraph 完整链路。",
+      "url": "https://github.com/langchain-ai/agents-from-scratch",
+      "category": "教育学习",
+      "tags": [
+        "Tutorial",
+        "LangGraph",
+        "Email Agent"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "aichat",
+      "desc": "全能型 LLM 命令行工具，集成 Shell 助手、REPL、RAG 与智能体功能，统一接入 20 多家模型服务商。",
+      "url": "https://github.com/sigoden/aichat",
+      "category": "效率工具",
+      "tags": [
+        "Rust",
+        "CLI",
+        "RAG"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Aider",
+      "hot": 0
+    },
+    {
+      "name": "LibreChat",
+      "desc": "自托管多模型 AI 聊天平台，在一个隐私友好的界面中统一接入 OpenAI、Anthropic 等主流服务商，支持多用户与插件扩展。",
+      "url": "https://github.com/danny-avila/librechat",
+      "category": "Web 应用",
+      "tags": [
+        "TypeScript",
+        "Self-hosted",
+        "Chat"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Bolt.new",
+      "hot": 0
+    },
+    {
+      "name": "RAGFlow",
+      "desc": "领先的开源 RAG 引擎，结合深度文档理解与 Agent 能力，可处理 Word、PDF 等复杂格式构建企业级检索问答系统。",
+      "url": "https://github.com/infiniflow/ragflow",
+      "category": "Web 应用",
+      "tags": [
+        "Python",
+        "RAG",
+        "Enterprise"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "FastGPT",
+      "desc": "基于大模型的知识库问答平台，提供数据处理、RAG 检索、可视化工作流与插件系统，已有超过 50 万用户。",
+      "url": "https://github.com/labring/fastgpt",
+      "category": "Web 应用",
+      "tags": [
+        "Next.js",
+        "Knowledge Base",
+        "Workflow"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "Open WebUI",
+      "desc": "功能丰富的自托管 AI 平台，支持 Ollama 及各类 OpenAI 兼容接口，可完全离线运行，界面体验接近 ChatGPT。",
+      "url": "https://github.com/open-webui/open-webui",
+      "category": "Web 应用",
+      "tags": [
+        "Svelte",
+        "Ollama",
+        "Self-hosted"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Bolt.new",
+      "hot": 0
+    },
+    {
+      "name": "bolt.diy",
+      "desc": "社区维护的开源 Bolt.new 替代品，可在浏览器里用提示词生成完整全栈应用，支持 19+ AI 提供商与本地模型。",
+      "url": "https://github.com/stackblitz-labs/bolt.diy",
+      "category": "Web 应用",
+      "tags": [
+        "WebContainer",
+        "Full-stack",
+        "Ollama"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Bolt.new",
+      "hot": 0
+    },
+    {
+      "name": "Cloudflare Vibesdk",
+      "desc": "Cloudflare 开源的 vibe coding 平台 SDK，让开发者快速搭建自己的「AI 生成全栈应用」体验并一键部署到边缘。",
+      "url": "https://github.com/cloudflare/vibesdk",
+      "category": "Web 应用",
+      "tags": [
+        "Workers",
+        "SDK",
+        "App Builder"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "v0",
+      "hot": 0
+    },
+    {
+      "name": "AFFiNE",
+      "desc": "开源的 Notion + Miro 替代品，融合文档、白板与数据库的一体化工作空间，本地优先且内置 AI 能力。",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "category": "AI办公",
+      "tags": [
+        "TypeScript",
+        "Whiteboard",
+        "Local-first"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Agent Inbox",
+      "desc": "LangChain 开源的人机协同收件箱界面，用 interrupt 机制让人工介入审核 LangGraph 智能体的中间决策。",
+      "url": "https://github.com/langchain-ai/agent-inbox",
+      "category": "Agent",
+      "tags": [
+        "React",
+        "HITL",
+        "LangGraph"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Immich Photo Manager",
+      "desc": "为自托管照片库 Immich 打造的自然语言管理界面，用一句话完成照片搜索、整理与批量操作。",
+      "url": "https://github.com/drolosoft/immich-photo-manager",
+      "category": "效率工具",
+      "tags": [
+        "Immich",
+        "NL Interface",
+        "Photos"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "ccusage",
+      "desc": "离线分析 Claude Code 用量的 CLI，直接解析本地 JSONL 转录记录统计 token 消耗与费用，GitHub 万星热门小工具。",
+      "url": "https://github.com/ccusage/ccusage",
+      "category": "效率工具",
+      "tags": [
+        "CLI",
+        "Analytics",
+        "Cost"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "claude-mem",
+      "desc": "自动捕获并压缩 Claude Code 会话历史形成可检索记忆，让智能体在新会话中延续上下文不再失忆。",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "category": "效率工具",
+      "tags": [
+        "Memory",
+        "SQLite",
+        "Hooks"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "claude-supermemory",
+      "desc": "基于 Supermemory 的持久化跨会话记忆层，让 AI 助手记住历史偏好与决策并在任意会话调用。",
+      "url": "https://github.com/supermemoryai/claude-supermemory",
+      "category": "效率工具",
+      "tags": [
+        "Memory",
+        "Persistence",
+        "API"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "reporecall",
+      "desc": "本地代码库记忆工具，用 tree-sitter AST 索引加混合检索，帮助智能体在大仓库中快速找回相关代码上下文。",
+      "url": "https://github.com/proofofwork-agency/reporecall",
+      "category": "效率工具",
+      "tags": [
+        "Tree-sitter",
+        "Hybrid Search",
+        "Indexing"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "vibeguard",
+      "desc": "实时拦截 AI 幻觉操作的守护系统，内置 88 条规则、13 个钩子与 14 个检查智能体，防止错误代码入库。",
+      "url": "https://github.com/majiayu000/vibeguard",
+      "category": "效率工具",
+      "tags": [
+        "Guardrails",
+        "Hooks",
+        "QA"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "whatsapp-claude-plugin",
+      "desc": "把 WhatsApp 作为 Claude 的链接设备接入的桥接插件，支持媒体传输与语音转录，随时随地向智能体下达指令。",
+      "url": "https://github.com/Rich627/whatsapp-claude-plugin",
+      "category": "效率工具",
+      "tags": [
+        "WhatsApp",
+        "Bridge",
+        "Voice"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "discoclaw",
+      "desc": "Discord 到 Claude 的桥接机器人，带有持久记忆与定时任务能力，让你在 Discord 里驱动智能体干活。",
+      "url": "https://github.com/DiscoClaw/discoclaw",
+      "category": "效率工具",
+      "tags": [
+        "Discord",
+        "Bot",
+        "Cron"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "jarvis 运维助手",
+      "desc": "把闲置的 AI 订阅变成 24 小时运维系统：Discord 机器人加 RAG 知识库，随时响应并自动处理例行事务。",
+      "url": "https://github.com/Ramsbaby/jarvis",
+      "category": "效率工具",
+      "tags": [
+        "Discord",
+        "RAG",
+        "Ops"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "sniff 质检一条龙",
+      "desc": "一条命令跑完 QA 套件：死链检测、无障碍审计、视觉回归与 Lighthouse 性能评分，适合 vibe coded 站点验收。",
+      "url": "https://github.com/Aboudjem/sniff",
+      "category": "效率工具",
+      "tags": [
+        "QA",
+        "Accessibility",
+        "Lighthouse"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Superset",
+      "desc": "桌面端多智能体并行编排器，用 Git worktree 隔离多个编码智能体同时开工，互不干扰地推进不同任务。",
+      "url": "https://github.com/superset-sh/superset",
+      "category": "效率工具",
+      "tags": [
+        "Desktop",
+        "Worktree",
+        "Parallel"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "parallel-code",
+      "desc": "在同一桌面环境中同时运行 Claude Code、Codex CLI 和 Gemini CLI，横向对比三家智能体的输出效果。",
+      "url": "https://github.com/johannesjo/parallel-code",
+      "category": "效率工具",
+      "tags": [
+        "Electron",
+        "Comparison",
+        "CLI"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "claude-code-organizer",
+      "desc": "仪表盘加 MCP 服务器的组合，集中管理 Claude Code 的记忆文件、技能、服务器配置和钩子。",
+      "url": "https://github.com/mcpware/cross-code-organizer",
+      "category": "效率工具",
+      "tags": [
+        "Dashboard",
+        "MCP",
+        "Config"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "avante.nvim",
+      "desc": "Neovim 上复刻 Cursor AI 编辑体验的插件，支持内联建议、文件级编辑与智能体模式，深受 Vim 党欢迎。",
+      "url": "https://github.com/avante-corp/avante.nvim",
+      "category": "效率工具",
+      "tags": [
+        "Neovim",
+        "Lua",
+        "IDE Plugin"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "codecompanion.nvim",
+      "desc": "Neovim AI 编程插件，内置智能体与斜杠命令体系，可连接多种 LLM 在编辑器内完成补全与重构。",
+      "url": "https://github.com/olimorris/codecompanion.nvim",
+      "category": "效率工具",
+      "tags": [
+        "Neovim",
+        "Lua",
+        "Agents"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "peon-ping",
+      "desc": "魔兽争霸农民语音播报 AI 智能体事件的趣味通知工具，任务开始、成功、失败都有经典音效提醒。",
+      "url": "https://github.com/PeonPing/peon-ping",
+      "category": "效率工具",
+      "tags": [
+        "Notifications",
+        "Audio",
+        "Fun"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "notch-so-good",
+      "desc": "住在 MacBook 刘海里的像素螃蟹，实时观察你的 AI 编码会话状态并用动画反馈当前进展。",
+      "url": "https://github.com/deepshal99/notch-so-good",
+      "category": "效率工具",
+      "tags": [
+        "macOS",
+        "Pixel Art",
+        "Status"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "claude-time",
+      "desc": "向每次 AI 提示注入本地实时时间与时区的轻量钩子，避免智能体对「今天几号」产生幻觉。",
+      "url": "https://github.com/nexusbuildsai/claude-time",
+      "category": "效率工具",
+      "tags": [
+        "Timezone",
+        "Hook",
+        "Prompt"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "burnd",
+      "desc": "成本控制 CLI，识别 8 种常见 token 泄漏模式并给出节省估算，帮团队管住 AI 编码开销。",
+      "url": "https://github.com/garvitsurana271/burnd",
+      "category": "效率工具",
+      "tags": [
+        "Cost",
+        "CLI",
+        "Optimization"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "cc-cost",
+      "desc": "单文件 Python 命令行工具，汇报 Claude Code 使用成本、缓存命中率与最贵对话轮次。",
+      "url": "https://github.com/lob-labs/cc-cost",
+      "category": "效率工具",
+      "tags": [
+        "Python",
+        "Cost",
+        "Report"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "ccmanager",
+      "desc": "AI 编码会话管理器，统一管理 Claude Code、Gemini CLI、Codex、Cursor 等多个智能体的后台会话。",
+      "url": "https://github.com/kbwo/ccmanager",
+      "category": "效率工具",
+      "tags": [
+        "Session Manager",
+        "CLI",
+        "Multi-tool"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Continue",
+      "desc": "开源 AI 编码助手，提供 IDE 扩展、CLI 与 CI 检查三种形态，支持自定义模型与规则的可控智能体开发。",
+      "url": "https://github.com/continuedev/continue",
+      "category": "AI 工具",
+      "tags": [
+        "VS Code Extension",
+        "CLI",
+        "CI"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "Tabby",
+      "desc": "可自托管的开源 Copilot 替代品，具备仓库级上下文理解能力，支持私有化部署保障代码安全。",
+      "url": "https://github.com/TabbyML/tabby",
+      "category": "AI 工具",
+      "tags": [
+        "Rust",
+        "Code Completion",
+        "Self-hosted"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Context7",
+      "desc": "Upstash 出品的 MCP 服务器加 CLI，实时把最新版本框架文档注入 LLM 提示词，杜绝过时 API 幻觉。",
+      "url": "https://github.com/upstash/context7",
+      "category": "AI 工具",
+      "tags": [
+        "MCP",
+        "Docs",
+        "Context"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "claude-context",
+      "desc": "Zilliz 开发的语义代码搜索 MCP 服务器，结合 BM25 与向量检索为大模型瘦身上下文，token 消耗降低约四成。",
+      "url": "https://github.com/zilliztech/claude-context",
+      "category": "AI 工具",
+      "tags": [
+        "MCP",
+        "Vector Search",
+        "BM25"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "VibeKit",
+      "desc": "Superagent 推出的 vibe coding 应用构建套件，封装沙箱化的代码生成运行时，方便在自己的产品中嵌入 AI 编程能力。",
+      "url": "https://github.com/superagent-ai/vibekit",
+      "category": "AI 工具",
+      "tags": [
+        "SDK",
+        "Sandbox",
+        "Embedding"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+      "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "claude-channel-whatsapp",
+      "desc": "基于 Meta 官方 WhatsApp Cloud API 的 Claude 接入桥，无需逆向抓取即可合规地在 WhatsApp 中召唤智能体。",
+      "url": "https://github.com/riasistemas/claude-channel-whatsapp",
+      "category": "AI 工具",
+      "tags": [
+        "WhatsApp API",
+        "Bridge",
+        "Official"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "codesight",
+      "desc": "token 优化器，提取项目路由、数据库结构和组件清单供多种 AI 编码工具使用，显著压缩上传给模型的代码量。",
+      "url": "https://github.com/Houseofmvps/codesight",
+      "category": "AI 工具",
+      "tags": [
+        "Token Optimizer",
+        "Context",
+        "CLI"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+      "tool": "Cline",
+      "hot": 0
+    },
+    {
+      "name": "codebase-graph",
+      "desc": "用 tree-sitter 解析 42 种语言源码并导入 FalkorDB 构建知识图谱，让智能体按依赖关系而非文件名检索代码。",
+      "url": "https://github.com/Phoenixrr2113/codebase-graph",
+      "category": "AI 工具",
+      "tags": [
+        "Knowledge Graph",
+        "Tree-sitter",
+        "FalkorDB"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "eliniscan",
+      "desc": "逐文件扫描整个代码库并为每个文件开独立会话的分析器，适合让 AI 彻底摸清陌生项目的全貌。",
+      "url": "https://github.com/AlpYenigun/eliniscan",
+      "category": "AI 工具",
+      "tags": [
+        "Scanner",
+        "Analysis",
+        "Sessions"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "gate4agent",
+      "desc": "Rust 编写的智能体传输层，支持管道、NDJSON、PTY 与 ACP 多种协议，为 CLI 智能体提供稳定的进程通信底座。",
+      "url": "https://github.com/ZENG3LD/gate4agent",
+      "category": "AI 工具",
+      "tags": [
+        "Rust",
+        "Transport",
+        "ACP"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Codex",
       "hot": 0
     }
   ],
