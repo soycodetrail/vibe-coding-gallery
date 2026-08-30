@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-30 18:14:37
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-30 21:07:44
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（446 个条目 / 14 个分类）
+## 📑 内容导航（453 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -251,6 +251,14 @@
   标签：Scanner / Analysis / Sessions
 - [gate4agent](https://github.com/ZENG3LD/gate4agent) — Rust 编写的智能体传输层，支持管道、NDJSON、PTY 与 ACP 多种协议，为 CLI 智能体提供稳定的进程通信底座。  
   标签：Rust / Transport / ACP
+- [oh-my-claudecode - Claude Code 多智能体编排](https://github.com/Yeachan-Heo/oh-my-claudecode) — 面向团队的多智能体编排框架，让 Claude Code 跨项目并行协作，支持会话自动发现、Git 工作流与任务看板。GitHub 3.8 万+ Star。  
+  标签：Claude Code / 多智能体 / 编排 / 自动化
+- [OmniRoute - 免费大模型统一网关](https://github.com/diegosouzapw/OmniRoute) — MIT 协议的开源 AI 网关，聚合 350+ 供应商、1200+ 模型，带配额感知回退与 Token 压缩，可省 15%-95% 上下文成本。GitHub 5.8 万+ Star。  
+  标签：LLM 网关 / 免费 / 路由 / 开源
+- [freellmapi - 免费 LLM API 聚合](https://github.com/tashfeenahmed/freellmapi) — 将 34 家免费 LLM 供应商、635 个模型端点统一到单一 OpenAI 兼容接口，带智能路由与自动故障转移。GitHub 2.2 万+ Star。  
+  标签：免费 API / LLM / 网关 / 开源
+- [Serena - 编程智能体的 MCP 工具箱](https://github.com/oraios/serena) — 强大的 MCP 编码工具箱，提供语义检索与编辑能力，被称为「智能体的 IDE」。GitHub 2.8 万+ Star。  
+  标签：MCP / 代码检索 / Agent IDE / 开源
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -380,6 +388,8 @@
   标签：LangGraph / Email / Human-in-loop
 - [Agent Inbox](https://github.com/langchain-ai/agent-inbox) — LangChain 开源的人机协同收件箱界面，用 interrupt 机制让人工介入审核 LangGraph 智能体的中间决策。  
   标签：React / HITL / LangGraph
+- [Mastra - 开源 AI Agent 框架](https://github.com/mastra-ai/mastra) — 面向 AI 应用与智能体开发的开源框架，提供结构化工作流、长期记忆、实时流式与可观测性。YC W25 孵化，GitHub 2.7 万+ Star、周下载 30 万+。  
+  标签：Agent 框架 / TypeScript / YC / 开源
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -810,6 +820,10 @@
   标签：换脸 / 图像编辑 / PyTorch
 - [FaceSwap](https://faceswap.dev/download) — 老牌免费开源多平台 Deepfakes 软件，支持图片与视频中的人脸替换。  
   标签：Deepfakes / 人脸替换 / TensorFlow
+- [MoneyPrinterTurbo - AI 一键生成短视频](https://github.com/harry0703/MoneyPrinterTurbo) — 利用 AI 大模型与自动化工作流，输入主题或关键词即可一键生成高清短视频。GitHub 11.8 万+ Star，长期位居 GitHub Trending，是 AI 短视频生成领域的人气标杆。  
+  标签：短视频 / AI 生成 / 自动化 / 内容创作
+- [Onlook - 给设计师的 AI 原生界面工具](https://github.com/onlook-dev/onlook) — 开源的 AI 优先设计工具，可视化构建、样式化并用 AI 编辑 React 应用，被称为设计师版 Cursor。GitHub 2.6 万+ Star。  
+  标签：设计工具 / React / 可视化 / 开源
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 

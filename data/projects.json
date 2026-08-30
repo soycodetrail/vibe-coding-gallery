@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T18:14:37.426Z",
+  "updatedAt": "2026-08-30T21:07:44.740Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -6851,6 +6851,118 @@
       "icon": "✨",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Codex",
+      "hot": 0
+    },
+    {
+      "name": "MoneyPrinterTurbo - AI 一键生成短视频",
+      "desc": "利用 AI 大模型与自动化工作流，输入主题或关键词即可一键生成高清短视频。GitHub 11.8 万+ Star，长期位居 GitHub Trending，是 AI 短视频生成领域的人气标杆。",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "category": "设计创意",
+      "tags": [
+        "短视频",
+        "AI 生成",
+        "自动化",
+        "内容创作"
+      ],
+      "icon": "🎬",
+      "bg": "linear-gradient(135deg, #FF416C 0%, #FF4B2B 100%)",
+      "tool": "Python + AI 大模型",
+      "hot": 0
+    },
+    {
+      "name": "Onlook - 给设计师的 AI 原生界面工具",
+      "desc": "开源的 AI 优先设计工具，可视化构建、样式化并用 AI 编辑 React 应用，被称为设计师版 Cursor。GitHub 2.6 万+ Star。",
+      "url": "https://github.com/onlook-dev/onlook",
+      "category": "设计创意",
+      "tags": [
+        "设计工具",
+        "React",
+        "可视化",
+        "开源"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #5F2C82 0%, #49A09D 100%)",
+      "tool": "React + AI",
+      "hot": 0
+    },
+    {
+      "name": "Mastra - 开源 AI Agent 框架",
+      "desc": "面向 AI 应用与智能体开发的开源框架，提供结构化工作流、长期记忆、实时流式与可观测性。YC W25 孵化，GitHub 2.7 万+ Star、周下载 30 万+。",
+      "url": "https://github.com/mastra-ai/mastra",
+      "category": "Agent",
+      "tags": [
+        "Agent 框架",
+        "TypeScript",
+        "YC",
+        "开源"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #1D976C 0%, #93F9B9 100%)",
+      "tool": "TypeScript",
+      "hot": 0
+    },
+    {
+      "name": "oh-my-claudecode - Claude Code 多智能体编排",
+      "desc": "面向团队的多智能体编排框架，让 Claude Code 跨项目并行协作，支持会话自动发现、Git 工作流与任务看板。GitHub 3.8 万+ Star。",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "category": "AI 工具",
+      "tags": [
+        "Claude Code",
+        "多智能体",
+        "编排",
+        "自动化"
+      ],
+      "icon": "⚡",
+      "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "OmniRoute - 免费大模型统一网关",
+      "desc": "MIT 协议的开源 AI 网关，聚合 350+ 供应商、1200+ 模型，带配额感知回退与 Token 压缩，可省 15%-95% 上下文成本。GitHub 5.8 万+ Star。",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "category": "AI 工具",
+      "tags": [
+        "LLM 网关",
+        "免费",
+        "路由",
+        "开源"
+      ],
+      "icon": "🌐",
+      "bg": "linear-gradient(135deg, #C33764 0%, #1D2671 100%)",
+      "tool": "Python",
+      "hot": 0
+    },
+    {
+      "name": "freellmapi - 免费 LLM API 聚合",
+      "desc": "将 34 家免费 LLM 供应商、635 个模型端点统一到单一 OpenAI 兼容接口，带智能路由与自动故障转移。GitHub 2.2 万+ Star。",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "category": "AI 工具",
+      "tags": [
+        "免费 API",
+        "LLM",
+        "网关",
+        "开源"
+      ],
+      "icon": "🔌",
+      "bg": "linear-gradient(135deg, #0F2027 0%, #2C5364 100%)",
+      "tool": "Python",
+      "hot": 0
+    },
+    {
+      "name": "Serena - 编程智能体的 MCP 工具箱",
+      "desc": "强大的 MCP 编码工具箱，提供语义检索与编辑能力，被称为「智能体的 IDE」。GitHub 2.8 万+ Star。",
+      "url": "https://github.com/oraios/serena",
+      "category": "AI 工具",
+      "tags": [
+        "MCP",
+        "代码检索",
+        "Agent IDE",
+        "开源"
+      ],
+      "icon": "🧩",
+      "bg": "linear-gradient(135deg, #F7971E 0%, #FFD200 100%)",
+      "tool": "MCP",
       "hot": 0
     }
   ],
