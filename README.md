@@ -4,13 +4,15 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-31 18:13:38
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-31 21:07:09
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
+- [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（453 个条目 / 14 个分类）
+## 📑 内容导航（459 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -81,6 +83,8 @@
   标签：WebContainer / Full-stack / Ollama
 - [Cloudflare Vibesdk](https://github.com/cloudflare/vibesdk) — Cloudflare 开源的 vibe coding 平台 SDK，让开发者快速搭建自己的「AI 生成全栈应用」体验并一键部署到边缘。  
   标签：Workers / SDK / App Builder
+- [God's Eye View - 浏览器里的真实卫星监控地球](https://github.com/bilawalsidhu/gods-eye-view) — 前 Google 地图产品经理用 Gemini 3.1 + Claude 4.6 搓出的浏览器三维地球，叠加真实卫星 / 航班 / 船舶实时数据，被称「Google Earth 与 Palantir 的孩子」；GitHub 1.4 万+ Star、原帖 190 万次浏览、a16z 盛赞。  
+  标签：3D 地球 / 卫星追踪 / OSINT / 开源
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -258,6 +262,10 @@
   标签：免费 API / LLM / 网关 / 开源
 - [Serena - 编程智能体的 MCP 工具箱](https://github.com/oraios/serena) — 强大的 MCP 编码工具箱，提供语义检索与编辑能力，被称为「智能体的 IDE」。GitHub 2.8 万+ Star。  
   标签：MCP / 代码检索 / Agent IDE / 开源
+- [X1 - 一句话做出可上架的 iPhone 应用](https://x1.new) — YC 系 AI 应用工作室，把「想法到 App Store」拆成计划、设计、构建、上架的里程碑流水线；Product Hunt 日榜第 1（约 495 票）、由 Garry Tan 亲自 hunt。  
+  标签：无代码 / iPhone / App Store / Vibe Coding
+- [DeepSeek-TUI - 终端原生 DeepSeek 编码智能体](https://github.com/Hmbown/DeepSeek-TUI) — Rust 打造的终端编码 Agent，原生绑定 DeepSeek V4，支持 Plan/Agent/YOLO 三种模式与 1M 上下文；GitHub 4.1 万+ Star，曾单周暴涨 2.1 万 Star，是 DeepSeek 生态首个真正的 Agent Shell。  
+  标签：终端 / 编码智能体 / 开源 / DeepSeek
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -522,6 +530,8 @@
   标签：Python / Cost / Report
 - [ccmanager](https://github.com/kbwo/ccmanager) — AI 编码会话管理器，统一管理 Claude Code、Gemini CLI、Codex、Cursor 等多个智能体的后台会话。  
   标签：Session Manager / CLI / Multi-tool
+- [Clipto.AI - 端侧多模态 AI 记忆层](https://www.clipto.com) — 把 TB 级本地视频 / 音频 / 文档变成可搜索的私人记忆层，完全本地、零上传；Product Hunt 日榜第 1（433 票），注册用户超千万、ARR 突破 1500 万美元并已盈利。  
+  标签：本地优先 / 记忆层 / 多模态 / 隐私
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -719,6 +729,10 @@
   标签：Streamlit / LLM / PowerPoint
 - [AFFiNE](https://github.com/toeverything/AFFiNE) — 开源的 Notion + Miro 替代品，融合文档、白板与数据库的一体化工作空间，本地优先且内置 AI 能力。  
   标签：TypeScript / Whiteboard / Local-first
+- [PageIndex - 无向量、推理式文档问答](https://www.pageindex.ai) — 放弃向量库与分块，用树状索引 + 大模型推理在长文档中精确定位并给出可溯源引用；Product Hunt 日榜第 1（342 票），金融文档问答基准 FinanceBench 达 98.7% 准确率。  
+  标签：文档问答 / RAG / 可溯源 / 企业
+- [Caddi - 看一眼就会干活的后台 Agent](https://trycaddi.com) — 面向律所、财富管理等专业服务公司的后台 Agent 构建器：屏幕共享演示一次，即自动跑成百上千条跨系统工作流；Product Hunt 日榜第 2（299 票），已获 500 万美元种子轮、单客户月省 904 小时。  
+  标签：后台自动化 / 专业服务 / Agent / 合规
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 

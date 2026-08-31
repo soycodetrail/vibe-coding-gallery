@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T18:13:38.260Z",
+  "updatedAt": "2026-08-31T21:07:09.249Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -6963,6 +6963,102 @@
       "icon": "🧩",
       "bg": "linear-gradient(135deg, #F7971E 0%, #FFD200 100%)",
       "tool": "MCP",
+      "hot": 0
+    },
+    {
+      "name": "X1 - 一句话做出可上架的 iPhone 应用",
+      "desc": "YC 系 AI 应用工作室，把「想法到 App Store」拆成计划、设计、构建、上架的里程碑流水线；Product Hunt 日榜第 1（约 495 票）、由 Garry Tan 亲自 hunt。",
+      "url": "https://x1.new",
+      "category": "AI 工具",
+      "tags": [
+        "无代码",
+        "iPhone",
+        "App Store",
+        "Vibe Coding"
+      ],
+      "icon": "📱",
+      "bg": "linear-gradient(135deg, #5b247a 0%, #1bced0 100%)",
+      "tool": "React Native + AI",
+      "hot": 0
+    },
+    {
+      "name": "Clipto.AI - 端侧多模态 AI 记忆层",
+      "desc": "把 TB 级本地视频 / 音频 / 文档变成可搜索的私人记忆层，完全本地、零上传；Product Hunt 日榜第 1（433 票），注册用户超千万、ARR 突破 1500 万美元并已盈利。",
+      "url": "https://www.clipto.com",
+      "category": "效率工具",
+      "tags": [
+        "本地优先",
+        "记忆层",
+        "多模态",
+        "隐私"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #aa076b 0%, #61045f 100%)",
+      "tool": "端侧多模态大模型",
+      "hot": 0
+    },
+    {
+      "name": "DeepSeek-TUI - 终端原生 DeepSeek 编码智能体",
+      "desc": "Rust 打造的终端编码 Agent，原生绑定 DeepSeek V4，支持 Plan/Agent/YOLO 三种模式与 1M 上下文；GitHub 4.1 万+ Star，曾单周暴涨 2.1 万 Star，是 DeepSeek 生态首个真正的 Agent Shell。",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "category": "AI 工具",
+      "tags": [
+        "终端",
+        "编码智能体",
+        "开源",
+        "DeepSeek"
+      ],
+      "icon": "🦀",
+      "bg": "linear-gradient(135deg, #b24592 0%, #f15f79 100%)",
+      "tool": "Rust + DeepSeek V4",
+      "hot": 0
+    },
+    {
+      "name": "God's Eye View - 浏览器里的真实卫星监控地球",
+      "desc": "前 Google 地图产品经理用 Gemini 3.1 + Claude 4.6 搓出的浏览器三维地球，叠加真实卫星 / 航班 / 船舶实时数据，被称「Google Earth 与 Palantir 的孩子」；GitHub 1.4 万+ Star、原帖 190 万次浏览、a16z 盛赞。",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "category": "Web 应用",
+      "tags": [
+        "3D 地球",
+        "卫星追踪",
+        "OSINT",
+        "开源"
+      ],
+      "icon": "🛰️",
+      "bg": "linear-gradient(135deg, #0b486b 0%, #f56217 100%)",
+      "tool": "Gemini 3.1 + Claude 4.6",
+      "hot": 0
+    },
+    {
+      "name": "PageIndex - 无向量、推理式文档问答",
+      "desc": "放弃向量库与分块，用树状索引 + 大模型推理在长文档中精确定位并给出可溯源引用；Product Hunt 日榜第 1（342 票），金融文档问答基准 FinanceBench 达 98.7% 准确率。",
+      "url": "https://www.pageindex.ai",
+      "category": "AI办公",
+      "tags": [
+        "文档问答",
+        "RAG",
+        "可溯源",
+        "企业"
+      ],
+      "icon": "📑",
+      "bg": "linear-gradient(135deg, #360033 0%, #0b879b 100%)",
+      "tool": "Reasoning-based RAG",
+      "hot": 0
+    },
+    {
+      "name": "Caddi - 看一眼就会干活的后台 Agent",
+      "desc": "面向律所、财富管理等专业服务公司的后台 Agent 构建器：屏幕共享演示一次，即自动跑成百上千条跨系统工作流；Product Hunt 日榜第 2（299 票），已获 500 万美元种子轮、单客户月省 904 小时。",
+      "url": "https://trycaddi.com",
+      "category": "AI办公",
+      "tags": [
+        "后台自动化",
+        "专业服务",
+        "Agent",
+        "合规"
+      ],
+      "icon": "🏢",
+      "bg": "linear-gradient(135deg, #cc2b5b 0%, #753a88 100%)",
+      "tool": "Hybrid Agents",
       "hot": 0
     }
   ],
