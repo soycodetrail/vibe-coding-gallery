@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-01 18:19:39
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-01 21:14:22
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（459 个条目 / 14 个分类）
+## 📑 内容导航（469 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -266,6 +266,8 @@
   标签：无代码 / iPhone / App Store / Vibe Coding
 - [DeepSeek-TUI - 终端原生 DeepSeek 编码智能体](https://github.com/Hmbown/DeepSeek-TUI) — Rust 打造的终端编码 Agent，原生绑定 DeepSeek V4，支持 Plan/Agent/YOLO 三种模式与 1M 上下文；GitHub 4.1 万+ Star，曾单周暴涨 2.1 万 Star，是 DeepSeek 生态首个真正的 Agent Shell。  
   标签：终端 / 编码智能体 / 开源 / DeepSeek
+- [last30days - 按「真人投票」而不是 SEO 排序的搜索](https://github.com/mvanhorn/last30days-skill) — 抛开编辑推荐，用 Reddit 高赞、X 热帖、YouTube 全文转录、HN 分数、Polymarket 真金下注赔率交叉聚类，给任意人物/公司/技术产出带引用的简报；GitHub 6.1 万 star、当日 Trending 第 1，2,700+ 测试、MIT、零配置即可跑 Reddit 与 HN。  
+  标签：社交信号 / 研究简报 / 预测市场 / 开源
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -532,6 +534,8 @@
   标签：Session Manager / CLI / Multi-tool
 - [Clipto.AI - 端侧多模态 AI 记忆层](https://www.clipto.com) — 把 TB 级本地视频 / 音频 / 文档变成可搜索的私人记忆层，完全本地、零上传；Product Hunt 日榜第 1（433 票），注册用户超千万、ARR 突破 1500 万美元并已盈利。  
   标签：本地优先 / 记忆层 / 多模态 / 隐私
+- [Paseo - 在手机上遥控家里的编码 Agent](https://paseo.sh) — 编码 Agent 的自托管控制平面：把 Claude Code、Codex、Copilot、OpenCode、Pi 统一收进一个界面，隔离 worktree 里并行开多个任务，通勤路上用手机就能审 diff、批计划、继续跑；GitHub 1.57 万 star（fork 1,722），近 30 天新增 3,761 star。  
+  标签：远程编码 / Agent 编排 / 移动端 / 开源
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -682,6 +686,8 @@
   标签：记账 / uni-app / 离线
 - [easy_write 记账本](https://github.com/wilinz/easy_write) — UI 精美的 Android 记账 App，MVVM + Jetpack Compose 架构，开源可定制自己的记账本。  
   标签：记账 / Compose / Android
+- [TradingAgents - 用多智能体开一整间交易公司](https://tradingagents-ai.github.io/) — UCLA 与 MIT 团队把交易公司搬进代码：基本面/情绪/新闻/技术四位分析师并行取数，多空研究员辩论，交易员下单，风控与基金经理层层复核；GitHub 10.2 万 star（fork 1.9 万），论文 arXiv:2412.20138 回测中 AAPL 累计收益 26.62%、夏普 8.21，同期买入持有为 -5.23%。  
+  标签：量化交易 / 多智能体 / 风险管理 / 开源
 
 <a id="cat-ai办公" name="cat-ai办公"></a>
 
@@ -733,6 +739,8 @@
   标签：文档问答 / RAG / 可溯源 / 企业
 - [Caddi - 看一眼就会干活的后台 Agent](https://trycaddi.com) — 面向律所、财富管理等专业服务公司的后台 Agent 构建器：屏幕共享演示一次，即自动跑成百上千条跨系统工作流；Product Hunt 日榜第 2（299 票），已获 500 万美元种子轮、单客户月省 904 小时。  
   标签：后台自动化 / 专业服务 / Agent / 合规
+- [Paperclip - 给 AI 员工发组织架构图](https://paperclip.ing) — 把 Agent 当员工管而不是当工具调：定目标、发职位（CEO/CTO/工程师/市场）、审批战略、设月度预算，超支自动停工，全流程工单留痕且不可篡改；接任何 Agent 运行时（Claude、Codex、Cursor、OpenClaw、Pi），GitHub 7.98 万 star、MIT 自托管。  
+  标签：Agent 编排 / 组织架构 / 成本管控 / 开源
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -778,6 +786,10 @@
   标签：记账 / Vue3 / 教学
 - [Agents From Scratch](https://github.com/langchain-ai/agents-from-scratch) — LangChain 官方教程项目，从零构建一个带 Gmail 工具的邮件助理智能体，演示 LangGraph 完整链路。  
   标签：Tutorial / LangGraph / Email Agent
+- [MiniMind - 2 小时从零训出一个 64M 大模型](https://jingyaogong.github.io/minimind) — 不调 API、不下权重，从分词器、预训练、SFT、LoRA、DPO 到蒸馏全流程手写，单卡两小时训完一个能对话的 6,400 万参数模型，被大量高校课程与自学者当作 LLM 入门第一课；GitHub 5.7 万 star（fork 7,410），Apache-2.0。  
+  标签：从零训练 / LLM 教学 / 单卡可跑 / 开源
+- [Scientific Agent Skills - 把 AI 变成能干活的科研搭子](https://k-dense.ai) — 给任意支持 Agent Skills 标准的 AI 装上 165 套验证过的科研技能：癌症基因组、分子动力学、药物靶点结合、RNA velocity、时序预测，外挂 78+ 科学数据库；官方称全球 19 万+ 科研人员在用，GitHub 4.1 万 star，兼容 Cursor、Claude Code、Codex。  
+  标签：科研自动化 / 生物医药 / 数据库 / 开源
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -837,6 +849,10 @@
   标签：短视频 / AI 生成 / 自动化 / 内容创作
 - [Onlook - 给设计师的 AI 原生界面工具](https://github.com/onlook-dev/onlook) — 开源的 AI 优先设计工具，可视化构建、样式化并用 AI 编辑 React 应用，被称为设计师版 Cursor。GitHub 2.6 万+ Star。  
   标签：设计工具 / React / 可视化 / 开源
+- [Taste Skill - 专治 AI 前端「一眼模板味」](https://tasteskill.dev) — 一条命令装进 Cursor、Claude Code、Codex、Gemini CLI、v0、Lovable，让 AI 先读懂行业与受众再动手，v2 内置 14 条硬规则和发版前强制自检，13 套风格技能覆盖极简/野兽派/图生代码/品牌套件；GitHub 8.3 万 star（fork 5,693），MIT 协议。  
+  标签：反模板化 / UI 审美 / Agent 技能 / 开源
+- [OpenMontage - 会「制片」的开源视频流水线](https://www.openmontage.video/) — 不是剪辑器也不是文生视频，而是把创意 brief 一路做到成片：调研、脚本、分镜、配音选角、配乐打点、合成渲染共 12 条产线、100+ 工具，生成前先出预算提案等你点头（示例 209 credits ≈ $2.09）；GitHub 5.5 万 star（fork 6,905）。  
+  标签：视频制片 / 分镜脚本 / 成本可控 / 开源
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -972,6 +988,8 @@
   标签：MediaPipe / 姿态估计 / 动作计数
 - [Yoga Pose Detection App](https://github.com/amartya04/Yoga-Pose-Detection-App) — 基于 React 的瑜伽体式检测网页应用，摄像头实时识别并对照标准姿势。  
   标签：React / PoseNet / 实时检测
+- [OpenMed - 病历不出手机的临床 AI](https://openmed.life/) — 一个人在午休时间起的项目，一年做成最大的开源医疗 AI 合集：2,000+ Apache-2.0 模型识别病历实体并抹掉 55+ 类隐私信息，全程离线，iPhone、浏览器、纯 CPU 都能跑；累计模型下载 3.4 亿次、月下载 3,000 万、PyPI 装机 940 万，12 项生物医学 NER 基准里 10 项拿到 SOTA。  
+  标签：端侧推理 / HIPAA 脱敏 / 临床 NER / 开源
 
 <a id="cat-社交社区" name="cat-社交社区"></a>
 
@@ -1007,6 +1025,8 @@
   标签：社交 / Firebase / React
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) — 主流开源团队聊天与社区沟通平台，支持频道、语音视频会议与第三方集成，Slack 替代品。  
   标签：聊天 / 团队协作 / 自托管
+- [AIRI - 自己养一只住在电脑里的赛博伙伴](https://airi.moeru.ai) — 对着 Neuro-sama 的效果做的自托管数字生命：能看屏幕、能语音对话、有长期记忆和情绪状态，可接入 Discord、Telegram、VRM 虚拟形象甚至一起打《我的世界》与《Factorio》；GitHub 4.87 万 star（fork 4,825），浏览器端即可试玩。  
+  标签：数字生命 / 语音陪伴 / 自托管 / 开源
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 

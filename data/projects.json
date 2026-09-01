@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T18:19:39.254Z",
+  "updatedAt": "2026-09-01T21:14:22.067Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -7059,6 +7059,166 @@
       "icon": "🏢",
       "bg": "linear-gradient(135deg, #cc2b5b 0%, #753a88 100%)",
       "tool": "Hybrid Agents",
+      "hot": 0
+    },
+    {
+      "name": "TradingAgents - 用多智能体开一整间交易公司",
+      "desc": "UCLA 与 MIT 团队把交易公司搬进代码：基本面/情绪/新闻/技术四位分析师并行取数，多空研究员辩论，交易员下单，风控与基金经理层层复核；GitHub 10.2 万 star（fork 1.9 万），论文 arXiv:2412.20138 回测中 AAPL 累计收益 26.62%、夏普 8.21，同期买入持有为 -5.23%。",
+      "url": "https://tradingagents-ai.github.io/",
+      "category": "金融财经",
+      "tags": [
+        "量化交易",
+        "多智能体",
+        "风险管理",
+        "开源"
+      ],
+      "icon": "📈",
+      "bg": "linear-gradient(135deg, #093028 0%, #34e89e 100%)",
+      "tool": "LLM 多智能体 + ReAct",
+      "hot": 0
+    },
+    {
+      "name": "Taste Skill - 专治 AI 前端「一眼模板味」",
+      "desc": "一条命令装进 Cursor、Claude Code、Codex、Gemini CLI、v0、Lovable，让 AI 先读懂行业与受众再动手，v2 内置 14 条硬规则和发版前强制自检，13 套风格技能覆盖极简/野兽派/图生代码/品牌套件；GitHub 8.3 万 star（fork 5,693），MIT 协议。",
+      "url": "https://tasteskill.dev",
+      "category": "设计创意",
+      "tags": [
+        "反模板化",
+        "UI 审美",
+        "Agent 技能",
+        "开源"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #20002c 0%, #6a3093 100%)",
+      "tool": "Agent Skill（SKILL.md）",
+      "hot": 0
+    },
+    {
+      "name": "Paperclip - 给 AI 员工发组织架构图",
+      "desc": "把 Agent 当员工管而不是当工具调：定目标、发职位（CEO/CTO/工程师/市场）、审批战略、设月度预算，超支自动停工，全流程工单留痕且不可篡改；接任何 Agent 运行时（Claude、Codex、Cursor、OpenClaw、Pi），GitHub 7.98 万 star、MIT 自托管。",
+      "url": "https://paperclip.ing",
+      "category": "AI办公",
+      "tags": [
+        "Agent 编排",
+        "组织架构",
+        "成本管控",
+        "开源"
+      ],
+      "icon": "📎",
+      "bg": "linear-gradient(135deg, #2a2a72 0%, #009ffd 100%)",
+      "tool": "Bring-Your-Own-Agent",
+      "hot": 0
+    },
+    {
+      "name": "last30days - 按「真人投票」而不是 SEO 排序的搜索",
+      "desc": "抛开编辑推荐，用 Reddit 高赞、X 热帖、YouTube 全文转录、HN 分数、Polymarket 真金下注赔率交叉聚类，给任意人物/公司/技术产出带引用的简报；GitHub 6.1 万 star、当日 Trending 第 1，2,700+ 测试、MIT、零配置即可跑 Reddit 与 HN。",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "category": "AI 工具",
+      "tags": [
+        "社交信号",
+        "研究简报",
+        "预测市场",
+        "开源"
+      ],
+      "icon": "🔎",
+      "bg": "linear-gradient(135deg, #3d1e6d 0%, #e65c00 100%)",
+      "tool": "Agent Skill + MCP",
+      "hot": 0
+    },
+    {
+      "name": "MiniMind - 2 小时从零训出一个 64M 大模型",
+      "desc": "不调 API、不下权重，从分词器、预训练、SFT、LoRA、DPO 到蒸馏全流程手写，单卡两小时训完一个能对话的 6,400 万参数模型，被大量高校课程与自学者当作 LLM 入门第一课；GitHub 5.7 万 star（fork 7,410），Apache-2.0。",
+      "url": "https://jingyaogong.github.io/minimind",
+      "category": "教育学习",
+      "tags": [
+        "从零训练",
+        "LLM 教学",
+        "单卡可跑",
+        "开源"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #0a2342 0%, #004d7a 100%)",
+      "tool": "PyTorch 全流程手写",
+      "hot": 0
+    },
+    {
+      "name": "OpenMontage - 会「制片」的开源视频流水线",
+      "desc": "不是剪辑器也不是文生视频，而是把创意 brief 一路做到成片：调研、脚本、分镜、配音选角、配乐打点、合成渲染共 12 条产线、100+ 工具，生成前先出预算提案等你点头（示例 209 credits ≈ $2.09）；GitHub 5.5 万 star（fork 6,905）。",
+      "url": "https://www.openmontage.video/",
+      "category": "设计创意",
+      "tags": [
+        "视频制片",
+        "分镜脚本",
+        "成本可控",
+        "开源"
+      ],
+      "icon": "🎬",
+      "bg": "linear-gradient(135deg, #360940 0%, #870000 100%)",
+      "tool": "Claude Code / Codex 插件 + MCP",
+      "hot": 0
+    },
+    {
+      "name": "AIRI - 自己养一只住在电脑里的赛博伙伴",
+      "desc": "对着 Neuro-sama 的效果做的自托管数字生命：能看屏幕、能语音对话、有长期记忆和情绪状态，可接入 Discord、Telegram、VRM 虚拟形象甚至一起打《我的世界》与《Factorio》；GitHub 4.87 万 star（fork 4,825），浏览器端即可试玩。",
+      "url": "https://airi.moeru.ai",
+      "category": "社交社区",
+      "tags": [
+        "数字生命",
+        "语音陪伴",
+        "自托管",
+        "开源"
+      ],
+      "icon": "🧸",
+      "bg": "linear-gradient(135deg, #5d4157 0%, #a8caba 100%)",
+      "tool": "TypeScript + WebGPU",
+      "hot": 0
+    },
+    {
+      "name": "Scientific Agent Skills - 把 AI 变成能干活的科研搭子",
+      "desc": "给任意支持 Agent Skills 标准的 AI 装上 165 套验证过的科研技能：癌症基因组、分子动力学、药物靶点结合、RNA velocity、时序预测，外挂 78+ 科学数据库；官方称全球 19 万+ 科研人员在用，GitHub 4.1 万 star，兼容 Cursor、Claude Code、Codex。",
+      "url": "https://k-dense.ai",
+      "category": "教育学习",
+      "tags": [
+        "科研自动化",
+        "生物医药",
+        "数据库",
+        "开源"
+      ],
+      "icon": "🔬",
+      "bg": "linear-gradient(135deg, #0f3443 0%, #1cd8d2 100%)",
+      "tool": "Agent Skills 标准",
+      "hot": 0
+    },
+    {
+      "name": "OpenMed - 病历不出手机的临床 AI",
+      "desc": "一个人在午休时间起的项目，一年做成最大的开源医疗 AI 合集：2,000+ Apache-2.0 模型识别病历实体并抹掉 55+ 类隐私信息，全程离线，iPhone、浏览器、纯 CPU 都能跑；累计模型下载 3.4 亿次、月下载 3,000 万、PyPI 装机 940 万，12 项生物医学 NER 基准里 10 项拿到 SOTA。",
+      "url": "https://openmed.life/",
+      "category": "医疗健康",
+      "tags": [
+        "端侧推理",
+        "HIPAA 脱敏",
+        "临床 NER",
+        "开源"
+      ],
+      "icon": "🩺",
+      "bg": "linear-gradient(135deg, #00223e 0%, #12c2e9 100%)",
+      "tool": "Apple MLX + ONNX + Transformers.js",
+      "hot": 0
+    },
+    {
+      "name": "Paseo - 在手机上遥控家里的编码 Agent",
+      "desc": "编码 Agent 的自托管控制平面：把 Claude Code、Codex、Copilot、OpenCode、Pi 统一收进一个界面，隔离 worktree 里并行开多个任务，通勤路上用手机就能审 diff、批计划、继续跑；GitHub 1.57 万 star（fork 1,722），近 30 天新增 3,761 star。",
+      "url": "https://paseo.sh",
+      "category": "效率工具",
+      "tags": [
+        "远程编码",
+        "Agent 编排",
+        "移动端",
+        "开源"
+      ],
+      "icon": "🛰️",
+      "bg": "linear-gradient(135deg, #24243e 0%, #544a7d 100%)",
+      "tool": "TypeScript 自托管",
       "hot": 0
     }
   ],
