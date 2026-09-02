@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T18:10:49.699Z",
+  "updatedAt": "2026-09-02T21:09:58.203Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -7219,6 +7219,118 @@
       "icon": "🛰️",
       "bg": "linear-gradient(135deg, #24243e 0%, #544a7d 100%)",
       "tool": "TypeScript 自托管",
+      "hot": 0
+    },
+    {
+      "name": "OpenCut - 开源版剪映 / CapCut",
+      "desc": "浏览器里剪辑视频、自动加字幕与特效的开源 CapCut 替代品；GitHub 8.8 万+ Star，Vibe Jam 生态最受欢迎的剪辑工具之一。",
+      "url": "https://opencut.app",
+      "category": "设计创意",
+      "tags": [
+        "视频剪辑",
+        "开源",
+        "CapCut 替代",
+        "Web 应用"
+      ],
+      "icon": "🎬",
+      "bg": "linear-gradient(135deg, #c31432 0%, #240b36 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "WenWare - 时空穿越版 GeoGuessr",
+      "desc": "AI 生成 360° 历史全景，60 秒内在世界地图定位并拖动时间轴猜年份；Vibe Jam 2026 铜奖，累计 90 万+ 次游玩。",
+      "url": "https://wen-ware.com",
+      "category": "游戏",
+      "tags": [
+        "浏览器游戏",
+        "历史",
+        "GeoGuessr",
+        "Vibe Jam 2026"
+      ],
+      "icon": "🌍",
+      "bg": "linear-gradient(135deg, #360033 0%, #0b8793 100%)",
+      "tool": "OpenAI Codex + GPT-Image",
+      "hot": 0
+    },
+    {
+      "name": "Capybara Delivery - 水豚送餐（Vibe Jam 金奖）",
+      "desc": "多人合作送餐游戏，AI 生成 3D 水豚模型、Suno 自动配乐，零人工建模；Vibe Jam 2026 金奖，病毒式传播。",
+      "url": "https://capybara-vibejam26.leocoout.dev",
+      "category": "游戏",
+      "tags": [
+        "多人游戏",
+        "合作",
+        "3D",
+        "Vibe Jam 2026"
+      ],
+      "icon": "🐹",
+      "bg": "linear-gradient(135deg, #fceabb 0%, #f8b500 100%)",
+      "tool": "Claude Code + Three.js + Tripo3d",
+      "hot": 0
+    },
+    {
+      "name": "meetily - 本地隐私优先的 AI 会议助手",
+      "desc": "100% 本地实时转录 + 说话人分离 + AI 摘要，会议数据不出本机；GitHub 3.0 万+ Star，macOS/Windows 排名第一的自托管会议记录工具。",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "category": "AI办公",
+      "tags": [
+        "会议记录",
+        "本地 AI",
+        "Whisper",
+        "隐私"
+      ],
+      "icon": "🎙️",
+      "bg": "linear-gradient(135deg, #7028e4 0%, #e5b2ca 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "OfficeCLI - 首个专为 AI Agent 打造的 Office 套件",
+      "desc": "单二进制免装 Office，让 Agent 直接读写自动化 Word / Excel / PPT；GitHub 2.97 万+ Star，Apache-2.0 开源。",
+      "url": "https://www.officecli.ai",
+      "category": "AI办公",
+      "tags": [
+        "Office 自动化",
+        "Word",
+        "Excel",
+        "PPT"
+      ],
+      "icon": "📎",
+      "bg": "linear-gradient(135deg, #2980b9 0%, #6dd5fa 100%)",
+      "tool": "C# / AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "grok-build - xAI 开源编程 Agent",
+      "desc": "xAI 开源的 Coding Agent CLI + TUI，完整暴露上下文处理、工具执行、插件、Skills 与 MCP 集成；GitHub 2.6 万+ Star，Apache-2.0。",
+      "url": "https://grok.com/build",
+      "category": "AI工具",
+      "tags": [
+        "编程 Agent",
+        "开源",
+        "MCP",
+        "CLI"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #1f4037 0%, #99f2c8 100%)",
+      "tool": "xAI / Grok",
+      "hot": 0
+    },
+    {
+      "name": "orca - 并行编码 Agent 舰队管理器",
+      "desc": "用已有订阅运行任意编码 Agent 的「Agent 开发环境」，桌面 / 移动端统一监控调度并行 Agent 集群；GitHub 5.99 万+ Star，MIT 开源。",
+      "url": "https://github.com/stablyai/orca",
+      "category": "Agent",
+      "tags": [
+        "多 Agent",
+        "调度",
+        "开发环境",
+        "开源"
+      ],
+      "icon": "🐋",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #2c5364 100%)",
+      "tool": "Claude Code / Cursor",
       "hot": 0
     }
   ],

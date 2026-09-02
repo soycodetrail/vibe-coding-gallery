@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-02 18:10:49
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-02 21:09:58
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（469 个条目 / 14 个分类）
+## 📑 内容导航（476 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -399,6 +399,8 @@
   标签：React / HITL / LangGraph
 - [Mastra - 开源 AI Agent 框架](https://github.com/mastra-ai/mastra) — 面向 AI 应用与智能体开发的开源框架，提供结构化工作流、长期记忆、实时流式与可观测性。YC W25 孵化，GitHub 2.7 万+ Star、周下载 30 万+。  
   标签：Agent 框架 / TypeScript / YC / 开源
+- [orca - 并行编码 Agent 舰队管理器](https://github.com/stablyai/orca) — 用已有订阅运行任意编码 Agent 的「Agent 开发环境」，桌面 / 移动端统一监控调度并行 Agent 集群；GitHub 5.99 万+ Star，MIT 开源。  
+  标签：多 Agent / 调度 / 开发环境 / 开源
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -647,6 +649,10 @@
   标签：引擎 / ECS / 开源
 - [人生重开模拟器 lifeRestart](https://github.com/VickScarlet/remake) — 爆火的开源文字重开人生游戏，随机天赋与事件一键重启人生，社区贡献海量剧本。  
   标签：文字 / 开源 / 爆款
+- [WenWare - 时空穿越版 GeoGuessr](https://wen-ware.com) — AI 生成 360° 历史全景，60 秒内在世界地图定位并拖动时间轴猜年份；Vibe Jam 2026 铜奖，累计 90 万+ 次游玩。  
+  标签：浏览器游戏 / 历史 / GeoGuessr / Vibe Jam 2026
+- [Capybara Delivery - 水豚送餐（Vibe Jam 金奖）](https://capybara-vibejam26.leocoout.dev) — 多人合作送餐游戏，AI 生成 3D 水豚模型、Suno 自动配乐，零人工建模；Vibe Jam 2026 金奖，病毒式传播。  
+  标签：多人游戏 / 合作 / 3D / Vibe Jam 2026
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -741,6 +747,10 @@
   标签：后台自动化 / 专业服务 / Agent / 合规
 - [Paperclip - 给 AI 员工发组织架构图](https://paperclip.ing) — 把 Agent 当员工管而不是当工具调：定目标、发职位（CEO/CTO/工程师/市场）、审批战略、设月度预算，超支自动停工，全流程工单留痕且不可篡改；接任何 Agent 运行时（Claude、Codex、Cursor、OpenClaw、Pi），GitHub 7.98 万 star、MIT 自托管。  
   标签：Agent 编排 / 组织架构 / 成本管控 / 开源
+- [meetily - 本地隐私优先的 AI 会议助手](https://github.com/Zackriya-Solutions/meetily) — 100% 本地实时转录 + 说话人分离 + AI 摘要，会议数据不出本机；GitHub 3.0 万+ Star，macOS/Windows 排名第一的自托管会议记录工具。  
+  标签：会议记录 / 本地 AI / Whisper / 隐私
+- [OfficeCLI - 首个专为 AI Agent 打造的 Office 套件](https://www.officecli.ai) — 单二进制免装 Office，让 Agent 直接读写自动化 Word / Excel / PPT；GitHub 2.97 万+ Star，Apache-2.0 开源。  
+  标签：Office 自动化 / Word / Excel / PPT
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -853,6 +863,8 @@
   标签：反模板化 / UI 审美 / Agent 技能 / 开源
 - [OpenMontage - 会「制片」的开源视频流水线](https://www.openmontage.video/) — 不是剪辑器也不是文生视频，而是把创意 brief 一路做到成片：调研、脚本、分镜、配音选角、配乐打点、合成渲染共 12 条产线、100+ 工具，生成前先出预算提案等你点头（示例 209 credits ≈ $2.09）；GitHub 5.5 万 star（fork 6,905）。  
   标签：视频制片 / 分镜脚本 / 成本可控 / 开源
+- [OpenCut - 开源版剪映 / CapCut](https://opencut.app) — 浏览器里剪辑视频、自动加字幕与特效的开源 CapCut 替代品；GitHub 8.8 万+ Star，Vibe Jam 生态最受欢迎的剪辑工具之一。  
+  标签：视频剪辑 / 开源 / CapCut 替代 / Web 应用
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1038,6 +1050,8 @@
   标签：PH 周榜 #1 / 521 票 / Agentic IDE / 可视化 QA
 - [Taku - 顶尖 AI 配置一键变应用](https://taku.ai) — 把全球顶尖 AI 玩家的技能、智能体与工作流，一键变成普通人点开即用的桌面应用：可运行、可重组、可定制，跳过 GitHub 与繁琐配置。Product Hunt 当日精选（约 400 票）。  
   标签：PH 精选 / 约 400 票 / 桌面应用 / 技能复用
+- [grok-build - xAI 开源编程 Agent](https://grok.com/build) — xAI 开源的 Coding Agent CLI + TUI，完整暴露上下文处理、工具执行、插件、Skills 与 MCP 集成；GitHub 2.6 万+ Star，Apache-2.0。  
+  标签：编程 Agent / 开源 / MCP / CLI
 
 
 ---
