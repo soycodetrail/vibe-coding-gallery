@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-03 19:09:57
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-04 13:15:06
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -175,7 +175,7 @@
 - [Pi - 可组合的 AI Agent 工具箱](https://github.com/earendil-works/pi) — libGDX 作者 badlogic 开源的 AI Agent 工具箱（monorepo），把统一 LLM API、Agent 运行时、差分渲染终端 UI 与 Coding Agent CLI 拆成可组合的四层，MIT 协议，GitHub 57K+ Star，已发 224 个版本持续维护，被称为「自己造 Agent 的基础设施」。  
   标签：开源 / AI Agent / Coding Agent / 57K Star
 - [DeepSeek Harness (dsh)](https://github.com/deepseek-ai/deepseek-harness) — 深度求索开源的 AI 编码「插件运行时」——把任意 MCP / 技能封装成可组合插件，号称"万物皆插件"。2026-08-13 发布后 42 小时破 10 万 Star、两天内冲到 10.6 万+ Star，刷新 GitHub 史上最快增长纪录，MIT 协议。  
-  标签：开源 / GitHub 10.6万★ / MIT / 插件运行时
+  标签：开源 / GitHub 10.6万 / MIT / 插件运行时
 - [Agent Reach - 给 AI Agent 装上「互联网之眼」](https://github.com/Panniantong/agent-reach) — 一个人 vibe coding 三个月、GitHub 26k+ Star 的开源能力层：一句话安装即让 Claude Code / Cursor 等 Agent 免费读取 Twitter、Reddit、YouTube、B站、小红书等 17 个平台。登顶 Trendshift 每日趋势榜 #1，MIT 开源。  
   标签：Agent 感知 / 26k Star / Trendshift #1 / MIT
 - [Superpowers - 让 AI 编码代理变成有纪律的工程师](https://github.com/obra/superpowers) — Jesse Vincent（obra）开源的 Agentic 技能框架与方法论，强制头脑风暴→规格→TDD→两阶段审查。GitHub 86.3k Star、6.8k Fork，MIT 协议，被称为 vibe coding 时代最-starred 的开发工具之一。  
@@ -191,13 +191,13 @@
 - [Qwen-Code - 阿里通义千问开源终端 AI 编码智能体](https://github.com/QwenLM/Qwen-Code) — 阿里通义千问团队开源的终端 AI 编码智能体，与 Qwen3-Coder 模型同源共生、Apache-2.0 协议；内置 Auto-Memory / SubAgents / Agent Teams / MCP，支持 OpenAI·Anthropic·Gemini·Qwen 多模型运行时切换，并延伸至 IDE、桌面端与 Telegram/钉钉/飞书机器人。GitHub 2.7 万+ Star，是国产开源编码 Agent 的标杆之作。  
   标签：开源 / 2.7万+ Star / Apache-2.0 / 终端 Agent
 - [OpenAI Codex - 官方终端编码智能体](https://github.com/openai/codex) — OpenAI 官方开源的终端编码智能体，本地运行、一句话驱动 Coding Agent，覆盖 CLI / IDE 插件 / 桌面端 / 云端四种形态。GitHub 11.7 万+ Star、Apache-2.0，空降 GitHub Trending 第一，是「官方出品 + 订阅制」赛道最强流量入口。  
-  标签：GitHub 11.7万★ / 终端 Agent / OpenAI 官方 / Apache-2.0
+  标签：GitHub 11.7万 / 终端 Agent / OpenAI 官方 / Apache-2.0
 - [Prime Agent - 自进化 RLM 编码智能体](https://github.com/PrimeIntellect-ai/prime-agent) — Prime Intellect 开源的自进化强化学习（RLM）编码智能体，专注长程自主任务与安全迭代。GitHub 1.8 万+ Star，单周暴涨 1.2 万 Star 登顶 GitHub 全球趋势榜，回答「Agent 能否安全跑完长任务」这一核心命题。  
-  标签：GitHub 1.8万★ / RLM 自进化 / 长程自主 / Trending #1
+  标签：GitHub 1.8万 / RLM 自进化 / 长程自主 / Trending #1
 - [TencentDB Agent Memory - 团队级 Agent 记忆中枢](https://github.com/TencentCloud/TencentDB-Agent-Memory) — 腾讯云开源的团队级 Agent 记忆中枢，把对话、文档与代码转成四类可复用记忆资产，让多个 Agent 共享上下文。GitHub 2.4 万+ Star，入选 GitHub 趋势榜并在「Agent 记忆」赛道领跑。  
-  标签：GitHub 2.4万★ / Agent 记忆 / 腾讯云 / 团队共享
+  标签：GitHub 2.4万 / Agent 记忆 / 腾讯云 / 团队共享
 - [Agent Skills - Addy Osmani 的可复用技能合集](https://github.com/addyosmani/agent-skills) — 前 Chrome 工程总监 Addy Osmani 开源维护的可复用 Agent Skills 合集，把「怎么让 Agent 干好活」沉淀成标准化技能。GitHub 8.9 万+ Star，已成为 Agent 技能生态的事实标准参考。  
-  标签：GitHub 8.9万★ / Agent Skills / Addy Osmani / 技能生态
+  标签：GitHub 8.9万 / Agent Skills / Addy Osmani / 技能生态
 - [Timeless Memories](https://timelessmemories.me) — 将老照片转为 AI 动态视频的网站，让静态照片呈现动态效果。  
   标签：图生视频 / AI 视频 / 照片修复
 - [Nano-Banana-Desktop](https://github.com/danielrosehill/Nano-Banana-Desktop) — 桌面端 AI 图像编辑小工具，调用图像模型完成快速修图操作。  
@@ -826,7 +826,7 @@
 - [Glaze by Raycast - 一句话生成原生 Mac App](https://www.raycast.com/glaze) — Raycast（YC W20、$47.8M 融资）推出的原生 Mac App 生成器：用一句话描述，AI 直接规划架构、写代码、经 Xcode 编译出真实 .app，常驻 Dock、离线可用、拥有完整系统级权限。Product Hunt 当日 #1（2026-07-03，574 票），重新定义「为你而生的个人软件」。  
   标签：PH 当日 #1 / 原生 Mac App / Raycast / 574 票
 - [Diagram Design - 29 种编辑级 HTML/SVG 图表](https://github.com/cathrynlavery/diagram-design) — Cathryn Lavery 开源的 29 种编辑级图表方案，全部自包含 HTML/SVG，可直接进版本库、进 PR、进文档流水线。GitHub 2.6 万+ Star，单周暴涨 1.3 万 Star 力压多数 AI 项目，证明「成品资产」依然最能打。  
-  标签：GitHub 2.6万★ / HTML/SVG / 编辑级图表 / Trending #2
+  标签：GitHub 2.6万 / HTML/SVG / 编辑级图表 / Trending #2
 - [Glam AI - 趋势模板生成视觉内容](https://glam.ai) — 面向创作者的 AI 视觉内容工厂：从 2000+ 每日更新的社媒爆款模板里挑趋势，上传一张照片即可生成 viral 级图片/短视频。移动端累计 1600 万+ 月下载，2026-03 网页版登 Product Hunt 当日 #2（589 票），把「追趋势」变成零门槛创作。  
   标签：PH 当日 #2 / 1600万月下载 / 趋势模板 / 创作者
 - [roomGPT](https://github.com/nutlope/roomgpt) — 上传房间照片即可生成多种装修风格的梦想房间效果图，是 Interior.AI 的知名开源复刻。  
@@ -879,7 +879,7 @@
 - [Fastlane - AI 病毒式短视频内容引擎](https://usefastlane.ai) — 把爆款视频一键改写成适合 TikTok / IG Reels / YouTube Shorts 的病毒式营销内容、滑动式排期发布的 AI 内容引擎，Product Hunt 当日 #3（346 票），已聚集 2 万+ 创作者，单个视频创下 3620 万播放。  
   标签：AI 营销 / 短视频 / Product Hunt #3 / 2万创作者
 - [OpenSEO 开源 SEO 工作台](https://openseo.so) — 对标 Semrush / Ahrefs 的开源 SEO 工具：关键词研究、排名追踪、竞品分析、外链与站点审计一站搞定，并通过 MCP 让 Claude Code 等 AI 代理直接调用。2026-07 Product Hunt 当日 #2（862 upvotes），GitHub 5.8k+ star，MIT 协议可自托管、可"vibe code"自定义。  
-  标签：开源 SEO / PH #2 · 862★ / GitHub 5.8k+
+  标签：开源 SEO / PH #2 · 862 / GitHub 5.8k+
 - [Fuzzy AI 潜客预热引擎](https://getfuzzy.ai) — 帮 GTM 团队在发出第一封冷邮件前先"混个脸熟"——通过内容互动与深度评论在目标客户圈层刷存在感，再自动启动个性化 LinkedIn / 邮件营销。2026-07-20 当周 Product Hunt #1（650 upvotes），由 Serena Lam 与 Bladen Lam 推出。  
   标签：潜客预热 / PH 周榜 #1 / 650 upvotes
 - [ClawTeams - 在微信/飞书/Slack 里指挥一支 AI 团队](https://clawteams.ai) — IM 原生的 AI 员工协作平台：一句目标，AI 组长拆解任务、并行调度 30+ 专家 Agent、质检后回传聊天窗口。Product Hunt 2026-07-14 日榜 #1（716 票），已交付 1.2M+ 任务、服务 12,000+ 活跃团队。  
@@ -952,8 +952,8 @@
 
 - [postvisit.ai - AI 诊后随访](https://postvisit.ai/) — 一位心内科医生用 Vibe Coding 做出的诊后随访助手，自动整理就医记录、提醒复查用药，入围 Anthropic 黑客松前三（约 1.3 万申请人中胜出）。  
   标签：医疗 / 诊后随访 / 医生自研 / 黑客松前三
-- [Cal AI - 拍照算热量的减肥神器](https://www.calai.app/) — 两个 18 岁高中生用 AI 写的卡路里识别 App：拍照/扫码即出热量与营养，8 个月破 500 万下载、单月营收 $200 万、App Store 4.8★（超 27 万评价），TechCrunch 专题报道的「Z 世代 vibe coding 逆袭」代表作。  
-  标签：500万下载 / $200万月营收 / 4.8★ / Z世代
+- [Cal AI - 拍照算热量的减肥神器](https://www.calai.app/) — 两个 18 岁高中生用 AI 写的卡路里识别 App：拍照/扫码即出热量与营养，8 个月破 500 万下载、单月营收 $200 万、App Store 4.8（超 27 万评价），TechCrunch 专题报道的「Z 世代 vibe coding 逆袭」代表作。  
+  标签：500万下载 / $200万月营收 / 4.8 / Z世代
 - [Paddles.ai](https://paddles.ai) — 匹克球比赛记录与数据分析应用，提供对局统计和 AI 提升建议。  
   标签：运动数据 / 统计 / 移动端适配
 - [Hydration Hero](https://liquid-log-glow.lovable.app) — 带提醒功能的智能饮水记录应用，跟踪每日喝水摄入量。  

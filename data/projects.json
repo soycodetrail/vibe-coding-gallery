@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T19:09:57.242Z",
+  "updatedAt": "2026-09-04T13:15:06.562Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -12,7 +12,7 @@
         "shadcn/ui",
         "TypeScript"
       ],
-      "icon": "📝",
+      "icon": "box",
       "bg": "var(--gradient-primary)",
       "tool": "Cursor",
       "hot": 0
@@ -28,7 +28,7 @@
         "高德地图",
         "Prisma"
       ],
-      "icon": "✈️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -44,7 +44,7 @@
         "Node.js",
         "MongoDB"
       ],
-      "icon": "📚",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -60,7 +60,7 @@
         "Tailwind",
         "Vercel"
       ],
-      "icon": "💻",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -76,7 +76,7 @@
         "FastAPI",
         "WebSocket"
       ],
-      "icon": "💬",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -92,7 +92,7 @@
         "Supabase",
         "Stripe"
       ],
-      "icon": "🚀",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -108,7 +108,7 @@
         "Web Audio API",
         "PWA"
       ],
-      "icon": "🍅",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)",
       "tool": "Bolt.new",
       "hot": 0
@@ -124,7 +124,7 @@
         "AI",
         "算法"
       ],
-      "icon": "🎮",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%)",
       "tool": "v0",
       "hot": 0
@@ -140,7 +140,7 @@
         "Supabase",
         "PWA"
       ],
-      "icon": "📊",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fddb92 0%, #d1fdff 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -156,7 +156,7 @@
         "Python",
         "FastAPI"
       ],
-      "icon": "🔍",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -172,7 +172,7 @@
         "marked",
         "PWA"
       ],
-      "icon": "✍️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #d4fc79 0%, #96e6a1 100%)",
       "tool": "v0",
       "hot": 0
@@ -188,7 +188,7 @@
         "Stable Diffusion",
         "Redis"
       ],
-      "icon": "🎨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Replit",
       "hot": 0
@@ -204,7 +204,7 @@
         "广告变现",
         "浏览器游戏"
       ],
-      "icon": "🛩️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #36d1dc 0%, #5b86e5 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -220,7 +220,7 @@
         "开源",
         "Python"
       ],
-      "icon": "🐠",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
       "tool": "Vibe Coding",
       "hot": 0
@@ -236,7 +236,7 @@
         "爬虫",
         "开源"
       ],
-      "icon": "🐡",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff758c 0%, #ff7eb3 100%)",
       "tool": "Vibe Coding",
       "hot": 0
@@ -252,7 +252,7 @@
         "AI",
         "娱乐"
       ],
-      "icon": "🎲",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f6d365 0%, #fda085 100%)",
       "tool": "AI 平台",
       "hot": 0
@@ -268,7 +268,7 @@
         "宠物",
         "App Store"
       ],
-      "icon": "🐶",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #c79081 0%, #dfa579 100%)",
       "tool": "Replit",
       "hot": 0
@@ -284,7 +284,7 @@
         "社区",
         "浏览器游戏"
       ],
-      "icon": "🕹️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0ba360 0%, #3cba92 100%)",
       "tool": "社区",
       "hot": 0
@@ -300,7 +300,7 @@
         "Appwrite",
         "快上线"
       ],
-      "icon": "📰",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #42275a 0%, #734b6d 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -316,7 +316,7 @@
         "AI",
         "生活"
       ],
-      "icon": "🥗",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #56ab2f 0%, #a8e063 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -332,7 +332,7 @@
         "心流",
         "疗愈"
       ],
-      "icon": "🧘",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #7f7fd5 0%, #86a8e7 100%)",
       "tool": "Bolt",
       "hot": 0
@@ -348,7 +348,7 @@
         "验证",
         "奖励"
       ],
-      "icon": "🧹",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #02aab0 0%, #00cdac 100%)",
       "tool": "v0",
       "hot": 0
@@ -364,7 +364,7 @@
         "复古",
         "浪漫"
       ],
-      "icon": "💿",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f77062 0%, #fe5196 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -380,7 +380,7 @@
         "个性化",
         "AI"
       ],
-      "icon": "🌙",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #41295a 0%, #2f0743 100%)",
       "tool": "Bolt",
       "hot": 0
@@ -396,7 +396,7 @@
         "图像生成",
         "变现"
       ],
-      "icon": "📸",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #833ab4 0%, #fd1d1d 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -412,7 +412,7 @@
         "图像生成",
         "家居"
       ],
-      "icon": "🛋️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fc4a1a 0%, #f7b733 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -428,7 +428,7 @@
         "社区",
         "Levelsio"
       ],
-      "icon": "🏆",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0f0c29 0%, #302b63 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -444,7 +444,7 @@
         "匿名",
         "爆火"
       ],
-      "icon": "💥",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #eb3349 0%, #f45c43 100%)",
       "tool": "Claude",
       "hot": 0
@@ -460,7 +460,7 @@
         "直播",
         "爆火"
       ],
-      "icon": "🐱",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f953c6 0%, #b91d73 100%)",
       "tool": "Vibe Coding",
       "hot": 0
@@ -476,7 +476,7 @@
         "文化",
         "趣味"
       ],
-      "icon": "🌍",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
       "tool": "Vibe Coding",
       "hot": 0
@@ -492,7 +492,7 @@
         "多人联机",
         "变现"
       ],
-      "icon": "⛵",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #00b4db 0%, #0083b0 100%)",
       "tool": "AI 编程",
       "hot": 0
@@ -508,7 +508,7 @@
         "开源",
         "入门"
       ],
-      "icon": "⭐",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
       "tool": "社区",
       "hot": 0
@@ -524,7 +524,7 @@
         "无代码",
         "$456K ARR"
       ],
-      "icon": "🛡️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ee0979 0%, #ff6a00 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -540,7 +540,7 @@
         "App Store",
         "Expo"
       ],
-      "icon": "📱",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
       "tool": "AI 平台",
       "hot": 0
@@ -556,7 +556,7 @@
         "$80M 收购",
         "Wix"
       ],
-      "icon": "🏗️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #134e5e 0%, #71b280 100%)",
       "tool": "AI 平台",
       "hot": 0
@@ -572,7 +572,7 @@
         "Stripe",
         "透明化"
       ],
-      "icon": "💰",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
       "tool": "AI 编程",
       "hot": 0
@@ -588,7 +588,7 @@
         "融资热",
         "App Store"
       ],
-      "icon": "🧩",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4b6cb7 0%, #182848 100%)",
       "tool": "自研 Agent",
       "hot": 0
@@ -604,7 +604,7 @@
         "99% 利润率",
         "爆款"
       ],
-      "icon": "💼",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -620,7 +620,7 @@
         "freemium",
         "单人团队"
       ],
-      "icon": "🎭",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff6a00 0%, #ee0979 100%)",
       "tool": "Vue + Node",
       "hot": 0
@@ -636,7 +636,7 @@
         "周末项目",
         "bootstrapped"
       ],
-      "icon": "🤖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0f0c29 0%, #302b63 100%)",
       "tool": "OpenAI + Pinecone",
       "hot": 0
@@ -652,7 +652,7 @@
         "单人公司",
         "变现"
       ],
-      "icon": "📸",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #833ab4 0%, #fd1d1d 100%)",
       "tool": "Stable Diffusion",
       "hot": 0
@@ -668,7 +668,7 @@
         "广告变现",
         "批量生产"
       ],
-      "icon": "🎲",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4568dc 0%, #b06ab3 100%)",
       "tool": "AI 批量生成",
       "hot": 0
@@ -684,7 +684,7 @@
         "实验项目",
         "AI"
       ],
-      "icon": "🍽️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "Cursor + Claude",
       "hot": 0
@@ -700,7 +700,7 @@
         "离线通信",
         "Goose"
       ],
-      "icon": "📡",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%)",
       "tool": "Goose",
       "hot": 0
@@ -716,7 +716,7 @@
         "Marc Lou",
         "no-code"
       ],
-      "icon": "🛡️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #16a085 0%, #f4d03f 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -732,7 +732,7 @@
         "一次性授权",
         "越南开发者"
       ],
-      "icon": "⌨️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #5f2c82 0%, #49a09d 100%)",
       "tool": "原生 Web",
       "hot": 0
@@ -748,7 +748,7 @@
         "无代码",
         "教育"
       ],
-      "icon": "🌹",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ee0979 0%, #ff6a00 100%)",
       "tool": "AI 生成",
       "hot": 0
@@ -764,7 +764,7 @@
         "收购退出",
         "SEO"
       ],
-      "icon": "✍️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #8e2de2 0%, #4a00e0 100%)",
       "tool": "GPT-3 API",
       "hot": 0
@@ -780,7 +780,7 @@
         "买断制",
         "低维护"
       ],
-      "icon": "🛠️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #3a6073 0%, #16222a 100%)",
       "tool": "macOS 原生",
       "hot": 0
@@ -796,7 +796,7 @@
         "AI 美化",
         "已出售"
       ],
-      "icon": "🖼️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "macOS 原生",
       "hot": 0
@@ -812,7 +812,7 @@
         "微收购",
         "单人公司"
       ],
-      "icon": "🪶",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Notion API",
       "hot": 0
@@ -828,7 +828,7 @@
         "个人软件",
         "效率"
       ],
-      "icon": "🍳",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #c94b4b 0%, #4b134f 100%)",
       "tool": "Windsurf + Claude",
       "hot": 0
@@ -844,7 +844,7 @@
         "超级个体",
         "33 万 Star"
       ],
-      "icon": "🦞",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1f1c2c 0%, #928dab 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -860,7 +860,7 @@
         "Lovable",
         "ARR"
       ],
-      "icon": "👗",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #c31432 0%, #240b36 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -876,7 +876,7 @@
         "百万营收",
         "一人生意"
       ],
-      "icon": "🚀",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #02aab0 0%, #00cdac 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -892,7 +892,7 @@
         "YC",
         "一人公司"
       ],
-      "icon": "🦾",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #41295a 0%, #2f0743 100%)",
       "tool": "Claude",
       "hot": 0
@@ -908,7 +908,7 @@
         "排班",
         "独立开发"
       ],
-      "icon": "🏥",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0ba360 0%, #3cba92 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -924,7 +924,7 @@
         "SaaS",
         "退学创业"
       ],
-      "icon": "🎨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -940,7 +940,7 @@
         "Lovable",
         "开源"
       ],
-      "icon": "☁️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -956,7 +956,7 @@
         "短剧",
         "AIGC"
       ],
-      "icon": "🎬",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -972,7 +972,7 @@
         "Claude Code",
         "自进化"
       ],
-      "icon": "🤖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -988,7 +988,7 @@
         "Bolt",
         "黑客松"
       ],
-      "icon": "⚽",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #56ab2f 0%, #a8e063 100%)",
       "tool": "Bolt",
       "hot": 0
@@ -1004,7 +1004,7 @@
         "企业级",
         "快速上线"
       ],
-      "icon": "📚",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667db6 0%, #0082c8 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -1020,7 +1020,7 @@
         "Karpathy",
         "本地部署"
       ],
-      "icon": "📖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #42275a 0%, #734b6d 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -1036,7 +1036,7 @@
         "Karpathy",
         "LLM"
       ],
-      "icon": "⚖️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1f4037 0%, #99f2c8 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -1052,7 +1052,7 @@
         "本地部署",
         "vibe coding"
       ],
-      "icon": "💭",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #b721ff 0%, #21d4fd 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -1067,7 +1067,7 @@
         "多人 3D",
         "Claude Code"
       ],
-      "icon": "🦫",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f6d365 0%, #fda085 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -1082,7 +1082,7 @@
         "多人",
         "经营模拟"
       ],
-      "icon": "🛒",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #36d1dc 0%, #5b86e5 100%)",
       "tool": "AI 编码工具",
       "hot": 0
@@ -1097,7 +1097,7 @@
         "最受欢迎",
         "知识竞答"
       ],
-      "icon": "⏳",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #7f7fd5 0%, #86a8e7 100%)",
       "tool": "AI 编码工具",
       "hot": 0
@@ -1112,7 +1112,7 @@
         "Vibe Jam",
         "策略"
       ],
-      "icon": "🪐",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0f0c29 0%, #302b63 100%)",
       "tool": "AI 编码工具",
       "hot": 0
@@ -1127,7 +1127,7 @@
         "出租车模拟",
         "复古 3D"
       ],
-      "icon": "🚕",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f77062 0%, #fe5196 100%)",
       "tool": "AI 编码工具",
       "hot": 0
@@ -1142,7 +1142,7 @@
         "叙事",
         "AI 生成"
       ],
-      "icon": "🎮",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4568dc 0%, #b06ab3 100%)",
       "tool": "AI 编码工具",
       "hot": 0
@@ -1157,7 +1157,7 @@
         "多人",
         "低多边形"
       ],
-      "icon": "✈️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%)",
       "tool": "AI 编码工具",
       "hot": 0
@@ -1172,7 +1172,7 @@
         "热门榜",
         "浏览器游戏"
       ],
-      "icon": "🧟",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1a1a2e 0%, #16213e 100%)",
       "tool": "AI 编码工具",
       "hot": 0
@@ -1187,7 +1187,7 @@
         "重制",
         "浏览器游戏"
       ],
-      "icon": "🔫",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
       "tool": "Grok + Claude",
       "hot": 0
@@ -1202,7 +1202,7 @@
         "休闲",
         "收集"
       ],
-      "icon": "🌌",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
       "tool": "AI 编码工具",
       "hot": 0
@@ -1217,7 +1217,7 @@
         "3D",
         "动作"
       ],
-      "icon": "💣",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff758c 0%, #ff7eb3 100%)",
       "tool": "AI 编码工具",
       "hot": 0
@@ -1232,7 +1232,7 @@
         "实时生成",
         "Minecraft 类"
       ],
-      "icon": "🌍",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0f2027 0%, #2c5364 100%)",
       "tool": "世界模型",
       "hot": 0
@@ -1247,7 +1247,7 @@
         "知识库",
         "MRR"
       ],
-      "icon": "🗺️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #396afc 0%, #2948ff 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -1262,7 +1262,7 @@
         "AI 分类",
         "效率工具"
       ],
-      "icon": "🔖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e96443 0%, #904e95 100%)",
       "tool": "AI 编码工具",
       "hot": 0
@@ -1277,7 +1277,7 @@
         "语音输入",
         "记忆助手"
       ],
-      "icon": "🗣️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff512f 0%, #dd2476 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -1292,7 +1292,7 @@
         "垂直行业",
         "Lovable"
       ],
-      "icon": "🏠",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #3a6186 0%, #89253e 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -1307,7 +1307,7 @@
         "降价提醒",
         "穿搭"
       ],
-      "icon": "👔",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #da22ff 0%, #9733ee 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -1322,7 +1322,7 @@
         "每日推荐",
         "收藏打卡"
       ],
-      "icon": "🎵",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "AI 编码工具",
       "hot": 0
@@ -1337,7 +1337,7 @@
         "付费榜第一",
         "iOS"
       ],
-      "icon": "🐱",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -1353,7 +1353,7 @@
         "名人 Skill",
         "12K Star"
       ],
-      "icon": "🏺",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Cursor + Claude",
       "hot": 0
@@ -1369,7 +1369,7 @@
         "iOS 爆款",
         "AI 美食"
       ],
-      "icon": "🍜",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f83600 0%, #f9d423 100%)",
       "tool": "阶跃星辰 API",
       "hot": 0
@@ -1384,7 +1384,7 @@
         "粉丝社区",
         "手搓 App"
       ],
-      "icon": "🔥",
+      "icon": " ",
       "bg": "linear-gradient(135deg, #eb3349 0%, #f45c43 100%)",
       "tool": "TRAE",
       "hot": 0
@@ -1400,7 +1400,7 @@
         "流量分析",
         "自部署"
       ],
-      "icon": "🐾",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%)",
       "tool": "Kimi + Claude",
       "hot": 0
@@ -1416,7 +1416,7 @@
         "职场热梗",
         "华人开发者"
       ],
-      "icon": "👥",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1f4037 0%, #99f2c8 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -1432,7 +1432,7 @@
         "GitHub 星标",
         "AI 桌面应用"
       ],
-      "icon": "⭐",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
       "tool": "bolt.new",
       "hot": 0
@@ -1448,7 +1448,7 @@
         "AI Agent",
         "OPC 金奖"
       ],
-      "icon": "🌱",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
       "tool": "AI Agent",
       "hot": 0
@@ -1463,7 +1463,7 @@
         "波点拼贴",
         "百万下载"
       ],
-      "icon": "🎨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fc466b 0%, #3f5efb 100%)",
       "tool": "AI 编程工具",
       "hot": 0
@@ -1478,7 +1478,7 @@
         "付费榜第一",
         "95 后创业"
       ],
-      "icon": "🪦",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "AI 编程工具",
       "hot": 0
@@ -1493,7 +1493,7 @@
         "AI 教育",
         "人民日报"
       ],
-      "icon": "📝",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "AI 编程工具",
       "hot": 0
@@ -1508,7 +1508,7 @@
         "心理测评",
         "10 天变现 9 万"
       ],
-      "icon": "🔮",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #7f00ff 0%, #e100ff 100%)",
       "tool": "百度秒哒",
       "hot": 0
@@ -1523,7 +1523,7 @@
         "交互艺术",
         "点赞近百万"
       ],
-      "icon": "🦋",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #00b4db 0%, #0083b0 100%)",
       "tool": "Vibe Coding",
       "hot": 0
@@ -1538,7 +1538,7 @@
         "闪应用",
         "创意表达"
       ],
-      "icon": "📜",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f6d365 0%, #fda085 100%)",
       "tool": "蚂蚁灵光",
       "hot": 0
@@ -1554,7 +1554,7 @@
         "记忆宫殿",
         "19K Star"
       ],
-      "icon": "🏰",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #41295a 0%, #2f0743 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -1569,7 +1569,7 @@
         "3 天 5000 美元",
         "macOS"
       ],
-      "icon": "💻",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f857a6 0%, #ff5858 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -1585,7 +1585,7 @@
         "AI 工程团队",
         "11万 Star"
       ],
-      "icon": "🏗️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -1601,7 +1601,7 @@
         "50万下载",
         "$80M 已申领"
       ],
-      "icon": "💸",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fdc830 0%, #f37335 100%)",
       "tool": "Claude Code + Cursor",
       "hot": 0
@@ -1617,7 +1617,7 @@
         "开源",
         "642万试玩"
       ],
-      "icon": "🐶",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "ChatGPT + Kimi + Codex",
       "hot": 0
@@ -1633,7 +1633,7 @@
         "1000万用户",
         "应用生成"
       ],
-      "icon": "🤖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "秒哒",
       "hot": 0
@@ -1649,7 +1649,7 @@
         "灵感广场",
         "Vibe Coding"
       ],
-      "icon": "🍞",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "腾讯吐司",
       "hot": 0
@@ -1665,7 +1665,7 @@
         "多模态",
         "30秒生成"
       ],
-      "icon": "⚡",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "蚂蚁灵光",
       "hot": 0
@@ -1681,7 +1681,7 @@
         "中小学生",
         "98%成功率"
       ],
-      "icon": "📚",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "灵珠",
       "hot": 0
@@ -1697,7 +1697,7 @@
         "零基础",
         "4.6k Star"
       ],
-      "icon": "🎓",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Trae / Windsurf",
       "hot": 0
@@ -1713,7 +1713,7 @@
         "文档生成",
         "网页"
       ],
-      "icon": "📊",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff6a00 0%, #ee0979 100%)",
       "tool": "Gamma",
       "hot": 0
@@ -1729,7 +1729,7 @@
         "Logo",
         "20亿/月"
       ],
-      "icon": "🎨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #00c6ff 0%, #0072ff 100%)",
       "tool": "Canva",
       "hot": 0
@@ -1745,7 +1745,7 @@
         "原型",
         "品牌视觉"
       ],
-      "icon": "🧵",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f857a6 0%, #ff5858 100%)",
       "tool": "Google Stitch",
       "hot": 0
@@ -1761,7 +1761,7 @@
         "发布",
         "高保真"
       ],
-      "icon": "🖼️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #7028e4 0%, #e5b2ca 100%)",
       "tool": "Framer",
       "hot": 0
@@ -1777,7 +1777,7 @@
         "Agent",
         "独立站"
       ],
-      "icon": "🛒",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Emergent",
       "hot": 0
@@ -1793,7 +1793,7 @@
         "营销",
         "CRM"
       ],
-      "icon": "🏪",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
       "tool": "Durable",
       "hot": 0
@@ -1809,7 +1809,7 @@
         "人声",
         "爆火"
       ],
-      "icon": "🎵",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #c471f5 0%, #fa71cd 100%)",
       "tool": "Suno",
       "hot": 0
@@ -1825,7 +1825,7 @@
         "二创",
         "风格多样"
       ],
-      "icon": "🎶",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #5f72bd 0%, #9b23ea 100%)",
       "tool": "Udio",
       "hot": 0
@@ -1841,7 +1841,7 @@
         "医生自研",
         "黑客松前三"
       ],
-      "icon": "🩺",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2af598 0%, #009efd 100%)",
       "tool": "Vibe Coding",
       "hot": 0
@@ -1857,7 +1857,7 @@
         "研报",
         "决策"
       ],
-      "icon": "📈",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "Dash",
       "hot": 0
@@ -1873,7 +1873,7 @@
         "30万项目",
         "PH 1.2K"
       ],
-      "icon": "🌐",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ee9ca7 0%, #ffdde1 100%)",
       "tool": "YouWare",
       "hot": 0
@@ -1889,7 +1889,7 @@
         "全栈部署",
         "5.2k Star"
       ],
-      "icon": "☁️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f38020 0%, #ffb347 100%)",
       "tool": "Cloudflare VibeSDK",
       "hot": 0
@@ -1905,7 +1905,7 @@
         "版式工程",
         "2.3万 Star"
       ],
-      "icon": "📊",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "Claude Code / Codex",
       "hot": 0
@@ -1921,7 +1921,7 @@
         "私有化部署",
         "4.1k Star"
       ],
-      "icon": "🐒",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #005c97 0%, #363795 100%)",
       "tool": "MonkeyCode",
       "hot": 0
@@ -1937,7 +1937,7 @@
         "180K Star",
         "MIT"
       ],
-      "icon": "🛠️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
       "tool": "OpenCode",
       "hot": 0
@@ -1953,7 +1953,7 @@
         "Claude Code MCP",
         "自由职业"
       ],
-      "icon": "🧾",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -1969,7 +1969,7 @@
         "50万创作者",
         "一键发布"
       ],
-      "icon": "🚀",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fc466b 0%, #3f5efb 100%)",
       "tool": "CodeFlying",
       "hot": 0
@@ -1985,7 +1985,7 @@
         "200万排队",
         "Meta 收购"
       ],
-      "icon": "🤖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4568dc 0%, #b06ab3 100%)",
       "tool": "Manus",
       "hot": 0
@@ -2001,7 +2001,7 @@
         "20K Star",
         "自托管"
       ],
-      "icon": "🌞",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "Suna",
       "hot": 0
@@ -2017,7 +2017,7 @@
         "GUI Agent",
         "34K Star"
       ],
-      "icon": "🖥️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1e3c72 0%, #2a5298 100%)",
       "tool": "ByteDance UI-TARS",
       "hot": 0
@@ -2033,7 +2033,7 @@
         "免费编码",
         "8K Star"
       ],
-      "icon": "🔀",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #5614b0 0%, #dbd65c 100%)",
       "tool": "9router",
       "hot": 0
@@ -2049,7 +2049,7 @@
         "Garry Tan",
         "全栈"
       ],
-      "icon": "⚡",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f12711 0%, #f5af19 100%)",
       "tool": "Blink",
       "hot": 0
@@ -2065,7 +2065,7 @@
         "Product Hunt #3",
         "React/Tailwind"
       ],
-      "icon": "🎨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)",
       "tool": "Flowstep",
       "hot": 0
@@ -2081,7 +2081,7 @@
         "Product Hunt 537",
         "数据可视化"
       ],
-      "icon": "📊",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1d976c 0%, #93f9b9 100%)",
       "tool": "ChartGen AI",
       "hot": 0
@@ -2097,7 +2097,7 @@
         "CMS",
         "Product Hunt"
       ],
-      "icon": "🌐",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2980b9 0%, #6dd5ed 100%)",
       "tool": "Fimo",
       "hot": 0
@@ -2113,7 +2113,7 @@
         "PewDiePie",
         "7.7万 Star"
       ],
-      "icon": "🧭",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #8E2DE2 0%, #4A00E0 100%)",
       "tool": "PewDiePie 团队 / Docker",
       "hot": 0
@@ -2129,7 +2129,7 @@
         "Coding Agent",
         "57K Star"
       ],
-      "icon": "🥧",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #373B44 0%, #4286f4 100%)",
       "tool": "Pi (earendil-works)",
       "hot": 0
@@ -2145,7 +2145,7 @@
         "Product Hunt #1",
         "自主协商"
       ],
-      "icon": "🔗",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #136a8a 0%, #267871 100%)",
       "tool": "Tobira.ai",
       "hot": 0
@@ -2161,7 +2161,7 @@
         "Product Hunt #2",
         "Chat2DB"
       ],
-      "icon": "🗄️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
       "tool": "Zoer.ai",
       "hot": 0
@@ -2177,7 +2177,7 @@
         "Product Hunt #3",
         "2万创作者"
       ],
-      "icon": "📣",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #FF8008 0%, #1FA2FF 100%)",
       "tool": "Fastlane",
       "hot": 0
@@ -2189,11 +2189,11 @@
       "category": "AI 工具",
       "tags": [
         "开源",
-        "GitHub 10.6万★",
+        "GitHub 10.6万",
         "MIT",
         "插件运行时"
       ],
-      "icon": "🧩",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2563eb 0%, #1e3a8a 100%)",
       "tool": "DeepSeek",
       "hot": 0
@@ -2209,7 +2209,7 @@
         "零基础",
         "单人开发"
       ],
-      "icon": "🏔️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4a5568 0%, #1a202c 100%)",
       "tool": "豆包 / Gemini",
       "hot": 0
@@ -2225,7 +2225,7 @@
         "博士生",
         "现象级"
       ],
-      "icon": "🌶️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #48bb78 0%, #276749 100%)",
       "tool": "AI 编程",
       "hot": 0
@@ -2241,7 +2241,7 @@
         "无网加密",
         "开源"
       ],
-      "icon": "📡",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #6366f1 0%, #4338ca 100%)",
       "tool": "Goose AI",
       "hot": 0
@@ -2257,7 +2257,7 @@
         "50万+用户",
         "无代码"
       ],
-      "icon": "💄",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
       "tool": "FlutterFlow",
       "hot": 0
@@ -2272,7 +2272,7 @@
         "PH 当日 #1",
         "689 upvotes"
       ],
-      "icon": "🎓",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
       "tool": "Claude Code + 云沙箱",
       "hot": 0
@@ -2284,10 +2284,10 @@
       "category": "电商营销",
       "tags": [
         "开源 SEO",
-        "PH #2 · 862★",
+        "PH #2 · 862",
         "GitHub 5.8k+"
       ],
-      "icon": "🔍",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
       "tool": "MCP + AI Agent",
       "hot": 0
@@ -2302,7 +2302,7 @@
         "PH #2",
         "1700+ 候补"
       ],
-      "icon": "🗂️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%)",
       "tool": "AI 多 Agent 系统",
       "hot": 0
@@ -2317,7 +2317,7 @@
         "PH 周榜 #1",
         "650 upvotes"
       ],
-      "icon": "🎯",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
       "tool": "AI 销售代理",
       "hot": 0
@@ -2332,7 +2332,7 @@
         "PH #5",
         "345 upvotes"
       ],
-      "icon": "🤖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f43f5e 0%, #e11d48 100%)",
       "tool": "实时 AI Agent",
       "hot": 0
@@ -2347,7 +2347,7 @@
         "PH #4",
         "405 upvotes"
       ],
-      "icon": "🐞",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #3b82f6 0%, #2563eb 100%)",
       "tool": "AI 测试 Agent",
       "hot": 0
@@ -2363,7 +2363,7 @@
         "Trending #1",
         "MIT"
       ],
-      "icon": "💼",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #06b6d4 0%, #3b82f6 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -2379,7 +2379,7 @@
         "Trendshift #1",
         "MIT"
       ],
-      "icon": "👁️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -2394,7 +2394,7 @@
         "PH 月榜 #1",
         "1,004 票"
       ],
-      "icon": "🚀",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f59e0b 0%, #ef4444 100%)",
       "tool": "AI Agent 团队",
       "hot": 0
@@ -2410,7 +2410,7 @@
         "716 票",
         "1.2M 任务"
       ],
-      "icon": "🤝",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
       "tool": "AI Agent 团队",
       "hot": 0
@@ -2426,23 +2426,23 @@
         "MIT",
         "方法论框架"
       ],
-      "icon": "🦸",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f43f5e 0%, #8b5cf6 100%)",
       "tool": "Claude Code",
       "hot": 0
     },
     {
       "name": "Cal AI - 拍照算热量的减肥神器",
-      "desc": "两个 18 岁高中生用 AI 写的卡路里识别 App：拍照/扫码即出热量与营养，8 个月破 500 万下载、单月营收 $200 万、App Store 4.8★（超 27 万评价），TechCrunch 专题报道的「Z 世代 vibe coding 逆袭」代表作。",
+      "desc": "两个 18 岁高中生用 AI 写的卡路里识别 App：拍照/扫码即出热量与营养，8 个月破 500 万下载、单月营收 $200 万、App Store 4.8（超 27 万评价），TechCrunch 专题报道的「Z 世代 vibe coding 逆袭」代表作。",
       "url": "https://www.calai.app/",
       "category": "医疗健康",
       "tags": [
         "500万下载",
         "$200万月营收",
-        "4.8★",
+        "4.8",
         "Z世代"
       ],
-      "icon": "🍎",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
       "tool": "AI 图像识别 + Anthropic/OpenAI 模型",
       "hot": 0
@@ -2458,7 +2458,7 @@
         "多模型聚合",
         "300+ 助手"
       ],
-      "icon": "🍒",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)",
       "tool": "开源社区共建",
       "hot": 0
@@ -2474,7 +2474,7 @@
         "BYOK",
         "多格式导出"
       ],
-      "icon": "🎨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ee0979 0%, #ff6a00 100%)",
       "tool": "DeepSeek Harness / Claude Code",
       "hot": 0
@@ -2490,7 +2490,7 @@
         "代理型办公",
         "定时任务"
       ],
-      "icon": "🤝",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #00c6ff 0%, #0072ff 100%)",
       "tool": "Claude (Anthropic)",
       "hot": 0
@@ -2506,7 +2506,7 @@
         "自托管",
         "50+ 集成"
       ],
-      "icon": "🦞",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f12711 0%, #f5af19 100%)",
       "tool": "Claude / GPT / 本地模型",
       "hot": 0
@@ -2522,7 +2522,7 @@
         "23K+ 创作者",
         "11+ 平台"
       ],
-      "icon": "📡",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #c471f5 0%, #fa71cd 100%)",
       "tool": "AI Studio + MCP",
       "hot": 0
@@ -2538,7 +2538,7 @@
         "viral 记忆游戏",
         "父子共创"
       ],
-      "icon": "🎮",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff512f 0%, #dd2476 100%)",
       "tool": "Claude + Cursor",
       "hot": 0
@@ -2554,7 +2554,7 @@
         "72K 角色",
         "Claude Fable 5"
       ],
-      "icon": "🗡️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1a2980 0%, #26d0ce 100%)",
       "tool": "Claude (Anthropic)",
       "hot": 0
@@ -2570,7 +2570,7 @@
         "Google 评论建站",
         "本地商家"
       ],
-      "icon": "🏪",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #c94b4b 0%, #4b134f 100%)",
       "tool": "AI 内容生成系统",
       "hot": 0
@@ -2586,7 +2586,7 @@
         "电商增长引擎",
         "Shopify/Amazon"
       ],
-      "icon": "🛒",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fc5c7d 0%, #6a82fb 100%)",
       "tool": "AI Agent",
       "hot": 0
@@ -2602,7 +2602,7 @@
         "Claude Code 优化",
         "Skills 系统"
       ],
-      "icon": "🤖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #8e2de2 0%, #4a00e0 100%)",
       "tool": "Claude Code / Cursor",
       "hot": 0
@@ -2618,7 +2618,7 @@
         "预制 Agent 角色",
         "独立开发者"
       ],
-      "icon": "👥",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%)",
       "tool": "AI Agent 框架",
       "hot": 0
@@ -2634,7 +2634,7 @@
         "自然语言量化",
         "多 Agent 投研"
       ],
-      "icon": "📈",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #059669 0%, #0d9488 100%)",
       "tool": "AI 量化 Agent",
       "hot": 0
@@ -2650,7 +2650,7 @@
         "代码知识图谱",
         "本地离线解析"
       ],
-      "icon": "🕸️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #14b8a6 0%, #3b82f6 100%)",
       "tool": "Claude Code 技能",
       "hot": 0
@@ -2666,7 +2666,7 @@
         "自然语言操作",
         "browser-use 出品"
       ],
-      "icon": "🎬",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%)",
       "tool": "AI 视频编辑",
       "hot": 0
@@ -2682,7 +2682,7 @@
         "跨会话记忆",
         "零外部数据库"
       ],
-      "icon": "🧠",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #3b82f6 0%, #06b6d4 100%)",
       "tool": "MCP 记忆层",
       "hot": 0
@@ -2698,7 +2698,7 @@
         "Apache-2.0",
         "终端 Agent"
       ],
-      "icon": "💻",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0F2027 0%, #2C5364 100%)",
       "tool": "Qwen Code",
       "hot": 0
@@ -2714,7 +2714,7 @@
         "AI 导师",
         "MIT"
       ],
-      "icon": "🎓",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #5F2C82 0%, #49A09D 100%)",
       "tool": "Open Vibe / Wasp",
       "hot": 0
@@ -2730,7 +2730,7 @@
         "Living UI",
         "MIT"
       ],
-      "icon": "🤖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1D976C 0%, #93F9B9 100%)",
       "tool": "CraftBot",
       "hot": 0
@@ -2746,7 +2746,7 @@
         "Raycast",
         "574 票"
       ],
-      "icon": "💠",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #C33764 0%, #1D2671 100%)",
       "tool": "Raycast Glaze",
       "hot": 0
@@ -2762,7 +2762,7 @@
         "10万+ 下载",
         "iOS/Android"
       ],
-      "icon": "⌨️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #FF416C 0%, #FF4B2B 100%)",
       "tool": "Acti",
       "hot": 0
@@ -2773,12 +2773,12 @@
       "url": "https://github.com/openai/codex",
       "category": "AI 工具",
       "tags": [
-        "GitHub 11.7万★",
+        "GitHub 11.7万",
         "终端 Agent",
         "OpenAI 官方",
         "Apache-2.0"
       ],
-      "icon": "🤖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1a2a6c 0%, #b21f1f 100%)",
       "tool": "OpenAI Codex",
       "hot": 0
@@ -2789,12 +2789,12 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "category": "AI 工具",
       "tags": [
-        "GitHub 1.8万★",
+        "GitHub 1.8万",
         "RLM 自进化",
         "长程自主",
         "Trending #1"
       ],
-      "icon": "🧠",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #cb356b 0%, #bd3f32 100%)",
       "tool": "Prime Agent",
       "hot": 0
@@ -2805,12 +2805,12 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "category": "AI 工具",
       "tags": [
-        "GitHub 2.4万★",
+        "GitHub 2.4万",
         "Agent 记忆",
         "腾讯云",
         "团队共享"
       ],
-      "icon": "🧩",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0575e6 0%, #021b79 100%)",
       "tool": "Tencent Cloud",
       "hot": 0
@@ -2821,12 +2821,12 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "category": "AI 工具",
       "tags": [
-        "GitHub 8.9万★",
+        "GitHub 8.9万",
         "Agent Skills",
         "Addy Osmani",
         "技能生态"
       ],
-      "icon": "🗂️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #8e54e9 0%, #4776e6 100%)",
       "tool": "Agent Skills",
       "hot": 0
@@ -2837,12 +2837,12 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "category": "设计创意",
       "tags": [
-        "GitHub 2.6万★",
+        "GitHub 2.6万",
         "HTML/SVG",
         "编辑级图表",
         "Trending #2"
       ],
-      "icon": "📐",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f27121 0%, #e94057 100%)",
       "tool": "Diagram Design",
       "hot": 0
@@ -2858,7 +2858,7 @@
         "个性化学习",
         "教育"
       ],
-      "icon": "📚",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #d38312 0%, #a83279 100%)",
       "tool": "Wondering",
       "hot": 0
@@ -2874,7 +2874,7 @@
         "AI 行政助理",
         "30万+ 任务"
       ],
-      "icon": "📱",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0cebeb 0%, #20e3b2 100%)",
       "tool": "Hey Noah",
       "hot": 0
@@ -2890,7 +2890,7 @@
         "AI 投资",
         "260+ API"
       ],
-      "icon": "📈",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f5853f 0%, #f53939 100%)",
       "tool": "Driven",
       "hot": 0
@@ -2906,7 +2906,7 @@
         "Claude Code",
         "零基础"
       ],
-      "icon": "⚽",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -2922,7 +2922,7 @@
         "开创现象",
         "体育选秀"
       ],
-      "icon": "🏀",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ee0979 0%, #ff6a00 100%)",
       "tool": "AI 辅助",
       "hot": 0
@@ -2938,7 +2938,7 @@
         "反 AI-slop",
         "真人扮演 AI"
       ],
-      "icon": "🤖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #834d9b 0%, #d04ed6 100%)",
       "tool": "AI 辅助",
       "hot": 0
@@ -2954,7 +2954,7 @@
         "趋势模板",
         "创作者"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "AI 生成",
       "hot": 0
@@ -2970,7 +2970,7 @@
         "YC 系",
         "AI 参谋"
       ],
-      "icon": "📋",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1a2980 0%, #26d0ce 100%)",
       "tool": "AI Agent",
       "hot": 0
@@ -2986,7 +2986,7 @@
         "零广告",
         "AI 美术"
       ],
-      "icon": "🦎",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #FF6B6B 0%, #556270 100%)",
       "tool": "Unreal Engine 5 + AI 辅助",
       "hot": 0
@@ -3002,7 +3002,7 @@
         "Claude Cowork 替代",
         "工作流共享"
       ],
-      "icon": "🤝",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #7b4397 0%, #dc2430 100%)",
       "tool": "OpenCode",
       "hot": 0
@@ -3018,7 +3018,7 @@
         "Agentic IDE",
         "可视化 QA"
       ],
-      "icon": "🍵",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0B486B 0%, #F56217 100%)",
       "tool": "AI Coding Agent",
       "hot": 0
@@ -3034,7 +3034,7 @@
         "桌面应用",
         "技能复用"
       ],
-      "icon": "🧩",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #AA076B 0%, #61045F 100%)",
       "tool": "AI Agent",
       "hot": 0
@@ -3050,7 +3050,7 @@
         "长时运行",
         "团队共享"
       ],
-      "icon": "☁️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #114357 0%, #F29492 100%)",
       "tool": "Claude / Codex",
       "hot": 0
@@ -3066,7 +3066,7 @@
         "AI CEO/CTO/CMO",
         "审批优先"
       ],
-      "icon": "🌀",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #000428 0%, #004e92 100%)",
       "tool": "AI Agent",
       "hot": 0
@@ -3082,7 +3082,7 @@
         "AI SDR",
         "CRM 集成"
       ],
-      "icon": "💬",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #cb2d3e 0%, #ef473a 100%)",
       "tool": "AI Agent",
       "hot": 0
@@ -3097,7 +3097,7 @@
         "Canvas",
         "新闻 API"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -3112,7 +3112,7 @@
         "3D 游戏",
         "AI 素材"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -3127,7 +3127,7 @@
         "策略游戏",
         "WebGL"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -3142,7 +3142,7 @@
         "聚合搜索",
         "Spotify"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3157,7 +3157,7 @@
         "数据追踪",
         "爬虫"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Codex",
       "hot": 0
@@ -3172,7 +3172,7 @@
         "本地生活",
         "Next.js"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -3187,7 +3187,7 @@
         "统计",
         "移动端适配"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3202,7 +3202,7 @@
         "文档处理",
         "支付"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3217,7 +3217,7 @@
         "AI 视频",
         "照片修复"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3232,7 +3232,7 @@
         "预约",
         "落地页"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3247,7 +3247,7 @@
         "SEO",
         "Affiliate"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3262,7 +3262,7 @@
         "3D 游戏",
         "多人对战"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3277,7 +3277,7 @@
         "分享",
         "社区"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3292,7 +3292,7 @@
         "视频对话",
         "LLM"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3307,7 +3307,7 @@
         "AIGC",
         "LLM"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3322,7 +3322,7 @@
         "AIGC",
         "分级练习"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3337,7 +3337,7 @@
         "测验",
         "学习计划"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3352,7 +3352,7 @@
         "数据查询",
         "学生工具"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3367,7 +3367,7 @@
         "对话陪练",
         "LLM"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3382,7 +3382,7 @@
         "开源",
         "中文"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "ZCode",
       "hot": 0
@@ -3397,7 +3397,7 @@
         "资源合集",
         "开源"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "ZCode",
       "hot": 0
@@ -3412,7 +3412,7 @@
         "开源",
         "AI 编程"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "ZCode",
       "hot": 0
@@ -3427,7 +3427,7 @@
         "薪酬管理",
         "AI Agent"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3442,7 +3442,7 @@
         "电话客服",
         "中小企业"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3457,7 +3457,7 @@
         "订阅制",
         "多媒体生成"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3472,7 +3472,7 @@
         "埋点",
         "产品运营"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3487,7 +3487,7 @@
         "工作流",
         "SaaS"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3502,7 +3502,7 @@
         "访客识别",
         "增长"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3517,7 +3517,7 @@
         "站会",
         "轻量工具"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3532,7 +3532,7 @@
         "菜单栏",
         "ASCII 艺术"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -3547,7 +3547,7 @@
         "调试工具",
         "Swift"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -3562,7 +3562,7 @@
         "桌面工具",
         "AI 绘图"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Cline",
       "hot": 0
@@ -3577,7 +3577,7 @@
         "专注",
         "屏蔽网站"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -3592,7 +3592,7 @@
         "Markdown",
         "网页剪藏"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -3607,7 +3607,7 @@
         "终端",
         "状态栏"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -3622,7 +3622,7 @@
         "HTML 转 Markdown",
         "Node.js"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -3637,7 +3637,7 @@
         "图像生成",
         "开源"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -3652,7 +3652,7 @@
         "提醒",
         "PWA"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3667,7 +3667,7 @@
         "任务管理",
         "心理学"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3682,7 +3682,7 @@
         "食谱建议",
         "家庭"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3697,7 +3697,7 @@
         "计时",
         "仪表盘"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3712,7 +3712,7 @@
         "美业",
         "Replit"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Replit",
       "hot": 0
@@ -3727,7 +3727,7 @@
         "日志",
         "移动端"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3742,7 +3742,7 @@
         "极简",
         "穿衣建议"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3757,7 +3757,7 @@
         "图像识别",
         "营养计算"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3772,7 +3772,7 @@
         "无代码",
         "SaaS"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3787,7 +3787,7 @@
         "日历同步",
         "法律"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -3802,7 +3802,7 @@
         "GPT-4 Vision",
         "Tailwind CSS"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -3817,7 +3817,7 @@
         "TTS",
         "自托管"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -3832,7 +3832,7 @@
         "语音克隆",
         "Electron"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -3847,7 +3847,7 @@
         "播客",
         "深度学习"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Codex",
       "hot": 0
@@ -3862,7 +3862,7 @@
         "Web UI",
         "Python"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -3877,7 +3877,7 @@
         "AI 检测",
         "字幕生成"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -3893,7 +3893,7 @@
         "TTS",
         "RAG"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -3908,7 +3908,7 @@
         "Flux",
         "视频生成"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -3923,7 +3923,7 @@
         "SaaS",
         "Stripe"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -3938,7 +3938,7 @@
         "WebUI",
         "PyTorch"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Cline",
       "hot": 0
@@ -3953,7 +3953,7 @@
         "Replicate",
         "SaaS"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -3968,7 +3968,7 @@
         "Vercel",
         "图像生成"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "v0",
       "hot": 0
@@ -3983,7 +3983,7 @@
         "LLM",
         "自托管"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -3998,7 +3998,7 @@
         "幻灯片",
         "OpenAI API"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4013,7 +4013,7 @@
         "LLM",
         "PowerPoint"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Replit",
       "hot": 0
@@ -4028,7 +4028,7 @@
         "PowerPoint",
         "研究项目"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Codex",
       "hot": 0
@@ -4043,7 +4043,7 @@
         "简历",
         "LLM"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4058,7 +4058,7 @@
         "Node.js",
         "Docker"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Windsurf",
       "hot": 0
@@ -4073,7 +4073,7 @@
         "ATS",
         "简历解析"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4088,7 +4088,7 @@
         "React",
         "PDF 解析"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4103,7 +4103,7 @@
         "TypeScript",
         "自动化"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "ZCode",
       "hot": 0
@@ -4118,7 +4118,7 @@
         "向量检索",
         "Docker"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -4133,7 +4133,7 @@
         "GitHub",
         "产品演示"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Bolt.new",
       "hot": 0
@@ -4148,7 +4148,7 @@
         "独立开发",
         "Next.js"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4163,7 +4163,7 @@
         "ControlNet",
         "图像生成"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4178,7 +4178,7 @@
         "UI 实验",
         "Three.js"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -4193,7 +4193,7 @@
         "动画",
         "React"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "v0",
       "hot": 0
@@ -4208,7 +4208,7 @@
         "Together AI",
         "Next.js"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4223,7 +4223,7 @@
         "Skill",
         "标志设计"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "ZCode",
       "hot": 0
@@ -4238,7 +4238,7 @@
         "图标",
         "纯前端"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Replit",
       "hot": 0
@@ -4253,7 +4253,7 @@
         "扩散模型",
         "文字渲染"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Codex",
       "hot": 0
@@ -4268,7 +4268,7 @@
         "AI 排版",
         "开源"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4283,7 +4283,7 @@
         "PDF 解析",
         "Agent"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Codex",
       "hot": 0
@@ -4298,7 +4298,7 @@
         "画布编辑",
         "海报"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4313,7 +4313,7 @@
         "设计工具",
         "Figma 替代"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -4328,7 +4328,7 @@
         "图像编辑",
         "PyTorch"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Cline",
       "hot": 0
@@ -4343,7 +4343,7 @@
         "人脸替换",
         "TensorFlow"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4358,7 +4358,7 @@
         "Gradio",
         "本地运行"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Cline",
       "hot": 0
@@ -4373,7 +4373,7 @@
         "AI 音乐",
         "资源合集"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4388,7 +4388,7 @@
         "Apache 2.0",
         "本地部署"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Codex",
       "hot": 0
@@ -4403,7 +4403,7 @@
         "深度学习",
         "多语言"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Codex",
       "hot": 0
@@ -4418,7 +4418,7 @@
         "Demucs",
         "PyTorch"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Cline",
       "hot": 0
@@ -4433,7 +4433,7 @@
         "分轨",
         "桌面应用"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4448,7 +4448,7 @@
         "AI 模型",
         "平台"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Bolt.new",
       "hot": 0
@@ -4463,7 +4463,7 @@
         "音频处理",
         "卡拉OK"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Cline",
       "hot": 0
@@ -4478,7 +4478,7 @@
         "OpenGL",
         "跨平台"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Codex",
       "hot": 0
@@ -4493,7 +4493,7 @@
         "视频导出",
         "Electron"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Replit",
       "hot": 0
@@ -4508,7 +4508,7 @@
         "Canvas",
         "可视化"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4523,7 +4523,7 @@
         "Angular",
         "练耳"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Cline",
       "hot": 0
@@ -4538,7 +4538,7 @@
         "练耳",
         "钢琴采样"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4553,7 +4553,7 @@
         "P5.js",
         "机器学习"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -4568,7 +4568,7 @@
         "Tone.js",
         "Web 应用"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4583,7 +4583,7 @@
         "Gemini",
         "营养追踪"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4598,7 +4598,7 @@
         "营养记录",
         "开源"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Replit",
       "hot": 0
@@ -4613,7 +4613,7 @@
         "营养",
         "BYOK"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4628,7 +4628,7 @@
         "Go",
         "运动记录"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Cline",
       "hot": 0
@@ -4643,7 +4643,7 @@
         "Kotlin",
         "用药提醒"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Windsurf",
       "hot": 0
@@ -4658,7 +4658,7 @@
         "Java",
         "服药管理"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4673,7 +4673,7 @@
         "PyTorch",
         "聊天机器人"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Replit",
       "hot": 0
@@ -4688,7 +4688,7 @@
         "JavaScript",
         "开源医疗"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Cline",
       "hot": 0
@@ -4703,7 +4703,7 @@
         "冥想",
         "心理健康"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -4718,7 +4718,7 @@
         "习惯打卡",
         "WebDAV"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "ZCode",
       "hot": 0
@@ -4733,7 +4733,7 @@
         "习惯追踪",
         "隐私"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Cline",
       "hot": 0
@@ -4748,7 +4748,7 @@
         "情绪记录",
         "移动端"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4763,7 +4763,7 @@
         "LLM",
         "情绪分析"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -4778,7 +4778,7 @@
         "经期追踪",
         "离线优先"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Cline",
       "hot": 0
@@ -4793,7 +4793,7 @@
         "周期计算",
         "女性健康"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Windsurf",
       "hot": 0
@@ -4808,7 +4808,7 @@
         "Docker",
         "周期追踪"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Cline",
       "hot": 0
@@ -4823,7 +4823,7 @@
         "预测算法",
         "React"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Bolt.new",
       "hot": 0
@@ -4838,7 +4838,7 @@
         "PyTorch",
         "Flask"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4853,7 +4853,7 @@
         "姿态估计",
         "动作计数"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Codex",
       "hot": 0
@@ -4868,7 +4868,7 @@
         "PoseNet",
         "实时检测"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4883,7 +4883,7 @@
         "多人",
         "模拟"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4898,7 +4898,7 @@
         "街机",
         "Canvas"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -4913,7 +4913,7 @@
         "物理",
         "休闲"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4928,7 +4928,7 @@
         "休闲",
         "3D"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4943,7 +4943,7 @@
         "复刻",
         "合集"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -4958,7 +4958,7 @@
         "街机",
         "单次生成"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -4973,7 +4973,7 @@
         "放置",
         "创意"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -4988,7 +4988,7 @@
         "绘画",
         "AI"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Replit",
       "hot": 0
@@ -5003,7 +5003,7 @@
         "RPG",
         "竞技"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5018,7 +5018,7 @@
         "创意",
         "地图"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -5033,7 +5033,7 @@
         "休闲",
         "策略"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -5048,7 +5048,7 @@
         "航天",
         "休闲"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Bolt.new",
       "hot": 0
@@ -5063,7 +5063,7 @@
         "科幻",
         "射击"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Bolt.new",
       "hot": 0
@@ -5078,7 +5078,7 @@
         "对战",
         "街机"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5093,7 +5093,7 @@
         "休闲",
         "街机"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Replit",
       "hot": 0
@@ -5108,7 +5108,7 @@
         "休闲",
         "益智"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -5123,7 +5123,7 @@
         "沙盒",
         "实验"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Codex",
       "hot": 0
@@ -5138,7 +5138,7 @@
         "影视梗",
         "UI"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "v0",
       "hot": 0
@@ -5153,7 +5153,7 @@
         "创意",
         "休闲"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -5168,7 +5168,7 @@
         "ECS",
         "开源"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -5183,7 +5183,7 @@
         "开源",
         "爆款"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5198,7 +5198,7 @@
         "去中心化",
         "ActivityPub"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5213,7 +5213,7 @@
         "联邦宇宙",
         "Reddit 类"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Cline",
       "hot": 0
@@ -5228,7 +5228,7 @@
         "联邦宇宙",
         "自托管"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5243,7 +5243,7 @@
         "社区",
         "轻量"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cline",
       "hot": 0
@@ -5258,7 +5258,7 @@
         "社区",
         "成熟"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -5273,7 +5273,7 @@
         "自建",
         "PHP"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5288,7 +5288,7 @@
         "Next.js",
         "Supabase"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "v0",
       "hot": 0
@@ -5303,7 +5303,7 @@
         "Next.js",
         "PostgreSQL"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "v0",
       "hot": 0
@@ -5318,7 +5318,7 @@
         "Firebase",
         "React"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5333,7 +5333,7 @@
         "团队协作",
         "自托管"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Cline",
       "hot": 0
@@ -5348,7 +5348,7 @@
         "无头 commerce",
         "Next.js"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "v0",
       "hot": 0
@@ -5363,7 +5363,7 @@
         "GraphQL",
         "Next.js"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "v0",
       "hot": 0
@@ -5378,7 +5378,7 @@
         "模板",
         "Next.js"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "v0",
       "hot": 0
@@ -5393,7 +5393,7 @@
         "Laravel",
         "Vue"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5408,7 +5408,7 @@
         "Next.js",
         "营销"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5423,7 +5423,7 @@
         "开源",
         "创作者"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5438,7 +5438,7 @@
         "用户调研",
         "自托管"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Cline",
       "hot": 0
@@ -5453,7 +5453,7 @@
         "Newsletter",
         "自托管"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5468,7 +5468,7 @@
         "数据分析",
         "营销"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "v0",
       "hot": 0
@@ -5483,7 +5483,7 @@
         "预算",
         "本地优先"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Cline",
       "hot": 0
@@ -5498,7 +5498,7 @@
         "自托管",
         "报表"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Cline",
       "hot": 0
@@ -5513,7 +5513,7 @@
         "多账户",
         "Rails"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5528,7 +5528,7 @@
         "分叉维护",
         "自托管"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Cline",
       "hot": 0
@@ -5543,7 +5543,7 @@
         "银行同步",
         "开源"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5558,7 +5558,7 @@
         "净值",
         "自托管"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5573,7 +5573,7 @@
         "本地优先",
         "隐私"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Cline",
       "hot": 0
@@ -5588,7 +5588,7 @@
         "beancount",
         "Go"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5603,7 +5603,7 @@
         "中文",
         "AI 助手"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -5618,7 +5618,7 @@
         "Flutter",
         "隐私"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Cline",
       "hot": 0
@@ -5633,7 +5633,7 @@
         "uni-app",
         "离线"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Windsurf",
       "hot": 0
@@ -5648,7 +5648,7 @@
         "Compose",
         "Android"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Windsurf",
       "hot": 0
@@ -5663,7 +5663,7 @@
         "Vue3",
         "教学"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5678,7 +5678,7 @@
         "Browser Automation",
         "LLM"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5693,7 +5693,7 @@
         "Python",
         "Browser Agent"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5708,7 +5708,7 @@
         "CLI",
         "Playwright"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Codex",
       "hot": 0
@@ -5723,7 +5723,7 @@
         "Multi-Agent",
         "TypeScript"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5738,7 +5738,7 @@
         "Computer Vision",
         "Playwright"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5753,7 +5753,7 @@
         "Workflow",
         "Low-code"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "v0",
       "hot": 0
@@ -5768,7 +5768,7 @@
         "Security",
         "CI/CD"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -5783,7 +5783,7 @@
         "Dev Agent",
         "Sandbox"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Cline",
       "hot": 0
@@ -5798,7 +5798,7 @@
         "Python",
         "Planning"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -5813,7 +5813,7 @@
         "Terminal",
         "Git"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Aider",
       "hot": 0
@@ -5828,7 +5828,7 @@
         "CLI",
         "Local Tools"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Aider",
       "hot": 0
@@ -5843,7 +5843,7 @@
         "Anthropic",
         "Tool Building"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -5858,7 +5858,7 @@
         "Git",
         "Parallel"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -5873,7 +5873,7 @@
         "LangGraph",
         "Research"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Aider",
       "hot": 0
@@ -5888,7 +5888,7 @@
         "CLI",
         "Coding Agent"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Kimi Code",
       "hot": 0
@@ -5903,7 +5903,7 @@
         "TUI",
         "Multi-model"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Codex",
       "hot": 0
@@ -5918,7 +5918,7 @@
         "CLI",
         "Grok"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Codex",
       "hot": 0
@@ -5933,7 +5933,7 @@
         "Research",
         "Paper2Code"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -5948,7 +5948,7 @@
         "CLI",
         "Qwen"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Codex",
       "hot": 0
@@ -5963,7 +5963,7 @@
         "CLI",
         "Gemini"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Codex",
       "hot": 0
@@ -5978,7 +5978,7 @@
         "PRD",
         "Task Planning"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -5993,7 +5993,7 @@
         "Kanban",
         "Worktree"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6008,7 +6008,7 @@
         "Workflow",
         "Parallel"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6023,7 +6023,7 @@
         "MCP",
         "Knowledge Base"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6038,7 +6038,7 @@
         "Orchestration",
         "Multi-agent"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6053,7 +6053,7 @@
         "Multi-agent",
         "CLI"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6068,7 +6068,7 @@
         "Orchestration",
         "Experts"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6083,7 +6083,7 @@
         "Desktop",
         "Session Manager"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6098,7 +6098,7 @@
         "Automation",
         "PRD"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6113,7 +6113,7 @@
         "Collection",
         "MCP"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6128,7 +6128,7 @@
         "Multi-agent",
         "Microsoft"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -6143,7 +6143,7 @@
         "Python",
         "Examples"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -6158,7 +6158,7 @@
         "Framework",
         "Cookbook"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -6173,7 +6173,7 @@
         "Recommender",
         "LLM"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -6188,7 +6188,7 @@
         "Hooks",
         "Orchestration"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6203,7 +6203,7 @@
         "Multi-agent",
         "Planner"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Lovable",
       "hot": 0
@@ -6218,7 +6218,7 @@
         "Matching",
         "Multi-agent"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -6233,7 +6233,7 @@
         "Email",
         "Human-in-loop"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6248,7 +6248,7 @@
         "LangGraph",
         "Email Agent"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6263,7 +6263,7 @@
         "CLI",
         "RAG"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Aider",
       "hot": 0
@@ -6278,7 +6278,7 @@
         "Self-hosted",
         "Chat"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Bolt.new",
       "hot": 0
@@ -6293,7 +6293,7 @@
         "RAG",
         "Enterprise"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -6308,7 +6308,7 @@
         "Knowledge Base",
         "Workflow"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "v0",
       "hot": 0
@@ -6323,7 +6323,7 @@
         "Ollama",
         "Self-hosted"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Bolt.new",
       "hot": 0
@@ -6338,7 +6338,7 @@
         "Full-stack",
         "Ollama"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Bolt.new",
       "hot": 0
@@ -6353,7 +6353,7 @@
         "SDK",
         "App Builder"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "v0",
       "hot": 0
@@ -6368,7 +6368,7 @@
         "Whiteboard",
         "Local-first"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -6383,7 +6383,7 @@
         "HITL",
         "LangGraph"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -6398,7 +6398,7 @@
         "NL Interface",
         "Photos"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6413,7 +6413,7 @@
         "Analytics",
         "Cost"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6428,7 +6428,7 @@
         "SQLite",
         "Hooks"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6443,7 +6443,7 @@
         "Persistence",
         "API"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6458,7 +6458,7 @@
         "Hybrid Search",
         "Indexing"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6473,7 +6473,7 @@
         "Hooks",
         "QA"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6488,7 +6488,7 @@
         "Bridge",
         "Voice"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6503,7 +6503,7 @@
         "Bot",
         "Cron"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6518,7 +6518,7 @@
         "RAG",
         "Ops"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6533,7 +6533,7 @@
         "Accessibility",
         "Lighthouse"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6548,7 +6548,7 @@
         "Worktree",
         "Parallel"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6563,7 +6563,7 @@
         "Comparison",
         "CLI"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6578,7 +6578,7 @@
         "MCP",
         "Config"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6593,7 +6593,7 @@
         "Lua",
         "IDE Plugin"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -6608,7 +6608,7 @@
         "Lua",
         "Agents"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Cline",
       "hot": 0
@@ -6623,7 +6623,7 @@
         "Audio",
         "Fun"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6638,7 +6638,7 @@
         "Pixel Art",
         "Status"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6653,7 +6653,7 @@
         "Hook",
         "Prompt"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6668,7 +6668,7 @@
         "CLI",
         "Optimization"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6683,7 +6683,7 @@
         "Cost",
         "Report"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6698,7 +6698,7 @@
         "CLI",
         "Multi-tool"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6713,7 +6713,7 @@
         "CLI",
         "CI"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Cline",
       "hot": 0
@@ -6728,7 +6728,7 @@
         "Code Completion",
         "Self-hosted"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -6743,7 +6743,7 @@
         "Docs",
         "Context"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -6758,7 +6758,7 @@
         "Vector Search",
         "BM25"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6773,7 +6773,7 @@
         "Sandbox",
         "Embedding"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
       "tool": "Codex",
       "hot": 0
@@ -6788,7 +6788,7 @@
         "Bridge",
         "Official"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6803,7 +6803,7 @@
         "Context",
         "CLI"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
       "tool": "Cline",
       "hot": 0
@@ -6818,7 +6818,7 @@
         "Tree-sitter",
         "FalkorDB"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6833,7 +6833,7 @@
         "Analysis",
         "Sessions"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6848,7 +6848,7 @@
         "Transport",
         "ACP"
       ],
-      "icon": "✨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Codex",
       "hot": 0
@@ -6864,7 +6864,7 @@
         "自动化",
         "内容创作"
       ],
-      "icon": "🎬",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #FF416C 0%, #FF4B2B 100%)",
       "tool": "Python + AI 大模型",
       "hot": 0
@@ -6880,7 +6880,7 @@
         "可视化",
         "开源"
       ],
-      "icon": "🎨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #5F2C82 0%, #49A09D 100%)",
       "tool": "React + AI",
       "hot": 0
@@ -6896,7 +6896,7 @@
         "YC",
         "开源"
       ],
-      "icon": "🤖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1D976C 0%, #93F9B9 100%)",
       "tool": "TypeScript",
       "hot": 0
@@ -6912,7 +6912,7 @@
         "编排",
         "自动化"
       ],
-      "icon": "⚡",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -6928,7 +6928,7 @@
         "路由",
         "开源"
       ],
-      "icon": "🌐",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #C33764 0%, #1D2671 100%)",
       "tool": "Python",
       "hot": 0
@@ -6944,7 +6944,7 @@
         "网关",
         "开源"
       ],
-      "icon": "🔌",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0F2027 0%, #2C5364 100%)",
       "tool": "Python",
       "hot": 0
@@ -6960,7 +6960,7 @@
         "Agent IDE",
         "开源"
       ],
-      "icon": "🧩",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #F7971E 0%, #FFD200 100%)",
       "tool": "MCP",
       "hot": 0
@@ -6976,7 +6976,7 @@
         "App Store",
         "Vibe Coding"
       ],
-      "icon": "📱",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #5b247a 0%, #1bced0 100%)",
       "tool": "React Native + AI",
       "hot": 0
@@ -6992,7 +6992,7 @@
         "多模态",
         "隐私"
       ],
-      "icon": "🧠",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #aa076b 0%, #61045f 100%)",
       "tool": "端侧多模态大模型",
       "hot": 0
@@ -7008,7 +7008,7 @@
         "开源",
         "DeepSeek"
       ],
-      "icon": "🦀",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #b24592 0%, #f15f79 100%)",
       "tool": "Rust + DeepSeek V4",
       "hot": 0
@@ -7024,7 +7024,7 @@
         "OSINT",
         "开源"
       ],
-      "icon": "🛰️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0b486b 0%, #f56217 100%)",
       "tool": "Gemini 3.1 + Claude 4.6",
       "hot": 0
@@ -7040,7 +7040,7 @@
         "可溯源",
         "企业"
       ],
-      "icon": "📑",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #360033 0%, #0b879b 100%)",
       "tool": "Reasoning-based RAG",
       "hot": 0
@@ -7056,7 +7056,7 @@
         "Agent",
         "合规"
       ],
-      "icon": "🏢",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #cc2b5b 0%, #753a88 100%)",
       "tool": "Hybrid Agents",
       "hot": 0
@@ -7072,7 +7072,7 @@
         "风险管理",
         "开源"
       ],
-      "icon": "📈",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #093028 0%, #34e89e 100%)",
       "tool": "LLM 多智能体 + ReAct",
       "hot": 0
@@ -7088,7 +7088,7 @@
         "Agent 技能",
         "开源"
       ],
-      "icon": "🎨",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #20002c 0%, #6a3093 100%)",
       "tool": "Agent Skill（SKILL.md）",
       "hot": 0
@@ -7104,7 +7104,7 @@
         "成本管控",
         "开源"
       ],
-      "icon": "📎",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2a2a72 0%, #009ffd 100%)",
       "tool": "Bring-Your-Own-Agent",
       "hot": 0
@@ -7120,7 +7120,7 @@
         "预测市场",
         "开源"
       ],
-      "icon": "🔎",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #3d1e6d 0%, #e65c00 100%)",
       "tool": "Agent Skill + MCP",
       "hot": 0
@@ -7136,7 +7136,7 @@
         "单卡可跑",
         "开源"
       ],
-      "icon": "🧠",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0a2342 0%, #004d7a 100%)",
       "tool": "PyTorch 全流程手写",
       "hot": 0
@@ -7152,7 +7152,7 @@
         "成本可控",
         "开源"
       ],
-      "icon": "🎬",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #360940 0%, #870000 100%)",
       "tool": "Claude Code / Codex 插件 + MCP",
       "hot": 0
@@ -7168,7 +7168,7 @@
         "自托管",
         "开源"
       ],
-      "icon": "🧸",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #5d4157 0%, #a8caba 100%)",
       "tool": "TypeScript + WebGPU",
       "hot": 0
@@ -7184,7 +7184,7 @@
         "数据库",
         "开源"
       ],
-      "icon": "🔬",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0f3443 0%, #1cd8d2 100%)",
       "tool": "Agent Skills 标准",
       "hot": 0
@@ -7200,7 +7200,7 @@
         "临床 NER",
         "开源"
       ],
-      "icon": "🩺",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #00223e 0%, #12c2e9 100%)",
       "tool": "Apple MLX + ONNX + Transformers.js",
       "hot": 0
@@ -7216,7 +7216,7 @@
         "移动端",
         "开源"
       ],
-      "icon": "🛰️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #24243e 0%, #544a7d 100%)",
       "tool": "TypeScript 自托管",
       "hot": 0
@@ -7232,7 +7232,7 @@
         "CapCut 替代",
         "Web 应用"
       ],
-      "icon": "🎬",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #c31432 0%, #240b36 100%)",
       "tool": "Cursor",
       "hot": 0
@@ -7248,7 +7248,7 @@
         "GeoGuessr",
         "Vibe Jam 2026"
       ],
-      "icon": "🌍",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #360033 0%, #0b8793 100%)",
       "tool": "OpenAI Codex + GPT-Image",
       "hot": 0
@@ -7264,7 +7264,7 @@
         "3D",
         "Vibe Jam 2026"
       ],
-      "icon": "🐹",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #fceabb 0%, #f8b500 100%)",
       "tool": "Claude Code + Three.js + Tripo3d",
       "hot": 0
@@ -7280,7 +7280,7 @@
         "Whisper",
         "隐私"
       ],
-      "icon": "🎙️",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #7028e4 0%, #e5b2ca 100%)",
       "tool": "Claude Code",
       "hot": 0
@@ -7296,7 +7296,7 @@
         "Excel",
         "PPT"
       ],
-      "icon": "📎",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #2980b9 0%, #6dd5fa 100%)",
       "tool": "C# / AI Agent",
       "hot": 0
@@ -7312,7 +7312,7 @@
         "MCP",
         "CLI"
       ],
-      "icon": "🤖",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #1f4037 0%, #99f2c8 100%)",
       "tool": "xAI / Grok",
       "hot": 0
@@ -7328,7 +7328,7 @@
         "开发环境",
         "开源"
       ],
-      "icon": "🐋",
+      "icon": "box",
       "bg": "linear-gradient(135deg, #0f2027 0%, #2c5364 100%)",
       "tool": "Claude Code / Cursor",
       "hot": 0
