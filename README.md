@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-04 13:15:06
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-05 04:37:29
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（476 个条目 / 14 个分类）
+## 📑 内容导航（484 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -268,6 +268,14 @@
   标签：终端 / 编码智能体 / 开源 / DeepSeek
 - [last30days - 按「真人投票」而不是 SEO 排序的搜索](https://github.com/mvanhorn/last30days-skill) — 抛开编辑推荐，用 Reddit 高赞、X 热帖、YouTube 全文转录、HN 分数、Polymarket 真金下注赔率交叉聚类，给任意人物/公司/技术产出带引用的简报；GitHub 6.1 万 star、当日 Trending 第 1，2,700+ 测试、MIT、零配置即可跑 Reddit 与 HN。  
   标签：社交信号 / 研究简报 / 预测市场 / 开源
+- [gpt-researcher - 自主深度研究 Agent](https://gptr.dev) — 自主 AI Agent，基于任意 LLM 对任意数据进行深度研究并生成带引用的报告；GitHub 2.93 万+ Star，Python 开源，被大量产品用作研究底座。  
+  标签：研究 Agent / 自动化 / LLM / 开源
+- [Mem0 - AI Agent 记忆层](https://mem0.ai) — 为 AI Agent 与应用提供可持久化的记忆基础设施（Memory Layer），即插即用、面向生产；GitHub 6.47 万+ Star，Python 开源。  
+  标签：记忆层 / Agent 基建 / 持久化 / 开源
+- [c/ua - 开源计算机操控 Agent](https://cua.ai) — 开源的「计算机使用」（computer-use）驱动，支持跨操作系统规模化调度 Agent 集群与训练评测基准；GitHub 2.22 万+ Star，开源。  
+  标签：计算机使用 / Agent / 自动化 / 开源
+- [Nezha - AI Agent 时代代码编辑器](https://nezha.hanshutx.com/) — 面向 AI Agent 时代的代码编辑器，单机同时运行多个 Claude Code / Codex Agent 跨项目协作；GitHub 1.89 千+ Star，TypeScript 开源。  
+  标签：代码编辑器 / 多 Agent / 协作 / 开源
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -538,6 +546,8 @@
   标签：本地优先 / 记忆层 / 多模态 / 隐私
 - [Paseo - 在手机上遥控家里的编码 Agent](https://paseo.sh) — 编码 Agent 的自托管控制平面：把 Claude Code、Codex、Copilot、OpenCode、Pi 统一收进一个界面，隔离 worktree 里并行开多个任务，通勤路上用手机就能审 diff、批计划、继续跑；GitHub 1.57 万 star（fork 1,722），近 30 天新增 3,761 star。  
   标签：远程编码 / Agent 编排 / 移动端 / 开源
+- [E2B - AI Agent 安全代码沙箱](https://e2b.dev) — 为 AI Agent 提供开源、安全、带真实工具的代码执行环境（沙箱），面向企业级 Agent；GitHub 1.37 万+ Star，开源。  
+  标签：沙箱 / 代码执行 / Agent 基建 / 开源
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -653,6 +663,8 @@
   标签：浏览器游戏 / 历史 / GeoGuessr / Vibe Jam 2026
 - [Capybara Delivery - 水豚送餐（Vibe Jam 金奖）](https://capybara-vibejam26.leocoout.dev) — 多人合作送餐游戏，AI 生成 3D 水豚模型、Suno 自动配乐，零人工建模；Vibe Jam 2026 金奖，病毒式传播。  
   标签：多人游戏 / 合作 / 3D / Vibe Jam 2026
+- [Claude Code Game Studios - AI 游戏工作室](https://github.com/Donchitos/Claude-Code-Game-Studios) — 把 Claude Code 变成完整游戏开发工作室：49 个 AI Agent、72 个工作流技能与完整协调系统，模拟真实工作室层级；GitHub 2.48 万+ Star，开源。  
+  标签：游戏开发 / 多 Agent / 工作流 / 开源
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -865,6 +877,8 @@
   标签：视频制片 / 分镜脚本 / 成本可控 / 开源
 - [OpenCut - 开源版剪映 / CapCut](https://opencut.app) — 浏览器里剪辑视频、自动加字幕与特效的开源 CapCut 替代品；GitHub 8.8 万+ Star，Vibe Jam 生态最受欢迎的剪辑工具之一。  
   标签：视频剪辑 / 开源 / CapCut 替代 / Web 应用
+- [archify - AI 架构图生成技能](https://github.com/tt-a1i/archify) — Claude Code / Codex 技能，自动生成可验证的架构图、时序图、数据流图与生命周期图，输出自包含 HTML 并带动态效果与高清导出；GitHub 4.83 万+ Star，MIT 开源。  
+  标签：架构图 / 可视化 / Claude 技能 / 开源
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -945,6 +959,8 @@
   标签：可视化 / 视频导出 / Electron
 - [audioMotion-analyzer](https://github.com/hvianna/audioMotion-analyzer) — 高精度 JavaScript 实时音频频谱分析器与可视化库，可数分钟内嵌入任何网站。  
   标签：Web Audio API / Canvas / 可视化
+- [ACE-Step - 音乐生成基础模型](https://ace-step.github.io/) — 开源音乐生成基础模型，支持长序列、多语言与高效微调，本地即可生成整曲；GitHub 4.8 千+ Star，Python 开源。  
+  标签：音乐生成 / 基础模型 / AI 作曲 / 开源
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 

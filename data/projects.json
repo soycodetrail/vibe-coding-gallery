@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T13:15:06.562Z",
+  "updatedAt": "2026-09-05T04:37:29.566Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -7330,6 +7330,134 @@
       ],
       "icon": "box",
       "bg": "linear-gradient(135deg, #0f2027 0%, #2c5364 100%)",
+      "tool": "Claude Code / Cursor",
+      "hot": 0
+    },
+    {
+      "name": "archify - AI 架构图生成技能",
+      "desc": "Claude Code / Codex 技能，自动生成可验证的架构图、时序图、数据流图与生命周期图，输出自包含 HTML 并带动态效果与高清导出；GitHub 4.83 万+ Star，MIT 开源。",
+      "url": "https://github.com/tt-a1i/archify",
+      "category": "设计创意",
+      "tags": [
+        "架构图",
+        "可视化",
+        "Claude 技能",
+        "开源"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #1d3b53 0%, #2c7da0 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Claude Code Game Studios - AI 游戏工作室",
+      "desc": "把 Claude Code 变成完整游戏开发工作室：49 个 AI Agent、72 个工作流技能与完整协调系统，模拟真实工作室层级；GitHub 2.48 万+ Star，开源。",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "category": "游戏",
+      "tags": [
+        "游戏开发",
+        "多 Agent",
+        "工作流",
+        "开源"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #3a0ca3 0%, #7209b7 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "gpt-researcher - 自主深度研究 Agent",
+      "desc": "自主 AI Agent，基于任意 LLM 对任意数据进行深度研究并生成带引用的报告；GitHub 2.93 万+ Star，Python 开源，被大量产品用作研究底座。",
+      "url": "https://gptr.dev",
+      "category": "AI 工具",
+      "tags": [
+        "研究 Agent",
+        "自动化",
+        "LLM",
+        "开源"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #004b23 0%, #38b000 100%)",
+      "tool": "AI 辅助开发",
+      "hot": 0
+    },
+    {
+      "name": "Mem0 - AI Agent 记忆层",
+      "desc": "为 AI Agent 与应用提供可持久化的记忆基础设施（Memory Layer），即插即用、面向生产；GitHub 6.47 万+ Star，Python 开源。",
+      "url": "https://mem0.ai",
+      "category": "AI 工具",
+      "tags": [
+        "记忆层",
+        "Agent 基建",
+        "持久化",
+        "开源"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #03045e 0%, #0077b6 100%)",
+      "tool": "AI 辅助开发",
+      "hot": 0
+    },
+    {
+      "name": "c/ua - 开源计算机操控 Agent",
+      "desc": "开源的「计算机使用」（computer-use）驱动，支持跨操作系统规模化调度 Agent 集群与训练评测基准；GitHub 2.22 万+ Star，开源。",
+      "url": "https://cua.ai",
+      "category": "AI 工具",
+      "tags": [
+        "计算机使用",
+        "Agent",
+        "自动化",
+        "开源"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #6a040f 0%, #d00000 100%)",
+      "tool": "AI 辅助开发",
+      "hot": 0
+    },
+    {
+      "name": "E2B - AI Agent 安全代码沙箱",
+      "desc": "为 AI Agent 提供开源、安全、带真实工具的代码执行环境（沙箱），面向企业级 Agent；GitHub 1.37 万+ Star，开源。",
+      "url": "https://e2b.dev",
+      "category": "效率工具",
+      "tags": [
+        "沙箱",
+        "代码执行",
+        "Agent 基建",
+        "开源"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #212529 0%, #495057 100%)",
+      "tool": "AI 辅助开发",
+      "hot": 0
+    },
+    {
+      "name": "ACE-Step - 音乐生成基础模型",
+      "desc": "开源音乐生成基础模型，支持长序列、多语言与高效微调，本地即可生成整曲；GitHub 4.8 千+ Star，Python 开源。",
+      "url": "https://ace-step.github.io/",
+      "category": "音乐音频",
+      "tags": [
+        "音乐生成",
+        "基础模型",
+        "AI 作曲",
+        "开源"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #5a189a 0%, #9d4edd 100%)",
+      "tool": "AI 辅助开发",
+      "hot": 0
+    },
+    {
+      "name": "Nezha - AI Agent 时代代码编辑器",
+      "desc": "面向 AI Agent 时代的代码编辑器，单机同时运行多个 Claude Code / Codex Agent 跨项目协作；GitHub 1.89 千+ Star，TypeScript 开源。",
+      "url": "https://nezha.hanshutx.com/",
+      "category": "AI 工具",
+      "tags": [
+        "代码编辑器",
+        "多 Agent",
+        "协作",
+        "开源"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #0b132b 0%, #1c2541 100%)",
       "tool": "Claude Code / Cursor",
       "hot": 0
     }
