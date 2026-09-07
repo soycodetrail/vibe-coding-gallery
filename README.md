@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-06 10:50:43
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-07 06:40:02
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（484 个条目 / 14 个分类）
+## 📑 内容导航（490 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -276,6 +276,12 @@
   标签：计算机使用 / Agent / 自动化 / 开源
 - [Nezha - AI Agent 时代代码编辑器](https://nezha.hanshutx.com/) — 面向 AI Agent 时代的代码编辑器，单机同时运行多个 Claude Code / Codex Agent 跨项目协作；GitHub 1.89 千+ Star，TypeScript 开源。  
   标签：代码编辑器 / 多 Agent / 协作 / 开源
+- [Dify - 开源 AI 应用开发平台](https://dify.ai) — 拖拽式搭建 Agent 工作流与 RAG 知识库，内置 200+ 模型与工具，支持云端/私有化一键部署，从原型到生产零重构；GitHub 15.5 万 Star、风靡全球的 AI 原生应用平台。  
+  标签：AI 应用平台 / Agent / RAG / 低代码
+- [Langflow - 可视化 AI Agent 构建器](https://www.langflow.org) — 基于 LangChain 的低代码平台，拖拽式设计、部署 AI 智能体与 RAG 工作流，支持主流大模型与向量库；GitHub 15.4 万 Star，把复杂 AI 管线浓缩进一个下午。  
+  标签：可视化 / Agent / RAG / 低代码
+- [Understand-Anything - 代码知识图谱](https://github.com/Egonex-AI/Understand-Anything) — 把任意代码库变成可交互的知识图谱，支持搜索、探索并向它提问，兼容 Claude Code、Codex、Cursor、Gemini CLI 等编码智能体；GitHub 8.2 万 Star 的现象级开发者工具。  
+  标签：代码图谱 / 知识库 / 开发者 / AI 辅助
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -409,6 +415,8 @@
   标签：Agent 框架 / TypeScript / YC / 开源
 - [orca - 并行编码 Agent 舰队管理器](https://github.com/stablyai/orca) — 用已有订阅运行任意编码 Agent 的「Agent 开发环境」，桌面 / 移动端统一监控调度并行 Agent 集群；GitHub 5.99 万+ Star，MIT 开源。  
   标签：多 Agent / 调度 / 开发环境 / 开源
+- [Buzz - 人机混居工作区](https://github.com/block/buzz) — Jack Dorsey 旗下 Block 出品的自托管协作空间，人与 AI Agent 共用同一套 Nostr 身份与审计日志，Agent 可开仓库、发补丁、参加评审；GitHub 3.2 万 Star，面向主权级人机协作。  
+  标签：人机协作 / 自托管 / Agent / 工作区
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -548,6 +556,8 @@
   标签：远程编码 / Agent 编排 / 移动端 / 开源
 - [E2B - AI Agent 安全代码沙箱](https://e2b.dev) — 为 AI Agent 提供开源、安全、带真实工具的代码执行环境（沙箱），面向企业级 Agent；GitHub 1.37 万+ Star，开源。  
   标签：沙箱 / 代码执行 / Agent 基建 / 开源
+- [n8n - 可视化工作流自动化](https://n8n.io) — 开源公平代码（fair-code）工作流自动化平台，原生集成 AI 能力，可视化编排 + 自定义代码，400+ 集成、支持自托管与云端；GitHub 20.4 万 Star，自动化领域的标杆。  
+  标签：自动化 / 工作流 / AI 集成 / 自托管
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -879,6 +889,8 @@
   标签：视频剪辑 / 开源 / CapCut 替代 / Web 应用
 - [archify - AI 架构图生成技能](https://github.com/tt-a1i/archify) — Claude Code / Codex 技能，自动生成可验证的架构图、时序图、数据流图与生命周期图，输出自包含 HTML 并带动态效果与高清导出；GitHub 4.83 万+ Star，MIT 开源。  
   标签：架构图 / 可视化 / Claude 技能 / 开源
+- [frontend-slides - AI 生成幻灯片](https://github.com/zarazhangrui/frontend-slides) — 用编码智能体的前端能力在浏览器里一键生成精美幻灯片，Describe 即出稿，无缝对接前端工作流；GitHub 2.9 万 Star，设计与演示的 vibe coding 利器。  
+  标签：幻灯片 / 设计 / 前端 / AI 生成
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
