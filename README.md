@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-07 18:43:24
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-07 21:13:41
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（490 个条目 / 14 个分类）
+## 📑 内容导航（496 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -558,6 +558,8 @@
   标签：沙箱 / 代码执行 / Agent 基建 / 开源
 - [n8n - 可视化工作流自动化](https://n8n.io) — 开源公平代码（fair-code）工作流自动化平台，原生集成 AI 能力，可视化编排 + 自定义代码，400+ 集成、支持自托管与云端；GitHub 20.4 万 Star，自动化领域的标杆。  
   标签：自动化 / 工作流 / AI 集成 / 自托管
+- [Prayer Lock - 先祷告，再解锁手机](https://prayerlock.com) — 基督徒习惯养成 App：打开被锁 App 前先完成一段 AI 生成的祈祷。创始人 Mau Baron 用 Cursor + ChatGPT + Codex 仅 3 天写完，半年做到月营收 $21K、累计 5.8 万下载、App Store 4.9 星，靠 TikTok Spark Ads 把获客成本压到 $3/试用。  
+  标签：3 天写完 / $21K/月 / 5.8万下载 / 4.9 星
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -675,6 +677,8 @@
   标签：多人游戏 / 合作 / 3D / Vibe Jam 2026
 - [Claude Code Game Studios - AI 游戏工作室](https://github.com/Donchitos/Claude-Code-Game-Studios) — 把 Claude Code 变成完整游戏开发工作室：49 个 AI Agent、72 个工作流技能与完整协调系统，模拟真实工作室层级；GitHub 2.48 万+ Star，开源。  
   标签：游戏开发 / 多 Agent / 工作流 / 开源
+- [Xgame - 一人用 Grok 端到端 vibe code 的 3D 太空射击](https://xgame.grok.me) — 独立开发者 Daniel Farina 用 Grok Build + Unity 6 全程对话式做出免费 3D 太空战斗机游戏（Mac / Win / Linux）。Demo 视频破圈被 Elon Musk 转发、Unity CEO 主动接洽，印证「单人也能端到端打造商业级游戏」。  
+  标签：马斯克转发 / 免费 3D 游戏 / Unity 6 / 单人开发
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -773,6 +777,8 @@
   标签：会议记录 / 本地 AI / Whisper / 隐私
 - [OfficeCLI - 首个专为 AI Agent 打造的 Office 套件](https://www.officecli.ai) — 单二进制免装 Office，让 Agent 直接读写自动化 Word / Excel / PPT；GitHub 2.97 万+ Star，Apache-2.0 开源。  
   标签：Office 自动化 / Word / Excel / PPT
+- [Subscribr - 一个人的 YouTube 自动化工厂](https://subscribr.ai) — 创始人称 90% 代码由 Claude Code 写成：集 outlier 数据库、病毒脚本 Agent、缩略图与视频生成于一体，一个人跑完整 YouTube 频道。Indie Hackers 披露月营收超 $62K、年跑向 $1M，是「vibe coding 真能赚钱」的代表作。  
+  标签：90% Claude Code / $62K/月 / YouTube 自动化 / AI 视频
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -891,6 +897,8 @@
   标签：架构图 / 可视化 / Claude 技能 / 开源
 - [frontend-slides - AI 生成幻灯片](https://github.com/zarazhangrui/frontend-slides) — 用编码智能体的前端能力在浏览器里一键生成精美幻灯片，Describe 即出稿，无缝对接前端工作流；GitHub 2.9 万 Star，设计与演示的 vibe coding 利器。  
   标签：幻灯片 / 设计 / 前端 / AI 生成
+- [ChatCut Desktop - 人和 AI Agent 同一条时间线剪视频](https://chatcut.io) — 本地优先的 AI 视频编辑器：接上你自己的 GPT / Codex / Claude 订阅，用自然语言在可编辑时间线上指挥 Agent 粗剪、生成 B-roll、字幕与配乐，导出 XML 到 Pr / DaVinci / CapCut。Product Hunt 日榜第 4（约 287 票）。  
+  标签：PH 日榜 #4 / 287 票 / 本地 AI 剪辑 / XML 导出
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -938,6 +946,8 @@
   标签：EDM / Newsletter / 自托管
 - [Dub 短链接平台](https://github.com/dubinc/dub) — 开源 Bitly 替代的短链接管理平台，内置数据分析、自定义域名、二维码与 bio 页，营销利器。  
   标签：短链 / 数据分析 / 营销
+- [Launch Fast - 48 小时做出月入 $30K 的亚马逊选品工具](https://www.launchfastlegacyx.com) — 非技术创始人 Hasaam Bhatti 用 Cursor 在 48 小时内做出面向亚马逊卖家的 AI 选品 / 供货 / 利润分析工具，第 30 天 $10K MRR、现约 $30K MRR、2,400+ 付费卖家。靠股权换 Legacy X 社区分发，是「不懂代码也能 vibe coding 出真生意」的样本。  
+  标签：$30K/月 / 48 小时 / 亚马逊选品 / Cursor 构建
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1067,6 +1077,8 @@
   标签：聊天 / 团队协作 / 自托管
 - [AIRI - 自己养一只住在电脑里的赛博伙伴](https://airi.moeru.ai) — 对着 Neuro-sama 的效果做的自托管数字生命：能看屏幕、能语音对话、有长期记忆和情绪状态，可接入 Discord、Telegram、VRM 虚拟形象甚至一起打《我的世界》与《Factorio》；GitHub 4.87 万 star（fork 4,825），浏览器端即可试玩。  
   标签：数字生命 / 语音陪伴 / 自托管 / 开源
+- [Stanley - 创作者的 AI 内容大脑](https://getstanley.ai) — Stan 两位创始人用 14 天 vibe coding 做出面向 LinkedIn / Instagram 的「AI Head of Content」，分析你历史内容、用你的语气写帖文。6 周做到 $200K ARR、现两版本合计约 $3M ARR，80,000+ 活跃用户，获 Business Insider / Yahoo 专题报道。  
+  标签：$3M ARR / 14 天 vibe coding / 8万+ 用户 / BI 报道
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 

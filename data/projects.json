@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T18:43:24.638Z",
+  "updatedAt": "2026-09-07T21:13:41.033Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -7555,6 +7555,102 @@
       "icon": "box",
       "bg": "linear-gradient(135deg, #FBAB7E 0%, #F7CE68 100%)",
       "tool": "Claude Code / Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Subscribr - 一个人的 YouTube 自动化工厂",
+      "desc": "创始人称 90% 代码由 Claude Code 写成：集 outlier 数据库、病毒脚本 Agent、缩略图与视频生成于一体，一个人跑完整 YouTube 频道。Indie Hackers 披露月营收超 $62K、年跑向 $1M，是「vibe coding 真能赚钱」的代表作。",
+      "url": "https://subscribr.ai",
+      "category": "AI办公",
+      "tags": [
+        "90% Claude Code",
+        "$62K/月",
+        "YouTube 自动化",
+        "AI 视频"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #2af598 0%, #009efd 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Stanley - 创作者的 AI 内容大脑",
+      "desc": "Stan 两位创始人用 14 天 vibe coding 做出面向 LinkedIn / Instagram 的「AI Head of Content」，分析你历史内容、用你的语气写帖文。6 周做到 $200K ARR、现两版本合计约 $3M ARR，80,000+ 活跃用户，获 Business Insider / Yahoo 专题报道。",
+      "url": "https://getstanley.ai",
+      "category": "社交社区",
+      "tags": [
+        "$3M ARR",
+        "14 天 vibe coding",
+        "8万+ 用户",
+        "BI 报道"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #f857a6 0%, #ff5858 100%)",
+      "tool": "Cursor + Claude",
+      "hot": 0
+    },
+    {
+      "name": "Prayer Lock - 先祷告，再解锁手机",
+      "desc": "基督徒习惯养成 App：打开被锁 App 前先完成一段 AI 生成的祈祷。创始人 Mau Baron 用 Cursor + ChatGPT + Codex 仅 3 天写完，半年做到月营收 $21K、累计 5.8 万下载、App Store 4.9 星，靠 TikTok Spark Ads 把获客成本压到 $3/试用。",
+      "url": "https://prayerlock.com",
+      "category": "效率工具",
+      "tags": [
+        "3 天写完",
+        "$21K/月",
+        "5.8万下载",
+        "4.9 星"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "Cursor + Codex",
+      "hot": 0
+    },
+    {
+      "name": "Xgame - 一人用 Grok 端到端 vibe code 的 3D 太空射击",
+      "desc": "独立开发者 Daniel Farina 用 Grok Build + Unity 6 全程对话式做出免费 3D 太空战斗机游戏（Mac / Win / Linux）。Demo 视频破圈被 Elon Musk 转发、Unity CEO 主动接洽，印证「单人也能端到端打造商业级游戏」。",
+      "url": "https://xgame.grok.me",
+      "category": "游戏",
+      "tags": [
+        "马斯克转发",
+        "免费 3D 游戏",
+        "Unity 6",
+        "单人开发"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #1f4037 0%, #99f2c8 100%)",
+      "tool": "Grok Build + Unity 6",
+      "hot": 0
+    },
+    {
+      "name": "Launch Fast - 48 小时做出月入 $30K 的亚马逊选品工具",
+      "desc": "非技术创始人 Hasaam Bhatti 用 Cursor 在 48 小时内做出面向亚马逊卖家的 AI 选品 / 供货 / 利润分析工具，第 30 天 $10K MRR、现约 $30K MRR、2,400+ 付费卖家。靠股权换 Legacy X 社区分发，是「不懂代码也能 vibe coding 出真生意」的样本。",
+      "url": "https://www.launchfastlegacyx.com",
+      "category": "电商营销",
+      "tags": [
+        "$30K/月",
+        "48 小时",
+        "亚马逊选品",
+        "Cursor 构建"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #fc4a1a 0%, #f7b733 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "ChatCut Desktop - 人和 AI Agent 同一条时间线剪视频",
+      "desc": "本地优先的 AI 视频编辑器：接上你自己的 GPT / Codex / Claude 订阅，用自然语言在可编辑时间线上指挥 Agent 粗剪、生成 B-roll、字幕与配乐，导出 XML 到 Pr / DaVinci / CapCut。Product Hunt 日榜第 4（约 287 票）。",
+      "url": "https://chatcut.io",
+      "category": "设计创意",
+      "tags": [
+        "PH 日榜 #4",
+        "287 票",
+        "本地 AI 剪辑",
+        "XML 导出"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #6a3093 0%, #a044ff 100%)",
+      "tool": "GPT / Claude / Codex",
       "hot": 0
     }
   ],
