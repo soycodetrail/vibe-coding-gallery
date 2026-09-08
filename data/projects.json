@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T18:11:52.747Z",
+  "updatedAt": "2026-09-08T21:10:45.859Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -7651,6 +7651,86 @@
       "icon": "box",
       "bg": "linear-gradient(135deg, #6a3093 0%, #a044ff 100%)",
       "tool": "GPT / Claude / Codex",
+      "hot": 0
+    },
+    {
+      "name": "Fundraisly - AI 募资 Agent 替你约投资人会议",
+      "desc": "AI 募资 Agent：从创始人的 LinkedIn / Gmail / Outlook 自动绘制人脉路径，按阶段、市场、地域匹配契合的投资人并代为安排会议。Product Hunt 2026 年 6 月日/周/月三榜第一（约 1,545 票），宣称已帮 200+ 初创公司完成 $1.1B 融资、预约 3,000+ 场投资人会议。",
+      "url": "https://fundraisly.com/",
+      "category": "电商营销",
+      "tags": [
+        "PH #1",
+        "1,545 票",
+        "$1.1B 融资",
+        "3000+ 会议"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #1cb5e0 0%, #000851 100%)",
+      "tool": "Cursor / Claude",
+      "hot": 0
+    },
+    {
+      "name": "Cluely - 隐形 AI 会议助手",
+      "desc": "隐形 AI 会议助手：实时听写会议、生成笔记与答案，且完全不出现在共享屏幕与录制里（不加入会议、无机器人）。由 Roy Lee 打造，首周 70K 注册，真实 ARR 约 $5.2M，获 a16z $15M A 轮。",
+      "url": "https://cluely.com/",
+      "category": "AI工具",
+      "tags": [
+        "$5.2M ARR",
+        "a16z $15M",
+        "70K 注册",
+        "隐形助手"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #ec008c 0%, #fc6767 100%)",
+      "tool": "Claude / GPT",
+      "hot": 0
+    },
+    {
+      "name": "Happycapy - Agent 原生电脑",
+      "desc": "Agent 原生电脑：把前沿模型、技能与自动化收进一个云端工作区，Agent 在隔离沙箱里自己浏览网页、操作文件、跑代码。Product Hunt 2026 年 2 月 11 日榜首（1.4k 票），$1M ARR 仅用 20 天，技能商店 2M+ 技能，融资 $10M+（Trickle 团队）。",
+      "url": "https://happycapy.ai/",
+      "category": "Agent",
+      "tags": [
+        "PH #1",
+        "1.4k 票",
+        "$1M ARR/20天",
+        "2M+ 技能"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #cc2b5e 0%, #6a1b9a 100%)",
+      "tool": "多模型",
+      "hot": 0
+    },
+    {
+      "name": "Lightfield - AI 原生 CRM",
+      "desc": "AI 原生 CRM：从你的通话、邮件、会议里自动构建每位客户的实时画像，Agent 据全量上下文生成销售管线、会前准备并推动成交。Product Hunt 2026 年 3 月 18 日榜眼（642 票），$300M 估值，由 Tome 创始人（25M 用户）打造，每日 100+ 家公司使用。",
+      "url": "https://lightfield.app/",
+      "category": "AI办公",
+      "tags": [
+        "PH #2",
+        "642 票",
+        "$300M 估值",
+        "AI CRM"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #1488cc 0%, #2b32b2 100%)",
+      "tool": "Claude / GPT",
+      "hot": 0
+    },
+    {
+      "name": "Keypress Express - 键盘驱动的蒸汽小火车",
+      "desc": "用 Claude Code 单人打造（973 次提交、Rust），2026 年 7 月上线 Steam：屏幕底部一条手绘小火车随你的敲击前行，卖货买引擎、滚雪球式建铁路帝国。约 10,000 次激活、500+ 玩家、96% 好评（26 评），靠内购产生收入。",
+      "url": "https://store.steampowered.com/app/4816900/Keypress_Express",
+      "category": "游戏",
+      "tags": [
+        "Steam 发行",
+        "973 commits",
+        "10K 激活",
+        "96% 好评"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #d31027 0%, #ea384d 100%)",
+      "tool": "Claude Code",
       "hot": 0
     }
   ],

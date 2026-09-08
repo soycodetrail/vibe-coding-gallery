@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-08 18:11:52
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-08 21:10:45
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（496 个条目 / 14 个分类）
+## 📑 内容导航（501 个条目 / 14 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -417,6 +417,8 @@
   标签：多 Agent / 调度 / 开发环境 / 开源
 - [Buzz - 人机混居工作区](https://github.com/block/buzz) — Jack Dorsey 旗下 Block 出品的自托管协作空间，人与 AI Agent 共用同一套 Nostr 身份与审计日志，Agent 可开仓库、发补丁、参加评审；GitHub 3.2 万 Star，面向主权级人机协作。  
   标签：人机协作 / 自托管 / Agent / 工作区
+- [Happycapy - Agent 原生电脑](https://happycapy.ai/) — Agent 原生电脑：把前沿模型、技能与自动化收进一个云端工作区，Agent 在隔离沙箱里自己浏览网页、操作文件、跑代码。Product Hunt 2026 年 2 月 11 日榜首（1.4k 票），$1M ARR 仅用 20 天，技能商店 2M+ 技能，融资 $10M+（Trickle 团队）。  
+  标签：PH #1 / 1.4k 票 / $1M ARR/20天 / 2M+ 技能
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -679,6 +681,8 @@
   标签：游戏开发 / 多 Agent / 工作流 / 开源
 - [Xgame - 一人用 Grok 端到端 vibe code 的 3D 太空射击](https://xgame.grok.me) — 独立开发者 Daniel Farina 用 Grok Build + Unity 6 全程对话式做出免费 3D 太空战斗机游戏（Mac / Win / Linux）。Demo 视频破圈被 Elon Musk 转发、Unity CEO 主动接洽，印证「单人也能端到端打造商业级游戏」。  
   标签：马斯克转发 / 免费 3D 游戏 / Unity 6 / 单人开发
+- [Keypress Express - 键盘驱动的蒸汽小火车](https://store.steampowered.com/app/4816900/Keypress_Express) — 用 Claude Code 单人打造（973 次提交、Rust），2026 年 7 月上线 Steam：屏幕底部一条手绘小火车随你的敲击前行，卖货买引擎、滚雪球式建铁路帝国。约 10,000 次激活、500+ 玩家、96% 好评（26 评），靠内购产生收入。  
+  标签：Steam 发行 / 973 commits / 10K 激活 / 96% 好评
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -779,6 +783,8 @@
   标签：Office 自动化 / Word / Excel / PPT
 - [Subscribr - 一个人的 YouTube 自动化工厂](https://subscribr.ai) — 创始人称 90% 代码由 Claude Code 写成：集 outlier 数据库、病毒脚本 Agent、缩略图与视频生成于一体，一个人跑完整 YouTube 频道。Indie Hackers 披露月营收超 $62K、年跑向 $1M，是「vibe coding 真能赚钱」的代表作。  
   标签：90% Claude Code / $62K/月 / YouTube 自动化 / AI 视频
+- [Lightfield - AI 原生 CRM](https://lightfield.app/) — AI 原生 CRM：从你的通话、邮件、会议里自动构建每位客户的实时画像，Agent 据全量上下文生成销售管线、会前准备并推动成交。Product Hunt 2026 年 3 月 18 日榜眼（642 票），$300M 估值，由 Tome 创始人（25M 用户）打造，每日 100+ 家公司使用。  
+  标签：PH #2 / 642 票 / $300M 估值 / AI CRM
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -948,6 +954,8 @@
   标签：短链 / 数据分析 / 营销
 - [Launch Fast - 48 小时做出月入 $30K 的亚马逊选品工具](https://www.launchfastlegacyx.com) — 非技术创始人 Hasaam Bhatti 用 Cursor 在 48 小时内做出面向亚马逊卖家的 AI 选品 / 供货 / 利润分析工具，第 30 天 $10K MRR、现约 $30K MRR、2,400+ 付费卖家。靠股权换 Legacy X 社区分发，是「不懂代码也能 vibe coding 出真生意」的样本。  
   标签：$30K/月 / 48 小时 / 亚马逊选品 / Cursor 构建
+- [Fundraisly - AI 募资 Agent 替你约投资人会议](https://fundraisly.com/) — AI 募资 Agent：从创始人的 LinkedIn / Gmail / Outlook 自动绘制人脉路径，按阶段、市场、地域匹配契合的投资人并代为安排会议。Product Hunt 2026 年 6 月日/周/月三榜第一（约 1,545 票），宣称已帮 200+ 初创公司完成 $1.1B 融资、预约 3,000+ 场投资人会议。  
+  标签：PH #1 / 1,545 票 / $1.1B 融资 / 3000+ 会议
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1092,6 +1100,8 @@
   标签：PH 精选 / 约 400 票 / 桌面应用 / 技能复用
 - [grok-build - xAI 开源编程 Agent](https://grok.com/build) — xAI 开源的 Coding Agent CLI + TUI，完整暴露上下文处理、工具执行、插件、Skills 与 MCP 集成；GitHub 2.6 万+ Star，Apache-2.0。  
   标签：编程 Agent / 开源 / MCP / CLI
+- [Cluely - 隐形 AI 会议助手](https://cluely.com/) — 隐形 AI 会议助手：实时听写会议、生成笔记与答案，且完全不出现在共享屏幕与录制里（不加入会议、无机器人）。由 Roy Lee 打造，首周 70K 注册，真实 ARR 约 $5.2M，获 a16z $15M A 轮。  
+  标签：$5.2M ARR / a16z $15M / 70K 注册 / 隐形助手
 
 
 ---
