@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T20:21:12.356Z",
+  "updatedAt": "2026-09-10T21:19:32.562Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -7827,6 +7827,102 @@
       "icon": "box",
       "bg": "linear-gradient(135deg, #3d0a0a 0%, #e07a5f 100%)",
       "tool": "Next.js / Supabase",
+      "hot": 0
+    },
+    {
+      "name": "Kilo Code - 开源 AI 编程智能体",
+      "desc": "跨 VS Code / JetBrains / CLI / 云 / Slack 的开放 Agent 层，500+ 模型零加价。GitHub 27k+ Star、300 万+ 用户、处理 40 万亿+ token，拿下 Product Hunt 开源产品月度冠军，2026 年 7 月被 Anaconda 收购。",
+      "url": "https://kilo.ai/",
+      "category": "AI 工具",
+      "tags": [
+        "开源",
+        "27k Star",
+        "3M 用户",
+        "PH 月度冠军"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #F09819 0%, #EDDE5D 100%)",
+      "tool": "Claude Code / 自研 Agent",
+      "hot": 0
+    },
+    {
+      "name": "DataFast - 收入优先的网站分析工具",
+      "desc": "Marc Lou 打造的「收入优先」分析工具，把流量归因到真实付费用户。公开 MRR 约 $27K/月、服务 17,000+ 用户、追踪超 10 亿次页面浏览，Product Hunt 2026 第 5 周榜首（700+ 票）。",
+      "url": "https://datafa.st/",
+      "category": "Web 应用",
+      "tags": [
+        "Marc Lou",
+        "$27K MRR",
+        "17k+ 用户",
+        "PH 周榜 #1"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #00B09B 0%, #96C93D 100%)",
+      "tool": "Next.js / 独立开发",
+      "hot": 0
+    },
+    {
+      "name": "Viktor - 住在 Slack 里的 AI 员工",
+      "desc": "Zeta Labs 出品的 AI 员工，常驻 Slack / Teams，跨 3,200+ 工具自主交付任务。公开宣称服务 50,000+ 团队、G2 评分 4.9，Product Hunt 上线即登上当日前列（126 票）。",
+      "url": "https://viktor.com/",
+      "category": "Agent",
+      "tags": [
+        "50k+ 团队",
+        "G2 4.9",
+        "AI 员工",
+        "Slack/Teams"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #5E60CE 0%, #5390D9 100%)",
+      "tool": "Zeta Labs / AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Tiny Skies - Vibe Jam 2026 最精致奖小游戏",
+      "desc": "用 Cursor + Suno + ElevenLabs + Tripo3D 在 Vibe Jam 2026 打造的治愈系探索小游戏，驾驶飞机 / 飞毯 / 小船点亮五座永恒火盆。获 Vibe Jam 2026「最精致奖」，游玩量 17k+。",
+      "url": "https://tinyskies.vercel.app",
+      "category": "游戏",
+      "tags": [
+        "Vibe Jam 2026",
+        "最精致奖",
+        "治愈系",
+        "Three.js"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #FFB75E 0%, #ED8F03 100%)",
+      "tool": "Cursor + Suno + Tripo3D",
+      "hot": 0
+    },
+    {
+      "name": "Topview Motion Studio - AI 产品发布视频工坊",
+      "desc": "Topview AI 推出的引导式 AI 视频工作流，把产品简介变成发布会级动态视频，约 $3、10 分钟即可生成，替代昂贵的 After Effects 生产。Product Hunt 上线即登榜（67 票）。",
+      "url": "https://www.topview.ai/motion-studio",
+      "category": "设计创意",
+      "tags": [
+        "AI 视频",
+        "产品发布",
+        "PH 登榜",
+        "$3/条"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #16222A 0%, #3A6073 100%)",
+      "tool": "Topview AI / 视频生成",
+      "hot": 0
+    },
+    {
+      "name": "Dial - 10 秒给 AI 智能体配真实手机号",
+      "desc": "Genway（a16z Speedrun 领投 600 万美元种子轮）出品，一次 API 调用约 10 秒为 AI Agent 配真实号码，支持 200+ 国家语音 / 短信 / iMessage，还能自动读取验证码。Product Hunt 当日第 5（223 票），已获 Vercel官方集成。",
+      "url": "https://getdial.ai",
+      "category": "AI办公",
+      "tags": [
+        "a16z 投资",
+        "PH #5/223票",
+        "AI 手机号",
+        "Vercel 集成"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #0052D4 0%, #65C7F7 100%)",
+      "tool": "Genway / REST·MCP·CLI",
       "hot": 0
     }
   ],

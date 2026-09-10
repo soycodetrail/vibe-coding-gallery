@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-10 20:21:12
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-10 21:19:32
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（507 个条目 / 15 个分类）
+## 📑 内容导航（513 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -86,6 +86,8 @@
   标签：Workers / SDK / App Builder
 - [God's Eye View - 浏览器里的真实卫星监控地球](https://github.com/bilawalsidhu/gods-eye-view) — 前 Google 地图产品经理用 Gemini 3.1 + Claude 4.6 搓出的浏览器三维地球，叠加真实卫星 / 航班 / 船舶实时数据，被称「Google Earth 与 Palantir 的孩子」；GitHub 1.4 万+ Star、原帖 190 万次浏览、a16z 盛赞。  
   标签：3D 地球 / 卫星追踪 / OSINT / 开源
+- [DataFast - 收入优先的网站分析工具](https://datafa.st/) — Marc Lou 打造的「收入优先」分析工具，把流量归因到真实付费用户。公开 MRR 约 $27K/月、服务 17,000+ 用户、追踪超 10 亿次页面浏览，Product Hunt 2026 第 5 周榜首（700+ 票）。  
+  标签：Marc Lou / $27K MRR / 17k+ 用户 / PH 周榜 #1
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -283,6 +285,8 @@
   标签：可视化 / Agent / RAG / 低代码
 - [Understand-Anything - 代码知识图谱](https://github.com/Egonex-AI/Understand-Anything) — 把任意代码库变成可交互的知识图谱，支持搜索、探索并向它提问，兼容 Claude Code、Codex、Cursor、Gemini CLI 等编码智能体；GitHub 8.2 万 Star 的现象级开发者工具。  
   标签：代码图谱 / 知识库 / 开发者 / AI 辅助
+- [Kilo Code - 开源 AI 编程智能体](https://kilo.ai/) — 跨 VS Code / JetBrains / CLI / 云 / Slack 的开放 Agent 层，500+ 模型零加价。GitHub 27k+ Star、300 万+ 用户、处理 40 万亿+ token，拿下 Product Hunt 开源产品月度冠军，2026 年 7 月被 Anaconda 收购。  
+  标签：开源 / 27k Star / 3M 用户 / PH 月度冠军
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -422,6 +426,8 @@
   标签：PH #1 / 1.4k 票 / $1M ARR/20天 / 2M+ 技能
 - [Skydive - 一句话雇来的云端 Agent 同事](https://www.skydive.com/) — 描述你想要的成果，Skydive 几分钟内在你的工具栈里造出一个会干活的云端 Agent：它有独立电脑，能像人一样点网页、登账号、建文档，跨 Slack / 邮件 / iMessage / 终端协作，并随使用自我改进。Product Hunt 2026 年 8 月 27 日榜首（410 票）。  
   标签：PH #1 / 410 票 / 云端 Agent / 跨工具协作
+- [Viktor - 住在 Slack 里的 AI 员工](https://viktor.com/) — Zeta Labs 出品的 AI 员工，常驻 Slack / Teams，跨 3,200+ 工具自主交付任务。公开宣称服务 50,000+ 团队、G2 评分 4.9，Product Hunt 上线即登上当日前列（126 票）。  
+  标签：50k+ 团队 / G2 4.9 / AI 员工 / Slack/Teams
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -688,6 +694,8 @@
   标签：马斯克转发 / 免费 3D 游戏 / Unity 6 / 单人开发
 - [Keypress Express - 键盘驱动的蒸汽小火车](https://store.steampowered.com/app/4816900/Keypress_Express) — 用 Claude Code 单人打造（973 次提交、Rust），2026 年 7 月上线 Steam：屏幕底部一条手绘小火车随你的敲击前行，卖货买引擎、滚雪球式建铁路帝国。约 10,000 次激活、500+ 玩家、96% 好评（26 评），靠内购产生收入。  
   标签：Steam 发行 / 973 commits / 10K 激活 / 96% 好评
+- [Tiny Skies - Vibe Jam 2026 最精致奖小游戏](https://tinyskies.vercel.app) — 用 Cursor + Suno + ElevenLabs + Tripo3D 在 Vibe Jam 2026 打造的治愈系探索小游戏，驾驶飞机 / 飞毯 / 小船点亮五座永恒火盆。获 Vibe Jam 2026「最精致奖」，游玩量 17k+。  
+  标签：Vibe Jam 2026 / 最精致奖 / 治愈系 / Three.js
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -792,6 +800,8 @@
   标签：PH #2 / 642 票 / $300M 估值 / AI CRM
 - [Zinley - 拥有自己电话与邮箱的私人 AI 代表](https://zinley.com/) — 给你配一个“第二自我”：它有自己的电话号码、邮箱和电脑，在你的规则下接打电话、处理邮件、预订事项，并事后用你的口吻汇报。Product Hunt 2026 年 8 月 2 日榜首（392 票），集成 Gmail / Slack / 日历 / Notion / Linear / GitHub 等，免费起步。  
   标签：PH #1 / 392 票 / 自有电话/邮箱 / 私人助理
+- [Dial - 10 秒给 AI 智能体配真实手机号](https://getdial.ai) — Genway（a16z Speedrun 领投 600 万美元种子轮）出品，一次 API 调用约 10 秒为 AI Agent 配真实号码，支持 200+ 国家语音 / 短信 / iMessage，还能自动读取验证码。Product Hunt 当日第 5（223 票），已获 Vercel官方集成。  
+  标签：a16z 投资 / PH #5/223票 / AI 手机号 / Vercel 集成
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -914,6 +924,8 @@
   标签：PH 日榜 #4 / 287 票 / 本地 AI 剪辑 / XML 导出
 - [Infinite Slop - AI 生成的无限直播频道](https://infiniteslop.ai/) — Pieter Levels（@levelsio）与 fal.ai 联手打造的 AI 生成式直播频道：数十条频道 7×24 小时不间断播放由模型实时生成的荒诞短视频（僵尸、柴犬、哥特少女……）。2026-08-30 上线首日吸引约 37,000 名观众，把“AI 内容工厂”做成了一场公共实验。  
   标签：PH 热议 / 37K 观众/首日 / AI 直播 / @levelsio
+- [Topview Motion Studio - AI 产品发布视频工坊](https://www.topview.ai/motion-studio) — Topview AI 推出的引导式 AI 视频工作流，把产品简介变成发布会级动态视频，约 $3、10 分钟即可生成，替代昂贵的 After Effects 生产。Product Hunt 上线即登榜（67 票）。  
+  标签：AI 视频 / 产品发布 / PH 登榜 / $3/条
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
