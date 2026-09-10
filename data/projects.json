@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T13:12:54.562Z",
+  "updatedAt": "2026-09-10T08:13:18.454Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -7732,6 +7732,102 @@
       "bg": "linear-gradient(135deg, #d31027 0%, #ea384d 100%)",
       "tool": "Claude Code",
       "hot": 0
+    },
+    {
+      "name": "Infinite Slop - AI 生成的无限直播频道",
+      "desc": "Pieter Levels（@levelsio）与 fal.ai 联手打造的 AI 生成式直播频道：数十条频道 7×24 小时不间断播放由模型实时生成的荒诞短视频（僵尸、柴犬、哥特少女……）。2026-08-30 上线首日吸引约 37,000 名观众，把“AI 内容工厂”做成了一场公共实验。",
+      "url": "https://infiniteslop.ai/",
+      "category": "设计创意",
+      "tags": [
+        "PH 热议",
+        "37K 观众/首日",
+        "AI 直播",
+        "@levelsio"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #2c0735 0%, #ff6a00 100%)",
+      "tool": "fal.ai / H3 Max",
+      "hot": 0
+    },
+    {
+      "name": "Zinley - 拥有自己电话与邮箱的私人 AI 代表",
+      "desc": "给你配一个“第二自我”：它有自己的电话号码、邮箱和电脑，在你的规则下接打电话、处理邮件、预订事项，并事后用你的口吻汇报。Product Hunt 2026 年 8 月 2 日榜首（392 票），集成 Gmail / Slack / 日历 / Notion / Linear / GitHub 等，免费起步。",
+      "url": "https://zinley.com/",
+      "category": "AI办公",
+      "tags": [
+        "PH #1",
+        "392 票",
+        "自有电话/邮箱",
+        "私人助理"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #0f3460 0%, #00d2ff 100%)",
+      "tool": "AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Skydive - 一句话雇来的云端 Agent 同事",
+      "desc": "描述你想要的成果，Skydive 几分钟内在你的工具栈里造出一个会干活的云端 Agent：它有独立电脑，能像人一样点网页、登账号、建文档，跨 Slack / 邮件 / iMessage / 终端协作，并随使用自我改进。Product Hunt 2026 年 8 月 27 日榜首（410 票）。",
+      "url": "https://www.skydive.com/",
+      "category": "Agent",
+      "tags": [
+        "PH #1",
+        "410 票",
+        "云端 Agent",
+        "跨工具协作"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #1b1b2f 0%, #e94560 100%)",
+      "tool": "No-code / Cloud Agents",
+      "hot": 0
+    },
+    {
+      "name": "Construct Computer - 自带云电脑的 AI 员工",
+      "desc": "每个“Construct”都是常驻云桌面的自主 Agent：有独立虚拟机、文件系统、浏览器和专属邮箱，能排程多小时级长任务，把成功流程固化为可复用工作流，并保留可审查的记忆。Product Hunt 2026 年 8 月 23 日榜首（337 票），基于 Cloudflare Workers 构建。",
+      "url": "https://construct.computer/",
+      "category": "效率工具",
+      "tags": [
+        "PH #1",
+        "337 票",
+        "云桌面 Agent",
+        "工作流自动化"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #003d5b 0%, #00b4d8 100%)",
+      "tool": "Cloudflare / React",
+      "hot": 0
+    },
+    {
+      "name": "Enter Pro - 一句话构建并扩展真实业务的 AI 原生平台",
+      "desc": "从想法到可运营产品的 AI 原生平台：在同一工作区完成规划、构建、预览、发布与扩展，数据库、身份认证、托管、支付、分析、本地化全内置，还能用 Agent Builder 把重复工作封装成可发布 Agent。Product Hunt 2026 年 8 月 27 日榜眼（384 票），由 Converge AI 出品。",
+      "url": "https://enter.converge.ai/",
+      "category": "Web应用",
+      "tags": [
+        "PH #2",
+        "384 票",
+        "AI 原生",
+        "Agent Builder"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #0d1b2a 0%, #1b263b 100%)",
+      "tool": "Converge AI",
+      "hot": 0
+    },
+    {
+      "name": "TrendFeed - 把新闻变成短视频的 AI 印钞机",
+      "desc": "非技术创始人 Sebastian Volkis 用 Claude 与 GPT-4 打造：从可信来源抓取热点新闻、评估爆款潜力，再用 AI 一键生成 TikTok / Instagram / YouTube Shorts。首月即达约 $10K MRR（约 7.2 万/月），22 位种子客户每人 249 英镑，证明“零工程背景也能做出赚钱产品”。",
+      "url": "https://www.trendfeed.app/",
+      "category": "电商营销",
+      "tags": [
+        "$10K MRR/首月",
+        "Claude + GPT-4",
+        "短视频生成",
+        "零工程背景"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #3d0a0a 0%, #e07a5f 100%)",
+      "tool": "Next.js / Supabase",
+      "hot": 0
     }
   ],
   "categories": [
@@ -7803,6 +7899,11 @@
     {
       "key": "AI工具",
       "label": "AI工具",
+      "icon": "📁"
+    },
+    {
+      "key": "Web应用",
+      "label": "Web应用",
       "icon": "📁"
     }
   ]

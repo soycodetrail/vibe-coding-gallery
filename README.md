@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-09 13:12:54
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-10 08:13:18
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（501 个条目 / 14 个分类）
+## 📑 内容导航（507 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -28,6 +28,7 @@
 - [📁 医疗健康](#cat-医疗健康)
 - [📁 社交社区](#cat-社交社区)
 - [📁 AI工具](#cat-ai工具)
+- [📁 Web应用](#cat-web应用)
 
 ---
 
@@ -419,6 +420,8 @@
   标签：人机协作 / 自托管 / Agent / 工作区
 - [Happycapy - Agent 原生电脑](https://happycapy.ai/) — Agent 原生电脑：把前沿模型、技能与自动化收进一个云端工作区，Agent 在隔离沙箱里自己浏览网页、操作文件、跑代码。Product Hunt 2026 年 2 月 11 日榜首（1.4k 票），$1M ARR 仅用 20 天，技能商店 2M+ 技能，融资 $10M+（Trickle 团队）。  
   标签：PH #1 / 1.4k 票 / $1M ARR/20天 / 2M+ 技能
+- [Skydive - 一句话雇来的云端 Agent 同事](https://www.skydive.com/) — 描述你想要的成果，Skydive 几分钟内在你的工具栈里造出一个会干活的云端 Agent：它有独立电脑，能像人一样点网页、登账号、建文档，跨 Slack / 邮件 / iMessage / 终端协作，并随使用自我改进。Product Hunt 2026 年 8 月 27 日榜首（410 票）。  
+  标签：PH #1 / 410 票 / 云端 Agent / 跨工具协作
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -562,6 +565,8 @@
   标签：自动化 / 工作流 / AI 集成 / 自托管
 - [Prayer Lock - 先祷告，再解锁手机](https://prayerlock.com) — 基督徒习惯养成 App：打开被锁 App 前先完成一段 AI 生成的祈祷。创始人 Mau Baron 用 Cursor + ChatGPT + Codex 仅 3 天写完，半年做到月营收 $21K、累计 5.8 万下载、App Store 4.9 星，靠 TikTok Spark Ads 把获客成本压到 $3/试用。  
   标签：3 天写完 / $21K/月 / 5.8万下载 / 4.9 星
+- [Construct Computer - 自带云电脑的 AI 员工](https://construct.computer/) — 每个“Construct”都是常驻云桌面的自主 Agent：有独立虚拟机、文件系统、浏览器和专属邮箱，能排程多小时级长任务，把成功流程固化为可复用工作流，并保留可审查的记忆。Product Hunt 2026 年 8 月 23 日榜首（337 票），基于 Cloudflare Workers 构建。  
+  标签：PH #1 / 337 票 / 云桌面 Agent / 工作流自动化
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -785,6 +790,8 @@
   标签：90% Claude Code / $62K/月 / YouTube 自动化 / AI 视频
 - [Lightfield - AI 原生 CRM](https://lightfield.app/) — AI 原生 CRM：从你的通话、邮件、会议里自动构建每位客户的实时画像，Agent 据全量上下文生成销售管线、会前准备并推动成交。Product Hunt 2026 年 3 月 18 日榜眼（642 票），$300M 估值，由 Tome 创始人（25M 用户）打造，每日 100+ 家公司使用。  
   标签：PH #2 / 642 票 / $300M 估值 / AI CRM
+- [Zinley - 拥有自己电话与邮箱的私人 AI 代表](https://zinley.com/) — 给你配一个“第二自我”：它有自己的电话号码、邮箱和电脑，在你的规则下接打电话、处理邮件、预订事项，并事后用你的口吻汇报。Product Hunt 2026 年 8 月 2 日榜首（392 票），集成 Gmail / Slack / 日历 / Notion / Linear / GitHub 等，免费起步。  
+  标签：PH #1 / 392 票 / 自有电话/邮箱 / 私人助理
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -905,6 +912,8 @@
   标签：幻灯片 / 设计 / 前端 / AI 生成
 - [ChatCut Desktop - 人和 AI Agent 同一条时间线剪视频](https://chatcut.io) — 本地优先的 AI 视频编辑器：接上你自己的 GPT / Codex / Claude 订阅，用自然语言在可编辑时间线上指挥 Agent 粗剪、生成 B-roll、字幕与配乐，导出 XML 到 Pr / DaVinci / CapCut。Product Hunt 日榜第 4（约 287 票）。  
   标签：PH 日榜 #4 / 287 票 / 本地 AI 剪辑 / XML 导出
+- [Infinite Slop - AI 生成的无限直播频道](https://infiniteslop.ai/) — Pieter Levels（@levelsio）与 fal.ai 联手打造的 AI 生成式直播频道：数十条频道 7×24 小时不间断播放由模型实时生成的荒诞短视频（僵尸、柴犬、哥特少女……）。2026-08-30 上线首日吸引约 37,000 名观众，把“AI 内容工厂”做成了一场公共实验。  
+  标签：PH 热议 / 37K 观众/首日 / AI 直播 / @levelsio
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -956,6 +965,8 @@
   标签：$30K/月 / 48 小时 / 亚马逊选品 / Cursor 构建
 - [Fundraisly - AI 募资 Agent 替你约投资人会议](https://fundraisly.com/) — AI 募资 Agent：从创始人的 LinkedIn / Gmail / Outlook 自动绘制人脉路径，按阶段、市场、地域匹配契合的投资人并代为安排会议。Product Hunt 2026 年 6 月日/周/月三榜第一（约 1,545 票），宣称已帮 200+ 初创公司完成 $1.1B 融资、预约 3,000+ 场投资人会议。  
   标签：PH #1 / 1,545 票 / $1.1B 融资 / 3000+ 会议
+- [TrendFeed - 把新闻变成短视频的 AI 印钞机](https://www.trendfeed.app/) — 非技术创始人 Sebastian Volkis 用 Claude 与 GPT-4 打造：从可信来源抓取热点新闻、评估爆款潜力，再用 AI 一键生成 TikTok / Instagram / YouTube Shorts。首月即达约 $10K MRR（约 7.2 万/月），22 位种子客户每人 249 英镑，证明“零工程背景也能做出赚钱产品”。  
+  标签：$10K MRR/首月 / Claude + GPT-4 / 短视频生成 / 零工程背景
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1102,6 +1113,13 @@
   标签：编程 Agent / 开源 / MCP / CLI
 - [Cluely - 隐形 AI 会议助手](https://cluely.com/) — 隐形 AI 会议助手：实时听写会议、生成笔记与答案，且完全不出现在共享屏幕与录制里（不加入会议、无机器人）。由 Roy Lee 打造，首周 70K 注册，真实 ARR 约 $5.2M，获 a16z $15M A 轮。  
   标签：$5.2M ARR / a16z $15M / 70K 注册 / 隐形助手
+
+<a id="cat-web应用" name="cat-web应用"></a>
+
+### 📁 Web应用
+
+- [Enter Pro - 一句话构建并扩展真实业务的 AI 原生平台](https://enter.converge.ai/) — 从想法到可运营产品的 AI 原生平台：在同一工作区完成规划、构建、预览、发布与扩展，数据库、身份认证、托管、支付、分析、本地化全内置，还能用 Agent Builder 把重复工作封装成可发布 Agent。Product Hunt 2026 年 8 月 27 日榜眼（384 票），由 Converge AI 出品。  
+  标签：PH #2 / 384 票 / AI 原生 / Agent Builder
 
 
 ---
