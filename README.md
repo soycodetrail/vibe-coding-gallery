@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-11 20:49:36
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-11 21:23:12
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（513 个条目 / 15 个分类）
+## 📑 内容导航（518 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -573,6 +573,8 @@
   标签：3 天写完 / $21K/月 / 5.8万下载 / 4.9 星
 - [Construct Computer - 自带云电脑的 AI 员工](https://construct.computer/) — 每个“Construct”都是常驻云桌面的自主 Agent：有独立虚拟机、文件系统、浏览器和专属邮箱，能排程多小时级长任务，把成功流程固化为可复用工作流，并保留可审查的记忆。Product Hunt 2026 年 8 月 23 日榜首（337 票），基于 Cloudflare Workers 构建。  
   标签：PH #1 / 337 票 / 云桌面 Agent / 工作流自动化
+- [ToneAdapt - Cursor 做出的吉他音色匹配 App](https://toneadapt.com/) — 21 岁大学生 Kyan 用 Cursor 一周做出的吉他音色匹配 App，输入歌曲与你的设备即还原对应效果器设置。5 个月破 10 万用户、月营收约 $25K（网页 $11.5K + 移动 $14K），靠日更 3 条短视频冷启动。  
+  标签：$25K/月 / 10 万+ 用户 / 吉他音色 / 短视频冷启动
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -851,6 +853,8 @@
   标签：从零训练 / LLM 教学 / 单卡可跑 / 开源
 - [Scientific Agent Skills - 把 AI 变成能干活的科研搭子](https://k-dense.ai) — 给任意支持 Agent Skills 标准的 AI 装上 165 套验证过的科研技能：癌症基因组、分子动力学、药物靶点结合、RNA velocity、时序预测，外挂 78+ 科学数据库；官方称全球 19 万+ 科研人员在用，GitHub 4.1 万 star，兼容 Cursor、Claude Code、Codex。  
   标签：科研自动化 / 生物医药 / 数据库 / 开源
+- [Klar - Lovable 打造的 AI 学习助手](https://tentaklar.com/) — 三名瑞典学生退学、用 Lovable 打造的 AI 个性化学习助手，按你的知识缺口主动补课。首月即 €130K ARR、据报道已达 $500K ARR、服务 6,000+ 学生，获 Lovable CEO Anton Osika 公开背书。  
+  标签：$500K ARR / 6,000+ 学生 / AI 学习 / Lovable CEO 背书
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -926,6 +930,8 @@
   标签：PH 热议 / 37K 观众/首日 / AI 直播 / @levelsio
 - [Topview Motion Studio - AI 产品发布视频工坊](https://www.topview.ai/motion-studio) — Topview AI 推出的引导式 AI 视频工作流，把产品简介变成发布会级动态视频，约 $3、10 分钟即可生成，替代昂贵的 After Effects 生产。Product Hunt 上线即登榜（67 票）。  
   标签：AI 视频 / 产品发布 / PH 登榜 / $3/条
+- [Aura - Meng To 的 AI 落地页生成器](https://aura.build/) — Design+Code 创始人 Meng To 用 AI 全量 vibe coding 的设计导向落地页生成器，从提示词 / 截图生成干净 HTML+Tailwind，避开「AI 千篇一律」审美。公开披露 MRR 突破 $50K、早期一月即 2.1 万+ 用户，设计圈口碑爆棚。  
+  标签：$50K+ MRR / Design+Code / 落地页生成 / 全量 vibe coded
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1071,6 +1077,10 @@
   标签：React / PoseNet / 实时检测
 - [OpenMed - 病历不出手机的临床 AI](https://openmed.life/) — 一个人在午休时间起的项目，一年做成最大的开源医疗 AI 合集：2,000+ Apache-2.0 模型识别病历实体并抹掉 55+ 类隐私信息，全程离线，iPhone、浏览器、纯 CPU 都能跑；累计模型下载 3.4 亿次、月下载 3,000 万、PyPI 装机 940 万，12 项生物医学 NER 基准里 10 项拿到 SOTA。  
   标签：端侧推理 / HIPAA 脱敏 / 临床 NER / 开源
+- [Stoppr - Cursor 两周做出的戒糖习惯 App](https://www.stoppr.app/) — 法国前量化交易员 David Attias 用 Cursor 两周 vibe coding 出的无代码戒糖习惯 App，neuroscience 背书、AI 教练 + 紧急按钮 + 社群。公开披露 5 个月做到月营收约 $12K、累计 6 万下载、900 付费订阅、净利率约 35%，登顶 App Store 健康榜。  
+  标签：$12K/月 / 6 万下载 / 戒糖习惯 / App Store 健康榜
+- [Pep AI - GLP-1 肽类追踪 App](https://pepaiapp.com/) — 22 岁非科班创始人 Cedric Roberge 用 Replit + Claude 打造的 GLP-1 / 肽类追踪 App，记录剂量、库存、注射部位、睡眠与餐食。首月 $10K、数月冲到约 $60K MRR、App Store 该品类最火、累计 10 万+ 用户，靠约 100 人达人矩阵冷启动。  
+  标签：$60K/月 MRR / 10 万+ 用户 / GLP-1 追踪 / 22 岁 solo
 
 <a id="cat-社交社区" name="cat-社交社区"></a>
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T20:49:36.073Z",
+  "updatedAt": "2026-09-11T21:23:12.170Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -7923,6 +7923,86 @@
       "icon": "box",
       "bg": "linear-gradient(135deg, #0052D4 0%, #65C7F7 100%)",
       "tool": "Genway / REST·MCP·CLI",
+      "hot": 0
+    },
+    {
+      "name": "Stoppr - Cursor 两周做出的戒糖习惯 App",
+      "desc": "法国前量化交易员 David Attias 用 Cursor 两周 vibe coding 出的无代码戒糖习惯 App，neuroscience 背书、AI 教练 + 紧急按钮 + 社群。公开披露 5 个月做到月营收约 $12K、累计 6 万下载、900 付费订阅、净利率约 35%，登顶 App Store 健康榜。",
+      "url": "https://www.stoppr.app/",
+      "category": "医疗健康",
+      "tags": [
+        "$12K/月",
+        "6 万下载",
+        "戒糖习惯",
+        "App Store 健康榜"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #11998E 0%, #38EF7D 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Pep AI - GLP-1 肽类追踪 App",
+      "desc": "22 岁非科班创始人 Cedric Roberge 用 Replit + Claude 打造的 GLP-1 / 肽类追踪 App，记录剂量、库存、注射部位、睡眠与餐食。首月 $10K、数月冲到约 $60K MRR、App Store 该品类最火、累计 10 万+ 用户，靠约 100 人达人矩阵冷启动。",
+      "url": "https://pepaiapp.com/",
+      "category": "医疗健康",
+      "tags": [
+        "$60K/月 MRR",
+        "10 万+ 用户",
+        "GLP-1 追踪",
+        "22 岁 solo"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #7028E4 0%, #E5B2CA 100%)",
+      "tool": "Replit + Claude",
+      "hot": 0
+    },
+    {
+      "name": "Klar - Lovable 打造的 AI 学习助手",
+      "desc": "三名瑞典学生退学、用 Lovable 打造的 AI 个性化学习助手，按你的知识缺口主动补课。首月即 €130K ARR、据报道已达 $500K ARR、服务 6,000+ 学生，获 Lovable CEO Anton Osika 公开背书。",
+      "url": "https://tentaklar.com/",
+      "category": "教育学习",
+      "tags": [
+        "$500K ARR",
+        "6,000+ 学生",
+        "AI 学习",
+        "Lovable CEO 背书"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #4568DC 0%, #B06AB3 100%)",
+      "tool": "Lovable",
+      "hot": 0
+    },
+    {
+      "name": "Aura - Meng To 的 AI 落地页生成器",
+      "desc": "Design+Code 创始人 Meng To 用 AI 全量 vibe coding 的设计导向落地页生成器，从提示词 / 截图生成干净 HTML+Tailwind，避开「AI 千篇一律」审美。公开披露 MRR 突破 $50K、早期一月即 2.1 万+ 用户，设计圈口碑爆棚。",
+      "url": "https://aura.build/",
+      "category": "设计创意",
+      "tags": [
+        "$50K+ MRR",
+        "Design+Code",
+        "落地页生成",
+        "全量 vibe coded"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #FF512F 0%, #DD2476 100%)",
+      "tool": "Meng To / AI 设计",
+      "hot": 0
+    },
+    {
+      "name": "ToneAdapt - Cursor 做出的吉他音色匹配 App",
+      "desc": "21 岁大学生 Kyan 用 Cursor 一周做出的吉他音色匹配 App，输入歌曲与你的设备即还原对应效果器设置。5 个月破 10 万用户、月营收约 $25K（网页 $11.5K + 移动 $14K），靠日更 3 条短视频冷启动。",
+      "url": "https://toneadapt.com/",
+      "category": "效率工具",
+      "tags": [
+        "$25K/月",
+        "10 万+ 用户",
+        "吉他音色",
+        "短视频冷启动"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #F12711 0%, #F5AF19 100%)",
+      "tool": "Cursor",
       "hot": 0
     }
   ],
