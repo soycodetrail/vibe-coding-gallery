@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-12 21:09:42
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-12 21:29:39
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（518 个条目 / 15 个分类）
+## 📑 内容导航（527 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -698,6 +698,24 @@
   标签：Steam 发行 / 973 commits / 10K 激活 / 96% 好评
 - [Tiny Skies - Vibe Jam 2026 最精致奖小游戏](https://tinyskies.vercel.app) — 用 Cursor + Suno + ElevenLabs + Tripo3D 在 Vibe Jam 2026 打造的治愈系探索小游戏，驾驶飞机 / 飞毯 / 小船点亮五座永恒火盆。获 Vibe Jam 2026「最精致奖」，游玩量 17k+。  
   标签：Vibe Jam 2026 / 最精致奖 / 治愈系 / Three.js
+- [Null Range - Vibe Jam 2026 最佳美术奖](https://nullrange.com) — 用 Cursor 在 Vibe Jam 2026 打造的太空第一人称多人狗斗游戏，霓虹星云战场 + 可破坏舰船，获 Cursor 官方「最佳美术指导」特别奖。作者 @taylor_sntx 一人完成建模与联机。  
+  标签：Vibe Jam 2026 / 最佳美术奖 / 太空狗斗 / 多人联机
+- [Eyrie - Vibe Jam 2026 最具氛围奖](https://playeyrie.com) — 用 Claude Code 在 Vibe Jam 2026 打造的投币式合作肉鸽：捕捉精灵、喂养神龛、对抗方尖碑，随波次渐进的奇幻氛围拉满，获「最具氛围」特别奖。作者 @slowchaz。  
+  标签：Vibe Jam 2026 / 最具氛围奖 / 合作肉鸽 / Claude Code
+- [Kanso - Vibe Jam 2026 最禅意奖](https://www.kansogame.com) — 用 Codex + GPT 5.5 + Opus 4.7 + Suno 在 Vibe Jam 2026 打造的禅意养盆栽游戏：在唯美场景中培育会呼吸的数字盆景，追求内心平静，获 heyglif「最禅意」特别奖。作者 @mrsukeruton。  
+  标签：Vibe Jam 2026 / 最禅意奖 / 数字盆栽 / 治愈系
+- [Swingers - Vibe Jam 2026 最脱缰奖](https://swing.offmylawn.com) — 用 Claude Code（纯 CLI）在 Vibe Jam 2026 打造的友尽小游戏：和朋友一起荡秋千，看谁对关键基础设施造成更多 $$$ 损失，获「最脱缰（MOST UNHINGED）」特别奖。作者 @_offmylawn。  
+  标签：Vibe Jam 2026 / 最脱缰奖 / 多人搞怪 / 物理喜剧
+- [KÖTTBULLAR METAL - Vibe Jam 2026 最搞笑奖](https://kottbullar-metal.vercel.app) — 用 Claude Code 在 Vibe Jam 2026 打造的金属乐节奏游戏：宜家诡异产品名天然就是死亡金属歌词，撑过 15 分钟疯狂 mosh pit 才算过关，获「最搞笑游戏」特别奖。作者与 9 岁儿子共创。  
+  标签：Vibe Jam 2026 / 最搞笑奖 / 节奏金属 / 父子共创
+- [Undersphere - Vibe Jam 2026 独特概念奖](https://www.playundersphere.com) — 用 Cursor 在 Vibe Jam 2026 打造的多人 FPS：战场是一颗球形星球的「内壁」，重力随球面不断变化，跑、打、闪转腾挪全在球内完成，获「独特概念」特别奖。作者 @_NoahWhiteson。  
+  标签：Vibe Jam 2026 / 独特概念奖 / 球面 FPS / 重力反转
+- [BeetleJump - Vibe Jam 2026 摔键盘奖](https://beetlejump.com) — 用 Claude Code 在 Vibe Jam 2026 打造的高难度攀爬游戏：踩着漂浮平台一路向上，登顶即加冕虫王，难度曲线让人又爱又恨，获「摔键盘（RAGE-QUIT）」特别奖。作者 @assentorp。  
+  标签：Vibe Jam 2026 / 摔键盘奖 / 硬核攀爬 / 平台跳跃
+- [Almost Surgery - Vibe Jam 2026 最阴间奖](https://almostsurgery.ragim.dev) — 用 Codex 在 Vibe Jam 2026 打造的黑色幽默模拟游戏：锯、切、电疗，只为赚钱，画风诡异到让人后背发凉，获「最阴间（MOST CURSED）」特别奖。作者 @RagimMusakaev。  
+  标签：Vibe Jam 2026 / 最阴间奖 / 黑色幽默 / 模拟经营
+- [FULL SEND - Vibe Jam 2026 最多传送奖](https://fullsend.game) — 用 Cursor 在 Vibe Jam 2026 打造的 2D 赛车游戏：2 秒加载、一上手就毁掉你整个下午，靠疯狂传送（portal transfers）刷出离谱成绩，获「最多传送」特别奖。作者 @dvassallo。  
+  标签：Vibe Jam 2026 / 最多传送奖 / 2D 赛车 / 2 秒加载
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
