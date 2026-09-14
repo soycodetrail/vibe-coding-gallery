@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-14 15:31:26
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-14 21:32:55
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（533 个条目 / 15 个分类）
+## 📑 内容导航（538 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -428,6 +428,10 @@
   标签：PH #1 / 410 票 / 云端 Agent / 跨工具协作
 - [Viktor - 住在 Slack 里的 AI 员工](https://viktor.com/) — Zeta Labs 出品的 AI 员工，常驻 Slack / Teams，跨 3,200+ 工具自主交付任务。公开宣称服务 50,000+ 团队、G2 评分 4.9，Product Hunt 上线即登上当日前列（126 票）。  
   标签：50k+ 团队 / G2 4.9 / AI 员工 / Slack/Teams
+- [Ponytail - 让 AI Agent 像最懒的高级工程师](https://github.com/DietrichGebert/ponytail) — 爆火的开源 agent skill：教 AI 编程智能体像「房间里最懒的高级工程师」一样思考，追求最简方案、最少代码。发布即冲上 GitHub Trending，狂揽 13.8 万 Star，成为 agentic 时代「文档即信任」思潮的代表作。  
+  标签：138K Star / Agent Skill / GitHub Trending / 开源
+- [Rover (Retriever AI) - 把任意网站变成 AI 智能体](https://rtrvr.ai) — 浏览器智能体产品：一句指令即可跨全网与你已登录的站点自动完成抓取、填表、发帖等任务。已自动化 700 万+ 任务、服务 3.5 万+ 团队，在 Web Bench 真实网页任务基准上超越 OpenAI 与 Anthropic 登顶 #1，是 agent 落地工作的代表。  
+  标签：7M+ 任务 / 35K+ 团队 / Web Bench #1 / 浏览器智能体
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -958,6 +962,8 @@
   标签：AI 视频 / 产品发布 / PH 登榜 / $3/条
 - [Aura - Meng To 的 AI 落地页生成器](https://aura.build/) — Design+Code 创始人 Meng To 用 AI 全量 vibe coding 的设计导向落地页生成器，从提示词 / 截图生成干净 HTML+Tailwind，避开「AI 千篇一律」审美。公开披露 MRR 突破 $50K、早期一月即 2.1 万+ 用户，设计圈口碑爆棚。  
   标签：$50K+ MRR / Design+Code / 落地页生成 / 全量 vibe coded
+- [AIDesigner - 给 Coding Agent 设计品味的 AI](https://www.aidesigner.ai) — 独立开发者用 Claude Code / Codex / Cursor 打造的 AI 设计平台，把「丑陋的 vibe-coded UI」变成精致可编辑的设计稿，并推出 MCP 让编码智能体直接调用。2026 年从不足 $1K 涨到 $9.5K MRR，是全网「修 UI」赛道的标杆案例。  
+  标签：AI UI 设计 / $9.5K MRR / MCP / 独立开发
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1163,6 +1169,10 @@
   标签：$5.2M ARR / a16z $15M / 70K 注册 / 隐形助手
 - [OpenGame](https://yelonhu.github.io/OpenGame-landing-page/#demo) — 香港中文大学 MMLab 出品的开源项目：用一句话（文本/草图）直接生成可玩的完整游戏，从贪吃蛇到平台跳跃一键落地。GitHub 2,900+ Star，配套论文与在线 Demo，是「AI 生成游戏」方向的高星代表。  
   标签：AI 生成游戏 / CUHK MMLab / 开源 / 一句话生成
+- [Blueprint - 用一句话设计真实硬件](https://www.blueprint.io) — a16z Speedrun 加持的「硬件版 Lovable」：用自然语言描述创意，AI 直接生成 3D 模型、接线图、物料清单与组装指南。上线 3 个月吸引 17.5 万用户、生成 20 万+ 设计方案，并完成超 100 万美元（约 140 万加元）pre-seed 融资。  
+  标签：Lovable for hardware / a16z Speedrun / 文本生成硬件 / 17.5万用户
+- [colibri - 本地跑前沿 MoE 模型的轻量引擎](https://github.com/JustVugg/colibri) — 用纯 C 写的轻量级推理引擎，无需任何外部依赖即可在本机直接跑前沿 MoE 大模型（语言 / 视觉），模型权重按需从磁盘流式加载。开源后迅速冲上 GitHub Trending，收获 3.1 万+ Star，是「把大模型搬回本地」方向的明星项目。  
+  标签：31K Star / 本地推理 / MoE / 开源
 
 <a id="cat-web应用" name="cat-web应用"></a>
 

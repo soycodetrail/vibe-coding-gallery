@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T15:31:26.090Z",
+  "updatedAt": "2026-09-14T21:32:55.489Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -8242,6 +8242,86 @@
       ],
       "icon": "plane",
       "bg": "linear-gradient(135deg, #414345 0%, #232526 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Blueprint - 用一句话设计真实硬件",
+      "desc": "a16z Speedrun 加持的「硬件版 Lovable」：用自然语言描述创意，AI 直接生成 3D 模型、接线图、物料清单与组装指南。上线 3 个月吸引 17.5 万用户、生成 20 万+ 设计方案，并完成超 100 万美元（约 140 万加元）pre-seed 融资。",
+      "url": "https://www.blueprint.io",
+      "category": "AI工具",
+      "tags": [
+        "Lovable for hardware",
+        "a16z Speedrun",
+        "文本生成硬件",
+        "17.5万用户"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #2193B0 0%, #6DD5ED 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "AIDesigner - 给 Coding Agent 设计品味的 AI",
+      "desc": "独立开发者用 Claude Code / Codex / Cursor 打造的 AI 设计平台，把「丑陋的 vibe-coded UI」变成精致可编辑的设计稿，并推出 MCP 让编码智能体直接调用。2026 年从不足 $1K 涨到 $9.5K MRR，是全网「修 UI」赛道的标杆案例。",
+      "url": "https://www.aidesigner.ai",
+      "category": "设计创意",
+      "tags": [
+        "AI UI 设计",
+        "$9.5K MRR",
+        "MCP",
+        "独立开发"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #FF9A9E 0%, #FAD0C4 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Ponytail - 让 AI Agent 像最懒的高级工程师",
+      "desc": "爆火的开源 agent skill：教 AI 编程智能体像「房间里最懒的高级工程师」一样思考，追求最简方案、最少代码。发布即冲上 GitHub Trending，狂揽 13.8 万 Star，成为 agentic 时代「文档即信任」思潮的代表作。",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "category": "Agent",
+      "tags": [
+        "138K Star",
+        "Agent Skill",
+        "GitHub Trending",
+        "开源"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #667EEA 0%, #764BA2 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "colibri - 本地跑前沿 MoE 模型的轻量引擎",
+      "desc": "用纯 C 写的轻量级推理引擎，无需任何外部依赖即可在本机直接跑前沿 MoE 大模型（语言 / 视觉），模型权重按需从磁盘流式加载。开源后迅速冲上 GitHub Trending，收获 3.1 万+ Star，是「把大模型搬回本地」方向的明星项目。",
+      "url": "https://github.com/JustVugg/colibri",
+      "category": "AI工具",
+      "tags": [
+        "31K Star",
+        "本地推理",
+        "MoE",
+        "开源"
+      ],
+      "icon": "cpu",
+      "bg": "linear-gradient(135deg, #0F0C29 0%, #302B63 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Rover (Retriever AI) - 把任意网站变成 AI 智能体",
+      "desc": "浏览器智能体产品：一句指令即可跨全网与你已登录的站点自动完成抓取、填表、发帖等任务。已自动化 700 万+ 任务、服务 3.5 万+ 团队，在 Web Bench 真实网页任务基准上超越 OpenAI 与 Anthropic 登顶 #1，是 agent 落地工作的代表。",
+      "url": "https://rtrvr.ai",
+      "category": "Agent",
+      "tags": [
+        "7M+ 任务",
+        "35K+ 团队",
+        "Web Bench #1",
+        "浏览器智能体"
+      ],
+      "icon": "zap",
+      "bg": "linear-gradient(135deg, #FC466B 0%, #3F5EFB 100%)",
       "tool": "Claude Code",
       "hot": 0
     }
