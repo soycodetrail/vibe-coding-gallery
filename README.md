@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-13 15:15:03
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-14 03:28:52
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（527 个条目 / 15 个分类）
+## 📑 内容导航（533 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -716,6 +716,14 @@
   标签：Vibe Jam 2026 / 最阴间奖 / 黑色幽默 / 模拟经营
 - [FULL SEND - Vibe Jam 2026 最多传送奖](https://fullsend.game) — 用 Cursor 在 Vibe Jam 2026 打造的 2D 赛车游戏：2 秒加载、一上手就毁掉你整个下午，靠疯狂传送（portal transfers）刷出离谱成绩，获「最多传送」特别奖。作者 @dvassallo。  
   标签：Vibe Jam 2026 / 最多传送奖 / 2D 赛车 / 2 秒加载
+- [Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) — 用 Claude Code 在 48 小时内 vibe coding 打造的二战题材 FPS：把「让 LLM 帮你瞄准开枪」玩成梗，开源即爆红，GitHub 收获 3,400+ Star，是「用 AI 写整款游戏」的标杆案例。作者 @mshumer。  
+  标签：Claude Code / FPS / 开源 / Vibe Coding 标杆
+- [Captive 3000](https://captive3000.com) — 父子档用 AI 在几周内 vibe coding 打造的复古策略游戏，已在 Steam 正式发行，上线即吸引 1,100+ 注册玩家。像素美术 + 硬核玩法，是「家庭协作 + AI 开发」上架商业平台的真实案例。  
+  标签：Steam 发行 / 复古策略 / 父子协作 / Vibe Coding
+- [CraftMine](https://tront.xyz/craftmine) — 独立开发者 Trent Sterling 用 AI vibe coding 打造的 Minecraft 风格沙盒克隆：支持 P2P 多人联机、方块破坏/建造与生存玩法，在社交平台病毒传播，是「一个人 + AI 复刻 3A 沙盒」的热门样本。  
+  标签：沙盒克隆 / P2P 多人 / Minecraft-like / Vibe Coding
+- [WW2 Dogfight Arena](https://fly.zullo.fun) — Nicolas Zullo 用 AI vibe coding 打造的二战空战竞技网页游戏：首周即吸引 45,000+ 玩家、X 平台曝光 150 万+，月入约 €2K，是单人开发者用 AI 快速做出高人气实时多人游戏的代表。  
+  标签：二战空战 / 实时多人 / 单人开发 / Vibe Coding
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -1153,6 +1161,8 @@
   标签：编程 Agent / 开源 / MCP / CLI
 - [Cluely - 隐形 AI 会议助手](https://cluely.com/) — 隐形 AI 会议助手：实时听写会议、生成笔记与答案，且完全不出现在共享屏幕与录制里（不加入会议、无机器人）。由 Roy Lee 打造，首周 70K 注册，真实 ARR 约 $5.2M，获 a16z $15M A 轮。  
   标签：$5.2M ARR / a16z $15M / 70K 注册 / 隐形助手
+- [OpenGame](https://yelonhu.github.io/OpenGame-landing-page/#demo) — 香港中文大学 MMLab 出品的开源项目：用一句话（文本/草图）直接生成可玩的完整游戏，从贪吃蛇到平台跳跃一键落地。GitHub 2,900+ Star，配套论文与在线 Demo，是「AI 生成游戏」方向的高星代表。  
+  标签：AI 生成游戏 / CUHK MMLab / 开源 / 一句话生成
 
 <a id="cat-web应用" name="cat-web应用"></a>
 
@@ -1160,6 +1170,8 @@
 
 - [Enter Pro - 一句话构建并扩展真实业务的 AI 原生平台](https://enter.converge.ai/) — 从想法到可运营产品的 AI 原生平台：在同一工作区完成规划、构建、预览、发布与扩展，数据库、身份认证、托管、支付、分析、本地化全内置，还能用 Agent Builder 把重复工作封装成可发布 Agent。Product Hunt 2026 年 8 月 27 日榜眼（384 票），由 Converge AI 出品。  
   标签：PH #2 / 384 票 / AI 原生 / Agent Builder
+- [The Git City](https://thegitcity.com) — 把 GitHub 贡献历史渲染成一座可漫游的 3D 城市——每次 commit 都是一栋建筑。2026 年在巴西病毒式传播，24 小时 96K 观看、首日即靠广告产生收入，是 vibe coding 出圈的代表作。  
+  标签：3D 城市 / GitHub 可视化 / 病毒传播 / Vibe Coding
 
 
 ---

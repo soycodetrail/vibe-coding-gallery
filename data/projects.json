@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T15:15:03.142Z",
+  "updatedAt": "2026-09-14T03:28:52.906Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -8147,6 +8147,102 @@
       "icon": "box",
       "bg": "linear-gradient(135deg, #2C3E50 0%, #4CA1AF 100%)",
       "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Claude-of-Duty",
+      "desc": "用 Claude Code 在 48 小时内 vibe coding 打造的二战题材 FPS：把「让 LLM 帮你瞄准开枪」玩成梗，开源即爆红，GitHub 收获 3,400+ Star，是「用 AI 写整款游戏」的标杆案例。作者 @mshumer。",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "category": "游戏",
+      "tags": [
+        "Claude Code",
+        "FPS",
+        "开源",
+        "Vibe Coding 标杆"
+      ],
+      "icon": "sword",
+      "bg": "linear-gradient(135deg, #1F1C2C 0%, #928DAB 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "OpenGame",
+      "desc": "香港中文大学 MMLab 出品的开源项目：用一句话（文本/草图）直接生成可玩的完整游戏，从贪吃蛇到平台跳跃一键落地。GitHub 2,900+ Star，配套论文与在线 Demo，是「AI 生成游戏」方向的高星代表。",
+      "url": "https://yelonhu.github.io/OpenGame-landing-page/#demo",
+      "category": "AI工具",
+      "tags": [
+        "AI 生成游戏",
+        "CUHK MMLab",
+        "开源",
+        "一句话生成"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #1A2980 0%, #26D0CE 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "The Git City",
+      "desc": "把 GitHub 贡献历史渲染成一座可漫游的 3D 城市——每次 commit 都是一栋建筑。2026 年在巴西病毒式传播，24 小时 96K 观看、首日即靠广告产生收入，是 vibe coding 出圈的代表作。",
+      "url": "https://thegitcity.com",
+      "category": "Web应用",
+      "tags": [
+        "3D 城市",
+        "GitHub 可视化",
+        "病毒传播",
+        "Vibe Coding"
+      ],
+      "icon": "git-branch",
+      "bg": "linear-gradient(135deg, #3A1C71 0%, #D76D77 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Captive 3000",
+      "desc": "父子档用 AI 在几周内 vibe coding 打造的复古策略游戏，已在 Steam 正式发行，上线即吸引 1,100+ 注册玩家。像素美术 + 硬核玩法，是「家庭协作 + AI 开发」上架商业平台的真实案例。",
+      "url": "https://captive3000.com",
+      "category": "游戏",
+      "tags": [
+        "Steam 发行",
+        "复古策略",
+        "父子协作",
+        "Vibe Coding"
+      ],
+      "icon": "crosshair",
+      "bg": "linear-gradient(135deg, #544A7D 0%, #FFD452 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "CraftMine",
+      "desc": "独立开发者 Trent Sterling 用 AI vibe coding 打造的 Minecraft 风格沙盒克隆：支持 P2P 多人联机、方块破坏/建造与生存玩法，在社交平台病毒传播，是「一个人 + AI 复刻 3A 沙盒」的热门样本。",
+      "url": "https://tront.xyz/craftmine",
+      "category": "游戏",
+      "tags": [
+        "沙盒克隆",
+        "P2P 多人",
+        "Minecraft-like",
+        "Vibe Coding"
+      ],
+      "icon": "pickaxe",
+      "bg": "linear-gradient(135deg, #283048 0%, #859398 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "WW2 Dogfight Arena",
+      "desc": "Nicolas Zullo 用 AI vibe coding 打造的二战空战竞技网页游戏：首周即吸引 45,000+ 玩家、X 平台曝光 150 万+，月入约 €2K，是单人开发者用 AI 快速做出高人气实时多人游戏的代表。",
+      "url": "https://fly.zullo.fun",
+      "category": "游戏",
+      "tags": [
+        "二战空战",
+        "实时多人",
+        "单人开发",
+        "Vibe Coding"
+      ],
+      "icon": "plane",
+      "bg": "linear-gradient(135deg, #414345 0%, #232526 100%)",
+      "tool": "Claude Code",
       "hot": 0
     }
   ],
