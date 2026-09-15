@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T09:37:06.797Z",
+  "updatedAt": "2026-09-15T21:47:45.123Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -8323,6 +8323,102 @@
       "icon": "zap",
       "bg": "linear-gradient(135deg, #FC466B 0%, #3F5EFB 100%)",
       "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Hermes Agent - 会自我进化的个人 AI 智能体",
+      "desc": "Nous Research 开源的个人 AI 智能体，带自研「自我改进」学习回路：从刚做完的任务里抽取技能、更新长期记忆、跨会话记住「你是谁」。上线数月狂揽 24.5 万+ GitHub Star，登顶趋势榜，是 2026 年最受关注的本地优先智能体之一。",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "category": "Agent",
+      "tags": [
+        "245K Star",
+        "自我进化",
+        "本地优先",
+        "开源"
+      ],
+      "icon": "brain",
+      "bg": "linear-gradient(135deg, #6D28D9 0%, #DB2777 100%)",
+      "tool": "GitHub 开源",
+      "hot": 0
+    },
+    {
+      "name": "OpenViking - 智能体的统一上下文数据库",
+      "desc": "字节火山引擎开源的 Agent 统一上下文底座，把记忆、RAG 检索与技能调用收进同一套基础设施，让多智能体协作不再各管各的上下文。发布即登 GitHub 趋势榜，收获 3.7 万+ Star，是 Agent 工程化的明星基础件。",
+      "url": "https://github.com/volcengine/OpenViking",
+      "category": "Agent",
+      "tags": [
+        "37K Star",
+        "Agent 记忆",
+        "RAG",
+        "开源"
+      ],
+      "icon": "memory",
+      "bg": "linear-gradient(135deg, #0EA5E9 0%, #22D3EE 100%)",
+      "tool": "GitHub 开源",
+      "hot": 0
+    },
+    {
+      "name": "OpenMAIC - 清华出品的多智能体互动课堂",
+      "desc": "清华大学 MAIC 实验室开源的多智能体互动教学平台，让多个 AI 角色在同一课堂里分工协作、实时互动，把「多智能体」从论文概念变成可玩可教的课堂。开源即登趋势榜，斩获 3.7 万+ Star，是 AI + 教育方向的现象级项目。",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "category": "教育学习",
+      "tags": [
+        "37K Star",
+        "多智能体",
+        "AI 教育",
+        "清华开源"
+      ],
+      "icon": "school",
+      "bg": "linear-gradient(135deg, #0D9488 0%, #14B8A6 100%)",
+      "tool": "GitHub 开源",
+      "hot": 0
+    },
+    {
+      "name": "llmfit - 一句话告诉你硬件能跑什么模型",
+      "desc": "一条命令测出你的 GPU / 内存 / 带宽能跑哪些大模型，并给出量化与推理建议的开源工具。把「我的机器能不能跑量化版 Llama？」这种灵魂拷问变成秒级报告，登 GitHub 趋势榜收获 3.6 万+ Star，是本地推理时代的标配小工具。",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "category": "AI工具",
+      "tags": [
+        "36K Star",
+        "本地推理",
+        "硬件适配",
+        "开源"
+      ],
+      "icon": "microchip",
+      "bg": "linear-gradient(135deg, #EA580C 0%, #F59E0B 100%)",
+      "tool": "GitHub 开源",
+      "hot": 0
+    },
+    {
+      "name": "OpenLogi - 开源版 Logitech Options+",
+      "desc": "彻底重构罗技外设配置的轻量开源工具，无账号、无遥测，把鼠标 / 键盘的按键重映射、手势、多设备切换等功能完全本地化。发布即登趋势榜拿下 2.1 万+ Star，是「受够官方闭源客户端」的硬核用户福音。",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "category": "效率工具",
+      "tags": [
+        "21K Star",
+        "外设配置",
+        "无遥测",
+        "开源"
+      ],
+      "icon": "sliders",
+      "bg": "linear-gradient(135deg, #1E3A8A 0%, #3B82F6 100%)",
+      "tool": "GitHub 开源",
+      "hot": 0
+    },
+    {
+      "name": "aiCarousels - 零设计基础也能做社媒轮播图",
+      "desc": "非设计师 Fernando 用 10 天公开挑战 vibe coding 出的 AI 轮播图生成器，输入话题或链接即可让 AI 写出文案、自动排版并导出 LinkedIn / Instagram / TikTok 卡片。靠真实付费用户做到 $5K MRR，被 Starter Story 收录，是「非技术创始人也能做成 SaaS」的代表作。",
+      "url": "https://www.aicarousels.com/",
+      "category": "设计创意",
+      "tags": [
+        "5K MRR",
+        "社媒轮播",
+        "非技术创始人",
+        "AI 排版"
+      ],
+      "icon": "image",
+      "bg": "linear-gradient(135deg, #EC4899 0%, #8B5CF6 100%)",
+      "tool": "Lovable / AI 辅助",
       "hot": 0
     }
   ],

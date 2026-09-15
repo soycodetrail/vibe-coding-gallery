@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-15 09:37:06
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-15 21:47:45
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（538 个条目 / 15 个分类）
+## 📑 内容导航（544 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -432,6 +432,10 @@
   标签：138K Star / Agent Skill / GitHub Trending / 开源
 - [Rover (Retriever AI) - 把任意网站变成 AI 智能体](https://rtrvr.ai) — 浏览器智能体产品：一句指令即可跨全网与你已登录的站点自动完成抓取、填表、发帖等任务。已自动化 700 万+ 任务、服务 3.5 万+ 团队，在 Web Bench 真实网页任务基准上超越 OpenAI 与 Anthropic 登顶 #1，是 agent 落地工作的代表。  
   标签：7M+ 任务 / 35K+ 团队 / Web Bench #1 / 浏览器智能体
+- [Hermes Agent - 会自我进化的个人 AI 智能体](https://github.com/NousResearch/hermes-agent) — Nous Research 开源的个人 AI 智能体，带自研「自我改进」学习回路：从刚做完的任务里抽取技能、更新长期记忆、跨会话记住「你是谁」。上线数月狂揽 24.5 万+ GitHub Star，登顶趋势榜，是 2026 年最受关注的本地优先智能体之一。  
+  标签：245K Star / 自我进化 / 本地优先 / 开源
+- [OpenViking - 智能体的统一上下文数据库](https://github.com/volcengine/OpenViking) — 字节火山引擎开源的 Agent 统一上下文底座，把记忆、RAG 检索与技能调用收进同一套基础设施，让多智能体协作不再各管各的上下文。发布即登 GitHub 趋势榜，收获 3.7 万+ Star，是 Agent 工程化的明星基础件。  
+  标签：37K Star / Agent 记忆 / RAG / 开源
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -579,6 +583,8 @@
   标签：PH #1 / 337 票 / 云桌面 Agent / 工作流自动化
 - [ToneAdapt - Cursor 做出的吉他音色匹配 App](https://toneadapt.com/) — 21 岁大学生 Kyan 用 Cursor 一周做出的吉他音色匹配 App，输入歌曲与你的设备即还原对应效果器设置。5 个月破 10 万用户、月营收约 $25K（网页 $11.5K + 移动 $14K），靠日更 3 条短视频冷启动。  
   标签：$25K/月 / 10 万+ 用户 / 吉他音色 / 短视频冷启动
+- [OpenLogi - 开源版 Logitech Options+](https://github.com/AprilNEA/OpenLogi) — 彻底重构罗技外设配置的轻量开源工具，无账号、无遥测，把鼠标 / 键盘的按键重映射、手势、多设备切换等功能完全本地化。发布即登趋势榜拿下 2.1 万+ Star，是「受够官方闭源客户端」的硬核用户福音。  
+  标签：21K Star / 外设配置 / 无遥测 / 开源
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -885,6 +891,8 @@
   标签：科研自动化 / 生物医药 / 数据库 / 开源
 - [Klar - Lovable 打造的 AI 学习助手](https://tentaklar.com/) — 三名瑞典学生退学、用 Lovable 打造的 AI 个性化学习助手，按你的知识缺口主动补课。首月即 €130K ARR、据报道已达 $500K ARR、服务 6,000+ 学生，获 Lovable CEO Anton Osika 公开背书。  
   标签：$500K ARR / 6,000+ 学生 / AI 学习 / Lovable CEO 背书
+- [OpenMAIC - 清华出品的多智能体互动课堂](https://github.com/THU-MAIC/OpenMAIC) — 清华大学 MAIC 实验室开源的多智能体互动教学平台，让多个 AI 角色在同一课堂里分工协作、实时互动，把「多智能体」从论文概念变成可玩可教的课堂。开源即登趋势榜，斩获 3.7 万+ Star，是 AI + 教育方向的现象级项目。  
+  标签：37K Star / 多智能体 / AI 教育 / 清华开源
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -964,6 +972,8 @@
   标签：$50K+ MRR / Design+Code / 落地页生成 / 全量 vibe coded
 - [AIDesigner - 给 Coding Agent 设计品味的 AI](https://www.aidesigner.ai) — 独立开发者用 Claude Code / Codex / Cursor 打造的 AI 设计平台，把「丑陋的 vibe-coded UI」变成精致可编辑的设计稿，并推出 MCP 让编码智能体直接调用。2026 年从不足 $1K 涨到 $9.5K MRR，是全网「修 UI」赛道的标杆案例。  
   标签：AI UI 设计 / $9.5K MRR / MCP / 独立开发
+- [aiCarousels - 零设计基础也能做社媒轮播图](https://www.aicarousels.com/) — 非设计师 Fernando 用 10 天公开挑战 vibe coding 出的 AI 轮播图生成器，输入话题或链接即可让 AI 写出文案、自动排版并导出 LinkedIn / Instagram / TikTok 卡片。靠真实付费用户做到 $5K MRR，被 Starter Story 收录，是「非技术创始人也能做成 SaaS」的代表作。  
+  标签：5K MRR / 社媒轮播 / 非技术创始人 / AI 排版
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1173,6 +1183,8 @@
   标签：Lovable for hardware / a16z Speedrun / 文本生成硬件 / 17.5万用户
 - [colibri - 本地跑前沿 MoE 模型的轻量引擎](https://github.com/JustVugg/colibri) — 用纯 C 写的轻量级推理引擎，无需任何外部依赖即可在本机直接跑前沿 MoE 大模型（语言 / 视觉），模型权重按需从磁盘流式加载。开源后迅速冲上 GitHub Trending，收获 3.1 万+ Star，是「把大模型搬回本地」方向的明星项目。  
   标签：31K Star / 本地推理 / MoE / 开源
+- [llmfit - 一句话告诉你硬件能跑什么模型](https://github.com/AlexsJones/llmfit) — 一条命令测出你的 GPU / 内存 / 带宽能跑哪些大模型，并给出量化与推理建议的开源工具。把「我的机器能不能跑量化版 Llama？」这种灵魂拷问变成秒级报告，登 GitHub 趋势榜收获 3.6 万+ Star，是本地推理时代的标配小工具。  
+  标签：36K Star / 本地推理 / 硬件适配 / 开源
 
 <a id="cat-web应用" name="cat-web应用"></a>
 
