@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-29 16:04:51
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-30 04:16:05
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（544 个条目 / 15 个分类）
+## 📑 内容导航（550 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -436,6 +436,8 @@
   标签：245K Star / 自我进化 / 本地优先 / 开源
 - [OpenViking - 智能体的统一上下文数据库](https://github.com/volcengine/OpenViking) — 字节火山引擎开源的 Agent 统一上下文底座，把记忆、RAG 检索与技能调用收进同一套基础设施，让多智能体协作不再各管各的上下文。发布即登 GitHub 趋势榜，收获 3.7 万+ Star，是 Agent 工程化的明星基础件。  
   标签：37K Star / Agent 记忆 / RAG / 开源
+- [Agent-Reach - 给 AI Agent 装上眼睛](https://github.com/Panniantong/Agent-Reach) — GitHub 8.6 万+ Star 的开源 CLI：让 AI Agent 直接浏览 Twitter、Reddit、YouTube、GitHub 等公开网络，零 API 费用扩展 Agent 的实时信息触达。登上 GitHub Trending，是构建自主联网 Agent 最热门的基础设施之一。  
+  标签：86K Star / Agent 联网 / CLI / 开源
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -585,6 +587,8 @@
   标签：$25K/月 / 10 万+ 用户 / 吉他音色 / 短视频冷启动
 - [OpenLogi - 开源版 Logitech Options+](https://github.com/AprilNEA/OpenLogi) — 彻底重构罗技外设配置的轻量开源工具，无账号、无遥测，把鼠标 / 键盘的按键重映射、手势、多设备切换等功能完全本地化。发布即登趋势榜拿下 2.1 万+ Star，是「受够官方闭源客户端」的硬核用户福音。  
   标签：21K Star / 外设配置 / 无遥测 / 开源
+- [hindsight - 会学习的 Agent 记忆系统](https://github.com/vectorize-io/hindsight) — GitHub 4.2 万+ Star 的开源项目：为长周期运行的 AI Agent 提供自更新的向量记忆层，跨 1000+ 次会话保留上下文。一周暴涨 1.1 万 Star 登顶 GitHub Trending，被视作「Agent 记忆缺失层」的标杆解决方案。  
+  标签：42K Star / Agent 记忆 / 向量存储 / 开源
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -775,6 +779,8 @@
   标签：记账 / Compose / Android
 - [TradingAgents - 用多智能体开一整间交易公司](https://tradingagents-ai.github.io/) — UCLA 与 MIT 团队把交易公司搬进代码：基本面/情绪/新闻/技术四位分析师并行取数，多空研究员辩论，交易员下单，风控与基金经理层层复核；GitHub 10.2 万 star（fork 1.9 万），论文 arXiv:2412.20138 回测中 AAPL 累计收益 26.62%、夏普 8.21，同期买入持有为 -5.23%。  
   标签：量化交易 / 多智能体 / 风险管理 / 开源
+- [daily_stock_analysis - LLM 驱动股票分析](https://github.com/ZhuLinsen/daily_stock_analysis) — GitHub 6.5 万+ Star 的明星开源项目：用 LLM 拉取实时行情与新闻，自动生成多市场决策看板与提醒，零成本定时运行。登上 GitHub Trending 周榜、被大量量化与 AI 工程教程引用，是「AI + 量化」最高人气开源工具之一。  
+  标签：65K Star / 量化分析 / 实时行情 / 开源
 
 <a id="cat-ai办公" name="cat-ai办公"></a>
 
@@ -840,6 +846,8 @@
   标签：PH #1 / 392 票 / 自有电话/邮箱 / 私人助理
 - [Dial - 10 秒给 AI 智能体配真实手机号](https://getdial.ai) — Genway（a16z Speedrun 领投 600 万美元种子轮）出品，一次 API 调用约 10 秒为 AI Agent 配真实号码，支持 200+ 国家语音 / 短信 / iMessage，还能自动读取验证码。Product Hunt 当日第 5（223 票），已获 Vercel官方集成。  
   标签：a16z 投资 / PH #5/223票 / AI 手机号 / Vercel 集成
+- [career-ops - 本地运行的 AI 求职 Agent](https://github.com/career-ops-hq/career-ops) — GitHub 7.3 万+ Star 的开源 Agent：自动扫描招聘门户、评估岗位、定制简历并追踪投递进度，全程本地运行保护隐私。登上 GitHub Trending，是「垂直场景 AI 工作流自动化」最具人气的求职利器之一。  
+  标签：73K Star / AI 求职 / 本地运行 / 开源
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -974,6 +982,10 @@
   标签：AI UI 设计 / $9.5K MRR / MCP / 独立开发
 - [aiCarousels - 零设计基础也能做社媒轮播图](https://www.aicarousels.com/) — 非设计师 Fernando 用 10 天公开挑战 vibe coding 出的 AI 轮播图生成器，输入话题或链接即可让 AI 写出文案、自动排版并导出 LinkedIn / Instagram / TikTok 卡片。靠真实付费用户做到 $5K MRR，被 Starter Story 收录，是「非技术创始人也能做成 SaaS」的代表作。  
   标签：5K MRR / 社媒轮播 / 非技术创始人 / AI 排版
+- [pieter.com - 浏览器里跑 Windows XP](https://pieter.com/) — Pieter Levels（@levelsio，百万粉丝独立黑客）2026-08 把整台 Windows XP 逆向搬进浏览器——MSN、Winamp、3D 打印、剪贴板一应俱全，上线即在开发者与怀旧圈 viral，是「一个人 + AI」复刻经典操作系统的代表作。  
+  标签：Pieter Levels / Windows XP / 浏览器模拟 / 复古
+- [ppt-master - 文档一键生成专业 PPT](https://github.com/hugohe3/ppt-master) — GitHub 5.7 万+ Star 的开源神器：把文档或主题秒变带动画、图表、配音的原生 PowerPoint 演示文稿，彻底降低做汇报的门槛。长期霸榜 GitHub Trending，是 AI 生成演示内容领域人气最高的项目之一。  
+  标签：57K Star / PPT 生成 / AI 演示 / 开源
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 

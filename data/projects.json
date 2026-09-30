@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T16:04:51.659Z",
+  "updatedAt": "2026-09-30T04:16:05.376Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -8419,6 +8419,102 @@
       "icon": "image",
       "bg": "linear-gradient(135deg, #EC4899 0%, #8B5CF6 100%)",
       "tool": "Lovable / AI 辅助",
+      "hot": 0
+    },
+    {
+      "name": "pieter.com - 浏览器里跑 Windows XP",
+      "desc": "Pieter Levels（@levelsio，百万粉丝独立黑客）2026-08 把整台 Windows XP 逆向搬进浏览器——MSN、Winamp、3D 打印、剪贴板一应俱全，上线即在开发者与怀旧圈 viral，是「一个人 + AI」复刻经典操作系统的代表作。",
+      "url": "https://pieter.com/",
+      "category": "设计创意",
+      "tags": [
+        "Pieter Levels",
+        "Windows XP",
+        "浏览器模拟",
+        "复古"
+      ],
+      "icon": "monitor",
+      "bg": "linear-gradient(135deg, #1CB5E0 0%, #000851 100%)",
+      "tool": "AI 辅助逆向 + v86",
+      "hot": 0
+    },
+    {
+      "name": "daily_stock_analysis - LLM 驱动股票分析",
+      "desc": "GitHub 6.5 万+ Star 的明星开源项目：用 LLM 拉取实时行情与新闻，自动生成多市场决策看板与提醒，零成本定时运行。登上 GitHub Trending 周榜、被大量量化与 AI 工程教程引用，是「AI + 量化」最高人气开源工具之一。",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "category": "金融财经",
+      "tags": [
+        "65K Star",
+        "量化分析",
+        "实时行情",
+        "开源"
+      ],
+      "icon": "line-chart",
+      "bg": "linear-gradient(135deg, #00467F 0%, #A5CC82 100%)",
+      "tool": "GitHub 开源 / LLM",
+      "hot": 0
+    },
+    {
+      "name": "Agent-Reach - 给 AI Agent 装上眼睛",
+      "desc": "GitHub 8.6 万+ Star 的开源 CLI：让 AI Agent 直接浏览 Twitter、Reddit、YouTube、GitHub 等公开网络，零 API 费用扩展 Agent 的实时信息触达。登上 GitHub Trending，是构建自主联网 Agent 最热门的基础设施之一。",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "category": "Agent",
+      "tags": [
+        "86K Star",
+        "Agent 联网",
+        "CLI",
+        "开源"
+      ],
+      "icon": "radar",
+      "bg": "linear-gradient(135deg, #5F0A87 0%, #A4508B 100%)",
+      "tool": "GitHub 开源",
+      "hot": 0
+    },
+    {
+      "name": "ppt-master - 文档一键生成专业 PPT",
+      "desc": "GitHub 5.7 万+ Star 的开源神器：把文档或主题秒变带动画、图表、配音的原生 PowerPoint 演示文稿，彻底降低做汇报的门槛。长期霸榜 GitHub Trending，是 AI 生成演示内容领域人气最高的项目之一。",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "category": "设计创意",
+      "tags": [
+        "57K Star",
+        "PPT 生成",
+        "AI 演示",
+        "开源"
+      ],
+      "icon": "presentation",
+      "bg": "linear-gradient(135deg, #FF057C 0%, #8D0B93 100%)",
+      "tool": "GitHub 开源",
+      "hot": 0
+    },
+    {
+      "name": "hindsight - 会学习的 Agent 记忆系统",
+      "desc": "GitHub 4.2 万+ Star 的开源项目：为长周期运行的 AI Agent 提供自更新的向量记忆层，跨 1000+ 次会话保留上下文。一周暴涨 1.1 万 Star 登顶 GitHub Trending，被视作「Agent 记忆缺失层」的标杆解决方案。",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "category": "效率工具",
+      "tags": [
+        "42K Star",
+        "Agent 记忆",
+        "向量存储",
+        "开源"
+      ],
+      "icon": "brain-circuit",
+      "bg": "linear-gradient(135deg, #00B4DB 0%, #0083B0 100%)",
+      "tool": "GitHub 开源",
+      "hot": 0
+    },
+    {
+      "name": "career-ops - 本地运行的 AI 求职 Agent",
+      "desc": "GitHub 7.3 万+ Star 的开源 Agent：自动扫描招聘门户、评估岗位、定制简历并追踪投递进度，全程本地运行保护隐私。登上 GitHub Trending，是「垂直场景 AI 工作流自动化」最具人气的求职利器之一。",
+      "url": "https://github.com/career-ops-hq/career-ops",
+      "category": "AI办公",
+      "tags": [
+        "73K Star",
+        "AI 求职",
+        "本地运行",
+        "开源"
+      ],
+      "icon": "briefcase",
+      "bg": "linear-gradient(135deg, #3E5151 0%, #DECBA4 100%)",
+      "tool": "GitHub 开源 / Claude Code",
       "hot": 0
     }
   ],
