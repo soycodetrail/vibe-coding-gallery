@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T16:19:25.169Z",
+  "updatedAt": "2026-09-30T22:25:52.629Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -8515,6 +8515,86 @@
       "icon": "briefcase",
       "bg": "linear-gradient(135deg, #3E5151 0%, #DECBA4 100%)",
       "tool": "GitHub 开源 / Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "WeKnora - 腾讯开源的 LLM 知识平台",
+      "desc": "腾讯开源的企业级 LLM 知识平台：文档→RAG→自主推理 Agent→自维护 Wiki 一条龙，GitHub 3.1 万+ Star，上线首日即 +1.2k Star，企业级 RAG 需求爆棚。",
+      "url": "https://github.com/Tencent/WeKnora",
+      "category": "AI 工具",
+      "tags": [
+        "31K Star",
+        "腾讯开源",
+        "RAG",
+        "知识库"
+      ],
+      "icon": "database",
+      "bg": "linear-gradient(135deg, #7C3AED 0%, #C026D3 100%)",
+      "tool": "GitHub 开源 / Go",
+      "hot": 0
+    },
+    {
+      "name": "univer - 开源的在线表格与文档引擎",
+      "desc": "梦想家出品的开源 Office 文档引擎，提供类 Excel/Google Sheets 的多人协同表格与文档能力，GitHub 2.2 万+ Star，是国产化 Office 基础设施标杆。",
+      "url": "https://github.com/dream-num/univer",
+      "category": "效率工具",
+      "tags": [
+        "22K Star",
+        "开源 Office",
+        "协同表格",
+        "dream-num"
+      ],
+      "icon": "table",
+      "bg": "linear-gradient(135deg, #FBBF24 0%, #F97316 100%)",
+      "tool": "GitHub 开源 / TypeScript",
+      "hot": 0
+    },
+    {
+      "name": "knowledge-work-plugins - Anthropic 官方知识工作者插件",
+      "desc": "Anthropic 为 Claude Cowork 推出的官方插件仓库，覆盖文档、幻灯片、数据等办公场景，把知识工作流封装成可复用技能，GitHub 2.6 万+ Star。",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "category": "AI办公",
+      "tags": [
+        "26K Star",
+        "Anthropic 官方",
+        "办公插件",
+        "Claude Cowork"
+      ],
+      "icon": "file-text",
+      "bg": "linear-gradient(135deg, #047857 0%, #34D399 100%)",
+      "tool": "Anthropic 官方 / Claude Cowork",
+      "hot": 0
+    },
+    {
+      "name": "headroom - 给 RAG/Agent 做上下文压缩",
+      "desc": "headroomlabs 开源的 LLM 上下文压缩引擎，对 RAG 分块做 60–95% 的 token 压缩且几乎不损语义，GitHub 7.4 万+ Star，检索效率与质量双赢。",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "category": "AI 工具",
+      "tags": [
+        "74K Star",
+        "上下文压缩",
+        "RAG 提效",
+        "token 节省"
+      ],
+      "icon": "compress",
+      "bg": "linear-gradient(135deg, #4F46E5 0%, #06B6D4 100%)",
+      "tool": "GitHub 开源 / Python",
+      "hot": 0
+    },
+    {
+      "name": "VoiceStudio - 全本地开源语音工作室",
+      "desc": "debpalash 开源的本地语音工作室，克隆、配音、听写、转录、有声书一应俱全，支持 646 种语言、数据不出本机，是 ElevenLabs 的开源平替，GitHub 5.0 万+ Star。",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "category": "音乐音频",
+      "tags": [
+        "50K Star",
+        "本地语音",
+        "语音克隆",
+        "646 语言"
+      ],
+      "icon": "mic",
+      "bg": "linear-gradient(135deg, #DB2777 0%, #F472B6 100%)",
+      "tool": "GitHub 开源 / AI 语音",
       "hot": 0
     }
   ],

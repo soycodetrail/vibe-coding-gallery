@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-30 16:19:25
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-30 22:25:52
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（550 个条目 / 15 个分类）
+## 📑 内容导航（555 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -287,6 +287,10 @@
   标签：代码图谱 / 知识库 / 开发者 / AI 辅助
 - [Kilo Code - 开源 AI 编程智能体](https://kilo.ai/) — 跨 VS Code / JetBrains / CLI / 云 / Slack 的开放 Agent 层，500+ 模型零加价。GitHub 27k+ Star、300 万+ 用户、处理 40 万亿+ token，拿下 Product Hunt 开源产品月度冠军，2026 年 7 月被 Anaconda 收购。  
   标签：开源 / 27k Star / 3M 用户 / PH 月度冠军
+- [WeKnora - 腾讯开源的 LLM 知识平台](https://github.com/Tencent/WeKnora) — 腾讯开源的企业级 LLM 知识平台：文档→RAG→自主推理 Agent→自维护 Wiki 一条龙，GitHub 3.1 万+ Star，上线首日即 +1.2k Star，企业级 RAG 需求爆棚。  
+  标签：31K Star / 腾讯开源 / RAG / 知识库
+- [headroom - 给 RAG/Agent 做上下文压缩](https://github.com/headroomlabs-ai/headroom) — headroomlabs 开源的 LLM 上下文压缩引擎，对 RAG 分块做 60–95% 的 token 压缩且几乎不损语义，GitHub 7.4 万+ Star，检索效率与质量双赢。  
+  标签：74K Star / 上下文压缩 / RAG 提效 / token 节省
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -589,6 +593,8 @@
   标签：21K Star / 外设配置 / 无遥测 / 开源
 - [hindsight - 会学习的 Agent 记忆系统](https://github.com/vectorize-io/hindsight) — GitHub 4.2 万+ Star 的开源项目：为长周期运行的 AI Agent 提供自更新的向量记忆层，跨 1000+ 次会话保留上下文。一周暴涨 1.1 万 Star 登顶 GitHub Trending，被视作「Agent 记忆缺失层」的标杆解决方案。  
   标签：42K Star / Agent 记忆 / 向量存储 / 开源
+- [univer - 开源的在线表格与文档引擎](https://github.com/dream-num/univer) — 梦想家出品的开源 Office 文档引擎，提供类 Excel/Google Sheets 的多人协同表格与文档能力，GitHub 2.2 万+ Star，是国产化 Office 基础设施标杆。  
+  标签：22K Star / 开源 Office / 协同表格 / dream-num
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -848,6 +854,8 @@
   标签：a16z 投资 / PH #5/223票 / AI 手机号 / Vercel 集成
 - [career-ops - 本地运行的 AI 求职 Agent](https://github.com/career-ops-hq/career-ops) — GitHub 7.3 万+ Star 的开源 Agent：自动扫描招聘门户、评估岗位、定制简历并追踪投递进度，全程本地运行保护隐私。登上 GitHub Trending，是「垂直场景 AI 工作流自动化」最具人气的求职利器之一。  
   标签：73K Star / AI 求职 / 本地运行 / 开源
+- [knowledge-work-plugins - Anthropic 官方知识工作者插件](https://github.com/anthropics/knowledge-work-plugins) — Anthropic 为 Claude Cowork 推出的官方插件仓库，覆盖文档、幻灯片、数据等办公场景，把知识工作流封装成可复用技能，GitHub 2.6 万+ Star。  
+  标签：26K Star / Anthropic 官方 / 办公插件 / Claude Cowork
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1074,6 +1082,8 @@
   标签：Web Audio API / Canvas / 可视化
 - [ACE-Step - 音乐生成基础模型](https://ace-step.github.io/) — 开源音乐生成基础模型，支持长序列、多语言与高效微调，本地即可生成整曲；GitHub 4.8 千+ Star，Python 开源。  
   标签：音乐生成 / 基础模型 / AI 作曲 / 开源
+- [VoiceStudio - 全本地开源语音工作室](https://github.com/debpalash/VoiceStudio) — debpalash 开源的本地语音工作室，克隆、配音、听写、转录、有声书一应俱全，支持 646 种语言、数据不出本机，是 ElevenLabs 的开源平替，GitHub 5.0 万+ Star。  
+  标签：50K Star / 本地语音 / 语音克隆 / 646 语言
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 
