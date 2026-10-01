@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-01 16:30:08
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-01 22:31:47
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（555 个条目 / 15 个分类）
+## 📑 内容导航（561 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -291,6 +291,10 @@
   标签：31K Star / 腾讯开源 / RAG / 知识库
 - [headroom - 给 RAG/Agent 做上下文压缩](https://github.com/headroomlabs-ai/headroom) — headroomlabs 开源的 LLM 上下文压缩引擎，对 RAG 分块做 60–95% 的 token 压缩且几乎不损语义，GitHub 7.4 万+ Star，检索效率与质量双赢。  
   标签：74K Star / 上下文压缩 / RAG 提效 / token 节省
+- [SKI - 终身免费的语音编程助手](https://heyski.io) — Pattern AI Labs 出品、全本地运行的语音编程工具：让 Claude Code / Cursor / Codex 等编码 Agent 开口对话、出声回复，全链路本地、隐私零上传；Product Hunt 当日榜 #1（472 票），Mac / Win / Linux 终身免费。  
+  标签：PH #1 / 472 票 / 本地运行 / 终身免费
+- [Webhound - 按预算深挖的研究引擎](https://webhound.ai) — 为 Agent 打造的自主研究引擎：给定问题与预算，Agent 持续追链、交叉验证直到预算耗尽，输出带引用与置信度的报告 / 数据集；Product Hunt 408+ 票，支持 MCP / API 接入 Claude Code、Codex 等。  
+  标签：PH 408+ 票 / 带引用 / MCP / API / 按需付费
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -442,6 +446,8 @@
   标签：37K Star / Agent 记忆 / RAG / 开源
 - [Agent-Reach - 给 AI Agent 装上眼睛](https://github.com/Panniantong/Agent-Reach) — GitHub 8.6 万+ Star 的开源 CLI：让 AI Agent 直接浏览 Twitter、Reddit、YouTube、GitHub 等公开网络，零 API 费用扩展 Agent 的实时信息触达。登上 GitHub Trending，是构建自主联网 Agent 最热门的基础设施之一。  
   标签：86K Star / Agent 联网 / CLI / 开源
+- [Memmy - 让所有 AI 记住同一个你](https://memmy.bot) — 本地优先的开源跨 Agent 记忆中枢：扫描 Cursor / Claude Code / Codex 等对话历史，整理为可检索记忆，切换工具时自动注入相关上下文；Product Hunt 412+ 票，免费且开源。  
+  标签：PH 412+ 票 / 开源 / 本地优先 / 跨 Agent
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -595,6 +601,8 @@
   标签：42K Star / Agent 记忆 / 向量存储 / 开源
 - [univer - 开源的在线表格与文档引擎](https://github.com/dream-num/univer) — 梦想家出品的开源 Office 文档引擎，提供类 Excel/Google Sheets 的多人协同表格与文档能力，GitHub 2.2 万+ Star，是国产化 Office 基础设施标杆。  
   标签：22K Star / 开源 Office / 协同表格 / dream-num
+- [Goldfish - Mac 上的本地 AI 记忆层](https://goldfish.sh) — 为 Mac 打造的私密 AI 记忆层，跨邮件 / Slack / 浏览器 / 编辑器记录工作上下文，按 Option 即以你的语气起草回复、总结与续写；Product Hunt 当日 Product of the Day（905+ 票），累计 39 万+ 次 Option 调用。  
+  标签：PH 当日榜 / 905+ 票 / 本地记忆 / 39万+ 调用
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -856,6 +864,8 @@
   标签：73K Star / AI 求职 / 本地运行 / 开源
 - [knowledge-work-plugins - Anthropic 官方知识工作者插件](https://github.com/anthropics/knowledge-work-plugins) — Anthropic 为 Claude Cowork 推出的官方插件仓库，覆盖文档、幻灯片、数据等办公场景，把知识工作流封装成可复用技能，GitHub 2.6 万+ Star。  
   标签：26K Star / Anthropic 官方 / 办公插件 / Claude Cowork
+- [Upstream - 为人类与 Agent 共用的收件箱](https://upstream.do) — YC 支持的 AI 原生收件箱，Agent 自动分拣邮件、以你的语气起草回复并按时跟进；获 YC 等 300 万美元种子轮，月访问 5.8 万+，数千名专业人士在用。  
+  标签：YC 支持 / $3M 种子轮 / 月访问 58K / 数千用户
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -909,6 +919,8 @@
   标签：$500K ARR / 6,000+ 学生 / AI 学习 / Lovable CEO 背书
 - [OpenMAIC - 清华出品的多智能体互动课堂](https://github.com/THU-MAIC/OpenMAIC) — 清华大学 MAIC 实验室开源的多智能体互动教学平台，让多个 AI 角色在同一课堂里分工协作、实时互动，把「多智能体」从论文概念变成可玩可教的课堂。开源即登趋势榜，斩获 3.7 万+ Star，是 AI + 教育方向的现象级项目。  
   标签：37K Star / 多智能体 / AI 教育 / 清华开源
+- [SoundGate - 实时反馈的 AI 吉他导师](https://soundgate.ai) — 会「听」你弹奏的 AI 吉他陪练：零延迟音高检测、互动指板实时纠错，内置 AI 导师定制练习计划；Product Hunt 当日榜 #2（441+ 票），已上架 App Store（iPhone / iPad / Mac）。  
+  标签：PH #2 / 441+ 票 / 实时纠错 / App Store
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 

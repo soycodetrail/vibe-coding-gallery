@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T16:30:08.349Z",
+  "updatedAt": "2026-10-01T22:31:47.275Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -8595,6 +8595,102 @@
       "icon": "mic",
       "bg": "linear-gradient(135deg, #DB2777 0%, #F472B6 100%)",
       "tool": "GitHub 开源 / AI 语音",
+      "hot": 0
+    },
+    {
+      "name": "SKI - 终身免费的语音编程助手",
+      "desc": "Pattern AI Labs 出品、全本地运行的语音编程工具：让 Claude Code / Cursor / Codex 等编码 Agent 开口对话、出声回复，全链路本地、隐私零上传；Product Hunt 当日榜 #1（472 票），Mac / Win / Linux 终身免费。",
+      "url": "https://heyski.io",
+      "category": "AI 工具",
+      "tags": [
+        "PH #1",
+        "472 票",
+        "本地运行",
+        "终身免费"
+      ],
+      "icon": "mic",
+      "bg": "linear-gradient(135deg, #A855F7 0%, #3B82F6 100%)",
+      "tool": "Pattern AI Labs / 语音编程",
+      "hot": 0
+    },
+    {
+      "name": "Goldfish - Mac 上的本地 AI 记忆层",
+      "desc": "为 Mac 打造的私密 AI 记忆层，跨邮件 / Slack / 浏览器 / 编辑器记录工作上下文，按 Option 即以你的语气起草回复、总结与续写；Product Hunt 当日 Product of the Day（905+ 票），累计 39 万+ 次 Option 调用。",
+      "url": "https://goldfish.sh",
+      "category": "效率工具",
+      "tags": [
+        "PH 当日榜",
+        "905+ 票",
+        "本地记忆",
+        "39万+ 调用"
+      ],
+      "icon": "brain",
+      "bg": "linear-gradient(135deg, #F59E0B 0%, #F97316 100%)",
+      "tool": "本地 AI / macOS",
+      "hot": 0
+    },
+    {
+      "name": "Upstream - 为人类与 Agent 共用的收件箱",
+      "desc": "YC 支持的 AI 原生收件箱，Agent 自动分拣邮件、以你的语气起草回复并按时跟进；获 YC 等 300 万美元种子轮，月访问 5.8 万+，数千名专业人士在用。",
+      "url": "https://upstream.do",
+      "category": "AI办公",
+      "tags": [
+        "YC 支持",
+        "$3M 种子轮",
+        "月访问 58K",
+        "数千用户"
+      ],
+      "icon": "mail",
+      "bg": "linear-gradient(135deg, #2563EB 0%, #06B6D4 100%)",
+      "tool": "YC / Gmail",
+      "hot": 0
+    },
+    {
+      "name": "SoundGate - 实时反馈的 AI 吉他导师",
+      "desc": "会「听」你弹奏的 AI 吉他陪练：零延迟音高检测、互动指板实时纠错，内置 AI 导师定制练习计划；Product Hunt 当日榜 #2（441+ 票），已上架 App Store（iPhone / iPad / Mac）。",
+      "url": "https://soundgate.ai",
+      "category": "教育学习",
+      "tags": [
+        "PH #2",
+        "441+ 票",
+        "实时纠错",
+        "App Store"
+      ],
+      "icon": "music",
+      "bg": "linear-gradient(135deg, #10B981 0%, #14B8A6 100%)",
+      "tool": "App Store / AI 音乐",
+      "hot": 0
+    },
+    {
+      "name": "Webhound - 按预算深挖的研究引擎",
+      "desc": "为 Agent 打造的自主研究引擎：给定问题与预算，Agent 持续追链、交叉验证直到预算耗尽，输出带引用与置信度的报告 / 数据集；Product Hunt 408+ 票，支持 MCP / API 接入 Claude Code、Codex 等。",
+      "url": "https://webhound.ai",
+      "category": "AI 工具",
+      "tags": [
+        "PH 408+ 票",
+        "带引用",
+        "MCP / API",
+        "按需付费"
+      ],
+      "icon": "search",
+      "bg": "linear-gradient(135deg, #334155 0%, #0EA5E9 100%)",
+      "tool": "Agent 研究引擎",
+      "hot": 0
+    },
+    {
+      "name": "Memmy - 让所有 AI 记住同一个你",
+      "desc": "本地优先的开源跨 Agent 记忆中枢：扫描 Cursor / Claude Code / Codex 等对话历史，整理为可检索记忆，切换工具时自动注入相关上下文；Product Hunt 412+ 票，免费且开源。",
+      "url": "https://memmy.bot",
+      "category": "Agent",
+      "tags": [
+        "PH 412+ 票",
+        "开源",
+        "本地优先",
+        "跨 Agent"
+      ],
+      "icon": "cpu",
+      "bg": "linear-gradient(135deg, #EC4899 0%, #F43F5E 100%)",
+      "tool": "开源 / 本地记忆",
       "hot": 0
     }
   ],
