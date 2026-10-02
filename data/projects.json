@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:41:01.880Z",
+  "updatedAt": "2026-10-02T22:43:07.898Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -8691,6 +8691,102 @@
       "icon": "cpu",
       "bg": "linear-gradient(135deg, #EC4899 0%, #F43F5E 100%)",
       "tool": "开源 / 本地记忆",
+      "hot": 0
+    },
+    {
+      "name": "Tamamon - 随你写代码而成长的桌面宠物",
+      "desc": "独立开发者用 Claude Code 打造的 macOS / Windows 桌面宠物：读取本地 Claude Code 使用量，陪你从蛋孵化、成长、进化，20+ 物种可收集、含天气与昼夜反应、纯本地零上传。Product Hunt 2026-07-03 当日榜 #3（311 票），把编码时长变成一只会撒娇的伙伴。",
+      "url": "https://tamamons.com/",
+      "category": "设计创意",
+      "tags": [
+        "PH #3",
+        "311 票",
+        "Claude Code 宠物",
+        "纯本地"
+      ],
+      "icon": "cat",
+      "bg": "linear-gradient(135deg, #FF6A88 0%, #FF99AC 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Siteline - AI Agent 流量分析层",
+      "desc": "专为「智能体上网」时代打造的网站分析平台：追踪 OpenAI / Claude / Perplexity / Gemini 等 AI Agent 如何爬取你的站点、卡在哪里、引用了什么，并给出可执行的优化建议。Product Hunt 当日榜 #1（547 票），已被 1000+ 公司用于抢占 AI 搜索可见度。",
+      "url": "https://siteline.ai",
+      "category": "Web 应用",
+      "tags": [
+        "PH #1",
+        "547 票",
+        "AI Agent 分析",
+        "1000+ 公司"
+      ],
+      "icon": "line-chart",
+      "bg": "linear-gradient(135deg, #0575E6 0%, #021B79 100%)",
+      "tool": "AI 分析平台",
+      "hot": 0
+    },
+    {
+      "name": "Honestly - 把真实评价搬回商品页",
+      "desc": "Chrome 扩展：在任意电商商品页直接聚合 Reddit / TikTok / YouTube / Instagram 上的真实用户评价，过滤赞助与 AI 水军，让购物决策不再被五星刷单误导。Product Hunt 2026-03-23 发布（298+ 票），已被大量 Shopify 品牌用于产品情报。",
+      "url": "https://usehonestly.com",
+      "category": "电商营销",
+      "tags": [
+        "PH 发布",
+        "298+ 票",
+        "真实评价",
+        "Chrome 扩展"
+      ],
+      "icon": "shopping-bag",
+      "bg": "linear-gradient(135deg, #EE0979 0%, #FF6A00 100%)",
+      "tool": "Chrome 扩展",
+      "hot": 0
+    },
+    {
+      "name": "SuperX - 面向 X 创作者的增长操作系统",
+      "desc": "Tweet Hunter 原班人马打造的一站式 X（Twitter）增长工具：每日爆款灵感、趋势研究、用你的口吻 AI 改写、最佳时机排程发布、精准互动涨粉。Product Hunt 2026-02-09 当日热榜（714+ 票），已获 1400+ 创作者信赖（含 Dan Koe 等头部）。",
+      "url": "https://superx.so",
+      "category": "社交社区",
+      "tags": [
+        "PH 热榜",
+        "714+ 票",
+        "1400+ 创作者",
+        "X 增长"
+      ],
+      "icon": "users",
+      "bg": "linear-gradient(135deg, #7F00FF 0%, #E100FF 100%)",
+      "tool": "X / Twitter 增长",
+      "hot": 0
+    },
+    {
+      "name": "Lovon - 会倾听的 AI 心理疗愈师",
+      "desc": "语音优先的 AI 心理咨询伴侣：与拥有 40+ 年临床经验的 PhD 心理学家联合打造，基于 CBT 与情绪聚焦疗法温柔挑战非理性想法，而非一味附和；端到端加密、绝不用于训练。Product Hunt 2026-02-14 情人节登顶当日榜 #1（534+ 票），已获 85 万美元种子轮。",
+      "url": "https://lovon.app",
+      "category": "医疗健康",
+      "tags": [
+        "PH #1",
+        "534+ 票",
+        "$850K 种子轮",
+        "语音疗愈"
+      ],
+      "icon": "heart-pulse",
+      "bg": "linear-gradient(135deg, #0BA360 0%, #3CBA92 100%)",
+      "tool": "AI 心理 / 语音",
+      "hot": 0
+    },
+    {
+      "name": "Site Spy - 把任意网页变成 RSS 监控源",
+      "desc": "浏览器扩展 + 网页面板：监控任意页面的变化并以 diff 形式呈现，支持元素级精准追踪（只盯价格 / 库存 / 标题），变化即推送，还能把每个监控导出为 RSS、并开放 MCP 给 AI Agent。Hacker News 2026-03-11 登顶 320 分，是 Visualping / Distill 的轻量替代。",
+      "url": "https://sitespy.app",
+      "category": "效率工具",
+      "tags": [
+        "HN 320 分",
+        "元素级监控",
+        "RSS 导出",
+        "MCP"
+      ],
+      "icon": "radar",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323B 100%)",
+      "tool": "网页监控 / MCP",
       "hot": 0
     }
   ],

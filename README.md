@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-02 16:41:01
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-02 22:43:07
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（561 个条目 / 15 个分类）
+## 📑 内容导航（567 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -86,6 +86,8 @@
   标签：3D 地球 / 卫星追踪 / OSINT / 开源
 - [DataFast - 收入优先的网站分析工具](https://datafa.st/) — Marc Lou 打造的「收入优先」分析工具，把流量归因到真实付费用户。公开 MRR 约 $27K/月、服务 17,000+ 用户、追踪超 10 亿次页面浏览，Product Hunt 2026 第 5 周榜首（700+ 票）。  
   标签：Marc Lou / $27K MRR / 17k+ 用户 / PH 周榜 #1
+- [Siteline - AI Agent 流量分析层](https://siteline.ai) — 专为「智能体上网」时代打造的网站分析平台：追踪 OpenAI / Claude / Perplexity / Gemini 等 AI Agent 如何爬取你的站点、卡在哪里、引用了什么，并给出可执行的优化建议。Product Hunt 当日榜 #1（547 票），已被 1000+ 公司用于抢占 AI 搜索可见度。  
+  标签：PH #1 / 547 票 / AI Agent 分析 / 1000+ 公司
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -601,6 +603,8 @@
   标签：22K Star / 开源 Office / 协同表格 / dream-num
 - [Goldfish - Mac 上的本地 AI 记忆层](https://goldfish.sh) — 为 Mac 打造的私密 AI 记忆层，跨邮件 / Slack / 浏览器 / 编辑器记录工作上下文，按 Option 即以你的语气起草回复、总结与续写；Product Hunt 当日 Product of the Day（905+ 票），累计 39 万+ 次 Option 调用。  
   标签：PH 当日榜 / 905+ 票 / 本地记忆 / 39万+ 调用
+- [Site Spy - 把任意网页变成 RSS 监控源](https://sitespy.app) — 浏览器扩展 + 网页面板：监控任意页面的变化并以 diff 形式呈现，支持元素级精准追踪（只盯价格 / 库存 / 标题），变化即推送，还能把每个监控导出为 RSS、并开放 MCP 给 AI Agent。Hacker News 2026-03-11 登顶 320 分，是 Visualping / Distill 的轻量替代。  
+  标签：HN 320 分 / 元素级监控 / RSS 导出 / MCP
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1004,6 +1008,8 @@
   标签：Pieter Levels / Windows XP / 浏览器模拟 / 复古
 - [ppt-master - 文档一键生成专业 PPT](https://github.com/hugohe3/ppt-master) — GitHub 5.7 万+ Star 的开源神器：把文档或主题秒变带动画、图表、配音的原生 PowerPoint 演示文稿，彻底降低做汇报的门槛。长期霸榜 GitHub Trending，是 AI 生成演示内容领域人气最高的项目之一。  
   标签：57K Star / PPT 生成 / AI 演示 / 开源
+- [Tamamon - 随你写代码而成长的桌面宠物](https://tamamons.com/) — 独立开发者用 Claude Code 打造的 macOS / Windows 桌面宠物：读取本地 Claude Code 使用量，陪你从蛋孵化、成长、进化，20+ 物种可收集、含天气与昼夜反应、纯本地零上传。Product Hunt 2026-07-03 当日榜 #3（311 票），把编码时长变成一只会撒娇的伙伴。  
+  标签：PH #3 / 311 票 / Claude Code 宠物 / 纯本地
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1057,6 +1063,8 @@
   标签：PH #1 / 1,545 票 / $1.1B 融资 / 3000+ 会议
 - [TrendFeed - 把新闻变成短视频的 AI 印钞机](https://www.trendfeed.app/) — 非技术创始人 Sebastian Volkis 用 Claude 与 GPT-4 打造：从可信来源抓取热点新闻、评估爆款潜力，再用 AI 一键生成 TikTok / Instagram / YouTube Shorts。首月即达约 $10K MRR（约 7.2 万/月），22 位种子客户每人 249 英镑，证明“零工程背景也能做出赚钱产品”。  
   标签：$10K MRR/首月 / Claude + GPT-4 / 短视频生成 / 零工程背景
+- [Honestly - 把真实评价搬回商品页](https://usehonestly.com) — Chrome 扩展：在任意电商商品页直接聚合 Reddit / TikTok / YouTube / Instagram 上的真实用户评价，过滤赞助与 AI 水军，让购物决策不再被五星刷单误导。Product Hunt 2026-03-23 发布（298+ 票），已被大量 Shopify 品牌用于产品情报。  
+  标签：PH 发布 / 298+ 票 / 真实评价 / Chrome 扩展
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1155,6 +1163,8 @@
   标签：$12K/月 / 6 万下载 / 戒糖习惯 / App Store 健康榜
 - [Pep AI - GLP-1 肽类追踪 App](https://pepaiapp.com/) — 22 岁非科班创始人 Cedric Roberge 用 Replit + Claude 打造的 GLP-1 / 肽类追踪 App，记录剂量、库存、注射部位、睡眠与餐食。首月 $10K、数月冲到约 $60K MRR、App Store 该品类最火、累计 10 万+ 用户，靠约 100 人达人矩阵冷启动。  
   标签：$60K/月 MRR / 10 万+ 用户 / GLP-1 追踪 / 22 岁 solo
+- [Lovon - 会倾听的 AI 心理疗愈师](https://lovon.app) — 语音优先的 AI 心理咨询伴侣：与拥有 40+ 年临床经验的 PhD 心理学家联合打造，基于 CBT 与情绪聚焦疗法温柔挑战非理性想法，而非一味附和；端到端加密、绝不用于训练。Product Hunt 2026-02-14 情人节登顶当日榜 #1（534+ 票），已获 85 万美元种子轮。  
+  标签：PH #1 / 534+ 票 / $850K 种子轮 / 语音疗愈
 
 <a id="cat-社交社区" name="cat-社交社区"></a>
 
@@ -1194,6 +1204,8 @@
   标签：数字生命 / 语音陪伴 / 自托管 / 开源
 - [Stanley - 创作者的 AI 内容大脑](https://getstanley.ai) — Stan 两位创始人用 14 天 vibe coding 做出面向 LinkedIn / Instagram 的「AI Head of Content」，分析你历史内容、用你的语气写帖文。6 周做到 $200K ARR、现两版本合计约 $3M ARR，80,000+ 活跃用户，获 Business Insider / Yahoo 专题报道。  
   标签：$3M ARR / 14 天 vibe coding / 8万+ 用户 / BI 报道
+- [SuperX - 面向 X 创作者的增长操作系统](https://superx.so) — Tweet Hunter 原班人马打造的一站式 X（Twitter）增长工具：每日爆款灵感、趋势研究、用你的口吻 AI 改写、最佳时机排程发布、精准互动涨粉。Product Hunt 2026-02-09 当日热榜（714+ 票），已获 1400+ 创作者信赖（含 Dan Koe 等头部）。  
+  标签：PH 热榜 / 714+ 票 / 1400+ 创作者 / X 增长
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 
