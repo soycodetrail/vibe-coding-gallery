@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T10:48:46.008Z",
+  "updatedAt": "2026-10-03T22:58:28.224Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -8787,6 +8787,102 @@
       "icon": "radar",
       "bg": "linear-gradient(135deg, #485563 0%, #29323B 100%)",
       "tool": "网页监控 / MCP",
+      "hot": 0
+    },
+    {
+      "name": "20-0 - 10 周 3000 万次游玩的爆款网页游戏",
+      "desc": "Nick Baumeyer 用 Claude + Kimi「氛围编程」打造的网页游戏，上线 10 周即突破 220 万玩家、累计 3000 万次游玩、营收超 25 万美元，是 2026 年 Vibe Coding 游戏的现象级案例。",
+      "url": "https://gamerank.com",
+      "category": "游戏",
+      "tags": [
+        "220 万玩家",
+        "3000 万次游玩",
+        "$25 万营收",
+        "网页游戏"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #FF512F 0%, #F09819 100%)",
+      "tool": "Claude + Kimi",
+      "hot": 0
+    },
+    {
+      "name": "Chronicle 2.0 - 避开「AI 味」的 AI 演示文稿",
+      "desc": "Chronicle 把笔记 / 提示 / 已有幻灯片变成品牌一致、不像 AI 生成的高质量演示稿，靠对话式反复打磨成片。Product Hunt 周榜 #1（716-766 票），2026 年 AI 演示工具口碑之选。",
+      "url": "https://chroniclehq.com",
+      "category": "设计创意",
+      "tags": [
+        "PH 周榜 #1",
+        "716-766 票",
+        "品牌一致",
+        "对话式打磨"
+      ],
+      "icon": "presentation",
+      "bg": "linear-gradient(135deg, #4776E6 0%, #8E54E9 100%)",
+      "tool": "AI 演示 / 对话式",
+      "hot": 0
+    },
+    {
+      "name": "AdAnt AI - 给病毒式社媒广告当「Claude」",
+      "desc": "AdAnt AI 是一支创意 Agent 团队，研究 TikTok / Instagram / YouTube 爆款规律并生成高转化社媒广告。Product Hunt 2026-08-05 登顶（385-596 票），团队曾打造 5000 万+ 自然播放、平均降低 60% 获客成本。",
+      "url": "https://adant.ai",
+      "category": "电商营销",
+      "tags": [
+        "PH #1 或 #2",
+        "385-596 票",
+        "5000 万+ 播放",
+        "CAC -60%"
+      ],
+      "icon": "sparkles",
+      "bg": "linear-gradient(135deg, #F857A6 0%, #FF5858 100%)",
+      "tool": "Claude / AI 创意 Agent",
+      "hot": 0
+    },
+    {
+      "name": "OpenShip - 14.4K Star 的开源自托管部署平台",
+      "desc": "Oblien 开源的零配置 PaaS：git push 即部署，内置数据库 / 邮件 / 对象存储 / 备份，并开放 MCP 让 Claude、Cursor 等 Agent 直接部署与回滚；Apache-2.0，可自托管无锁定。GitHub 14.4K+ Star。",
+      "url": "https://openship.io",
+      "category": "AI 工具",
+      "tags": [
+        "14.4K+ Star",
+        "开源零配置",
+        "MCP 部署",
+        "无供应商锁定"
+      ],
+      "icon": "rocket",
+      "bg": "linear-gradient(135deg, #136A8A 0%, #267871 100%)",
+      "tool": "自托管 PaaS / MCP",
+      "hot": 0
+    },
+    {
+      "name": "Pexo - 一句话生成产品发布视频的 AI 视频 Agent",
+      "desc": "Pexo 把「对话式做视频」做到极致：丢入产品 / 网址 / 素材，它规划脚本、调度多模型生成并组装成片，点哪改哪不用时间轴。Product Hunt 当日登顶 #1，创始人 Evan Liao 称「vibe code 能造产品，为什么还要手剪视频」。",
+      "url": "https://pexo.ai",
+      "category": "设计创意",
+      "tags": [
+        "PH 当日 #1",
+        "对话式视频",
+        "多模型调度",
+        "品牌一致"
+      ],
+      "icon": "image",
+      "bg": "linear-gradient(135deg, #654EA3 0%, #EA66A6 100%)",
+      "tool": "AI 视频 Agent",
+      "hot": 0
+    },
+    {
+      "name": "OpenManus - 58.4K Star 的开源通用 AI Agent",
+      "desc": "MetaGPT 团队开源的通用 AI Agent 框架，把 Manus 的「给目标、自己拆任务、调工具执行」能力完全开源、可本地部署、接任意模型。GitHub 58.4K+ Star，是 2026 年最火的开源 Agent 项目之一。",
+      "url": "https://github.com/FoundationAgents/OpenManus",
+      "category": "Agent",
+      "tags": [
+        "58.4K+ Star",
+        "开源 Manus",
+        "本地部署",
+        "MetaGPT 团队"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #0F2027 0%, #203A43 100%)",
+      "tool": "开源通用 Agent",
       "hot": 0
     }
   ],

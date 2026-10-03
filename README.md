@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-03 10:48:46
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-03 22:58:28
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（567 个条目 / 15 个分类）
+## 📑 内容导航（573 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -295,6 +295,8 @@
   标签：PH #1 / 472 票 / 本地运行 / 终身免费
 - [Webhound - 按预算深挖的研究引擎](https://webhound.ai) — 为 Agent 打造的自主研究引擎：给定问题与预算，Agent 持续追链、交叉验证直到预算耗尽，输出带引用与置信度的报告 / 数据集；Product Hunt 408+ 票，支持 MCP / API 接入 Claude Code、Codex 等。  
   标签：PH 408+ 票 / 带引用 / MCP / API / 按需付费
+- [OpenShip - 14.4K Star 的开源自托管部署平台](https://openship.io) — Oblien 开源的零配置 PaaS：git push 即部署，内置数据库 / 邮件 / 对象存储 / 备份，并开放 MCP 让 Claude、Cursor 等 Agent 直接部署与回滚；Apache-2.0，可自托管无锁定。GitHub 14.4K+ Star。  
+  标签：14.4K+ Star / 开源零配置 / MCP 部署 / 无供应商锁定
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -448,6 +450,8 @@
   标签：86K Star / Agent 联网 / CLI / 开源
 - [Memmy - 让所有 AI 记住同一个你](https://memmy.bot) — 本地优先的开源跨 Agent 记忆中枢：扫描 Cursor / Claude Code / Codex 等对话历史，整理为可检索记忆，切换工具时自动注入相关上下文；Product Hunt 412+ 票，免费且开源。  
   标签：PH 412+ 票 / 开源 / 本地优先 / 跨 Agent
+- [OpenManus - 58.4K Star 的开源通用 AI Agent](https://github.com/FoundationAgents/OpenManus) — MetaGPT 团队开源的通用 AI Agent 框架，把 Manus 的「给目标、自己拆任务、调工具执行」能力完全开源、可本地部署、接任意模型。GitHub 58.4K+ Star，是 2026 年最火的开源 Agent 项目之一。  
+  标签：58.4K+ Star / 开源 Manus / 本地部署 / MetaGPT 团队
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -754,6 +758,8 @@
   标签：沙盒克隆 / P2P 多人 / Minecraft-like / Vibe Coding
 - [WW2 Dogfight Arena](https://fly.zullo.fun) — Nicolas Zullo 用 AI vibe coding 打造的二战空战竞技网页游戏：首周即吸引 45,000+ 玩家、X 平台曝光 150 万+，月入约 €2K，是单人开发者用 AI 快速做出高人气实时多人游戏的代表。  
   标签：二战空战 / 实时多人 / 单人开发 / Vibe Coding
+- [20-0 - 10 周 3000 万次游玩的爆款网页游戏](https://gamerank.com) — Nick Baumeyer 用 Claude + Kimi「氛围编程」打造的网页游戏，上线 10 周即突破 220 万玩家、累计 3000 万次游玩、营收超 25 万美元，是 2026 年 Vibe Coding 游戏的现象级案例。  
+  标签：220 万玩家 / 3000 万次游玩 / $25 万营收 / 网页游戏
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -1010,6 +1016,10 @@
   标签：57K Star / PPT 生成 / AI 演示 / 开源
 - [Tamamon - 随你写代码而成长的桌面宠物](https://tamamons.com/) — 独立开发者用 Claude Code 打造的 macOS / Windows 桌面宠物：读取本地 Claude Code 使用量，陪你从蛋孵化、成长、进化，20+ 物种可收集、含天气与昼夜反应、纯本地零上传。Product Hunt 2026-07-03 当日榜 #3（311 票），把编码时长变成一只会撒娇的伙伴。  
   标签：PH #3 / 311 票 / Claude Code 宠物 / 纯本地
+- [Chronicle 2.0 - 避开「AI 味」的 AI 演示文稿](https://chroniclehq.com) — Chronicle 把笔记 / 提示 / 已有幻灯片变成品牌一致、不像 AI 生成的高质量演示稿，靠对话式反复打磨成片。Product Hunt 周榜 #1（716-766 票），2026 年 AI 演示工具口碑之选。  
+  标签：PH 周榜 #1 / 716-766 票 / 品牌一致 / 对话式打磨
+- [Pexo - 一句话生成产品发布视频的 AI 视频 Agent](https://pexo.ai) — Pexo 把「对话式做视频」做到极致：丢入产品 / 网址 / 素材，它规划脚本、调度多模型生成并组装成片，点哪改哪不用时间轴。Product Hunt 当日登顶 #1，创始人 Evan Liao 称「vibe code 能造产品，为什么还要手剪视频」。  
+  标签：PH 当日 #1 / 对话式视频 / 多模型调度 / 品牌一致
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1065,6 +1075,8 @@
   标签：$10K MRR/首月 / Claude + GPT-4 / 短视频生成 / 零工程背景
 - [Honestly - 把真实评价搬回商品页](https://usehonestly.com) — Chrome 扩展：在任意电商商品页直接聚合 Reddit / TikTok / YouTube / Instagram 上的真实用户评价，过滤赞助与 AI 水军，让购物决策不再被五星刷单误导。Product Hunt 2026-03-23 发布（298+ 票），已被大量 Shopify 品牌用于产品情报。  
   标签：PH 发布 / 298+ 票 / 真实评价 / Chrome 扩展
+- [AdAnt AI - 给病毒式社媒广告当「Claude」](https://adant.ai) — AdAnt AI 是一支创意 Agent 团队，研究 TikTok / Instagram / YouTube 爆款规律并生成高转化社媒广告。Product Hunt 2026-08-05 登顶（385-596 票），团队曾打造 5000 万+ 自然播放、平均降低 60% 获客成本。  
+  标签：PH #1 或 #2 / 385-596 票 / 5000 万+ 播放 / CAC -60%
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
