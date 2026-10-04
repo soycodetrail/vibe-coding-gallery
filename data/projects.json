@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T17:13:03.955Z",
+  "updatedAt": "2026-10-04T23:17:02.424Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -8883,6 +8883,118 @@
       "icon": "bot",
       "bg": "linear-gradient(135deg, #0F2027 0%, #203A43 100%)",
       "tool": "开源通用 Agent",
+      "hot": 0
+    },
+    {
+      "name": "Google AX - 开源 Agent 编排运行时",
+      "desc": "Google 2026-09 开源的 Agentic 编排运行时，用声明式配置管理数十亿级 AI Agent 的调度与沙箱隔离；上线即登顶 GitHub Trending（单日 +2.3k Star），GitHub 1.3 万+ Star，被业界称作「AI Agent 的 Kubernetes」。",
+      "url": "https://github.com/google/ax",
+      "category": "Agent",
+      "tags": [
+        "13K Star",
+        "GitHub Trending",
+        "Agent 编排",
+        "开源"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #08AEEA 0%, #1FD1F9 100%)",
+      "tool": "Google 开源 / Go",
+      "hot": 0
+    },
+    {
+      "name": "BrowserSkill - 让 AI Agent 用上你的真浏览器",
+      "desc": "腾讯开源的浏览器自动化工具：让 AI Agent 直接操控你已登录的真实浏览器（CLI + 扩展），跨任意 shell-capable Agent 自动化网页任务且不打断你的工作；上线即登顶 GitHub Trending（单日 +1.3k Star），GitHub 8.1K+ Star。",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "category": "AI 工具",
+      "tags": [
+        "8.1K Star",
+        "GitHub Trending",
+        "浏览器自动化",
+        "开源"
+      ],
+      "icon": "mouse-pointer",
+      "bg": "linear-gradient(135deg, #FF5F6D 0%, #FFC371 100%)",
+      "tool": "Tencent 开源 / TypeScript",
+      "hot": 0
+    },
+    {
+      "name": "OpenShell - 给自主 Agent 的安全运行时",
+      "desc": "NVIDIA 开源的自主 AI Agent 安全运行时，把 Agent 隔离在你的重要数据与系统之外、按需授予权限，让 Agent 可放心部署；GitHub 1.5 万+ Star，是「Agent 安全边界」的代表作。",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "category": "Agent",
+      "tags": [
+        "15K Star",
+        "Agent 安全",
+        "沙箱隔离",
+        "开源"
+      ],
+      "icon": "shield",
+      "bg": "linear-gradient(135deg, #24C6DC 0%, #514A9D 100%)",
+      "tool": "NVIDIA 开源 / Rust",
+      "hot": 0
+    },
+    {
+      "name": "Tinycast - 原生 macOS 启动器",
+      "desc": "全原生 macOS 启动器：极速唤起 App、全局热键、剪贴板历史一站式搞定，无 electron、零卡顿；上线即登顶 GitHub Trending（单日 +1k Star），GitHub 8K+ Star，被独立开发者圈疯传。",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "category": "效率工具",
+      "tags": [
+        "8K Star",
+        "GitHub Trending",
+        "macOS 启动器",
+        "原生"
+      ],
+      "icon": "command",
+      "bg": "linear-gradient(135deg, #F37335 0%, #9D50BB 100%)",
+      "tool": "开源 / Swift",
+      "hot": 0
+    },
+    {
+      "name": "Atlas - 给 Coding Agent 的版本控制",
+      "desc": "为多个 Coding Agent 打造的「源代码控制」：跟踪每个 Agent 的决策与改动、统一查询与评审，让人类轻松审查 Agent 产出的代码；GitHub Trending 单日 +895 Star，GitHub 9K+ Star。",
+      "url": "https://github.com/pacifio/atlas",
+      "category": "Agent",
+      "tags": [
+        "9K Star",
+        "GitHub Trending",
+        "Agent 版本控制",
+        "代码评审"
+      ],
+      "icon": "git-branch",
+      "bg": "linear-gradient(135deg, #5B247A 0%, #1BD1C1 100%)",
+      "tool": "开源 / Rust",
+      "hot": 0
+    },
+    {
+      "name": "Security Audit Skill - 给 Coding Agent 的安全审计",
+      "desc": "Cloudflare 开源的 coding-agent 安全审计技能：多阶段自动审计并产出机器可读、独立验证的发现，直接嵌入 Claude Code / Codex 等工作流；GitHub Trending 单日 +1.2k Star，GitHub 2.4 万+ Star。",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "category": "AI 工具",
+      "tags": [
+        "24K Star",
+        "GitHub Trending",
+        "安全审计",
+        "开源"
+      ],
+      "icon": "shield-check",
+      "bg": "linear-gradient(135deg, #FF61D2 0%, #FE9090 100%)",
+      "tool": "Cloudflare 开源 / JavaScript",
+      "hot": 0
+    },
+    {
+      "name": "DroneSim - 浏览器里的 FPV 无人机空战",
+      "desc": "Pieter Levels（@levelsio，千万粉丝独立黑客）用 AI「氛围编程」打造的 FPV 无人机空战模拟 MMO：在浏览器里驾驶无人机、组队空战、实时多人联网，是其 Vibe Jam 2026 参赛代表作，上线即在极客圈 viral。",
+      "url": "https://dronesim.com",
+      "category": "游戏",
+      "tags": [
+        "Pieter Levels",
+        "FPV 无人机",
+        "多人空战",
+        "Vibe Jam 2026"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #B621FE 0%, #00FF87 100%)",
+      "tool": "AI 辅助 / Pieter Levels",
       "hot": 0
     }
   ],

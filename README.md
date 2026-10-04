@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-04 17:13:03
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-04 23:17:02
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（573 个条目 / 15 个分类）
+## 📑 内容导航（580 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -297,6 +297,10 @@
   标签：PH 408+ 票 / 带引用 / MCP / API / 按需付费
 - [OpenShip - 14.4K Star 的开源自托管部署平台](https://openship.io) — Oblien 开源的零配置 PaaS：git push 即部署，内置数据库 / 邮件 / 对象存储 / 备份，并开放 MCP 让 Claude、Cursor 等 Agent 直接部署与回滚；Apache-2.0，可自托管无锁定。GitHub 14.4K+ Star。  
   标签：14.4K+ Star / 开源零配置 / MCP 部署 / 无供应商锁定
+- [BrowserSkill - 让 AI Agent 用上你的真浏览器](https://github.com/Tencent/BrowserSkill) — 腾讯开源的浏览器自动化工具：让 AI Agent 直接操控你已登录的真实浏览器（CLI + 扩展），跨任意 shell-capable Agent 自动化网页任务且不打断你的工作；上线即登顶 GitHub Trending（单日 +1.3k Star），GitHub 8.1K+ Star。  
+  标签：8.1K Star / GitHub Trending / 浏览器自动化 / 开源
+- [Security Audit Skill - 给 Coding Agent 的安全审计](https://github.com/cloudflare/security-audit-skill) — Cloudflare 开源的 coding-agent 安全审计技能：多阶段自动审计并产出机器可读、独立验证的发现，直接嵌入 Claude Code / Codex 等工作流；GitHub Trending 单日 +1.2k Star，GitHub 2.4 万+ Star。  
+  标签：24K Star / GitHub Trending / 安全审计 / 开源
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -452,6 +456,12 @@
   标签：PH 412+ 票 / 开源 / 本地优先 / 跨 Agent
 - [OpenManus - 58.4K Star 的开源通用 AI Agent](https://github.com/FoundationAgents/OpenManus) — MetaGPT 团队开源的通用 AI Agent 框架，把 Manus 的「给目标、自己拆任务、调工具执行」能力完全开源、可本地部署、接任意模型。GitHub 58.4K+ Star，是 2026 年最火的开源 Agent 项目之一。  
   标签：58.4K+ Star / 开源 Manus / 本地部署 / MetaGPT 团队
+- [Google AX - 开源 Agent 编排运行时](https://github.com/google/ax) — Google 2026-09 开源的 Agentic 编排运行时，用声明式配置管理数十亿级 AI Agent 的调度与沙箱隔离；上线即登顶 GitHub Trending（单日 +2.3k Star），GitHub 1.3 万+ Star，被业界称作「AI Agent 的 Kubernetes」。  
+  标签：13K Star / GitHub Trending / Agent 编排 / 开源
+- [OpenShell - 给自主 Agent 的安全运行时](https://github.com/NVIDIA/OpenShell) — NVIDIA 开源的自主 AI Agent 安全运行时，把 Agent 隔离在你的重要数据与系统之外、按需授予权限，让 Agent 可放心部署；GitHub 1.5 万+ Star，是「Agent 安全边界」的代表作。  
+  标签：15K Star / Agent 安全 / 沙箱隔离 / 开源
+- [Atlas - 给 Coding Agent 的版本控制](https://github.com/pacifio/atlas) — 为多个 Coding Agent 打造的「源代码控制」：跟踪每个 Agent 的决策与改动、统一查询与评审，让人类轻松审查 Agent 产出的代码；GitHub Trending 单日 +895 Star，GitHub 9K+ Star。  
+  标签：9K Star / GitHub Trending / Agent 版本控制 / 代码评审
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -609,6 +619,8 @@
   标签：PH 当日榜 / 905+ 票 / 本地记忆 / 39万+ 调用
 - [Site Spy - 把任意网页变成 RSS 监控源](https://sitespy.app) — 浏览器扩展 + 网页面板：监控任意页面的变化并以 diff 形式呈现，支持元素级精准追踪（只盯价格 / 库存 / 标题），变化即推送，还能把每个监控导出为 RSS、并开放 MCP 给 AI Agent。Hacker News 2026-03-11 登顶 320 分，是 Visualping / Distill 的轻量替代。  
   标签：HN 320 分 / 元素级监控 / RSS 导出 / MCP
+- [Tinycast - 原生 macOS 启动器](https://github.com/abue-ammar/tinycast) — 全原生 macOS 启动器：极速唤起 App、全局热键、剪贴板历史一站式搞定，无 electron、零卡顿；上线即登顶 GitHub Trending（单日 +1k Star），GitHub 8K+ Star，被独立开发者圈疯传。  
+  标签：8K Star / GitHub Trending / macOS 启动器 / 原生
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -760,6 +772,8 @@
   标签：二战空战 / 实时多人 / 单人开发 / Vibe Coding
 - [20-0 - 10 周 3000 万次游玩的爆款网页游戏](https://gamerank.com) — Nick Baumeyer 用 Claude + Kimi「氛围编程」打造的网页游戏，上线 10 周即突破 220 万玩家、累计 3000 万次游玩、营收超 25 万美元，是 2026 年 Vibe Coding 游戏的现象级案例。  
   标签：220 万玩家 / 3000 万次游玩 / $25 万营收 / 网页游戏
+- [DroneSim - 浏览器里的 FPV 无人机空战](https://dronesim.com) — Pieter Levels（@levelsio，千万粉丝独立黑客）用 AI「氛围编程」打造的 FPV 无人机空战模拟 MMO：在浏览器里驾驶无人机、组队空战、实时多人联网，是其 Vibe Jam 2026 参赛代表作，上线即在极客圈 viral。  
+  标签：Pieter Levels / FPV 无人机 / 多人空战 / Vibe Jam 2026
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
