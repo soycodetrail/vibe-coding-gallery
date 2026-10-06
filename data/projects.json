@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T19:11:19.109Z",
+  "updatedAt": "2026-10-06T01:29:07.177Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -8995,6 +8995,81 @@
       "icon": "gamepad-2",
       "bg": "linear-gradient(135deg, #B621FE 0%, #00FF87 100%)",
       "tool": "AI 辅助 / Pieter Levels",
+      "hot": 0
+    },
+    {
+      "name": "Archify - 把想法/代码变成交互式架构图",
+      "desc": "tt-a1i 开源的 Agent 技能：一句指令把想法、计划或代码库渲染成精美交互式架构图，支持 Claude Code、Codex 等主流编码 Agent；GitHub 7.8 万+ Star、GitHub Trending 周榜前三，是「架构即编译产物」的现象级代表。",
+      "url": "https://tt-a1i.github.io/archify/",
+      "category": "设计创意",
+      "tags": [
+        "7.8万 Star",
+        "代码转架构图",
+        "Agent 技能"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #642B73 0%, #C6426E 100%)",
+      "tool": "tt-a1i 开源 / Claude Code 技能",
+      "hot": 0
+    },
+    {
+      "name": "HyperFrames - 写 HTML 渲染视频",
+      "desc": "HeyGen 开源的「为 Agent 而生」视频渲染框架：用 HTML/CSS 描述画面、自动渲染成高清视频，内置 GSAP / Puppeteer / FFmpeg；GitHub 5.7 万+ Star、GitHub Trending 周榜，把网页直接变成可投放的视频资产。",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "category": "设计创意",
+      "tags": [
+        "5.7万 Star",
+        "HTML 转视频",
+        "HeyGen"
+      ],
+      "icon": "video",
+      "bg": "linear-gradient(135deg, #FC5C7C 0%, #6A82FB 100%)",
+      "tool": "HeyGen 开源 / TypeScript",
+      "hot": 0
+    },
+    {
+      "name": "Matt Pocock Skills - 真工程师的 Agent 技能包",
+      "desc": "TypeScript 布道者 Matt Pocock 开源的编码 Agent 技能合集（直接来自他的 .agents 目录），覆盖测试、重构、类型安全与代码评审；GitHub 27.7 万+ Star、GitHub Trending 周榜前列，被奉为「真工程师」的标配技能库。",
+      "url": "https://github.com/mattpocock/skills",
+      "category": "AI 工具",
+      "tags": [
+        "27.7万 Star",
+        "工程技能包",
+        "Claude Code"
+      ],
+      "icon": "file-code",
+      "bg": "linear-gradient(135deg, #4E54C8 0%, #8F94FB 100%)",
+      "tool": "Matt Pocock 开源 / Shell",
+      "hot": 0
+    },
+    {
+      "name": "i-have-adhd - 让 Agent 别把答案埋起来",
+      "desc": "ayghri 开源的 ADHD 友好型 Agent 输出技能：强制编码 Agent 把关键结论、答案与下一步直接亮在显眼处，而不是藏进冗长输出里；GitHub 5.4 万+ Star、GitHub Trending 周榜第一，解决「答案被埋」的普遍痛点。",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "category": "效率工具",
+      "tags": [
+        "5.4万 Star",
+        "Agent 输出",
+        "ADHD 友好"
+      ],
+      "icon": "brain",
+      "bg": "linear-gradient(135deg, #ED213A 0%, #93291E 100%)",
+      "tool": "ayghri 开源 / Python",
+      "hot": 0
+    },
+    {
+      "name": "Humanizer - 抹掉 AI 写作痕迹",
+      "desc": "blader 开源的 Agent 技能：自动去除文本中的「AI 味」，让 AI 生成内容读起来像人写的一样自然，支持 Claude Code、Codex、Cursor 等；GitHub 5.4 万+ Star、GitHub Trending 周榜，是内容创作者的润色利器。",
+      "url": "https://github.com/blader/humanizer",
+      "category": "AI 工具",
+      "tags": [
+        "5.4万 Star",
+        "去 AI 味",
+        "写作润色"
+      ],
+      "icon": "feather",
+      "bg": "linear-gradient(135deg, #5F72BD 0%, #9B23EA 100%)",
+      "tool": "blader 开源 / Python",
       "hot": 0
     }
   ],

@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-05 19:11:19
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-06 01:29:07
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（580 个条目 / 15 个分类）
+## 📑 内容导航（585 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -301,6 +301,10 @@
   标签：8.1K Star / GitHub Trending / 浏览器自动化 / 开源
 - [Security Audit Skill - 给 Coding Agent 的安全审计](https://github.com/cloudflare/security-audit-skill) — Cloudflare 开源的 coding-agent 安全审计技能：多阶段自动审计并产出机器可读、独立验证的发现，直接嵌入 Claude Code / Codex 等工作流；GitHub Trending 单日 +1.2k Star，GitHub 2.4 万+ Star。  
   标签：24K Star / GitHub Trending / 安全审计 / 开源
+- [Matt Pocock Skills - 真工程师的 Agent 技能包](https://github.com/mattpocock/skills) — TypeScript 布道者 Matt Pocock 开源的编码 Agent 技能合集（直接来自他的 .agents 目录），覆盖测试、重构、类型安全与代码评审；GitHub 27.7 万+ Star、GitHub Trending 周榜前列，被奉为「真工程师」的标配技能库。  
+  标签：27.7万 Star / 工程技能包 / Claude Code
+- [Humanizer - 抹掉 AI 写作痕迹](https://github.com/blader/humanizer) — blader 开源的 Agent 技能：自动去除文本中的「AI 味」，让 AI 生成内容读起来像人写的一样自然，支持 Claude Code、Codex、Cursor 等；GitHub 5.4 万+ Star、GitHub Trending 周榜，是内容创作者的润色利器。  
+  标签：5.4万 Star / 去 AI 味 / 写作润色
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -621,6 +625,8 @@
   标签：HN 320 分 / 元素级监控 / RSS 导出 / MCP
 - [Tinycast - 原生 macOS 启动器](https://github.com/abue-ammar/tinycast) — 全原生 macOS 启动器：极速唤起 App、全局热键、剪贴板历史一站式搞定，无 electron、零卡顿；上线即登顶 GitHub Trending（单日 +1k Star），GitHub 8K+ Star，被独立开发者圈疯传。  
   标签：8K Star / GitHub Trending / macOS 启动器 / 原生
+- [i-have-adhd - 让 Agent 别把答案埋起来](https://github.com/ayghri/i-have-adhd) — ayghri 开源的 ADHD 友好型 Agent 输出技能：强制编码 Agent 把关键结论、答案与下一步直接亮在显眼处，而不是藏进冗长输出里；GitHub 5.4 万+ Star、GitHub Trending 周榜第一，解决「答案被埋」的普遍痛点。  
+  标签：5.4万 Star / Agent 输出 / ADHD 友好
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1034,6 +1040,10 @@
   标签：PH 周榜 #1 / 716-766 票 / 品牌一致 / 对话式打磨
 - [Pexo - 一句话生成产品发布视频的 AI 视频 Agent](https://pexo.ai) — Pexo 把「对话式做视频」做到极致：丢入产品 / 网址 / 素材，它规划脚本、调度多模型生成并组装成片，点哪改哪不用时间轴。Product Hunt 当日登顶 #1，创始人 Evan Liao 称「vibe code 能造产品，为什么还要手剪视频」。  
   标签：PH 当日 #1 / 对话式视频 / 多模型调度 / 品牌一致
+- [Archify - 把想法/代码变成交互式架构图](https://tt-a1i.github.io/archify/) — tt-a1i 开源的 Agent 技能：一句指令把想法、计划或代码库渲染成精美交互式架构图，支持 Claude Code、Codex 等主流编码 Agent；GitHub 7.8 万+ Star、GitHub Trending 周榜前三，是「架构即编译产物」的现象级代表。  
+  标签：7.8万 Star / 代码转架构图 / Agent 技能
+- [HyperFrames - 写 HTML 渲染视频](https://github.com/heygen-com/hyperframes) — HeyGen 开源的「为 Agent 而生」视频渲染框架：用 HTML/CSS 描述画面、自动渲染成高清视频，内置 GSAP / Puppeteer / FFmpeg；GitHub 5.7 万+ Star、GitHub Trending 周榜，把网页直接变成可投放的视频资产。  
+  标签：5.7万 Star / HTML 转视频 / HeyGen
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
