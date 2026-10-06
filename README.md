@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-06 14:23:08
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-06 22:39:51
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（585 个条目 / 15 个分类）
+## 📑 内容导航（590 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -305,6 +305,10 @@
   标签：27.7万 Star / 工程技能包 / Claude Code
 - [Humanizer - 抹掉 AI 写作痕迹](https://github.com/blader/humanizer) — blader 开源的 Agent 技能：自动去除文本中的「AI 味」，让 AI 生成内容读起来像人写的一样自然，支持 Claude Code、Codex、Cursor 等；GitHub 5.4 万+ Star、GitHub Trending 周榜，是内容创作者的润色利器。  
   标签：5.4万 Star / 去 AI 味 / 写作润色
+- [Unlimited-OCR - 百度新一代长文档 OCR](https://github.com/baidu/Unlimited-OCR) — 百度开源的新一代 OCR 系统，主打「一次性长文档解析（one-shot long-horizon parsing）」，把超长文档的识别与结构化做到极致；GitHub 2.6 万+ Star，工业级中文 OCR 标杆。  
+  标签：2.6万 Star / OCR / 长文档解析
+- [OpenWiki - 给代码库自动写「AI 友好」文档](https://github.com/langchain-ai/openwiki) — LangChain 团队开源的 CLI：自动为你的代码库生成并持续维护「AI 友好」的文档，让编码 Agent 更易读懂项目上下文；GitHub 1.7 万+ Star，Agent 时代文档新基建。  
+  标签：1.7万 Star / 文档生成 / LangChain
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -466,6 +470,8 @@
   标签：15K Star / Agent 安全 / 沙箱隔离 / 开源
 - [Atlas - 给 Coding Agent 的版本控制](https://github.com/pacifio/atlas) — 为多个 Coding Agent 打造的「源代码控制」：跟踪每个 Agent 的决策与改动、统一查询与评审，让人类轻松审查 Agent 产出的代码；GitHub Trending 单日 +895 Star，GitHub 9K+ Star。  
   标签：9K Star / GitHub Trending / Agent 版本控制 / 代码评审
+- [Codebase Memory MCP - 给编码 Agent 的代码知识图谱](https://github.com/DeusData/codebase-memory-mcp) — DeusData 开源的高性能代码智能 MCP 服务器：把代码库索引成持久知识图谱（覆盖 158 种语言、毫秒级查询、省下 99% token），单静态二进制零依赖；GitHub 4.5 万+ Star，GitHub Trending 常客。  
+  标签：4.5万 Star / 代码智能 / MCP
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -949,6 +955,8 @@
   标签：37K Star / 多智能体 / AI 教育 / 清华开源
 - [SoundGate - 实时反馈的 AI 吉他导师](https://soundgate.ai) — 会「听」你弹奏的 AI 吉他陪练：零延迟音高检测、互动指板实时纠错，内置 AI 导师定制练习计划；Product Hunt 当日榜 #2（441+ 票），已上架 App Store（iPhone / iPad / Mac）。  
   标签：PH #2 / 441+ 票 / 实时纠错 / App Store
+- [AI Engineering from Scratch - 从零系统学 AI 工程](https://github.com/rohitg00/ai-engineering-from-scratch) — rohitg00 开源的 AI 工程自学课程：从数学、机器学习到生产级 LLM 应用，手把手带你从零构建并上线真实系统；GitHub 6.5 万+ Star，被全球开发者奉为「AI 工程师」入门圣经。  
+  标签：6.5万 Star / AI 工程 / 开源课程
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1044,6 +1052,8 @@
   标签：7.8万 Star / 代码转架构图 / Agent 技能
 - [HyperFrames - 写 HTML 渲染视频](https://github.com/heygen-com/hyperframes) — HeyGen 开源的「为 Agent 而生」视频渲染框架：用 HTML/CSS 描述画面、自动渲染成高清视频，内置 GSAP / Puppeteer / FFmpeg；GitHub 5.7 万+ Star、GitHub Trending 周榜，把网页直接变成可投放的视频资产。  
   标签：5.7万 Star / HTML 转视频 / HeyGen
+- [Hallmark - 反 AI 味的抗 slop 设计技能包](https://github.com/Nutlope/hallmark) — 知名独立 AI 开发者 Nutlope 开源的「反 AI-slop」设计技能包：给 Claude Code / Cursor / Codex 一套设计准则，杜绝千篇一律的 AI 生成审美，让产物更有设计感；GitHub 2.9 万+ Star。  
+  标签：2.9万 Star / 抗 AI 味 / 设计
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
