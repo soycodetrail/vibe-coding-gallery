@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T11:32:50.283Z",
+  "updatedAt": "2026-10-08T12:54:32.859Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -9073,78 +9073,93 @@
       "hot": 0
     },
     {
-      "name": "AI Engineering from Scratch - 从零系统学 AI 工程",
-      "desc": "rohitg00 开源的 AI 工程自学课程：从数学、机器学习到生产级 LLM 应用，手把手带你从零构建并上线真实系统；GitHub 6.5 万+ Star，被全球开发者奉为「AI 工程师」入门圣经。",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "category": "教育学习",
-      "tags": [
-        "6.5万 Star",
-        "AI 工程",
-        "开源课程"
-      ],
-      "icon": "book-open",
-      "bg": "linear-gradient(135deg, #2E3192 0%, #1BFFFF 100%)",
-      "tool": "开源 / 课程",
-      "hot": 0
-    },
-    {
-      "name": "Unlimited-OCR - 百度新一代长文档 OCR",
-      "desc": "百度开源的新一代 OCR 系统，主打「一次性长文档解析（one-shot long-horizon parsing）」，把超长文档的识别与结构化做到极致；GitHub 2.6 万+ Star，工业级中文 OCR 标杆。",
-      "url": "https://github.com/baidu/Unlimited-OCR",
+      "name": "Rill 浏览器 - 让 Claude Code/Codex 住进浏览器",
+      "desc": "Product Hunt 2026-10-06 当日榜首（411 票）的 AI 原生 Mac 浏览器：按下 ⌘E 把正在看的网页直接变成编码 Agent 的任务，Agent 在后台并行干活、自动归档标签页与项目地图。免费，复用你已有的 Claude Code / Codex 订阅，上线即引爆开发者圈。",
+      "url": "https://rill.love",
       "category": "AI 工具",
       "tags": [
-        "2.6万 Star",
-        "OCR",
-        "长文档解析"
+        "Product Hunt 榜首",
+        "AI 原生浏览器",
+        "Claude Code"
       ],
-      "icon": "scan-text",
-      "bg": "linear-gradient(135deg, #093028 0%, #237A57 100%)",
-      "tool": "百度开源 / Python",
+      "icon": "globe",
+      "bg": "linear-gradient(135deg, #363795 0%, #005c97 100%)",
+      "tool": "William Gao / WebKit + Claude Code",
       "hot": 0
     },
     {
-      "name": "Codebase Memory MCP - 给编码 Agent 的代码知识图谱",
-      "desc": "DeusData 开源的高性能代码智能 MCP 服务器：把代码库索引成持久知识图谱（覆盖 158 种语言、毫秒级查询、省下 99% token），单静态二进制零依赖；GitHub 4.5 万+ Star，GitHub Trending 常客。",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "category": "Agent",
+      "name": "Universal Modder - 让 AI 编码 Agent 给任何游戏做模组",
+      "desc": "GitHub 5.2k+ Star、连续多日登上 GitHub Trending 的 AI 游戏模组工具集：为 Claude Code / Codex / Cursor 等 Agent 提供技能、工具与共享知识库，自动识别游戏引擎、读取源码、生成美术/3D/音频、在游戏中实测并录制视频，把做模组全流程自动化。",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "category": "游戏",
       "tags": [
-        "4.5万 Star",
-        "代码智能",
-        "MCP"
+        "5.2k Star",
+        "AI 游戏模组",
+        "Agent 技能"
       ],
-      "icon": "network",
-      "bg": "linear-gradient(135deg, #5C258D 0%, #4389A2 100%)",
-      "tool": "DeusData 开源 / MCP",
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #3e515e 0%, #decba5 100%)",
+      "tool": "rehan-remade 开源 / Python",
       "hot": 0
     },
     {
-      "name": "OpenWiki - 给代码库自动写「AI 友好」文档",
-      "desc": "LangChain 团队开源的 CLI：自动为你的代码库生成并持续维护「AI 友好」的文档，让编码 Agent 更易读懂项目上下文；GitHub 1.7 万+ Star，Agent 时代文档新基建。",
-      "url": "https://github.com/langchain-ai/openwiki",
-      "category": "AI 工具",
-      "tags": [
-        "1.7万 Star",
-        "文档生成",
-        "LangChain"
-      ],
-      "icon": "book",
-      "bg": "linear-gradient(135deg, #1F4037 0%, #99F2C0 100%)",
-      "tool": "LangChain 开源 / TypeScript",
-      "hot": 0
-    },
-    {
-      "name": "Hallmark - 反 AI 味的抗 slop 设计技能包",
-      "desc": "知名独立 AI 开发者 Nutlope 开源的「反 AI-slop」设计技能包：给 Claude Code / Cursor / Codex 一套设计准则，杜绝千篇一律的 AI 生成审美，让产物更有设计感；GitHub 2.9 万+ Star。",
-      "url": "https://github.com/Nutlope/hallmark",
+      "name": "ReelMimic - 给参考视频一键复刻同款风格",
+      "desc": "GitHub 1.7k+ Star 的本地 AI 视频工具：丢入一段参考视频 + 一句话，自动拆解镜头节奏/转场/配色，由最多 6 个 Agent 并行生成、各自审查，输出同风格全新 2D 动画（水彩/像素/动漫等 7 种画风）。2026-09 上线即登 GitHub Trending。",
+      "url": "https://github.com/edenfunf/reelmimic",
       "category": "设计创意",
       "tags": [
-        "2.9万 Star",
-        "抗 AI 味",
-        "设计"
+        "1.7k Star",
+        "AI 视频",
+        "风格复刻"
       ],
-      "icon": "palette",
-      "bg": "linear-gradient(135deg, #C94B4B 0%, #4B134F 100%)",
-      "tool": "Nutlope 开源 / 设计技能",
+      "icon": "video",
+      "bg": "linear-gradient(135deg, #1d2671 0%, #c33764 100%)",
+      "tool": "edenfunf 开源 / Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "OpenBot - 开源版 Grok Bot 式 AI 同事平台",
+      "desc": "CopilotKit 开源的 AI 同事平台，GitHub 6.1k+ Star、Product Hunt 10 月榜单第 2（341 票）：每个 Agent 拥有独立浏览器/文件/Shell 与审计网关，支持任意 AG-UI Agent（LangGraph、CrewAI 等），MIT 协议可自托管，是 AI 数字员工最完整的开源实现之一。",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "category": "Agent",
+      "tags": [
+        "6.1k Star",
+        "AI 同事",
+        "MIT 自托管"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #536976 0%, #292e49 100%)",
+      "tool": "CopilotKit 开源 / TypeScript",
+      "hot": 0
+    },
+    {
+      "name": "Coucou - 蹲在 Mac 刘海里的 Claude Code 监工",
+      "desc": "GitHub 4k+ Star 的桌面小工具：一只卡通小猫驻留在 Mac notch/顶部，逐步监控 Claude Code 会话、用一键点选批准或拒绝权限请求，无需离开当前工作流。Swift/SwiftUI + Tauri 实现，是 vibe coding 党最爱摸鱼监工。",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "category": "效率工具",
+      "tags": [
+        "4k Star",
+        "Claude Code 监工",
+        "macOS 小组件"
+      ],
+      "icon": "monitor",
+      "bg": "linear-gradient(135deg, #2c3e50 0%, #bdc3c7 100%)",
+      "tool": "Louis-CFM 开源 / Swift + Tauri",
+      "hot": 0
+    },
+    {
+      "name": "Strata - 一键在单张游戏显卡上跑 125B 大模型",
+      "desc": "GitHub 17k+ Star 的一键安装器：把通常需要服务器的 1250 亿参数模型（Qwen3.8-Flash-Next）装到一张 12–24GB 显存的游戏显卡上，本地提供 OpenAI 兼容 API，自测 60–95 tokens/s。2026-10 连续登上 GitHub Trending，是本地大模型玩家的装机必备。",
+      "url": "https://github.com/Niko1221/Strata",
+      "category": "AI 工具",
+      "tags": [
+        "17k Star",
+        "本地大模型",
+        "一键安装"
+      ],
+      "icon": "cpu",
+      "bg": "linear-gradient(135deg, #1c1c1c 0%, #494949 100%)",
+      "tool": "Niko1221 开源 / Bash",
       "hot": 0
     }
   ],
