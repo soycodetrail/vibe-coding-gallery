@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T19:00:18.863Z",
+  "updatedAt": "2026-10-09T13:39:06.413Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -9160,6 +9160,96 @@
       "icon": "cpu",
       "bg": "linear-gradient(135deg, #1c1c1c 0%, #494949 100%)",
       "tool": "Niko1221 开源 / Bash",
+      "hot": 0
+    },
+    {
+      "name": "Velozity - 让团队和 AI 智能体同处一个办公室",
+      "desc": "Product Hunt 2026-10-07 当日榜 #1（384 票）的多人协作「AI 办公室」：聊天、带转写的音视频会议、任务、日历、文件与智能体同处一个空间，团队与 Agent 共享上下文并自动执行。",
+      "url": "https://www.velozity.ai",
+      "category": "AI办公",
+      "tags": [
+        "AI 办公室",
+        "多人协作",
+        "Product Hunt #1"
+      ],
+      "icon": "users",
+      "bg": "linear-gradient(135deg, #6366f1 0%, #ec4899 100%)",
+      "tool": "Velozity 团队 / React + Framer",
+      "hot": 0
+    },
+    {
+      "name": "GenPage 3.0 - AI 落地页收入引擎",
+      "desc": "已被 3,200+ 支 B2B 营销团队使用、累计生成 200,000+ 落地页的 AI 落地页平台；2026-10 发布 3.0（对话式建页 Agent + 品牌知识库 + Google Ads 模块），登上 Product Hunt 热榜。",
+      "url": "https://www.genpage.ai",
+      "category": "电商营销",
+      "tags": [
+        "AI 落地页",
+        "Marketing",
+        "3,200+ 团队"
+      ],
+      "icon": "layout-template",
+      "bg": "linear-gradient(135deg, #f97316 0%, #db2777 100%)",
+      "tool": "GenPage 团队 / AI 落地页引擎",
+      "hot": 0
+    },
+    {
+      "name": "Ami AI - AiSDR 出品的 AI GTM 获客智能体",
+      "desc": "Product Hunt 2026-09-18 AI Sales 赛道 #1（655+ 票、213 条评论）；基于 AiSDR 三年 17,150+ 场营销活动、已促成 19,500+ 场会议、YC S23 团队、$3M 种子轮，20 分钟从官网生成外联 campaign。",
+      "url": "https://aisdr.com/ai-gtm-agent-ami/",
+      "category": "AI工具",
+      "tags": [
+        "AI 获客",
+        "GTM Agent",
+        "Product Hunt #1"
+      ],
+      "icon": "target",
+      "bg": "linear-gradient(135deg, #0ea5e9 0%, #6366f1 100%)",
+      "tool": "AiSDR（YC S23）/ GPT-6 Astra",
+      "hot": 0
+    },
+    {
+      "name": "IrisGo - 一人公司的「示教式」自动化",
+      "desc": "Product Hunt 2026-10-07 日榜热门（356 票）：演示一次操作，把收件箱、会议纪要、待办等重复工作转成可复用流程，全程本地运行、敏感数据不外流，专为独立开发者与一人公司打造。",
+      "url": "https://irisgo.ai/solopreneur",
+      "category": "效率工具",
+      "tags": [
+        "自动化",
+        "一人公司",
+        "本地运行"
+      ],
+      "icon": "workflow",
+      "bg": "linear-gradient(135deg, #34d399 0%, #059669 100%)",
+      "tool": "IrisGo 团队 / 本地优先",
+      "hot": 0
+    },
+    {
+      "name": "Databench - 开源多人协作数据工作台",
+      "desc": "Apache 2.0 开源、Product Hunt 2026-10-06 日榜 #4（256 票）的协作式 agentic 数据工作台：基于 marimo 反应式重跑的实时 SQL/Python Notebook，单元格与智能体可跑在本地或 GPU 节点。",
+      "url": "https://alkera.ai",
+      "category": "Web 应用",
+      "tags": [
+        "开源",
+        "数据工作台",
+        "Notebook"
+      ],
+      "icon": "database",
+      "bg": "linear-gradient(135deg, #0d9488 0%, #2563eb 100%)",
+      "tool": "Alkera AI 开源 / Apache 2.0",
+      "hot": 0
+    },
+    {
+      "name": "Spira AI - 全天候自主运营的 AI 网红",
+      "desc": "Product Hunt #1 Product of the Day（多次登顶）；公开上线前已累积 10M+ 曝光，由 Creatify AI / TikTok / CapCut / Meta 背景团队打造，AI 网红 24/7 抓热点、用你的声音创作并跨 TikTok/Instagram/X 发布。",
+      "url": "https://tryspira.ai",
+      "category": "设计创意",
+      "tags": [
+        "AI 网红",
+        "社媒增长",
+        "Product Hunt #1"
+      ],
+      "icon": "video",
+      "bg": "linear-gradient(135deg, #ec4899 0%, #8b5cf6 100%)",
+      "tool": "Spira AI 团队 / 多智能体",
       "hot": 0
     }
   ],

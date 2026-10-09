@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-08 19:00:18
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-09 13:39:06
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（591 个条目 / 15 个分类）
+## 📑 内容导航（597 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -88,6 +88,8 @@
   标签：Marc Lou / $27K MRR / 17k+ 用户 / PH 周榜 #1
 - [Siteline - AI Agent 流量分析层](https://siteline.ai) — 专为「智能体上网」时代打造的网站分析平台：追踪 OpenAI / Claude / Perplexity / Gemini 等 AI Agent 如何爬取你的站点、卡在哪里、引用了什么，并给出可执行的优化建议。Product Hunt 当日榜 #1（547 票），已被 1000+ 公司用于抢占 AI 搜索可见度。  
   标签：PH #1 / 547 票 / AI Agent 分析 / 1000+ 公司
+- [Databench - 开源多人协作数据工作台](https://alkera.ai) — Apache 2.0 开源、Product Hunt 2026-10-06 日榜 #4（256 票）的协作式 agentic 数据工作台：基于 marimo 反应式重跑的实时 SQL/Python Notebook，单元格与智能体可跑在本地或 GPU 节点。  
+  标签：开源 / 数据工作台 / Notebook
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -635,6 +637,8 @@
   标签：5.4万 Star / Agent 输出 / ADHD 友好
 - [Coucou - 蹲在 Mac 刘海里的 Claude Code 监工](https://github.com/Louis-CFM/coucou) — GitHub 4k+ Star 的桌面小工具：一只卡通小猫驻留在 Mac notch/顶部，逐步监控 Claude Code 会话、用一键点选批准或拒绝权限请求，无需离开当前工作流。Swift/SwiftUI + Tauri 实现，是 vibe coding 党最爱摸鱼监工。  
   标签：4k Star / Claude Code 监工 / macOS 小组件
+- [IrisGo - 一人公司的「示教式」自动化](https://irisgo.ai/solopreneur) — Product Hunt 2026-10-07 日榜热门（356 票）：演示一次操作，把收件箱、会议纪要、待办等重复工作转成可复用流程，全程本地运行、敏感数据不外流，专为独立开发者与一人公司打造。  
+  标签：自动化 / 一人公司 / 本地运行
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -904,6 +908,8 @@
   标签：26K Star / Anthropic 官方 / 办公插件 / Claude Cowork
 - [Upstream - 为人类与 Agent 共用的收件箱](https://upstream.do) — YC 支持的 AI 原生收件箱，Agent 自动分拣邮件、以你的语气起草回复并按时跟进；获 YC 等 300 万美元种子轮，月访问 5.8 万+，数千名专业人士在用。  
   标签：YC 支持 / $3M 种子轮 / 月访问 58K / 数千用户
+- [Velozity - 让团队和 AI 智能体同处一个办公室](https://www.velozity.ai) — Product Hunt 2026-10-07 当日榜 #1（384 票）的多人协作「AI 办公室」：聊天、带转写的音视频会议、任务、日历、文件与智能体同处一个空间，团队与 Agent 共享上下文并自动执行。  
+  标签：AI 办公室 / 多人协作 / Product Hunt #1
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1056,6 +1062,8 @@
   标签：5.7万 Star / HTML 转视频 / HeyGen
 - [ReelMimic - 给参考视频一键复刻同款风格](https://github.com/edenfunf/reelmimic) — GitHub 1.7k+ Star 的本地 AI 视频工具：丢入一段参考视频 + 一句话，自动拆解镜头节奏/转场/配色，由最多 6 个 Agent 并行生成、各自审查，输出同风格全新 2D 动画（水彩/像素/动漫等 7 种画风）。2026-09 上线即登 GitHub Trending。  
   标签：1.7k Star / AI 视频 / 风格复刻
+- [Spira AI - 全天候自主运营的 AI 网红](https://tryspira.ai) — Product Hunt #1 Product of the Day（多次登顶）；公开上线前已累积 10M+ 曝光，由 Creatify AI / TikTok / CapCut / Meta 背景团队打造，AI 网红 24/7 抓热点、用你的声音创作并跨 TikTok/Instagram/X 发布。  
+  标签：AI 网红 / 社媒增长 / Product Hunt #1
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1113,6 +1121,8 @@
   标签：PH 发布 / 298+ 票 / 真实评价 / Chrome 扩展
 - [AdAnt AI - 给病毒式社媒广告当「Claude」](https://adant.ai) — AdAnt AI 是一支创意 Agent 团队，研究 TikTok / Instagram / YouTube 爆款规律并生成高转化社媒广告。Product Hunt 2026-08-05 登顶（385-596 票），团队曾打造 5000 万+ 自然播放、平均降低 60% 获客成本。  
   标签：PH #1 或 #2 / 385-596 票 / 5000 万+ 播放 / CAC -60%
+- [GenPage 3.0 - AI 落地页收入引擎](https://www.genpage.ai) — 已被 3,200+ 支 B2B 营销团队使用、累计生成 200,000+ 落地页的 AI 落地页平台；2026-10 发布 3.0（对话式建页 Agent + 品牌知识库 + Google Ads 模块），登上 Product Hunt 热榜。  
+  标签：AI 落地页 / Marketing / 3,200+ 团队
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1277,6 +1287,8 @@
   标签：31K Star / 本地推理 / MoE / 开源
 - [llmfit - 一句话告诉你硬件能跑什么模型](https://github.com/AlexsJones/llmfit) — 一条命令测出你的 GPU / 内存 / 带宽能跑哪些大模型，并给出量化与推理建议的开源工具。把「我的机器能不能跑量化版 Llama？」这种灵魂拷问变成秒级报告，登 GitHub 趋势榜收获 3.6 万+ Star，是本地推理时代的标配小工具。  
   标签：36K Star / 本地推理 / 硬件适配 / 开源
+- [Ami AI - AiSDR 出品的 AI GTM 获客智能体](https://aisdr.com/ai-gtm-agent-ami/) — Product Hunt 2026-09-18 AI Sales 赛道 #1（655+ 票、213 条评论）；基于 AiSDR 三年 17,150+ 场营销活动、已促成 19,500+ 场会议、YC S23 团队、$3M 种子轮，20 分钟从官网生成外联 campaign。  
+  标签：AI 获客 / GTM Agent / Product Hunt #1
 
 <a id="cat-web应用" name="cat-web应用"></a>
 
