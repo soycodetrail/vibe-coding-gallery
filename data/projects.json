@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T20:10:08.439Z",
+  "updatedAt": "2026-10-11T03:56:02.018Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -9250,6 +9250,187 @@
       "icon": "video",
       "bg": "linear-gradient(135deg, #ec4899 0%, #8b5cf6 100%)",
       "tool": "Spira AI 团队 / 多智能体",
+      "hot": 0
+    },
+    {
+      "name": "Firecrawl - 给 AI Agent 喂数据的网页抓取库",
+      "desc": "让 AI Agent 直接从网页抓取、清洗并结构化数据的基础库，被称为「超级智能的数据层」。GitHub 19 万+ Star（2026-10，API 实测），长期稳居 GitHub Trending，是 AI 数据管线的开源事实标准入口。",
+      "url": "https://firecrawl.dev",
+      "category": "AI 工具",
+      "tags": [
+        "GitHub 19万",
+        "AI 数据管线",
+        "网页抓取",
+        "Mendable 出品"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #F37335 0%, #FDC830 100%)",
+      "tool": "Firecrawl",
+      "hot": 0
+    },
+    {
+      "name": "CC Switch - 一站式桌面 AI 编码助手",
+      "desc": "跨平台桌面 All-in-One 助手，把 Claude Code、Codex、OpenCode、OpenClaw、Grok Build、Hermes Agent 等多个编码智能体收进同一工作台统一调度。GitHub 14 万+ Star（2026-10，API 实测），是「一个面板管所有 Agent」的高人气开源方案。",
+      "url": "https://ccswitch.io",
+      "category": "AI 工具",
+      "tags": [
+        "GitHub 14万",
+        "多 Agent 面板",
+        "桌面端",
+        "Rust"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)",
+      "tool": "CC Switch",
+      "hot": 0
+    },
+    {
+      "name": "rea - 用 Agent 逆向任何东西",
+      "desc": "用 AI 智能体把任意应用行为一路逆向到原生二进制：自动分析 API、协议与代码结构。GitHub 4.3 万+ Star（2026-10，API 实测），单日暴涨近 3000 Star 登顶 GitHub Trending，是「Agent 做逆向工程」的现象级工具。",
+      "url": "https://rea.tools",
+      "category": "AI 工具",
+      "tags": [
+        "GitHub 4.3万",
+        "逆向工程",
+        "Agent 驱动",
+        "Trending"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "rea",
+      "hot": 0
+    },
+    {
+      "name": "gws - Google Workspace 命令行入口",
+      "desc": "谷歌工程师用 Rust 写的 Workspace CLI，一条命令操作 Gmail、Drive、Calendar、Sheets、Docs、Chat，运行时动态读取 Google Discovery Service 自动适配新 API，内置 40+ Agent Skills。上线几天登顶 Hacker News 榜首（953 分）、狂揽 3.1 万+ Star，作者却因此被谷歌辞退，「爆款成辞退符」成硅谷名场面。",
+      "url": "https://github.com/googleworkspace/cli",
+      "category": "效率工具",
+      "tags": [
+        "GitHub 3.1万",
+        "HN 榜首",
+        "Agent 原生",
+        "谷歌出品"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #4285F4 0%, #34A853 100%)",
+      "tool": "gws",
+      "hot": 0
+    },
+    {
+      "name": "dbx - 25MB 轻量百库数据库客户端",
+      "desc": "仅 25MB 的跨平台数据库客户端，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，内置 AI 助手、MCP Server、CLI 与 Docker。GitHub 2.5 万+ Star（2026-10，API 实测），把「重客户端」压成随身工具。",
+      "url": "https://dbxio.com",
+      "category": "效率工具",
+      "tags": [
+        "GitHub 2.5万",
+        "100+ 数据库",
+        "内置 AI",
+        "MCP"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "dbx",
+      "hot": 0
+    },
+    {
+      "name": "Text to CAD - 给 Agent 加 CAD 超能力",
+      "desc": "用自然语言给智能体下达 CAD 指令，把「说一句话」变成可制造的 3D 模型与工程图，让非工程师也能驱动设计制造。GitHub 1.8 万+ Star（2026-10，API 实测），是「自然语言 → CAD」赛道的代表项目。",
+      "url": "https://www.texttocad.dev",
+      "category": "设计创意",
+      "tags": [
+        "GitHub 1.8万",
+        "自然语言 CAD",
+        "3D 建模",
+        "Agent 驱动"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #26a0fc 0%, #2b5876 100%)",
+      "tool": "Text to CAD",
+      "hot": 0
+    },
+    {
+      "name": "Rill Browser - 让 Claude Code 与 Codex 陪你浏览",
+      "desc": "基于 WebKit 的 macOS AI 原生浏览器，按下 ⌘E 即可把任意网页变成 Claude Code 或 Codex 的任务；自动按主题整理标签页、把浏览历史变成可按天检索的时间线，托盘实时显示各 Agent 运行状态。免费，直接复用你已有的 Claude Code / Codex 订阅，无需额外 API Key。Product Hunt 当日榜第一（450+ 票），maker William Gao 出品。",
+      "url": "https://rill.love",
+      "category": "AI 工具",
+      "tags": [
+        "PH 当日榜首",
+        "450+ 票",
+        "Claude Code",
+        "Codex",
+        "macOS"
+      ],
+      "icon": "globe",
+      "bg": "linear-gradient(135deg, #2980b9 0%, #2c3e50 100%)",
+      "tool": "Rill Browser",
+      "hot": 0
+    },
+    {
+      "name": "ZooWork - 面向领域专家的 AI Agent 交付平台",
+      "desc": "让领域专家用无代码 Builder 搭建 AI Agent，开发者通过 Managed Agent API 一键上云交付给团队或客户；每个 Agent 跑在独立隔离沙箱，冷启动 1-2 秒、空闲不计费。前身为 4 月发布的 ZooClaw，10 月 3 日登顶 Product Hunt 当日榜第一（316+ 票），提供 TypeScript / Python SDK。",
+      "url": "https://zoowork.ai",
+      "category": "Agent",
+      "tags": [
+        "PH 当日榜首",
+        "316+ 票",
+        "无代码 Builder",
+        "托管 API",
+        "隔离沙箱"
+      ],
+      "icon": "cpu",
+      "bg": "linear-gradient(135deg, #c94b4b 0%, #4b134f 100%)",
+      "tool": "ZooWork",
+      "hot": 0
+    },
+    {
+      "name": "Zawa (X-Design) - 10 分钟生成整套品牌系统",
+      "desc": "AI 品牌生成智能体（由 X-Design 更名而来）：一次对话产出 Logo、配色与字体，并长期记住品牌 DNA，后续素材自动保持统一。据官方 PR Newswire 发布，超过 500 名 beta 用户中 92% 在 10 分钟内敲定可投产的品牌识别；10 月 4-5 日登顶 Product Hunt 当日榜第一。",
+      "url": "https://zawa.ai",
+      "category": "设计创意",
+      "tags": [
+        "PH 当日榜首",
+        "AI 品牌",
+        "10 分钟",
+        "500+ beta",
+        "品牌 DNA"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #f6d365 0%, #fda085 100%)",
+      "tool": "Zawa",
+      "hot": 0
+    },
+    {
+      "name": "miso - iMessage 里的 AI 旅行管家",
+      "desc": "内置于 iMessage 的 AI 旅行 Agent：发一句「周二得去伦敦」，它就在同一段对话里搜索实时航班酒店、记住你的出行偏好并直接完成预订，背后直连航司系统、配 24/7 客服。无需下载 App，10 月 3 日 Product Hunt 当日榜第二（258+ 票）。",
+      "url": "https://miso.com",
+      "category": "AI 工具",
+      "tags": [
+        "PH 当日榜二",
+        "258+ 票",
+        "iMessage",
+        "直连航司",
+        "免装 App"
+      ],
+      "icon": "map",
+      "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
+      "tool": "miso",
+      "hot": 0
+    },
+    {
+      "name": "OpenBot - 本地优先的多智能体工作台",
+      "desc": "开源的本地优先桌面工作台，给每个 AI 队友独立的电脑、浏览器登录态与工作区，支持 Claude Code、Codex、Grok、OpenCode 等；提供本地任务队列、文件传输、内置浏览器与 Agent 间协作，可在 Mac / Windows / Linux 运行。10 月 6 日 Product Hunt 当日榜第二（341+ 票）。",
+      "url": "https://openbot.ai",
+      "category": "Agent",
+      "tags": [
+        "PH 当日榜二",
+        "341+ 票",
+        "开源",
+        "多智能体",
+        "本地优先"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #8e2de2 0%, #4a00e0 100%)",
+      "tool": "OpenBot",
       "hot": 0
     }
   ],

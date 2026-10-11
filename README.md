@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-09 20:10:08
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-11 03:56:02
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（597 个条目 / 15 个分类）
+## 📑 内容导航（608 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -311,6 +311,16 @@
   标签：Product Hunt 榜首 / AI 原生浏览器 / Claude Code
 - [Strata - 一键在单张游戏显卡上跑 125B 大模型](https://github.com/Niko1221/Strata) — GitHub 17k+ Star 的一键安装器：把通常需要服务器的 1250 亿参数模型（Qwen3.8-Flash-Next）装到一张 12–24GB 显存的游戏显卡上，本地提供 OpenAI 兼容 API，自测 60–95 tokens/s。2026-10 连续登上 GitHub Trending，是本地大模型玩家的装机必备。  
   标签：17k Star / 本地大模型 / 一键安装
+- [Firecrawl - 给 AI Agent 喂数据的网页抓取库](https://firecrawl.dev) — 让 AI Agent 直接从网页抓取、清洗并结构化数据的基础库，被称为「超级智能的数据层」。GitHub 19 万+ Star（2026-10，API 实测），长期稳居 GitHub Trending，是 AI 数据管线的开源事实标准入口。  
+  标签：GitHub 19万 / AI 数据管线 / 网页抓取 / Mendable 出品
+- [CC Switch - 一站式桌面 AI 编码助手](https://ccswitch.io) — 跨平台桌面 All-in-One 助手，把 Claude Code、Codex、OpenCode、OpenClaw、Grok Build、Hermes Agent 等多个编码智能体收进同一工作台统一调度。GitHub 14 万+ Star（2026-10，API 实测），是「一个面板管所有 Agent」的高人气开源方案。  
+  标签：GitHub 14万 / 多 Agent 面板 / 桌面端 / Rust
+- [rea - 用 Agent 逆向任何东西](https://rea.tools) — 用 AI 智能体把任意应用行为一路逆向到原生二进制：自动分析 API、协议与代码结构。GitHub 4.3 万+ Star（2026-10，API 实测），单日暴涨近 3000 Star 登顶 GitHub Trending，是「Agent 做逆向工程」的现象级工具。  
+  标签：GitHub 4.3万 / 逆向工程 / Agent 驱动 / Trending
+- [Rill Browser - 让 Claude Code 与 Codex 陪你浏览](https://rill.love) — 基于 WebKit 的 macOS AI 原生浏览器，按下 ⌘E 即可把任意网页变成 Claude Code 或 Codex 的任务；自动按主题整理标签页、把浏览历史变成可按天检索的时间线，托盘实时显示各 Agent 运行状态。免费，直接复用你已有的 Claude Code / Codex 订阅，无需额外 API Key。Product Hunt 当日榜第一（450+ 票），maker William Gao 出品。  
+  标签：PH 当日榜首 / 450+ 票 / Claude Code / Codex / macOS
+- [miso - iMessage 里的 AI 旅行管家](https://miso.com) — 内置于 iMessage 的 AI 旅行 Agent：发一句「周二得去伦敦」，它就在同一段对话里搜索实时航班酒店、记住你的出行偏好并直接完成预订，背后直连航司系统、配 24/7 客服。无需下载 App，10 月 3 日 Product Hunt 当日榜第二（258+ 票）。  
+  标签：PH 当日榜二 / 258+ 票 / iMessage / 直连航司 / 免装 App
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -474,6 +484,10 @@
   标签：9K Star / GitHub Trending / Agent 版本控制 / 代码评审
 - [OpenBot - 开源版 Grok Bot 式 AI 同事平台](https://github.com/CopilotKit/OpenBot) — CopilotKit 开源的 AI 同事平台，GitHub 6.1k+ Star、Product Hunt 10 月榜单第 2（341 票）：每个 Agent 拥有独立浏览器/文件/Shell 与审计网关，支持任意 AG-UI Agent（LangGraph、CrewAI 等），MIT 协议可自托管，是 AI 数字员工最完整的开源实现之一。  
   标签：6.1k Star / AI 同事 / MIT 自托管
+- [ZooWork - 面向领域专家的 AI Agent 交付平台](https://zoowork.ai) — 让领域专家用无代码 Builder 搭建 AI Agent，开发者通过 Managed Agent API 一键上云交付给团队或客户；每个 Agent 跑在独立隔离沙箱，冷启动 1-2 秒、空闲不计费。前身为 4 月发布的 ZooClaw，10 月 3 日登顶 Product Hunt 当日榜第一（316+ 票），提供 TypeScript / Python SDK。  
+  标签：PH 当日榜首 / 316+ 票 / 无代码 Builder / 托管 API / 隔离沙箱
+- [OpenBot - 本地优先的多智能体工作台](https://openbot.ai) — 开源的本地优先桌面工作台，给每个 AI 队友独立的电脑、浏览器登录态与工作区，支持 Claude Code、Codex、Grok、OpenCode 等；提供本地任务队列、文件传输、内置浏览器与 Agent 间协作，可在 Mac / Windows / Linux 运行。10 月 6 日 Product Hunt 当日榜第二（341+ 票）。  
+  标签：PH 当日榜二 / 341+ 票 / 开源 / 多智能体 / 本地优先
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -639,6 +653,10 @@
   标签：4k Star / Claude Code 监工 / macOS 小组件
 - [IrisGo - 一人公司的「示教式」自动化](https://irisgo.ai/solopreneur) — Product Hunt 2026-10-07 日榜热门（356 票）：演示一次操作，把收件箱、会议纪要、待办等重复工作转成可复用流程，全程本地运行、敏感数据不外流，专为独立开发者与一人公司打造。  
   标签：自动化 / 一人公司 / 本地运行
+- [gws - Google Workspace 命令行入口](https://github.com/googleworkspace/cli) — 谷歌工程师用 Rust 写的 Workspace CLI，一条命令操作 Gmail、Drive、Calendar、Sheets、Docs、Chat，运行时动态读取 Google Discovery Service 自动适配新 API，内置 40+ Agent Skills。上线几天登顶 Hacker News 榜首（953 分）、狂揽 3.1 万+ Star，作者却因此被谷歌辞退，「爆款成辞退符」成硅谷名场面。  
+  标签：GitHub 3.1万 / HN 榜首 / Agent 原生 / 谷歌出品
+- [dbx - 25MB 轻量百库数据库客户端](https://dbxio.com) — 仅 25MB 的跨平台数据库客户端，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，内置 AI 助手、MCP Server、CLI 与 Docker。GitHub 2.5 万+ Star（2026-10，API 实测），把「重客户端」压成随身工具。  
+  标签：GitHub 2.5万 / 100+ 数据库 / 内置 AI / MCP
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1064,6 +1082,10 @@
   标签：1.7k Star / AI 视频 / 风格复刻
 - [Spira AI - 全天候自主运营的 AI 网红](https://tryspira.ai) — Product Hunt #1 Product of the Day（多次登顶）；公开上线前已累积 10M+ 曝光，由 Creatify AI / TikTok / CapCut / Meta 背景团队打造，AI 网红 24/7 抓热点、用你的声音创作并跨 TikTok/Instagram/X 发布。  
   标签：AI 网红 / 社媒增长 / Product Hunt #1
+- [Text to CAD - 给 Agent 加 CAD 超能力](https://www.texttocad.dev) — 用自然语言给智能体下达 CAD 指令，把「说一句话」变成可制造的 3D 模型与工程图，让非工程师也能驱动设计制造。GitHub 1.8 万+ Star（2026-10，API 实测），是「自然语言 → CAD」赛道的代表项目。  
+  标签：GitHub 1.8万 / 自然语言 CAD / 3D 建模 / Agent 驱动
+- [Zawa (X-Design) - 10 分钟生成整套品牌系统](https://zawa.ai) — AI 品牌生成智能体（由 X-Design 更名而来）：一次对话产出 Logo、配色与字体，并长期记住品牌 DNA，后续素材自动保持统一。据官方 PR Newswire 发布，超过 500 名 beta 用户中 92% 在 10 分钟内敲定可投产的品牌识别；10 月 4-5 日登顶 Product Hunt 当日榜第一。  
+  标签：PH 当日榜首 / AI 品牌 / 10 分钟 / 500+ beta / 品牌 DNA
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
