@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-13 19:36:20
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-14 20:31:26
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（608 个条目 / 15 个分类）
+## 📑 内容导航（613 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -488,6 +488,10 @@
   标签：PH 当日榜首 / 316+ 票 / 无代码 Builder / 托管 API / 隔离沙箱
 - [OpenBot - 本地优先的多智能体工作台](https://openbot.ai) — 开源的本地优先桌面工作台，给每个 AI 队友独立的电脑、浏览器登录态与工作区，支持 Claude Code、Codex、Grok、OpenCode 等；提供本地任务队列、文件传输、内置浏览器与 Agent 间协作，可在 Mac / Windows / Linux 运行。10 月 6 日 Product Hunt 当日榜第二（341+ 票）。  
   标签：PH 当日榜二 / 341+ 票 / 开源 / 多智能体 / 本地优先
+- [CowAgent - 开源个人 AI 助手与 Agent 框架](https://cowagent.ai) — 开源个人 AI 助手与 Agent Harness：会规划任务、调用工具与技能，靠记忆与知识自我进化，支持多智能体 / 多模型 / 多通道、一行命令安装，GitHub 4.7 万 Star。  
+  标签：个人助理 / 多智能体 / 自我进化 / 开源
+- [nanobot - 超轻量自托管 AI Agent 框架](https://nanobot.wiki) — 港大 HKUDS 开源超轻量自托管个人 AI Agent 框架：带 WebUI、工具、记忆、MCP 与多智能体工作流，Python 实现、可私有部署，GitHub 4.9 万 Star。  
+  标签：自托管 / HKUDS / MCP / WebUI
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -657,6 +661,8 @@
   标签：GitHub 3.1万 / HN 榜首 / Agent 原生 / 谷歌出品
 - [dbx - 25MB 轻量百库数据库客户端](https://dbxio.com) — 仅 25MB 的跨平台数据库客户端，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，内置 AI 助手、MCP Server、CLI 与 Docker。GitHub 2.5 万+ Star（2026-10，API 实测），把「重客户端」压成随身工具。  
   标签：GitHub 2.5万 / 100+ 数据库 / 内置 AI / MCP
+- [Cloudflare OS - 基于 Workers 的 Agent 工作台](https://os.cloudflare.app) — Cloudflare 开源 Agent 工作台：基于 Workers 构建，用公司上下文与系统一键创建文档、搭建应用、运行 Agent，把团队知识直接变成可执行的智能体，GitHub 1.1 万 Star。  
+  标签：Cloudflare / 无服务器 / Agent 工作台 / 文档自动化
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1311,6 +1317,10 @@
   标签：36K Star / 本地推理 / 硬件适配 / 开源
 - [Ami AI - AiSDR 出品的 AI GTM 获客智能体](https://aisdr.com/ai-gtm-agent-ami/) — Product Hunt 2026-09-18 AI Sales 赛道 #1（655+ 票、213 条评论）；基于 AiSDR 三年 17,150+ 场营销活动、已促成 19,500+ 场会议、YC S23 团队、$3M 种子轮，20 分钟从官网生成外联 campaign。  
   标签：AI 获客 / GTM Agent / Product Hunt #1
+- [caveman - 让 Agent 像山顶洞人一样说话](https://docs.caveman.so/caveman) — 爆火开源「山顶洞人」提示词代理：让编程 Agent 用极简原始人句式沟通，省下约 65% token 上下文开销，2026 年最出圈的 AI 编码梗项目之一，GitHub 11.1 万 Star。  
+  标签：提示词工程 / Token 优化 / 开源爆款 / AI 编码梗
+- [Codewhale - 开源 Rust 智能体引擎](https://codewhale.net/) — 开源 Rust 智能体引擎与终端客户端：支持自选模型供应商、工具调用、人工审批与执行回执，为 Codewhale 平台提供底层 Agent 能力，GitHub 4.1 万 Star。  
+  标签：Rust / 终端 Agent / 模型自选 / 开源
 
 <a id="cat-web应用" name="cat-web应用"></a>
 

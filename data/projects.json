@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T19:36:20.374Z",
+  "updatedAt": "2026-10-14T20:31:26.786Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -9431,6 +9431,86 @@
       "icon": "bot",
       "bg": "linear-gradient(135deg, #8e2de2 0%, #4a00e0 100%)",
       "tool": "OpenBot",
+      "hot": 0
+    },
+    {
+      "name": "caveman - 让 Agent 像山顶洞人一样说话",
+      "desc": "爆火开源「山顶洞人」提示词代理：让编程 Agent 用极简原始人句式沟通，省下约 65% token 上下文开销，2026 年最出圈的 AI 编码梗项目之一，GitHub 11.1 万 Star。",
+      "url": "https://docs.caveman.so/caveman",
+      "category": "AI工具",
+      "tags": [
+        "提示词工程",
+        "Token 优化",
+        "开源爆款",
+        "AI 编码梗"
+      ],
+      "icon": "terminal",
+      "bg": "linear-gradient(135deg, #603813 0%, #b29f94 100%)",
+      "tool": "Go / Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "CowAgent - 开源个人 AI 助手与 Agent 框架",
+      "desc": "开源个人 AI 助手与 Agent Harness：会规划任务、调用工具与技能，靠记忆与知识自我进化，支持多智能体 / 多模型 / 多通道、一行命令安装，GitHub 4.7 万 Star。",
+      "url": "https://cowagent.ai",
+      "category": "Agent",
+      "tags": [
+        "个人助理",
+        "多智能体",
+        "自我进化",
+        "开源"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #08AEEA 0%, #2AF598 100%)",
+      "tool": "Python",
+      "hot": 0
+    },
+    {
+      "name": "nanobot - 超轻量自托管 AI Agent 框架",
+      "desc": "港大 HKUDS 开源超轻量自托管个人 AI Agent 框架：带 WebUI、工具、记忆、MCP 与多智能体工作流，Python 实现、可私有部署，GitHub 4.9 万 Star。",
+      "url": "https://nanobot.wiki",
+      "category": "Agent",
+      "tags": [
+        "自托管",
+        "HKUDS",
+        "MCP",
+        "WebUI"
+      ],
+      "icon": "cpu",
+      "bg": "linear-gradient(135deg, #005C97 0%, #363795 100%)",
+      "tool": "Python",
+      "hot": 0
+    },
+    {
+      "name": "Codewhale - 开源 Rust 智能体引擎",
+      "desc": "开源 Rust 智能体引擎与终端客户端：支持自选模型供应商、工具调用、人工审批与执行回执，为 Codewhale 平台提供底层 Agent 能力，GitHub 4.1 万 Star。",
+      "url": "https://codewhale.net/",
+      "category": "AI工具",
+      "tags": [
+        "Rust",
+        "终端 Agent",
+        "模型自选",
+        "开源"
+      ],
+      "icon": "code",
+      "bg": "linear-gradient(135deg, #16BFFD 0%, #CB3066 100%)",
+      "tool": "Rust",
+      "hot": 0
+    },
+    {
+      "name": "Cloudflare OS - 基于 Workers 的 Agent 工作台",
+      "desc": "Cloudflare 开源 Agent 工作台：基于 Workers 构建，用公司上下文与系统一键创建文档、搭建应用、运行 Agent，把团队知识直接变成可执行的智能体，GitHub 1.1 万 Star。",
+      "url": "https://os.cloudflare.app",
+      "category": "效率工具",
+      "tags": [
+        "Cloudflare",
+        "无服务器",
+        "Agent 工作台",
+        "文档自动化"
+      ],
+      "icon": "cloud",
+      "bg": "linear-gradient(135deg, #F79D00 0%, #64F38C 100%)",
+      "tool": "Cloudflare Workers",
       "hot": 0
     }
   ],
