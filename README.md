@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-14 20:31:26
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-15 15:14:23
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（613 个条目 / 15 个分类）
+## 📑 内容导航（619 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -90,6 +90,8 @@
   标签：PH #1 / 547 票 / AI Agent 分析 / 1000+ 公司
 - [Databench - 开源多人协作数据工作台](https://alkera.ai) — Apache 2.0 开源、Product Hunt 2026-10-06 日榜 #4（256 票）的协作式 agentic 数据工作台：基于 marimo 反应式重跑的实时 SQL/Python Notebook，单元格与智能体可跑在本地或 GPU 节点。  
   标签：开源 / 数据工作台 / Notebook
+- [Monospace - Directus 治理型 API 层](https://directus.is/ph-monospace) — Directus 推出的治理型 API 层：为每个应用、人员和 Agent 提供统一、受控的数据接口，支持权限、血缘与可观测。Product Hunt 2026-10-01 当日榜 #1、周榜 #1，442 票。  
+  标签：API 层 / Product Hunt #1 / 442 票 / 数据治理
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -321,6 +323,8 @@
   标签：PH 当日榜首 / 450+ 票 / Claude Code / Codex / macOS
 - [miso - iMessage 里的 AI 旅行管家](https://miso.com) — 内置于 iMessage 的 AI 旅行 Agent：发一句「周二得去伦敦」，它就在同一段对话里搜索实时航班酒店、记住你的出行偏好并直接完成预订，背后直连航司系统、配 24/7 客服。无需下载 App，10 月 3 日 Product Hunt 当日榜第二（258+ 票）。  
   标签：PH 当日榜二 / 258+ 票 / iMessage / 直连航司 / 免装 App
+- [FastRouter.ai - 统一 LLM 智能路由网关](https://fastrouter.ai) — 企业级 LLM 网关：用一套 OpenAI 兼容 API 接入 200+ 模型，按成本/延迟/质量智能路由、自动故障转移与治理。Product Hunt 热榜，已被多家高速工程团队采用以压降 AI 支出。  
+  标签：LLM 网关 / 智能路由 / 200+ 模型 / OpenAI 兼容
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -492,6 +496,10 @@
   标签：个人助理 / 多智能体 / 自我进化 / 开源
 - [nanobot - 超轻量自托管 AI Agent 框架](https://nanobot.wiki) — 港大 HKUDS 开源超轻量自托管个人 AI Agent 框架：带 WebUI、工具、记忆、MCP 与多智能体工作流，Python 实现、可私有部署，GitHub 4.9 万 Star。  
   标签：自托管 / HKUDS / MCP / WebUI
+- [OpenSwarm - 工作区里的多 Agent 蜂群](https://github.com/VRSEN/openswarm) — VRSEN 开源的 AI 优先操作系统：把一群 Agent 放在你工作的同一处，统一调度、协作与执行。Product Hunt 2026-10-08 当日榜 #1、383 票，一行 npx 即可启动。  
+  标签：开源 / 多 Agent / Product Hunt #1 / 383 票
+- [Opengeni - 开源的 Agent 生产级基础设施](https://github.com/Cloudgeni-ai/opengeni) — CloudGeni 开源（Apache-2.0）的 Agent 基础设施：可恢复的会话、隔离沙箱、100+ 集成与人工审批，让开发者几小时内把 AI Agent 送上生产。Product Hunt 2026-10-05 当日榜 #4、339 票，可免费自托管。  
+  标签：开源 / Agent 基础设施 / Product Hunt #4 / 339 票
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -1092,6 +1100,8 @@
   标签：GitHub 1.8万 / 自然语言 CAD / 3D 建模 / Agent 驱动
 - [Zawa (X-Design) - 10 分钟生成整套品牌系统](https://zawa.ai) — AI 品牌生成智能体（由 X-Design 更名而来）：一次对话产出 Logo、配色与字体，并长期记住品牌 DNA，后续素材自动保持统一。据官方 PR Newswire 发布，超过 500 名 beta 用户中 92% 在 10 分钟内敲定可投产的品牌识别；10 月 4-5 日登顶 Product Hunt 当日榜第一。  
   标签：PH 当日榜首 / AI 品牌 / 10 分钟 / 500+ beta / 品牌 DNA
+- [Spira Maxima - 脚本一键生成爆款短视频](https://spira.ai/spira-maxima) — Spira 推出的社交视频生成模型，输入脚本即输出成片（主讲人 + 动态图形 + B-roll + 字幕 + 配乐），单次最长 90 秒、$0.09/秒。Product Hunt 周榜 #1（AI 类），上线首月 10M+ 曝光，已被 Cookiy 等团队用于社媒增长。  
+  标签：AI 视频 / Product Hunt 周榜 #1 / 10M+ 曝光 / 短视频
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1151,6 +1161,8 @@
   标签：PH #1 或 #2 / 385-596 票 / 5000 万+ 播放 / CAC -60%
 - [GenPage 3.0 - AI 落地页收入引擎](https://www.genpage.ai) — 已被 3,200+ 支 B2B 营销团队使用、累计生成 200,000+ 落地页的 AI 落地页平台；2026-10 发布 3.0（对话式建页 Agent + 品牌知识库 + Google Ads 模块），登上 Product Hunt 热榜。  
   标签：AI 落地页 / Marketing / 3,200+ 团队
+- [Pancake - AI 驱动的出海 GTM 增长引擎](https://pancake.ai) — 团队用 AI Agent 把增长想法变成自动运行的获客 Play：读你网站建 GTM 大脑、对接 Dealroom/TheirStack 等数据源、每日自动找匹配线索并以你的口吻触达。Product Hunt 2026-10-14 当日榜 #1、452 票，已被 Kong 及多家 YC 团队采用。  
+  标签：GTM / AI Agent / Product Hunt #1 / 452 票
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 

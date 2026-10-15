@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T20:31:26.786Z",
+  "updatedAt": "2026-10-15T15:14:23.715Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -9511,6 +9511,102 @@
       "icon": "cloud",
       "bg": "linear-gradient(135deg, #F79D00 0%, #64F38C 100%)",
       "tool": "Cloudflare Workers",
+      "hot": 0
+    },
+    {
+      "name": "Pancake - AI 驱动的出海 GTM 增长引擎",
+      "desc": "团队用 AI Agent 把增长想法变成自动运行的获客 Play：读你网站建 GTM 大脑、对接 Dealroom/TheirStack 等数据源、每日自动找匹配线索并以你的口吻触达。Product Hunt 2026-10-14 当日榜 #1、452 票，已被 Kong 及多家 YC 团队采用。",
+      "url": "https://pancake.ai",
+      "category": "电商营销",
+      "tags": [
+        "GTM",
+        "AI Agent",
+        "Product Hunt #1",
+        "452 票"
+      ],
+      "icon": "megaphone",
+      "bg": "linear-gradient(135deg, #591f8c 0%, #ff7eb3 100%)",
+      "tool": "Claude + Codex (MCP)",
+      "hot": 0
+    },
+    {
+      "name": "Spira Maxima - 脚本一键生成爆款短视频",
+      "desc": "Spira 推出的社交视频生成模型，输入脚本即输出成片（主讲人 + 动态图形 + B-roll + 字幕 + 配乐），单次最长 90 秒、$0.09/秒。Product Hunt 周榜 #1（AI 类），上线首月 10M+ 曝光，已被 Cookiy 等团队用于社媒增长。",
+      "url": "https://spira.ai/spira-maxima",
+      "category": "设计创意",
+      "tags": [
+        "AI 视频",
+        "Product Hunt 周榜 #1",
+        "10M+ 曝光",
+        "短视频"
+      ],
+      "icon": "video",
+      "bg": "linear-gradient(135deg, #7038e7 0%, #e5b2ca 100%)",
+      "tool": "Spira AI",
+      "hot": 0
+    },
+    {
+      "name": "Monospace - Directus 治理型 API 层",
+      "desc": "Directus 推出的治理型 API 层：为每个应用、人员和 Agent 提供统一、受控的数据接口，支持权限、血缘与可观测。Product Hunt 2026-10-01 当日榜 #1、周榜 #1，442 票。",
+      "url": "https://directus.is/ph-monospace",
+      "category": "Web 应用",
+      "tags": [
+        "API 层",
+        "Product Hunt #1",
+        "442 票",
+        "数据治理"
+      ],
+      "icon": "layers",
+      "bg": "linear-gradient(135deg, #373b44 0%, #4286f8 100%)",
+      "tool": "Directus",
+      "hot": 0
+    },
+    {
+      "name": "OpenSwarm - 工作区里的多 Agent 蜂群",
+      "desc": "VRSEN 开源的 AI 优先操作系统：把一群 Agent 放在你工作的同一处，统一调度、协作与执行。Product Hunt 2026-10-08 当日榜 #1、383 票，一行 npx 即可启动。",
+      "url": "https://github.com/VRSEN/openswarm",
+      "category": "Agent",
+      "tags": [
+        "开源",
+        "多 Agent",
+        "Product Hunt #1",
+        "383 票"
+      ],
+      "icon": "network",
+      "bg": "linear-gradient(135deg, #283c86 0%, #45a247 100%)",
+      "tool": "npx @vrsen/openswarm",
+      "hot": 0
+    },
+    {
+      "name": "FastRouter.ai - 统一 LLM 智能路由网关",
+      "desc": "企业级 LLM 网关：用一套 OpenAI 兼容 API 接入 200+ 模型，按成本/延迟/质量智能路由、自动故障转移与治理。Product Hunt 热榜，已被多家高速工程团队采用以压降 AI 支出。",
+      "url": "https://fastrouter.ai",
+      "category": "AI 工具",
+      "tags": [
+        "LLM 网关",
+        "智能路由",
+        "200+ 模型",
+        "OpenAI 兼容"
+      ],
+      "icon": "route",
+      "bg": "linear-gradient(135deg, #1f4037 0%, #99f2c3 100%)",
+      "tool": "FastRouter",
+      "hot": 0
+    },
+    {
+      "name": "Opengeni - 开源的 Agent 生产级基础设施",
+      "desc": "CloudGeni 开源（Apache-2.0）的 Agent 基础设施：可恢复的会话、隔离沙箱、100+ 集成与人工审批，让开发者几小时内把 AI Agent 送上生产。Product Hunt 2026-10-05 当日榜 #4、339 票，可免费自托管。",
+      "url": "https://github.com/Cloudgeni-ai/opengeni",
+      "category": "Agent",
+      "tags": [
+        "开源",
+        "Agent 基础设施",
+        "Product Hunt #4",
+        "339 票"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #3c1053 0%, #ad5389 100%)",
+      "tool": "Opengeni",
       "hot": 0
     }
   ],
