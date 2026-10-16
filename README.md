@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-16 10:08:43
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-16 22:34:19
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（625 个条目 / 15 个分类）
+## 📑 内容导航（632 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -500,6 +500,8 @@
   标签：开源 / 多 Agent / Product Hunt #1 / 383 票
 - [Opengeni - 开源的 Agent 生产级基础设施](https://github.com/Cloudgeni-ai/opengeni) — CloudGeni 开源（Apache-2.0）的 Agent 基础设施：可恢复的会话、隔离沙箱、100+ 集成与人工审批，让开发者几小时内把 AI Agent 送上生产。Product Hunt 2026-10-05 当日榜 #4、339 票，可免费自托管。  
   标签：开源 / Agent 基础设施 / Product Hunt #4 / 339 票
+- [Agent 37 Cloud - 一键托管任意 Agent](https://www.agent37.com/) — 一站式托管 OpenClaw / Hermes / Claude Code / Codex 等 Agent 的云平台：一个 API 调用为每个用户开独立沙箱，按分钟计费。Product Hunt 当日榜 #1 产品，YC 背书，gVisor 内核级隔离。  
+  标签：Product Hunt #1 / Agent 托管 / YC 背书
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -871,6 +873,8 @@
   标签：量化交易 / 多智能体 / 风险管理 / 开源
 - [daily_stock_analysis - LLM 驱动股票分析](https://github.com/ZhuLinsen/daily_stock_analysis) — GitHub 6.5 万+ Star 的明星开源项目：用 LLM 拉取实时行情与新闻，自动生成多市场决策看板与提醒，零成本定时运行。登上 GitHub Trending 周榜、被大量量化与 AI 工程教程引用，是「AI + 量化」最高人气开源工具之一。  
   标签：65K Star / 量化分析 / 实时行情 / 开源
+- [VC Boom - AI 融资助手](https://vcboom.com/) — AI 融资助手：7 维度评测融资 BP、从 4.7 万+ 投资人中匹配对口机构并起草不像是 AI 写的冷邮件。Product Hunt 周榜（532 分），已帮创始人募得 $1.48 亿+。  
+  标签：Product Hunt 532 / BP 评分 / $1.48亿+ 募资
 
 <a id="cat-ai办公" name="cat-ai办公"></a>
 
@@ -946,6 +950,8 @@
   标签：AI 办公室 / 多人协作 / Product Hunt #1
 - [Expertise AI - 把 GTM 经验变成可订阅的 AI 技能](https://www.expertise.ai) — GTM 专家把自己的打法封装成受保护的 AI 技能，企业一键安装、按运行次数付费，专家持续拿分成。Product Hunt 当日榜 #2（254 票），由 ChatSimple 团队打造，开启「AI 技能经济」。  
   标签：Product Hunt #2 / GTM 技能 / 按次付费
+- [WorkClaw - 团队里的协作型 AI 同事](https://www.workclaw.com/) — 基于 OpenClaw 的「AI 同事」平台：多个协作型 AI 员工在 Slack/Teams 里干活、彼此通信，连接 3,000+ 应用。Product Hunt 当日榜第 1（346 分），SOC 2 Type II 认证，YC 背景团队。  
+  标签：Product Hunt #1 / Slack/Teams / SOC 2
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1003,6 +1009,8 @@
   标签：PH #2 / 441+ 票 / 实时纠错 / App Store
 - [Gauth Unlimited Digital Canvas - 无限白板上的 AI 家教](https://www.gauth.com/course) — Gauth 推出的 AI Course 无限数字画布：把整门课铺在一块可缩放白板上，章节并排、板书同步、随时向 AI Tutor 提问并导出 PDF。Product Hunt 当日榜 #1（480+ 票），App 累计下载超 2 亿、月活约 8600 万。  
   标签：Product Hunt #1 / 2 亿+ 下载 / AI 白板家教
+- [Honen - AI 教学与学习基础设施](https://honen.com/) — StudyFetch 出品的 AI 教学平台：描述主题即可秒级生成完整课程、练习与 AI 语音导师，支持 LMS/SCORM 集成。Product Hunt 周榜第 3（572 分），与 NVIDIA 合作覆盖 25 万高中生，企业级合规。  
+  标签：Product Hunt #3 / AI 课程 / NVIDIA 合作
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1173,6 +1181,8 @@
   标签：GTM / AI Agent / Product Hunt #1 / 452 票
 - [Veltrix AI - 电商业务健康度诊断师](https://app.veltrix.com) — Veltrix 用 AI 打通店铺、账务、支付与营销数据，自动跑「业务健康检查」，指出利润漏点与增长机会。Product Hunt 当日榜 #2（约 300 票），首个检查免费、无需绑卡。  
   标签：Product Hunt #2 / 业务健康检查 / 电商分析
+- [Brew - AI 原生邮件营销平台](https://brew.new/) — AI 原生邮件营销平台（ESP）：粘贴品牌网址即自动学习品牌色与语气，生成品牌化邮件并实测送达率。Product Hunt 月榜第 4（953 分），LiveFlow 在其上跑 40 万联系人生命周期邮件。  
+  标签：Product Hunt #4 / ESP / Claude MCP
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1316,6 +1326,8 @@
   标签：$3M ARR / 14 天 vibe coding / 8万+ 用户 / BI 报道
 - [SuperX - 面向 X 创作者的增长操作系统](https://superx.so) — Tweet Hunter 原班人马打造的一站式 X（Twitter）增长工具：每日爆款灵感、趋势研究、用你的口吻 AI 改写、最佳时机排程发布、精准互动涨粉。Product Hunt 2026-02-09 当日热榜（714+ 票），已获 1400+ 创作者信赖（含 Dan Koe 等头部）。  
   标签：PH 热榜 / 714+ 票 / 1400+ 创作者 / X 增长
+- [Publora - 给 AI Agent 的社媒发布 API](https://publora.com/) — 为 AI Agent 打造的全平台社媒发布 API：一句话让 Claude/Cursor 排期发布到 Instagram、TikTok、X 等 10 个平台。Product Hunt 周榜第 2（669 分），已有 2,200+ 活跃用户，支持 MCP。  
+  标签：Product Hunt #2 / MCP / 10 平台
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 
@@ -1345,6 +1357,8 @@
   标签：提示词工程 / Token 优化 / 开源爆款 / AI 编码梗
 - [Codewhale - 开源 Rust 智能体引擎](https://codewhale.net/) — 开源 Rust 智能体引擎与终端客户端：支持自选模型供应商、工具调用、人工审批与执行回执，为 Codewhale 平台提供底层 Agent 能力，GitHub 4.1 万 Star。  
   标签：Rust / 终端 Agent / 模型自选 / 开源
+- [PollyReach - 给 AI Agent 配真实手机号打电话](https://pollyreach.com/) — 给 AI Agent 配专属手机号与语音，自动打电话订餐、售后客服、外呼。Product Hunt 热榜（848 分），支持 50+ 国家、无需信用卡，企业级端到端加密。  
+  标签：Product Hunt 848 / 语音 Agent / 50+ 国家
 
 <a id="cat-web应用" name="cat-web应用"></a>
 

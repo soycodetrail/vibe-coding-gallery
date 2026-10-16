@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T10:08:43.863Z",
+  "updatedAt": "2026-10-16T22:34:19.254Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -9697,6 +9697,111 @@
       "icon": "target",
       "bg": "linear-gradient(135deg, #2b32b2 0%, #1488cc 100%)",
       "tool": "Expertise AI",
+      "hot": 0
+    },
+    {
+      "name": "Honen - AI 教学与学习基础设施",
+      "desc": "StudyFetch 出品的 AI 教学平台：描述主题即可秒级生成完整课程、练习与 AI 语音导师，支持 LMS/SCORM 集成。Product Hunt 周榜第 3（572 分），与 NVIDIA 合作覆盖 25 万高中生，企业级合规。",
+      "url": "https://honen.com/",
+      "category": "教育学习",
+      "tags": [
+        "Product Hunt #3",
+        "AI 课程",
+        "NVIDIA 合作"
+      ],
+      "icon": "graduation-cap",
+      "bg": "linear-gradient(135deg, #23074d 0%, #cc5333 100%)",
+      "tool": "StudyFetch",
+      "hot": 0
+    },
+    {
+      "name": "Publora - 给 AI Agent 的社媒发布 API",
+      "desc": "为 AI Agent 打造的全平台社媒发布 API：一句话让 Claude/Cursor 排期发布到 Instagram、TikTok、X 等 10 个平台。Product Hunt 周榜第 2（669 分），已有 2,200+ 活跃用户，支持 MCP。",
+      "url": "https://publora.com/",
+      "category": "社交社区",
+      "tags": [
+        "Product Hunt #2",
+        "MCP",
+        "10 平台"
+      ],
+      "icon": "share-2",
+      "bg": "linear-gradient(135deg, #3a1c71 0%, #f2994a 100%)",
+      "tool": "Publora",
+      "hot": 0
+    },
+    {
+      "name": "WorkClaw - 团队里的协作型 AI 同事",
+      "desc": "基于 OpenClaw 的「AI 同事」平台：多个协作型 AI 员工在 Slack/Teams 里干活、彼此通信，连接 3,000+ 应用。Product Hunt 当日榜第 1（346 分），SOC 2 Type II 认证，YC 背景团队。",
+      "url": "https://www.workclaw.com/",
+      "category": "AI办公",
+      "tags": [
+        "Product Hunt #1",
+        "Slack/Teams",
+        "SOC 2"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #dd3e54 0%, #6a1b9a 100%)",
+      "tool": "OpenClaw",
+      "hot": 0
+    },
+    {
+      "name": "Brew - AI 原生邮件营销平台",
+      "desc": "AI 原生邮件营销平台（ESP）：粘贴品牌网址即自动学习品牌色与语气，生成品牌化邮件并实测送达率。Product Hunt 月榜第 4（953 分），LiveFlow 在其上跑 40 万联系人生命周期邮件。",
+      "url": "https://brew.new/",
+      "category": "电商营销",
+      "tags": [
+        "Product Hunt #4",
+        "ESP",
+        "Claude MCP"
+      ],
+      "icon": "shopping-bag",
+      "bg": "linear-gradient(135deg, #2c3e50 0%, #fd746c 100%)",
+      "tool": "Brew",
+      "hot": 0
+    },
+    {
+      "name": "PollyReach - 给 AI Agent 配真实手机号打电话",
+      "desc": "给 AI Agent 配专属手机号与语音，自动打电话订餐、售后客服、外呼。Product Hunt 热榜（848 分），支持 50+ 国家、无需信用卡，企业级端到端加密。",
+      "url": "https://pollyreach.com/",
+      "category": "AI工具",
+      "tags": [
+        "Product Hunt 848",
+        "语音 Agent",
+        "50+ 国家"
+      ],
+      "icon": "phone",
+      "bg": "linear-gradient(135deg, #5a189a 0%, #ffc371 100%)",
+      "tool": "PollyReach",
+      "hot": 0
+    },
+    {
+      "name": "Agent 37 Cloud - 一键托管任意 Agent",
+      "desc": "一站式托管 OpenClaw / Hermes / Claude Code / Codex 等 Agent 的云平台：一个 API 调用为每个用户开独立沙箱，按分钟计费。Product Hunt 当日榜 #1 产品，YC 背书，gVisor 内核级隔离。",
+      "url": "https://www.agent37.com/",
+      "category": "Agent",
+      "tags": [
+        "Product Hunt #1",
+        "Agent 托管",
+        "YC 背书"
+      ],
+      "icon": "server",
+      "bg": "linear-gradient(135deg, #1f1c2c 0%, #6dd5ed 100%)",
+      "tool": "Agent37",
+      "hot": 0
+    },
+    {
+      "name": "VC Boom - AI 融资助手",
+      "desc": "AI 融资助手：7 维度评测融资 BP、从 4.7 万+ 投资人中匹配对口机构并起草不像是 AI 写的冷邮件。Product Hunt 周榜（532 分），已帮创始人募得 $1.48 亿+。",
+      "url": "https://vcboom.com/",
+      "category": "金融财经",
+      "tags": [
+        "Product Hunt 532",
+        "BP 评分",
+        "$1.48亿+ 募资"
+      ],
+      "icon": "trending-up",
+      "bg": "linear-gradient(135deg, #0f0c29 0%, #e94560 100%)",
+      "tool": "Anthropic API",
       "hot": 0
     }
   ],
