@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-15 15:14:23
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-16 10:08:43
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（619 个条目 / 15 个分类）
+## 📑 内容导航（625 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -826,6 +826,8 @@
   标签：Pieter Levels / FPV 无人机 / 多人空战 / Vibe Jam 2026
 - [Universal Modder - 让 AI 编码 Agent 给任何游戏做模组](https://github.com/rehan-remade/universal-modder) — GitHub 5.2k+ Star、连续多日登上 GitHub Trending 的 AI 游戏模组工具集：为 Claude Code / Codex / Cursor 等 Agent 提供技能、工具与共享知识库，自动识别游戏引擎、读取源码、生成美术/3D/音频、在游戏中实测并录制视频，把做模组全流程自动化。  
   标签：5.2k Star / AI 游戏模组 / Agent 技能
+- [GeoSports - 用 Claude Code 12 小时搓出的地理问答爆款](https://geosports.app) — 体育创作者 Frank Michael Smith 用 Claude Code 12 小时做出每日体育地理问答游戏，5 个月狂揽 1500 万+ 次游玩、约 70 万月活，Pro 订阅月入约 $4 万，两度登上全美电视，App Store 4.9 星。  
+  标签：1500 万+ 游玩 / 月入 $4 万 / App Store 4.9 星
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -942,6 +944,8 @@
   标签：YC 支持 / $3M 种子轮 / 月访问 58K / 数千用户
 - [Velozity - 让团队和 AI 智能体同处一个办公室](https://www.velozity.ai) — Product Hunt 2026-10-07 当日榜 #1（384 票）的多人协作「AI 办公室」：聊天、带转写的音视频会议、任务、日历、文件与智能体同处一个空间，团队与 Agent 共享上下文并自动执行。  
   标签：AI 办公室 / 多人协作 / Product Hunt #1
+- [Expertise AI - 把 GTM 经验变成可订阅的 AI 技能](https://www.expertise.ai) — GTM 专家把自己的打法封装成受保护的 AI 技能，企业一键安装、按运行次数付费，专家持续拿分成。Product Hunt 当日榜 #2（254 票），由 ChatSimple 团队打造，开启「AI 技能经济」。  
+  标签：Product Hunt #2 / GTM 技能 / 按次付费
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -997,6 +1001,8 @@
   标签：37K Star / 多智能体 / AI 教育 / 清华开源
 - [SoundGate - 实时反馈的 AI 吉他导师](https://soundgate.ai) — 会「听」你弹奏的 AI 吉他陪练：零延迟音高检测、互动指板实时纠错，内置 AI 导师定制练习计划；Product Hunt 当日榜 #2（441+ 票），已上架 App Store（iPhone / iPad / Mac）。  
   标签：PH #2 / 441+ 票 / 实时纠错 / App Store
+- [Gauth Unlimited Digital Canvas - 无限白板上的 AI 家教](https://www.gauth.com/course) — Gauth 推出的 AI Course 无限数字画布：把整门课铺在一块可缩放白板上，章节并排、板书同步、随时向 AI Tutor 提问并导出 PDF。Product Hunt 当日榜 #1（480+ 票），App 累计下载超 2 亿、月活约 8600 万。  
+  标签：Product Hunt #1 / 2 亿+ 下载 / AI 白板家教
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1102,6 +1108,8 @@
   标签：PH 当日榜首 / AI 品牌 / 10 分钟 / 500+ beta / 品牌 DNA
 - [Spira Maxima - 脚本一键生成爆款短视频](https://spira.ai/spira-maxima) — Spira 推出的社交视频生成模型，输入脚本即输出成片（主讲人 + 动态图形 + B-roll + 字幕 + 配乐），单次最长 90 秒、$0.09/秒。Product Hunt 周榜 #1（AI 类），上线首月 10M+ 曝光，已被 Cookiy 等团队用于社媒增长。  
   标签：AI 视频 / Product Hunt 周榜 #1 / 10M+ 曝光 / 短视频
+- [m3e-canvas - 把草图变成 vibe coding 提示词](https://lnkiai.github.io/m3e-canvas/) — 浏览器里拖拽 Material 3 Expressive 部件画原型，自动生成可粘进 Claude Code / Cursor 的结构化提示词，支持中英日韩。2026 年 9 月开源，30 天涨 2.4k star、现 9.3k+ star，Trendshift 当日榜首。  
+  标签：9.3k+ star / Material 3 / 原型转提示词
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1163,6 +1171,8 @@
   标签：AI 落地页 / Marketing / 3,200+ 团队
 - [Pancake - AI 驱动的出海 GTM 增长引擎](https://pancake.ai) — 团队用 AI Agent 把增长想法变成自动运行的获客 Play：读你网站建 GTM 大脑、对接 Dealroom/TheirStack 等数据源、每日自动找匹配线索并以你的口吻触达。Product Hunt 2026-10-14 当日榜 #1、452 票，已被 Kong 及多家 YC 团队采用。  
   标签：GTM / AI Agent / Product Hunt #1 / 452 票
+- [Veltrix AI - 电商业务健康度诊断师](https://app.veltrix.com) — Veltrix 用 AI 打通店铺、账务、支付与营销数据，自动跑「业务健康检查」，指出利润漏点与增长机会。Product Hunt 当日榜 #2（约 300 票），首个检查免费、无需绑卡。  
+  标签：Product Hunt #2 / 业务健康检查 / 电商分析
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1200,6 +1210,8 @@
   标签：音乐生成 / 基础模型 / AI 作曲 / 开源
 - [VoiceStudio - 全本地开源语音工作室](https://github.com/debpalash/VoiceStudio) — debpalash 开源的本地语音工作室，克隆、配音、听写、转录、有声书一应俱全，支持 646 种语言、数据不出本机，是 ElevenLabs 的开源平替，GitHub 5.0 万+ Star。  
   标签：50K Star / 本地语音 / 语音克隆 / 646 语言
+- [MusicOrb - 上传自拍一键生成 AI 歌曲与漫画 MV](https://www.musicorb.ai) — 独立开发者 Mattias 用 Suno + Claude + Gemini + Remotion 做出的「音乐版 Spotify」：传照片、描述氛围，自动产出完整 AI 歌曲、漫画风 MV 并可一键发到 YouTube。Product Hunt 新品发布，免费开放测试。  
+  标签：AI 歌曲 / 漫画 MV / 独立开发
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T15:14:23.715Z",
+  "updatedAt": "2026-10-16T10:08:43.863Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -9607,6 +9607,96 @@
       "icon": "bot",
       "bg": "linear-gradient(135deg, #3c1053 0%, #ad5389 100%)",
       "tool": "Opengeni",
+      "hot": 0
+    },
+    {
+      "name": "GeoSports - 用 Claude Code 12 小时搓出的地理问答爆款",
+      "desc": "体育创作者 Frank Michael Smith 用 Claude Code 12 小时做出每日体育地理问答游戏，5 个月狂揽 1500 万+ 次游玩、约 70 万月活，Pro 订阅月入约 $4 万，两度登上全美电视，App Store 4.9 星。",
+      "url": "https://geosports.app",
+      "category": "游戏",
+      "tags": [
+        "1500 万+ 游玩",
+        "月入 $4 万",
+        "App Store 4.9 星"
+      ],
+      "icon": "globe",
+      "bg": "linear-gradient(135deg, #43cea2 0%, #185a9d 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Gauth Unlimited Digital Canvas - 无限白板上的 AI 家教",
+      "desc": "Gauth 推出的 AI Course 无限数字画布：把整门课铺在一块可缩放白板上，章节并排、板书同步、随时向 AI Tutor 提问并导出 PDF。Product Hunt 当日榜 #1（480+ 票），App 累计下载超 2 亿、月活约 8600 万。",
+      "url": "https://www.gauth.com/course",
+      "category": "教育学习",
+      "tags": [
+        "Product Hunt #1",
+        "2 亿+ 下载",
+        "AI 白板家教"
+      ],
+      "icon": "graduation-cap",
+      "bg": "linear-gradient(135deg, #cc2b5e 0%, #753a88 100%)",
+      "tool": "Gauth AI Course",
+      "hot": 0
+    },
+    {
+      "name": "Veltrix AI - 电商业务健康度诊断师",
+      "desc": "Veltrix 用 AI 打通店铺、账务、支付与营销数据，自动跑「业务健康检查」，指出利润漏点与增长机会。Product Hunt 当日榜 #2（约 300 票），首个检查免费、无需绑卡。",
+      "url": "https://app.veltrix.com",
+      "category": "电商营销",
+      "tags": [
+        "Product Hunt #2",
+        "业务健康检查",
+        "电商分析"
+      ],
+      "icon": "trending-up",
+      "bg": "linear-gradient(135deg, #e65c00 0%, #f9d423 100%)",
+      "tool": "Veltrix AI",
+      "hot": 0
+    },
+    {
+      "name": "m3e-canvas - 把草图变成 vibe coding 提示词",
+      "desc": "浏览器里拖拽 Material 3 Expressive 部件画原型，自动生成可粘进 Claude Code / Cursor 的结构化提示词，支持中英日韩。2026 年 9 月开源，30 天涨 2.4k star、现 9.3k+ star，Trendshift 当日榜首。",
+      "url": "https://lnkiai.github.io/m3e-canvas/",
+      "category": "设计创意",
+      "tags": [
+        "9.3k+ star",
+        "Material 3",
+        "原型转提示词"
+      ],
+      "icon": "pen-tool",
+      "bg": "linear-gradient(135deg, #9796f0 0%, #fbc7d4 100%)",
+      "tool": "Claude Code / Cursor",
+      "hot": 0
+    },
+    {
+      "name": "MusicOrb - 上传自拍一键生成 AI 歌曲与漫画 MV",
+      "desc": "独立开发者 Mattias 用 Suno + Claude + Gemini + Remotion 做出的「音乐版 Spotify」：传照片、描述氛围，自动产出完整 AI 歌曲、漫画风 MV 并可一键发到 YouTube。Product Hunt 新品发布，免费开放测试。",
+      "url": "https://www.musicorb.ai",
+      "category": "音乐音频",
+      "tags": [
+        "AI 歌曲",
+        "漫画 MV",
+        "独立开发"
+      ],
+      "icon": "music",
+      "bg": "linear-gradient(135deg, #355c7d 0%, #6c5b7b 100%)",
+      "tool": "Suno + Claude + Gemini",
+      "hot": 0
+    },
+    {
+      "name": "Expertise AI - 把 GTM 经验变成可订阅的 AI 技能",
+      "desc": "GTM 专家把自己的打法封装成受保护的 AI 技能，企业一键安装、按运行次数付费，专家持续拿分成。Product Hunt 当日榜 #2（254 票），由 ChatSimple 团队打造，开启「AI 技能经济」。",
+      "url": "https://www.expertise.ai",
+      "category": "AI办公",
+      "tags": [
+        "Product Hunt #2",
+        "GTM 技能",
+        "按次付费"
+      ],
+      "icon": "target",
+      "bg": "linear-gradient(135deg, #2b32b2 0%, #1488cc 100%)",
+      "tool": "Expertise AI",
       "hot": 0
     }
   ],
