@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T17:00:07.010Z",
+  "updatedAt": "2026-10-18T05:15:21.031Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -9802,6 +9802,96 @@
       "icon": "trending-up",
       "bg": "linear-gradient(135deg, #0f0c29 0%, #e94560 100%)",
       "tool": "Anthropic API",
+      "hot": 0
+    },
+    {
+      "name": "Agent Fighter - AI 与人同场竞技的网页格斗游戏",
+      "desc": "浏览器 2D 格斗游戏，人类玩家与 AI Agent 共享同一队列、经济与排行榜；自研确定性引擎让 Agent 成为真正的玩家而非 NPC。VibeBlitz（YGG × Animoca Minds）游戏 Jam 第 4 名，累计超 4 万次游玩，用 Cursor / Gemini / Claude 打造。",
+      "url": "https://game.agentfighter.wtf",
+      "category": "游戏",
+      "tags": [
+        "VibeBlitz #4",
+        "4 万+ 游玩",
+        "PixiJS"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #c33764 0%, #1d2671 100%)",
+      "tool": "Cursor / Gemini / Claude",
+      "hot": 0
+    },
+    {
+      "name": "Context.dev - 给 AI Agent 的网页上下文 API",
+      "desc": "一个 API 搞定网页抓取、品牌数据提取与截图，为 AI Agent 和 App 提供实时结构化网页上下文。Y Combinator 2026 夏季 batch，Product Hunt 当日榜 #1（217 票），已服务 5000+ 企业（Klarna、Similarweb 等），前身为 Brand.dev。",
+      "url": "https://www.context.dev/",
+      "category": "AI工具",
+      "tags": [
+        "YC 2026",
+        "Product Hunt #1",
+        "5000+ 企业"
+      ],
+      "icon": "globe",
+      "bg": "linear-gradient(135deg, #159957 0%, #155799 100%)",
+      "tool": "Context.dev",
+      "hot": 0
+    },
+    {
+      "name": "Teachoo - 一步步引导你解题的 AI 导师",
+      "desc": "由 iAsk.ai（累计近 10 亿次搜索）团队打造的免费 AI 导师：拍照或输入题目，用追问与提示一步步引导你真正理解解题过程，而非直接给答案。Product Hunt 当日榜（268 票），覆盖 K12 到考证全学科。",
+      "url": "https://www.teachoo.com",
+      "category": "教育学习",
+      "tags": [
+        "Product Hunt 268",
+        "免费 AI 导师",
+        "iAsk.ai 团队"
+      ],
+      "icon": "graduation-cap",
+      "bg": "linear-gradient(135deg, #ed213a 0%, #93291e 100%)",
+      "tool": "Teachoo / iAsk.ai",
+      "hot": 0
+    },
+    {
+      "name": "Yedric.ai - 用自然语言操控你的 SaaS",
+      "desc": "让终端用户用自然语言直接操作你的 SaaS 产品：一句话完成原本要点好多下界面的任务。Product Hunt 当日榜（315 票），面向想把产品变成「可对话」的 SaaS 团队。",
+      "url": "https://yedric.ai",
+      "category": "AI办公",
+      "tags": [
+        "Product Hunt 315",
+        "自然语言 UI",
+        "SaaS"
+      ],
+      "icon": "message-square",
+      "bg": "linear-gradient(135deg, #373b44 0%, #4286f4 100%)",
+      "tool": "Yedric.ai",
+      "hot": 0
+    },
+    {
+      "name": "Mintlify Desktop - AI 原生的文档写作应用",
+      "desc": "Mintlify 推出的 AI 原生桌面应用，用 AI 撰写、维护与生成文档和知识库，实时预览、自动整理。Product Hunt 当日榜（172 票），面向想把文档当产品来打磨的团队。",
+      "url": "https://mintlify.com/desktop",
+      "category": "效率工具",
+      "tags": [
+        "Product Hunt 172",
+        "AI 文档",
+        "桌面应用"
+      ],
+      "icon": "book-open",
+      "bg": "linear-gradient(135deg, #ff5f6d 0%, #ffc371 100%)",
+      "tool": "Mintlify",
+      "hot": 0
+    },
+    {
+      "name": "Open Inspector - 零权限的网页设计系统检查器",
+      "desc": "免费开源的 Chrome 扩展：悬停任意网站即可查看布局、样式、配色、字体并导出设计令牌，全程零站点权限、零网络请求（隐私优先）。Product Hunt 2026-10 热榜（112 票），MIT 协议，900+ 测试。",
+      "url": "https://github.com/patlf/open-inspector",
+      "category": "设计创意",
+      "tags": [
+        "Product Hunt 112",
+        "开源 MIT",
+        "设计令牌"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #ff6e7f 0%, #bfe9ff 100%)",
+      "tool": "Open Inspector",
       "hot": 0
     }
   ],

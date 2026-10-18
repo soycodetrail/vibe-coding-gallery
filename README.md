@@ -4,13 +4,15 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-17 17:00:07
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-18 05:15:21
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
+- [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（632 个条目 / 15 个分类）
+## 📑 内容导航（638 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -673,6 +675,8 @@
   标签：GitHub 2.5万 / 100+ 数据库 / 内置 AI / MCP
 - [Cloudflare OS - 基于 Workers 的 Agent 工作台](https://os.cloudflare.app) — Cloudflare 开源 Agent 工作台：基于 Workers 构建，用公司上下文与系统一键创建文档、搭建应用、运行 Agent，把团队知识直接变成可执行的智能体，GitHub 1.1 万 Star。  
   标签：Cloudflare / 无服务器 / Agent 工作台 / 文档自动化
+- [Mintlify Desktop - AI 原生的文档写作应用](https://mintlify.com/desktop) — Mintlify 推出的 AI 原生桌面应用，用 AI 撰写、维护与生成文档和知识库，实时预览、自动整理。Product Hunt 当日榜（172 票），面向想把文档当产品来打磨的团队。  
+  标签：Product Hunt 172 / AI 文档 / 桌面应用
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -830,6 +834,8 @@
   标签：5.2k Star / AI 游戏模组 / Agent 技能
 - [GeoSports - 用 Claude Code 12 小时搓出的地理问答爆款](https://geosports.app) — 体育创作者 Frank Michael Smith 用 Claude Code 12 小时做出每日体育地理问答游戏，5 个月狂揽 1500 万+ 次游玩、约 70 万月活，Pro 订阅月入约 $4 万，两度登上全美电视，App Store 4.9 星。  
   标签：1500 万+ 游玩 / 月入 $4 万 / App Store 4.9 星
+- [Agent Fighter - AI 与人同场竞技的网页格斗游戏](https://game.agentfighter.wtf) — 浏览器 2D 格斗游戏，人类玩家与 AI Agent 共享同一队列、经济与排行榜；自研确定性引擎让 Agent 成为真正的玩家而非 NPC。VibeBlitz（YGG × Animoca Minds）游戏 Jam 第 4 名，累计超 4 万次游玩，用 Cursor / Gemini / Claude 打造。  
+  标签：VibeBlitz #4 / 4 万+ 游玩 / PixiJS
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -952,6 +958,8 @@
   标签：Product Hunt #2 / GTM 技能 / 按次付费
 - [WorkClaw - 团队里的协作型 AI 同事](https://www.workclaw.com/) — 基于 OpenClaw 的「AI 同事」平台：多个协作型 AI 员工在 Slack/Teams 里干活、彼此通信，连接 3,000+ 应用。Product Hunt 当日榜第 1（346 分），SOC 2 Type II 认证，YC 背景团队。  
   标签：Product Hunt #1 / Slack/Teams / SOC 2
+- [Yedric.ai - 用自然语言操控你的 SaaS](https://yedric.ai) — 让终端用户用自然语言直接操作你的 SaaS 产品：一句话完成原本要点好多下界面的任务。Product Hunt 当日榜（315 票），面向想把产品变成「可对话」的 SaaS 团队。  
+  标签：Product Hunt 315 / 自然语言 UI / SaaS
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1011,6 +1019,8 @@
   标签：Product Hunt #1 / 2 亿+ 下载 / AI 白板家教
 - [Honen - AI 教学与学习基础设施](https://honen.com/) — StudyFetch 出品的 AI 教学平台：描述主题即可秒级生成完整课程、练习与 AI 语音导师，支持 LMS/SCORM 集成。Product Hunt 周榜第 3（572 分），与 NVIDIA 合作覆盖 25 万高中生，企业级合规。  
   标签：Product Hunt #3 / AI 课程 / NVIDIA 合作
+- [Teachoo - 一步步引导你解题的 AI 导师](https://www.teachoo.com) — 由 iAsk.ai（累计近 10 亿次搜索）团队打造的免费 AI 导师：拍照或输入题目，用追问与提示一步步引导你真正理解解题过程，而非直接给答案。Product Hunt 当日榜（268 票），覆盖 K12 到考证全学科。  
+  标签：Product Hunt 268 / 免费 AI 导师 / iAsk.ai 团队
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1118,6 +1128,8 @@
   标签：AI 视频 / Product Hunt 周榜 #1 / 10M+ 曝光 / 短视频
 - [m3e-canvas - 把草图变成 vibe coding 提示词](https://lnkiai.github.io/m3e-canvas/) — 浏览器里拖拽 Material 3 Expressive 部件画原型，自动生成可粘进 Claude Code / Cursor 的结构化提示词，支持中英日韩。2026 年 9 月开源，30 天涨 2.4k star、现 9.3k+ star，Trendshift 当日榜首。  
   标签：9.3k+ star / Material 3 / 原型转提示词
+- [Open Inspector - 零权限的网页设计系统检查器](https://github.com/patlf/open-inspector) — 免费开源的 Chrome 扩展：悬停任意网站即可查看布局、样式、配色、字体并导出设计令牌，全程零站点权限、零网络请求（隐私优先）。Product Hunt 2026-10 热榜（112 票），MIT 协议，900+ 测试。  
+  标签：Product Hunt 112 / 开源 MIT / 设计令牌
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1359,6 +1371,8 @@
   标签：Rust / 终端 Agent / 模型自选 / 开源
 - [PollyReach - 给 AI Agent 配真实手机号打电话](https://pollyreach.com/) — 给 AI Agent 配专属手机号与语音，自动打电话订餐、售后客服、外呼。Product Hunt 热榜（848 分），支持 50+ 国家、无需信用卡，企业级端到端加密。  
   标签：Product Hunt 848 / 语音 Agent / 50+ 国家
+- [Context.dev - 给 AI Agent 的网页上下文 API](https://www.context.dev/) — 一个 API 搞定网页抓取、品牌数据提取与截图，为 AI Agent 和 App 提供实时结构化网页上下文。Y Combinator 2026 夏季 batch，Product Hunt 当日榜 #1（217 票），已服务 5000+ 企业（Klarna、Similarweb 等），前身为 Brand.dev。  
+  标签：YC 2026 / Product Hunt #1 / 5000+ 企业
 
 <a id="cat-web应用" name="cat-web应用"></a>
 
