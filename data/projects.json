@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:32:30.963Z",
+  "updatedAt": "2026-10-18T23:39:47.163Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -9892,6 +9892,118 @@
       "icon": "palette",
       "bg": "linear-gradient(135deg, #ff6e7f 0%, #bfe9ff 100%)",
       "tool": "Open Inspector",
+      "hot": 0
+    },
+    {
+      "name": "Auriko - 把大模型调用当交易台套利的控制平面",
+      "desc": "前量化交易员打造的 LLM 网关：把各家模型供应商当交易所，按代币价、缓存、延迟、可靠性实时套利路由，官方基准平均省 30% 推理成本。Product Hunt 2026-07-09 当日榜 #1（567 票）。",
+      "url": "https://www.auriko.ai/",
+      "category": "AI 工具",
+      "tags": [
+        "PH #1 567票",
+        "30% 省成本",
+        "LLM 网关",
+        "推理路由"
+      ],
+      "icon": "route",
+      "bg": "linear-gradient(135deg, #102A43 0%, #F0A500 100%)",
+      "tool": "Auriko（自研 + Claude Code）",
+      "hot": 0
+    },
+    {
+      "name": "Floot MCP - 在 Claude/ChatGPT 里一句话造出全栈 App",
+      "desc": "Y Combinator 投资的 vibe coding 工具：把 Floot 接进 Claude/ChatGPT/Cursor，对话即可生成带数据库、登录与托管的全栈应用，一键发布到 Web / iOS / Android。Product Hunt 2026-09-24 当日榜 #2（376 票）。",
+      "url": "https://floot.com",
+      "category": "Web 应用",
+      "tags": [
+        "YC 投资",
+        "PH #2 376票",
+        "全栈 App",
+        "一键发布"
+      ],
+      "icon": "rocket",
+      "bg": "linear-gradient(135deg, #5F2C82 0%, #49BDA0 100%)",
+      "tool": "Floot（Claude / ChatGPT / Cursor）",
+      "hot": 0
+    },
+    {
+      "name": "Timbal AI - 把 Agent、工作流与界面装进一个平台",
+      "desc": "企业级 AI Agent 平台：在同一栈里构建智能体、工作流、知识库与界面，自带可观测、评估与治理（ACE 行为运行时）。Product Hunt 2026-07-09 当日榜 #2（507 票），号称把团队的 AI 工具栈从十行清单收敛到一页。",
+      "url": "https://www.timbal.ai/",
+      "category": "AI 工具",
+      "tags": [
+        "PH #2 507票",
+        "企业 AI 平台",
+        "Agent 工作流",
+        "可观测治理"
+      ],
+      "icon": "layers",
+      "bg": "linear-gradient(135deg, #0F0C29 0%, #302B63 50%, #24243E 100%)",
+      "tool": "Timbal AI",
+      "hot": 0
+    },
+    {
+      "name": "Co-Invest by Liquid - 在 Claude/ChatGPT 里直接交易 500+ 市场",
+      "desc": "Liquid 推出的 AI 交易分析师：在 ChatGPT、Claude、Grok、iMessage 里研究行情、组合仓位并下单（每笔需你确认）。覆盖 500+ 加密 / 股票 / 外汇 / 大宗 / 预测市场，Product Hunt 2026-06-02 热榜（265+ 票），免费使用。",
+      "url": "https://www.liquid.trade/coinvest",
+      "category": "金融财经",
+      "tags": [
+        "PH 265+票",
+        "500+ 市场",
+        "AI 交易",
+        "免费"
+      ],
+      "icon": "trending-up",
+      "bg": "linear-gradient(135deg, #C79081 0%, #DFA579 100%)",
+      "tool": "Co-Invest（Claude / ChatGPT / Grok）",
+      "hot": 0
+    },
+    {
+      "name": "CLI-Anything - 让所有软件变成 Agent 原生",
+      "desc": "港大数据科学实验室开源项目：把任意软件封装成可被 AI Agent 调用的 CLI / 接口，推动「软件 Agent 原生」。GitHub 54.5k★，是当下最火的 Agent 工具基础设施之一。",
+      "url": "https://clianything.cc/",
+      "category": "Agent",
+      "tags": [
+        "54.5k★",
+        "开源",
+        "Agent 原生",
+        "港大数据实验室"
+      ],
+      "icon": "terminal",
+      "bg": "linear-gradient(135deg, #0F0F10 0%, #3A3A3C 100%)",
+      "tool": "HKUDS / 开源",
+      "hot": 0
+    },
+    {
+      "name": "context-mode - AI 编程 Agent 的上下文优化器",
+      "desc": "开源工具：为 Claude Code / Codex / Cursor 等 AI 编程 Agent 做上下文窗口优化，沙箱化工具输出（削减 98%）、持久化会话记忆，并通过 MCP 跨 17 个平台路由。GitHub 30.7k★，被大量独立开发者用于压低 token 消耗。",
+      "url": "https://github.com/mksglu/context-mode",
+      "category": "效率工具",
+      "tags": [
+        "30.7k★",
+        "开源",
+        "上下文优化",
+        "token 省 98%"
+      ],
+      "icon": "cpu",
+      "bg": "linear-gradient(135deg, #373B44 0%, #4286F5 100%)",
+      "tool": "context-mode / 开源",
+      "hot": 0
+    },
+    {
+      "name": "iFixAi - 给 AI Agent 做独立审计",
+      "desc": "开源项目：用人工或 Agent 自身对 AI Agent 做独立审计，回答 AI Agent 经济里最关键的问题——它到底有没有按预期行事？120 秒内出结果。GitHub 29.5k★，Agent 安全赛道代表项目。",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "category": "Agent",
+      "tags": [
+        "29.5k★",
+        "开源",
+        "Agent 审计",
+        "AI 安全"
+      ],
+      "icon": "shield-check",
+      "bg": "linear-gradient(135deg, #1D2671 0%, #C33764 100%)",
+      "tool": "iFixAi / 开源",
       "hot": 0
     }
   ],

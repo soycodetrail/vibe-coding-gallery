@@ -4,15 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-18 17:32:30
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-18 23:39:47
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
-- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
-- [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（638 个条目 / 15 个分类）
+## 📑 内容导航（645 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -94,6 +92,8 @@
   标签：开源 / 数据工作台 / Notebook
 - [Monospace - Directus 治理型 API 层](https://directus.is/ph-monospace) — Directus 推出的治理型 API 层：为每个应用、人员和 Agent 提供统一、受控的数据接口，支持权限、血缘与可观测。Product Hunt 2026-10-01 当日榜 #1、周榜 #1，442 票。  
   标签：API 层 / Product Hunt #1 / 442 票 / 数据治理
+- [Floot MCP - 在 Claude/ChatGPT 里一句话造出全栈 App](https://floot.com) — Y Combinator 投资的 vibe coding 工具：把 Floot 接进 Claude/ChatGPT/Cursor，对话即可生成带数据库、登录与托管的全栈应用，一键发布到 Web / iOS / Android。Product Hunt 2026-09-24 当日榜 #2（376 票）。  
+  标签：YC 投资 / PH #2 376票 / 全栈 App / 一键发布
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -327,6 +327,10 @@
   标签：PH 当日榜二 / 258+ 票 / iMessage / 直连航司 / 免装 App
 - [FastRouter.ai - 统一 LLM 智能路由网关](https://fastrouter.ai) — 企业级 LLM 网关：用一套 OpenAI 兼容 API 接入 200+ 模型，按成本/延迟/质量智能路由、自动故障转移与治理。Product Hunt 热榜，已被多家高速工程团队采用以压降 AI 支出。  
   标签：LLM 网关 / 智能路由 / 200+ 模型 / OpenAI 兼容
+- [Auriko - 把大模型调用当交易台套利的控制平面](https://www.auriko.ai/) — 前量化交易员打造的 LLM 网关：把各家模型供应商当交易所，按代币价、缓存、延迟、可靠性实时套利路由，官方基准平均省 30% 推理成本。Product Hunt 2026-07-09 当日榜 #1（567 票）。  
+  标签：PH #1 567票 / 30% 省成本 / LLM 网关 / 推理路由
+- [Timbal AI - 把 Agent、工作流与界面装进一个平台](https://www.timbal.ai/) — 企业级 AI Agent 平台：在同一栈里构建智能体、工作流、知识库与界面，自带可观测、评估与治理（ACE 行为运行时）。Product Hunt 2026-07-09 当日榜 #2（507 票），号称把团队的 AI 工具栈从十行清单收敛到一页。  
+  标签：PH #2 507票 / 企业 AI 平台 / Agent 工作流 / 可观测治理
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -504,6 +508,10 @@
   标签：开源 / Agent 基础设施 / Product Hunt #4 / 339 票
 - [Agent 37 Cloud - 一键托管任意 Agent](https://www.agent37.com/) — 一站式托管 OpenClaw / Hermes / Claude Code / Codex 等 Agent 的云平台：一个 API 调用为每个用户开独立沙箱，按分钟计费。Product Hunt 当日榜 #1 产品，YC 背书，gVisor 内核级隔离。  
   标签：Product Hunt #1 / Agent 托管 / YC 背书
+- [CLI-Anything - 让所有软件变成 Agent 原生](https://clianything.cc/) — 港大数据科学实验室开源项目：把任意软件封装成可被 AI Agent 调用的 CLI / 接口，推动「软件 Agent 原生」。GitHub 54.5k★，是当下最火的 Agent 工具基础设施之一。  
+  标签：54.5k★ / 开源 / Agent 原生 / 港大数据实验室
+- [iFixAi - 给 AI Agent 做独立审计](https://github.com/ifixai-ai/iFixAi) — 开源项目：用人工或 Agent 自身对 AI Agent 做独立审计，回答 AI Agent 经济里最关键的问题——它到底有没有按预期行事？120 秒内出结果。GitHub 29.5k★，Agent 安全赛道代表项目。  
+  标签：29.5k★ / 开源 / Agent 审计 / AI 安全
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -677,6 +685,8 @@
   标签：Cloudflare / 无服务器 / Agent 工作台 / 文档自动化
 - [Mintlify Desktop - AI 原生的文档写作应用](https://mintlify.com/desktop) — Mintlify 推出的 AI 原生桌面应用，用 AI 撰写、维护与生成文档和知识库，实时预览、自动整理。Product Hunt 当日榜（172 票），面向想把文档当产品来打磨的团队。  
   标签：Product Hunt 172 / AI 文档 / 桌面应用
+- [context-mode - AI 编程 Agent 的上下文优化器](https://github.com/mksglu/context-mode) — 开源工具：为 Claude Code / Codex / Cursor 等 AI 编程 Agent 做上下文窗口优化，沙箱化工具输出（削减 98%）、持久化会话记忆，并通过 MCP 跨 17 个平台路由。GitHub 30.7k★，被大量独立开发者用于压低 token 消耗。  
+  标签：30.7k★ / 开源 / 上下文优化 / token 省 98%
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -881,6 +891,8 @@
   标签：65K Star / 量化分析 / 实时行情 / 开源
 - [VC Boom - AI 融资助手](https://vcboom.com/) — AI 融资助手：7 维度评测融资 BP、从 4.7 万+ 投资人中匹配对口机构并起草不像是 AI 写的冷邮件。Product Hunt 周榜（532 分），已帮创始人募得 $1.48 亿+。  
   标签：Product Hunt 532 / BP 评分 / $1.48亿+ 募资
+- [Co-Invest by Liquid - 在 Claude/ChatGPT 里直接交易 500+ 市场](https://www.liquid.trade/coinvest) — Liquid 推出的 AI 交易分析师：在 ChatGPT、Claude、Grok、iMessage 里研究行情、组合仓位并下单（每笔需你确认）。覆盖 500+ 加密 / 股票 / 外汇 / 大宗 / 预测市场，Product Hunt 2026-06-02 热榜（265+ 票），免费使用。  
+  标签：PH 265+票 / 500+ 市场 / AI 交易 / 免费
 
 <a id="cat-ai办公" name="cat-ai办公"></a>
 
