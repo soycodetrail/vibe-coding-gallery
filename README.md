@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-22 15:06:02
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-22 21:39:36
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（651 个条目 / 15 个分类）
+## 📑 内容导航（656 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -691,6 +691,8 @@
   标签：30.7k★ / 开源 / 上下文优化 / token 省 98%
 - [Harness by Autonomous - 编码 Agent 的指挥中心](https://github.com/autonomous-ai/openharness) — 开源的编码 Agent 指挥中心（MIT，GitHub 1.3 千★）：把 Claude Code、Codex、Hermes 等 Agent 跨多台机器集中管理，端到端加密；内置 49 个领域 harness 延伸至 CAD / 电路 / 机器人 / 游戏 / 音乐。Product Hunt 当日榜 #2（330+ 票）。  
   标签：PH #2 / 330+票 / 开源 / Agent 指挥
+- [Navige - 砍掉 AI Agent 的超额算力开销](https://navige.ai) — 用「足够性智能（Sufficiency Intelligence）」控制 AI Agent 的失控支出：把合适的请求路由到更小的模型、缓存重复读取、精简庞大工具结果，设置预算、捕获失控循环、敏感操作需审批，按任务清晰标注成本与节省。Product Hunt 当日榜 #2（251 票）。  
+  标签：PH #2 / 251票 / Agent 成本 / 足够性智能
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -980,6 +982,8 @@
   标签：Product Hunt 315 / 自然语言 UI / SaaS
 - [Inbox Zero - 开源 AI 邮件助手](https://github.com/elie222/inbox-zero) — 开源 AI 邮件助手（GitHub 1.2 万★）：用 AI 帮你秒级清空收件箱、自动分类与草拟回复。Product Hunt 当日榜 #1（357 票），被比作「开源版 Superhuman」。  
   标签：PH #1 / 357票 / 开源 / AI 邮件
+- [Talanoa - 把邮件变成聊天](https://talanoa.email) — 隐私优先的本地桌面邮件客户端（Electron + Vue 3，独立开发者 BetterCallJohn 打造）：把杂乱邮件线程整理成干净的聊天式对话，本地 AI 帮你搜索、总结、撰写，统一 Gmail / Outlook / iCloud / IMAP 收件箱，数据不出本机、无云端同步。Product Hunt 当日榜 #1（335 票）。  
+  标签：PH #1 / 335票 / 隐私优先 / 本地 AI
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1217,6 +1221,8 @@
   标签：Product Hunt #2 / 业务健康检查 / 电商分析
 - [Brew - AI 原生邮件营销平台](https://brew.new/) — AI 原生邮件营销平台（ESP）：粘贴品牌网址即自动学习品牌色与语气，生成品牌化邮件并实测送达率。Product Hunt 月榜第 4（953 分），LiveFlow 在其上跑 40 万联系人生命周期邮件。  
   标签：Product Hunt #4 / ESP / Claude MCP
+- [ReSO AI - 让品牌被 AI 推荐](https://www.neurokitai.com/en/products/reso-ai) — 生成式引擎优化（GEO）平台（NeuroKit AI 出品）：帮品牌在 ChatGPT / Perplexity / Google AIO 的推荐答案里获得曝光与引用，用专有意图模型分析 30+ 购买意图变量、监控竞品声量、输出 AI 友好的内容与代码级技术修复。Product Hunt 当日榜 #2（510 票）。  
+  标签：PH #2 / 510票 / GEO / AI 搜索优化
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1256,6 +1262,8 @@
   标签：50K Star / 本地语音 / 语音克隆 / 646 语言
 - [MusicOrb - 上传自拍一键生成 AI 歌曲与漫画 MV](https://www.musicorb.ai) — 独立开发者 Mattias 用 Suno + Claude + Gemini + Remotion 做出的「音乐版 Spotify」：传照片、描述氛围，自动产出完整 AI 歌曲、漫画风 MV 并可一键发到 YouTube。Product Hunt 新品发布，免费开放测试。  
   标签：AI 歌曲 / 漫画 MV / 独立开发
+- [Onepin - AI 配音精准读出每个名字](https://onepin.ai) — AI 语音生产 Agent：兼容 ElevenLabs / OpenAI / Google 等 30+ 配音引擎，依托 400 万词条发音词典精准校验人名、价格与日期，逐行打分并在不重新渲染整段音频的前提下直接修正错词。Product Hunt 当日榜 #3（384 票）。  
+  标签：PH #3 / 384票 / AI 配音 / 发音纠错
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 
@@ -1397,6 +1405,8 @@
   标签：YC 2026 / Product Hunt #1 / 5000+ 企业
 - [ai-memory - 给编码 Agent 装长期记忆](https://github.com/akitaonrails/ai-memory) — 开源项目：为 Claude Code / Codex 等编码 Agent 提供长期记忆与跨厂商交接方案，让 AI 助手「记得」上下文、换工具不丢进度。GitHub 1.2 万★，Agent 工作流效率利器。  
   标签：1.2万★ / 开源 / Agent 记忆 / 上下文
+- [Articos - 用合成买家 persona 做用户调研](https://www.articos.com) — 通过 MCP 标准把「合成买家 persona」接入你的 AI 助手：在真实访谈前用匹配 ICP 的模拟用户测试文案、定位与落地页，经同行评审与真实用户研究吻合度达 86%（对标 Baymard / Nielsen Norman）。Product Hunt 当日热榜（358 票）。  
+  标签：PH 热榜 / 358票 / 用户调研 / MCP
 
 <a id="cat-web应用" name="cat-web应用"></a>
 

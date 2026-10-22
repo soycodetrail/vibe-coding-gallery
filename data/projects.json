@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T15:06:02.748Z",
+  "updatedAt": "2026-10-22T21:39:36.500Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -10100,6 +10100,86 @@
       "icon": "command",
       "bg": "linear-gradient(135deg, #78350f 0%, #b45309 100%)",
       "tool": "OpenHarness / 开源",
+      "hot": 0
+    },
+    {
+      "name": "Talanoa - 把邮件变成聊天",
+      "desc": "隐私优先的本地桌面邮件客户端（Electron + Vue 3，独立开发者 BetterCallJohn 打造）：把杂乱邮件线程整理成干净的聊天式对话，本地 AI 帮你搜索、总结、撰写，统一 Gmail / Outlook / iCloud / IMAP 收件箱，数据不出本机、无云端同步。Product Hunt 当日榜 #1（335 票）。",
+      "url": "https://talanoa.email",
+      "category": "AI办公",
+      "tags": [
+        "PH #1",
+        "335票",
+        "隐私优先",
+        "本地 AI"
+      ],
+      "icon": "mail",
+      "bg": "linear-gradient(135deg, #0b3954 0%, #087e8b 100%)",
+      "tool": "Talanoa / Electron+Vue3",
+      "hot": 0
+    },
+    {
+      "name": "ReSO AI - 让品牌被 AI 推荐",
+      "desc": "生成式引擎优化（GEO）平台（NeuroKit AI 出品）：帮品牌在 ChatGPT / Perplexity / Google AIO 的推荐答案里获得曝光与引用，用专有意图模型分析 30+ 购买意图变量、监控竞品声量、输出 AI 友好的内容与代码级技术修复。Product Hunt 当日榜 #2（510 票）。",
+      "url": "https://www.neurokitai.com/en/products/reso-ai",
+      "category": "电商营销",
+      "tags": [
+        "PH #2",
+        "510票",
+        "GEO",
+        "AI 搜索优化"
+      ],
+      "icon": "trending-up",
+      "bg": "linear-gradient(135deg, #f5572f 0%, #f9a826 100%)",
+      "tool": "ReSO AI / NeuroKit",
+      "hot": 0
+    },
+    {
+      "name": "Onepin - AI 配音精准读出每个名字",
+      "desc": "AI 语音生产 Agent：兼容 ElevenLabs / OpenAI / Google 等 30+ 配音引擎，依托 400 万词条发音词典精准校验人名、价格与日期，逐行打分并在不重新渲染整段音频的前提下直接修正错词。Product Hunt 当日榜 #3（384 票）。",
+      "url": "https://onepin.ai",
+      "category": "音乐音频",
+      "tags": [
+        "PH #3",
+        "384票",
+        "AI 配音",
+        "发音纠错"
+      ],
+      "icon": "mic",
+      "bg": "linear-gradient(135deg, #5b2c9d 0%, #c084fc 100%)",
+      "tool": "Onepin / AI 配音",
+      "hot": 0
+    },
+    {
+      "name": "Articos - 用合成买家 persona 做用户调研",
+      "desc": "通过 MCP 标准把「合成买家 persona」接入你的 AI 助手：在真实访谈前用匹配 ICP 的模拟用户测试文案、定位与落地页，经同行评审与真实用户研究吻合度达 86%（对标 Baymard / Nielsen Norman）。Product Hunt 当日热榜（358 票）。",
+      "url": "https://www.articos.com",
+      "category": "AI工具",
+      "tags": [
+        "PH 热榜",
+        "358票",
+        "用户调研",
+        "MCP"
+      ],
+      "icon": "users",
+      "bg": "linear-gradient(135deg, #0f9b8e 0%, #4ecdc4 100%)",
+      "tool": "Articos / MCP",
+      "hot": 0
+    },
+    {
+      "name": "Navige - 砍掉 AI Agent 的超额算力开销",
+      "desc": "用「足够性智能（Sufficiency Intelligence）」控制 AI Agent 的失控支出：把合适的请求路由到更小的模型、缓存重复读取、精简庞大工具结果，设置预算、捕获失控循环、敏感操作需审批，按任务清晰标注成本与节省。Product Hunt 当日榜 #2（251 票）。",
+      "url": "https://navige.ai",
+      "category": "效率工具",
+      "tags": [
+        "PH #2",
+        "251票",
+        "Agent 成本",
+        "足够性智能"
+      ],
+      "icon": "wallet",
+      "bg": "linear-gradient(135deg, #b21f1f 0%, #fdbb2d 100%)",
+      "tool": "Navige / 成本治理",
       "hot": 0
     }
   ],
