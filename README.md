@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-21 20:13:25
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-22 02:28:36
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（645 个条目 / 15 个分类）
+## 📑 内容导航（651 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -512,6 +512,8 @@
   标签：54.5k★ / 开源 / Agent 原生 / 港大数据实验室
 - [iFixAi - 给 AI Agent 做独立审计](https://github.com/ifixai-ai/iFixAi) — 开源项目：用人工或 Agent 自身对 AI Agent 做独立审计，回答 AI Agent 经济里最关键的问题——它到底有没有按预期行事？120 秒内出结果。GitHub 29.5k★，Agent 安全赛道代表项目。  
   标签：29.5k★ / 开源 / Agent 审计 / AI 安全
+- [ruflo - 多智能体编排的原始引擎](https://github.com/ruvnet/ruflo) — GitHub 7.8 万★ 的开源 Agent 编排框架：多智能体集群、自适应记忆、联邦与向量 RAG，原生支持 Claude Code / Codex / Hermes，被誉为「Agent 时代的原始引擎」。  
+  标签：7.8万★ / 开源 / Agent 编排 / 多智能体
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -687,6 +689,8 @@
   标签：Product Hunt 172 / AI 文档 / 桌面应用
 - [context-mode - AI 编程 Agent 的上下文优化器](https://github.com/mksglu/context-mode) — 开源工具：为 Claude Code / Codex / Cursor 等 AI 编程 Agent 做上下文窗口优化，沙箱化工具输出（削减 98%）、持久化会话记忆，并通过 MCP 跨 17 个平台路由。GitHub 30.7k★，被大量独立开发者用于压低 token 消耗。  
   标签：30.7k★ / 开源 / 上下文优化 / token 省 98%
+- [Harness by Autonomous - 编码 Agent 的指挥中心](https://github.com/autonomous-ai/openharness) — 开源的编码 Agent 指挥中心（MIT，GitHub 1.3 千★）：把 Claude Code、Codex、Hermes 等 Agent 跨多台机器集中管理，端到端加密；内置 49 个领域 harness 延伸至 CAD / 电路 / 机器人 / 游戏 / 音乐。Product Hunt 当日榜 #2（330+ 票）。  
+  标签：PH #2 / 330+票 / 开源 / Agent 指挥
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -893,6 +897,8 @@
   标签：Product Hunt 532 / BP 评分 / $1.48亿+ 募资
 - [Co-Invest by Liquid - 在 Claude/ChatGPT 里直接交易 500+ 市场](https://www.liquid.trade/coinvest) — Liquid 推出的 AI 交易分析师：在 ChatGPT、Claude、Grok、iMessage 里研究行情、组合仓位并下单（每笔需你确认）。覆盖 500+ 加密 / 股票 / 外汇 / 大宗 / 预测市场，Product Hunt 2026-06-02 热榜（265+ 票），免费使用。  
   标签：PH 265+票 / 500+ 市场 / AI 交易 / 免费
+- [Kronos - 金融市场的「语言」基础模型](https://github.com/shiyu-coder/Kronos) — 开源金融市场基础模型：用统一大模型理解行情、研报与交易语言，GitHub 4.2 万★，金融 AI 与量化研究者的新基座。  
+  标签：4.2万★ / 开源 / 金融大模型 / 量化
 
 <a id="cat-ai办公" name="cat-ai办公"></a>
 
@@ -972,6 +978,8 @@
   标签：Product Hunt #1 / Slack/Teams / SOC 2
 - [Yedric.ai - 用自然语言操控你的 SaaS](https://yedric.ai) — 让终端用户用自然语言直接操作你的 SaaS 产品：一句话完成原本要点好多下界面的任务。Product Hunt 当日榜（315 票），面向想把产品变成「可对话」的 SaaS 团队。  
   标签：Product Hunt 315 / 自然语言 UI / SaaS
+- [Inbox Zero - 开源 AI 邮件助手](https://github.com/elie222/inbox-zero) — 开源 AI 邮件助手（GitHub 1.2 万★）：用 AI 帮你秒级清空收件箱、自动分类与草拟回复。Product Hunt 当日榜 #1（357 票），被比作「开源版 Superhuman」。  
+  标签：PH #1 / 357票 / 开源 / AI 邮件
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1142,6 +1150,8 @@
   标签：9.3k+ star / Material 3 / 原型转提示词
 - [Open Inspector - 零权限的网页设计系统检查器](https://github.com/patlf/open-inspector) — 免费开源的 Chrome 扩展：悬停任意网站即可查看布局、样式、配色、字体并导出设计令牌，全程零站点权限、零网络请求（隐私优先）。Product Hunt 2026-10 热榜（112 票），MIT 协议，900+ 测试。  
   标签：Product Hunt 112 / 开源 MIT / 设计令牌
+- [Jockey by TwelveLabs - 看懂整个视频库](https://www.twelvelabs.io/) — TwelveLabs 出品的视频智能 Agent：用自然语言搜索、整理整个视频库，识别人物、瞬间与情绪，可导入社媒链接拼接 MP4、生成可分享片段；支持 Claude / ChatGPT 与 API/SDK。Product Hunt 当日榜 #1（420+ 票）。  
+  标签：PH #1 / 420+票 / 视频智能 / AI Agent
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1385,6 +1395,8 @@
   标签：Product Hunt 848 / 语音 Agent / 50+ 国家
 - [Context.dev - 给 AI Agent 的网页上下文 API](https://www.context.dev/) — 一个 API 搞定网页抓取、品牌数据提取与截图，为 AI Agent 和 App 提供实时结构化网页上下文。Y Combinator 2026 夏季 batch，Product Hunt 当日榜 #1（217 票），已服务 5000+ 企业（Klarna、Similarweb 等），前身为 Brand.dev。  
   标签：YC 2026 / Product Hunt #1 / 5000+ 企业
+- [ai-memory - 给编码 Agent 装长期记忆](https://github.com/akitaonrails/ai-memory) — 开源项目：为 Claude Code / Codex 等编码 Agent 提供长期记忆与跨厂商交接方案，让 AI 助手「记得」上下文、换工具不丢进度。GitHub 1.2 万★，Agent 工作流效率利器。  
+  标签：1.2万★ / 开源 / Agent 记忆 / 上下文
 
 <a id="cat-web应用" name="cat-web应用"></a>
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T20:13:25.741Z",
+  "updatedAt": "2026-10-22T02:28:36.532Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -10004,6 +10004,102 @@
       "icon": "shield-check",
       "bg": "linear-gradient(135deg, #1D2671 0%, #C33764 100%)",
       "tool": "iFixAi / 开源",
+      "hot": 0
+    },
+    {
+      "name": "ruflo - 多智能体编排的原始引擎",
+      "desc": "GitHub 7.8 万★ 的开源 Agent 编排框架：多智能体集群、自适应记忆、联邦与向量 RAG，原生支持 Claude Code / Codex / Hermes，被誉为「Agent 时代的原始引擎」。",
+      "url": "https://github.com/ruvnet/ruflo",
+      "category": "Agent",
+      "tags": [
+        "7.8万★",
+        "开源",
+        "Agent 编排",
+        "多智能体"
+      ],
+      "icon": "network",
+      "bg": "linear-gradient(135deg, #1e293b 0%, #475569 100%)",
+      "tool": "ruflo / 开源",
+      "hot": 0
+    },
+    {
+      "name": "ai-memory - 给编码 Agent 装长期记忆",
+      "desc": "开源项目：为 Claude Code / Codex 等编码 Agent 提供长期记忆与跨厂商交接方案，让 AI 助手「记得」上下文、换工具不丢进度。GitHub 1.2 万★，Agent 工作流效率利器。",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "category": "AI工具",
+      "tags": [
+        "1.2万★",
+        "开源",
+        "Agent 记忆",
+        "上下文"
+      ],
+      "icon": "brain",
+      "bg": "linear-gradient(135deg, #4c1d95 0%, #7c3aed 100%)",
+      "tool": "ai-memory / 开源",
+      "hot": 0
+    },
+    {
+      "name": "Kronos - 金融市场的「语言」基础模型",
+      "desc": "开源金融市场基础模型：用统一大模型理解行情、研报与交易语言，GitHub 4.2 万★，金融 AI 与量化研究者的新基座。",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "category": "金融财经",
+      "tags": [
+        "4.2万★",
+        "开源",
+        "金融大模型",
+        "量化"
+      ],
+      "icon": "line-chart",
+      "bg": "linear-gradient(135deg, #064e3b 0%, #059669 100%)",
+      "tool": "Kronos / 开源",
+      "hot": 0
+    },
+    {
+      "name": "Jockey by TwelveLabs - 看懂整个视频库",
+      "desc": "TwelveLabs 出品的视频智能 Agent：用自然语言搜索、整理整个视频库，识别人物、瞬间与情绪，可导入社媒链接拼接 MP4、生成可分享片段；支持 Claude / ChatGPT 与 API/SDK。Product Hunt 当日榜 #1（420+ 票）。",
+      "url": "https://www.twelvelabs.io/",
+      "category": "设计创意",
+      "tags": [
+        "PH #1",
+        "420+票",
+        "视频智能",
+        "AI Agent"
+      ],
+      "icon": "video",
+      "bg": "linear-gradient(135deg, #be185d 0%, #f472b6 100%)",
+      "tool": "TwelveLabs Jockey",
+      "hot": 0
+    },
+    {
+      "name": "Inbox Zero - 开源 AI 邮件助手",
+      "desc": "开源 AI 邮件助手（GitHub 1.2 万★）：用 AI 帮你秒级清空收件箱、自动分类与草拟回复。Product Hunt 当日榜 #1（357 票），被比作「开源版 Superhuman」。",
+      "url": "https://github.com/elie222/inbox-zero",
+      "category": "AI办公",
+      "tags": [
+        "PH #1",
+        "357票",
+        "开源",
+        "AI 邮件"
+      ],
+      "icon": "mail",
+      "bg": "linear-gradient(135deg, #075985 0%, #0ea5e9 100%)",
+      "tool": "Inbox Zero / 开源",
+      "hot": 0
+    },
+    {
+      "name": "Harness by Autonomous - 编码 Agent 的指挥中心",
+      "desc": "开源的编码 Agent 指挥中心（MIT，GitHub 1.3 千★）：把 Claude Code、Codex、Hermes 等 Agent 跨多台机器集中管理，端到端加密；内置 49 个领域 harness 延伸至 CAD / 电路 / 机器人 / 游戏 / 音乐。Product Hunt 当日榜 #2（330+ 票）。",
+      "url": "https://github.com/autonomous-ai/openharness",
+      "category": "效率工具",
+      "tags": [
+        "PH #2",
+        "330+票",
+        "开源",
+        "Agent 指挥"
+      ],
+      "icon": "command",
+      "bg": "linear-gradient(135deg, #78350f 0%, #b45309 100%)",
+      "tool": "OpenHarness / 开源",
       "hot": 0
     }
   ],
