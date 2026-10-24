@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:01:28.231Z",
+  "updatedAt": "2026-10-24T23:18:03.676Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -10260,6 +10260,102 @@
       "icon": "gamepad-2",
       "bg": "linear-gradient(135deg, #1f2937 0%, #dc2626 100%)",
       "tool": "AICodeWith / vibe coding",
+      "hot": 0
+    },
+    {
+      "name": "CleanYourTV - 用 AI 给智能电视大扫除",
+      "desc": "开发者 Gathin 让 Claude Code 通过 Wi-Fi（ADB）接管小米/索尼等 Android TV，停用 25+ 系统组件、换上 300KB 极简桌面；开源数日狂揽 3.1 万★，获虎嗅/腾讯/汤姆硬件等媒体报道，已支持 131+ 机型、46 品牌。",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "category": "效率工具",
+      "tags": [
+        "3.1万★",
+        "开源",
+        "Android TV",
+        "去广告"
+      ],
+      "icon": "monitor",
+      "bg": "linear-gradient(135deg, #2b3a42 0%, #5c7a89 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "GPT Engineer - 用一句话生成整个代码库",
+      "desc": "Anton Osika 出品的开源 AI 编码 CLI：你写一段需求、AI 直接写出并运行代码，是 Lovable 的前身；GitHub 5.5 万★，常年位居 vibe coding 类目榜首，奠定「对话即开发」范式。",
+      "url": "https://github.com/AntonOsika/gpt-engineer",
+      "category": "AI 工具",
+      "tags": [
+        "5.5万★",
+        "开源",
+        "AI 编码",
+        "CLI"
+      ],
+      "icon": "terminal",
+      "bg": "linear-gradient(135deg, #173b6c 0%, #4ca1c4 100%)",
+      "tool": "GPT Engineer / 开源",
+      "hot": 0
+    },
+    {
+      "name": "oh-my-openagent - 一句话调度多模型 AI 智能体",
+      "desc": "code-yeongyu 出品的开源命令行 AI 智能体：敲一句 omo 加任务，它会自主调研、规划、写代码并验证结果，混用多模型按需切换；GitHub 7 万★，是全球 vibe-coding 类目人气最高的智能体仓库之一。",
+      "url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "category": "AI 工具",
+      "tags": [
+        "7万★",
+        "开源",
+        "AI 智能体",
+        "CLI"
+      ],
+      "icon": "cpu",
+      "bg": "linear-gradient(135deg, #aa4b6b 0%, #3b8d99 100%)",
+      "tool": "oh-my-openagent / 开源",
+      "hot": 0
+    },
+    {
+      "name": "Tone Adapt - 用 AI 一键匹配吉他音色",
+      "desc": "21 岁学生 Kyan 用 Claude Code 从零 vibe coding 的吉他音色匹配工具：输入歌曲与你的器材，秒出适配的 amp/效果器参数；注册用户 10 万+、社区共享 9 万+ 音色、已上架 App Store，月收入约 $9.6K（营收数据经创始人直播对账验证）。",
+      "url": "https://www.toneadapt.com",
+      "category": "音乐音频",
+      "tags": [
+        "10万用户",
+        "$9.6K MRR",
+        "吉他音色",
+        "App Store"
+      ],
+      "icon": "music",
+      "bg": "linear-gradient(135deg, #3d2c5f 0%, #c75c8a 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Hotelist - Pieter Levels 用 AI 重做酒店评分",
+      "desc": "vibe coding 标杆人物 Pieter Levels（@levelsio）出品：用 AI 抓取真实旅客评价与实拍照片，重新给全球酒店打分，对抗 Airbnb 的 4.5-5.0 评分通胀与付费排名；覆盖 250+ 国家、数百连锁品牌，纯 AI 聚合、无人能买榜。",
+      "url": "https://hotelist.com",
+      "category": "Web 应用",
+      "tags": [
+        "Pieter Levels",
+        "AI 评分",
+        "酒店搜索",
+        "去通胀"
+      ],
+      "icon": "globe",
+      "bg": "linear-gradient(135deg, #c98a5e 0%, #e8b273 100%)",
+      "tool": "Pieter Levels / vibe coding",
+      "hot": 0
+    },
+    {
+      "name": "awesome-design-md - 让 AI 生成品牌级 UI 的设计系统库",
+      "desc": "VoltAgent 出品的开源神库：收集 Claude、Stripe、Nike、Tesla 等真实网站的 DESIGN.md 设计系统文档，丢进项目即可让编码智能体生成贴合品牌视觉的 UI；GitHub 12.3 万★，是 vibe coding 时代最热门的 AI 辅助设计资源之一。",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "category": "设计创意",
+      "tags": [
+        "12.3万★",
+        "开源",
+        "设计系统",
+        "AI 辅助设计"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #9d50bb 0%, #6e48aa 100%)",
+      "tool": "awesome-design-md / 开源",
       "hot": 0
     }
   ],

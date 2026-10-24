@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-24 17:01:28
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-24 23:18:03
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（661 个条目 / 15 个分类）
+## 📑 内容导航（667 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -94,6 +94,8 @@
   标签：API 层 / Product Hunt #1 / 442 票 / 数据治理
 - [Floot MCP - 在 Claude/ChatGPT 里一句话造出全栈 App](https://floot.com) — Y Combinator 投资的 vibe coding 工具：把 Floot 接进 Claude/ChatGPT/Cursor，对话即可生成带数据库、登录与托管的全栈应用，一键发布到 Web / iOS / Android。Product Hunt 2026-09-24 当日榜 #2（376 票）。  
   标签：YC 投资 / PH #2 376票 / 全栈 App / 一键发布
+- [Hotelist - Pieter Levels 用 AI 重做酒店评分](https://hotelist.com) — vibe coding 标杆人物 Pieter Levels（@levelsio）出品：用 AI 抓取真实旅客评价与实拍照片，重新给全球酒店打分，对抗 Airbnb 的 4.5-5.0 评分通胀与付费排名；覆盖 250+ 国家、数百连锁品牌，纯 AI 聚合、无人能买榜。  
+  标签：Pieter Levels / AI 评分 / 酒店搜索 / 去通胀
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -333,6 +335,10 @@
   标签：PH #2 507票 / 企业 AI 平台 / Agent 工作流 / 可观测治理
 - [ArtCraft - 开源 AI 图像与视频创作引擎](https://github.com/storytold/artcraft) — 同一作者用 AI 打造的「创作引擎」：2D 构图加 3D 布景后调用数十个 AI 模型生成图像与视频；GitHub 3.6 万★，并衍生出整套 Adobe 开源替代品（PhotoCraft / VectorCraft 等）。  
   标签：3.6万★ / 开源 / AI 创作 / 图像视频
+- [GPT Engineer - 用一句话生成整个代码库](https://github.com/AntonOsika/gpt-engineer) — Anton Osika 出品的开源 AI 编码 CLI：你写一段需求、AI 直接写出并运行代码，是 Lovable 的前身；GitHub 5.5 万★，常年位居 vibe coding 类目榜首，奠定「对话即开发」范式。  
+  标签：5.5万★ / 开源 / AI 编码 / CLI
+- [oh-my-openagent - 一句话调度多模型 AI 智能体](https://github.com/code-yeongyu/oh-my-openagent) — code-yeongyu 出品的开源命令行 AI 智能体：敲一句 omo 加任务，它会自主调研、规划、写代码并验证结果，混用多模型按需切换；GitHub 7 万★，是全球 vibe-coding 类目人气最高的智能体仓库之一。  
+  标签：7万★ / 开源 / AI 智能体 / CLI
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -699,6 +705,8 @@
   标签：1.6万★ / 开源 / Rust / Word 替代品
 - [xtool - 跨平台 Xcode 替代品](https://github.com/xtool-org/xtool) — 用 SwiftPM 在 Linux / Windows / macOS 上构建、签名、部署 iOS 应用的跨平台 Xcode 替代品，GitHub 1.3 万★，让没有 Mac 也能做 iOS 开发。  
   标签：1.3万★ / 开源 / iOS 开发 / 跨平台
+- [CleanYourTV - 用 AI 给智能电视大扫除](https://github.com/Gathin23/cleanyourtv) — 开发者 Gathin 让 Claude Code 通过 Wi-Fi（ADB）接管小米/索尼等 Android TV，停用 25+ 系统组件、换上 300KB 极简桌面；开源数日狂揽 3.1 万★，获虎嗅/腾讯/汤姆硬件等媒体报道，已支持 131+ 机型、46 品牌。  
+  标签：3.1万★ / 开源 / Android TV / 去广告
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1166,6 +1174,8 @@
   标签：PH #1 / 420+票 / 视频智能 / AI Agent
 - [PhotoCraft - 用 Rust 手搓的开源 Photoshop](https://github.com/storytold/photocraft) — 独立开发者 Brandon Thomas 借助 Claude Opus 5.5、数周用纯 Rust 从零复刻的 Photoshop：支持图层、蒙版、70+ 实时滤镜与 PSD 文件，GitHub 7.2 万★，两周内暴增 6 万+ star 的开源现象级项目。  
   标签：7.2万★ / 开源 / Rust / Photoshop 替代品
+- [awesome-design-md - 让 AI 生成品牌级 UI 的设计系统库](https://github.com/VoltAgent/awesome-design-md) — VoltAgent 出品的开源神库：收集 Claude、Stripe、Nike、Tesla 等真实网站的 DESIGN.md 设计系统文档，丢进项目即可让编码智能体生成贴合品牌视觉的 UI；GitHub 12.3 万★，是 vibe coding 时代最热门的 AI 辅助设计资源之一。  
+  标签：12.3万★ / 开源 / 设计系统 / AI 辅助设计
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1274,6 +1284,8 @@
   标签：AI 歌曲 / 漫画 MV / 独立开发
 - [Onepin - AI 配音精准读出每个名字](https://onepin.ai) — AI 语音生产 Agent：兼容 ElevenLabs / OpenAI / Google 等 30+ 配音引擎，依托 400 万词条发音词典精准校验人名、价格与日期，逐行打分并在不重新渲染整段音频的前提下直接修正错词。Product Hunt 当日榜 #3（384 票）。  
   标签：PH #3 / 384票 / AI 配音 / 发音纠错
+- [Tone Adapt - 用 AI 一键匹配吉他音色](https://www.toneadapt.com) — 21 岁学生 Kyan 用 Claude Code 从零 vibe coding 的吉他音色匹配工具：输入歌曲与你的器材，秒出适配的 amp/效果器参数；注册用户 10 万+、社区共享 9 万+ 音色、已上架 App Store，月收入约 $9.6K（营收数据经创始人直播对账验证）。  
+  标签：10万用户 / $9.6K MRR / 吉他音色 / App Store
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 
