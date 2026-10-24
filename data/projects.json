@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T16:08:05.374Z",
+  "updatedAt": "2026-10-24T04:37:38.014Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -10180,6 +10180,86 @@
       "icon": "wallet",
       "bg": "linear-gradient(135deg, #b21f1f 0%, #fdbb2d 100%)",
       "tool": "Navige / 成本治理",
+      "hot": 0
+    },
+    {
+      "name": "PhotoCraft - 用 Rust 手搓的开源 Photoshop",
+      "desc": "独立开发者 Brandon Thomas 借助 Claude Opus 5.5、数周用纯 Rust 从零复刻的 Photoshop：支持图层、蒙版、70+ 实时滤镜与 PSD 文件，GitHub 7.2 万★，两周内暴增 6 万+ star 的开源现象级项目。",
+      "url": "https://github.com/storytold/photocraft",
+      "category": "设计创意",
+      "tags": [
+        "7.2万★",
+        "开源",
+        "Rust",
+        "Photoshop 替代品"
+      ],
+      "icon": "image",
+      "bg": "linear-gradient(135deg, #f43f5e 0%, #f59e0b 100%)",
+      "tool": "Claude Opus 5.5 / 开源",
+      "hot": 0
+    },
+    {
+      "name": "ArtCraft - 开源 AI 图像与视频创作引擎",
+      "desc": "同一作者用 AI 打造的「创作引擎」：2D 构图加 3D 布景后调用数十个 AI 模型生成图像与视频；GitHub 3.6 万★，并衍生出整套 Adobe 开源替代品（PhotoCraft / VectorCraft 等）。",
+      "url": "https://github.com/storytold/artcraft",
+      "category": "AI 工具",
+      "tags": [
+        "3.6万★",
+        "开源",
+        "AI 创作",
+        "图像视频"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #7c3aed 0%, #ec4899 100%)",
+      "tool": "ArtCraft / 开源",
+      "hot": 0
+    },
+    {
+      "name": "WordCraft - 用 Rust 复刻的微软 Word",
+      "desc": "ArtCraft 开源矩阵里的 Word 替代品，纯 Rust 从零实现的文字处理（功能区、样式、表格、修订），GitHub 1.6 万★，是 vibe coding 复刻办公软件的又一力作。",
+      "url": "https://github.com/storytold/wordcraft",
+      "category": "效率工具",
+      "tags": [
+        "1.6万★",
+        "开源",
+        "Rust",
+        "Word 替代品"
+      ],
+      "icon": "file-text",
+      "bg": "linear-gradient(135deg, #2563eb 0%, #06b6d4 100%)",
+      "tool": "WordCraft / 开源",
+      "hot": 0
+    },
+    {
+      "name": "xtool - 跨平台 Xcode 替代品",
+      "desc": "用 SwiftPM 在 Linux / Windows / macOS 上构建、签名、部署 iOS 应用的跨平台 Xcode 替代品，GitHub 1.3 万★，让没有 Mac 也能做 iOS 开发。",
+      "url": "https://github.com/xtool-org/xtool",
+      "category": "效率工具",
+      "tags": [
+        "1.3万★",
+        "开源",
+        "iOS 开发",
+        "跨平台"
+      ],
+      "icon": "code",
+      "bg": "linear-gradient(135deg, #10b981 0%, #3b82f6 100%)",
+      "tool": "xtool-org / 开源",
+      "hot": 0
+    },
+    {
+      "name": "台北 GTA - vibe coding 爆红的网页城市模拟",
+      "desc": "开发者用 AICodeWith 平台 vibe coding 撸出的网页版台北 GTA：自由探索西门町、台北车站等真实地标，93+ 任务、复古画风 100+FPS，上线 3 天吸引 120 万玩家同时在线。",
+      "url": "https://taipei-gta.vercel.app",
+      "category": "游戏",
+      "tags": [
+        "120万同时在线",
+        "网页游戏",
+        "GTA 风格",
+        "3天爆红"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #1f2937 0%, #dc2626 100%)",
+      "tool": "AICodeWith / vibe coding",
       "hot": 0
     }
   ],

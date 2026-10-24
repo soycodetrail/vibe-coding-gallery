@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-23 16:08:05
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-24 04:37:38
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（656 个条目 / 15 个分类）
+## 📑 内容导航（661 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -331,6 +331,8 @@
   标签：PH #1 567票 / 30% 省成本 / LLM 网关 / 推理路由
 - [Timbal AI - 把 Agent、工作流与界面装进一个平台](https://www.timbal.ai/) — 企业级 AI Agent 平台：在同一栈里构建智能体、工作流、知识库与界面，自带可观测、评估与治理（ACE 行为运行时）。Product Hunt 2026-07-09 当日榜 #2（507 票），号称把团队的 AI 工具栈从十行清单收敛到一页。  
   标签：PH #2 507票 / 企业 AI 平台 / Agent 工作流 / 可观测治理
+- [ArtCraft - 开源 AI 图像与视频创作引擎](https://github.com/storytold/artcraft) — 同一作者用 AI 打造的「创作引擎」：2D 构图加 3D 布景后调用数十个 AI 模型生成图像与视频；GitHub 3.6 万★，并衍生出整套 Adobe 开源替代品（PhotoCraft / VectorCraft 等）。  
+  标签：3.6万★ / 开源 / AI 创作 / 图像视频
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -693,6 +695,10 @@
   标签：PH #2 / 330+票 / 开源 / Agent 指挥
 - [Navige - 砍掉 AI Agent 的超额算力开销](https://navige.ai) — 用「足够性智能（Sufficiency Intelligence）」控制 AI Agent 的失控支出：把合适的请求路由到更小的模型、缓存重复读取、精简庞大工具结果，设置预算、捕获失控循环、敏感操作需审批，按任务清晰标注成本与节省。Product Hunt 当日榜 #2（251 票）。  
   标签：PH #2 / 251票 / Agent 成本 / 足够性智能
+- [WordCraft - 用 Rust 复刻的微软 Word](https://github.com/storytold/wordcraft) — ArtCraft 开源矩阵里的 Word 替代品，纯 Rust 从零实现的文字处理（功能区、样式、表格、修订），GitHub 1.6 万★，是 vibe coding 复刻办公软件的又一力作。  
+  标签：1.6万★ / 开源 / Rust / Word 替代品
+- [xtool - 跨平台 Xcode 替代品](https://github.com/xtool-org/xtool) — 用 SwiftPM 在 Linux / Windows / macOS 上构建、签名、部署 iOS 应用的跨平台 Xcode 替代品，GitHub 1.3 万★，让没有 Mac 也能做 iOS 开发。  
+  标签：1.3万★ / 开源 / iOS 开发 / 跨平台
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -852,6 +858,8 @@
   标签：1500 万+ 游玩 / 月入 $4 万 / App Store 4.9 星
 - [Agent Fighter - AI 与人同场竞技的网页格斗游戏](https://game.agentfighter.wtf) — 浏览器 2D 格斗游戏，人类玩家与 AI Agent 共享同一队列、经济与排行榜；自研确定性引擎让 Agent 成为真正的玩家而非 NPC。VibeBlitz（YGG × Animoca Minds）游戏 Jam 第 4 名，累计超 4 万次游玩，用 Cursor / Gemini / Claude 打造。  
   标签：VibeBlitz #4 / 4 万+ 游玩 / PixiJS
+- [台北 GTA - vibe coding 爆红的网页城市模拟](https://taipei-gta.vercel.app) — 开发者用 AICodeWith 平台 vibe coding 撸出的网页版台北 GTA：自由探索西门町、台北车站等真实地标，93+ 任务、复古画风 100+FPS，上线 3 天吸引 120 万玩家同时在线。  
+  标签：120万同时在线 / 网页游戏 / GTA 风格 / 3天爆红
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -1156,6 +1164,8 @@
   标签：Product Hunt 112 / 开源 MIT / 设计令牌
 - [Jockey by TwelveLabs - 看懂整个视频库](https://www.twelvelabs.io/) — TwelveLabs 出品的视频智能 Agent：用自然语言搜索、整理整个视频库，识别人物、瞬间与情绪，可导入社媒链接拼接 MP4、生成可分享片段；支持 Claude / ChatGPT 与 API/SDK。Product Hunt 当日榜 #1（420+ 票）。  
   标签：PH #1 / 420+票 / 视频智能 / AI Agent
+- [PhotoCraft - 用 Rust 手搓的开源 Photoshop](https://github.com/storytold/photocraft) — 独立开发者 Brandon Thomas 借助 Claude Opus 5.5、数周用纯 Rust 从零复刻的 Photoshop：支持图层、蒙版、70+ 实时滤镜与 PSD 文件，GitHub 7.2 万★，两周内暴增 6 万+ star 的开源现象级项目。  
+  标签：7.2万★ / 开源 / Rust / Photoshop 替代品
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
