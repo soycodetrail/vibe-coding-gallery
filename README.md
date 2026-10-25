@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-25 17:28:55
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-25 23:34:55
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（667 个条目 / 15 个分类）
+## 📑 内容导航（673 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -339,6 +339,10 @@
   标签：5.5万★ / 开源 / AI 编码 / CLI
 - [oh-my-openagent - 一句话调度多模型 AI 智能体](https://github.com/code-yeongyu/oh-my-openagent) — code-yeongyu 出品的开源命令行 AI 智能体：敲一句 omo 加任务，它会自主调研、规划、写代码并验证结果，混用多模型按需切换；GitHub 7 万★，是全球 vibe-coding 类目人气最高的智能体仓库之一。  
   标签：7万★ / 开源 / AI 智能体 / CLI
+- [xerj - 本地优先的 Agent 检索引擎](https://github.com/xerj-org/xerj) — 本地优先的搜索与 Agent 记忆引擎（Rust 单二进制），为 AI 智能体提供 BM25 全文 + 向量混合检索、代码搜索与 RAG，Elasticsearch 兼容 API；GitHub 1.55 万★。  
+  标签：1.55万★ / 开源 / Rust / Agent 检索
+- [magpie - 菜单栏里的 Agent 模型切换器](https://github.com/yetone/magpie) — 开源菜单栏工具，让 Claude Code、Codex 等编码智能体一键切换底层模型（DeepSeek / Kimi / Claude 等），按任务挑最划算的模型；GitHub 2.1 万★。  
+  标签：2.1万★ / 开源 / 模型切换 / 菜单栏
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -707,6 +711,10 @@
   标签：1.3万★ / 开源 / iOS 开发 / 跨平台
 - [CleanYourTV - 用 AI 给智能电视大扫除](https://github.com/Gathin23/cleanyourtv) — 开发者 Gathin 让 Claude Code 通过 Wi-Fi（ADB）接管小米/索尼等 Android TV，停用 25+ 系统组件、换上 300KB 极简桌面；开源数日狂揽 3.1 万★，获虎嗅/腾讯/汤姆硬件等媒体报道，已支持 131+ 机型、46 品牌。  
   标签：3.1万★ / 开源 / Android TV / 去广告
+- [Beam.win - 把 Agent 的 Mac 窗口串流到手边](https://beam.win) — 连续创业者 Hiten Shah（Crazy Egg / KISSmetrics 联合创始人）出品、Product Hunt 当日榜 #3（341 票）：把跑 Agent 的 Mac mini 上的单个窗口「原样」串流到手边 Mac，各窗口独立 Dock 图标、⌘Tab 可切换、端到端加密。  
+  标签：PH #3 / 341 票 / Hiten Shah / Mac Agent
+- [Filee - 离线文件格式转换](https://github.com/KnifeLemon/Filee) — 开源离线文件格式转换工具，支持 255 种格式（图片 / PDF / Office / 音视频 / 电子书 / 压缩包）拖拽即转、零上传、无需安装 Office；GitHub 1.2 万★，隐私友好。  
+  标签：1.2万★ / 开源 / 离线转换 / 255 格式
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -917,6 +925,8 @@
   标签：PH 265+票 / 500+ 市场 / AI 交易 / 免费
 - [Kronos - 金融市场的「语言」基础模型](https://github.com/shiyu-coder/Kronos) — 开源金融市场基础模型：用统一大模型理解行情、研报与交易语言，GitHub 4.2 万★，金融 AI 与量化研究者的新基座。  
   标签：4.2万★ / 开源 / 金融大模型 / 量化
+- [tiun. - AI 公司统一后端](https://tiun.io) — 苏黎世三人团队打造、Product Hunt 当日榜 #1（627 票）的 AI/SaaS 后端：把鉴权、支付（含 Merchant of Record）、客户数据库与分析合为一个系统，一行命令接入，已完成约 $250 万 pre-seed 融资。  
+  标签：PH #1 / 627 票 / $2.5M 融资 / 统一后端
 
 <a id="cat-ai办公" name="cat-ai办公"></a>
 
@@ -1243,6 +1253,8 @@
   标签：Product Hunt #4 / ESP / Claude MCP
 - [ReSO AI - 让品牌被 AI 推荐](https://www.neurokitai.com/en/products/reso-ai) — 生成式引擎优化（GEO）平台（NeuroKit AI 出品）：帮品牌在 ChatGPT / Perplexity / Google AIO 的推荐答案里获得曝光与引用，用专有意图模型分析 30+ 购买意图变量、监控竞品声量、输出 AI 友好的内容与代码级技术修复。Product Hunt 当日榜 #2（510 票）。  
   标签：PH #2 / 510票 / GEO / AI 搜索优化
+- [Outbid - 付费竞价排行榜](https://outbid.lol) — 德国独立开发者约 3 小时写出的付费竞价排行榜：出价即排名，上线 3 天涌入 114 万访客、狂揽 20.7 万美元收入，单笔最高出价 1.7 万美元；现仍在运营，是 2026 年最具话题度的 vibe coding 病毒式现象（全网涌现 170+ 仿品）。  
+  标签：114万访客 / $20.7万收入 / 付费排行榜 / 病毒式
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 

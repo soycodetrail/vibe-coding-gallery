@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:28:55.051Z",
+  "updatedAt": "2026-10-25T23:34:55.833Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -10356,6 +10356,102 @@
       "icon": "palette",
       "bg": "linear-gradient(135deg, #9d50bb 0%, #6e48aa 100%)",
       "tool": "awesome-design-md / 开源",
+      "hot": 0
+    },
+    {
+      "name": "Outbid - 付费竞价排行榜",
+      "desc": "德国独立开发者约 3 小时写出的付费竞价排行榜：出价即排名，上线 3 天涌入 114 万访客、狂揽 20.7 万美元收入，单笔最高出价 1.7 万美元；现仍在运营，是 2026 年最具话题度的 vibe coding 病毒式现象（全网涌现 170+ 仿品）。",
+      "url": "https://outbid.lol",
+      "category": "电商营销",
+      "tags": [
+        "114万访客",
+        "$20.7万收入",
+        "付费排行榜",
+        "病毒式"
+      ],
+      "icon": "trophy",
+      "bg": "linear-gradient(135deg, #ff4e50 0%, #f9d423 100%)",
+      "tool": "vibe coding / Stripe",
+      "hot": 0
+    },
+    {
+      "name": "tiun. - AI 公司统一后端",
+      "desc": "苏黎世三人团队打造、Product Hunt 当日榜 #1（627 票）的 AI/SaaS 后端：把鉴权、支付（含 Merchant of Record）、客户数据库与分析合为一个系统，一行命令接入，已完成约 $250 万 pre-seed 融资。",
+      "url": "https://tiun.io",
+      "category": "金融财经",
+      "tags": [
+        "PH #1",
+        "627 票",
+        "$2.5M 融资",
+        "统一后端"
+      ],
+      "icon": "credit-card",
+      "bg": "linear-gradient(135deg, #283048 0%, #859398 100%)",
+      "tool": "tiun / AI 后端",
+      "hot": 0
+    },
+    {
+      "name": "Beam.win - 把 Agent 的 Mac 窗口串流到手边",
+      "desc": "连续创业者 Hiten Shah（Crazy Egg / KISSmetrics 联合创始人）出品、Product Hunt 当日榜 #3（341 票）：把跑 Agent 的 Mac mini 上的单个窗口「原样」串流到手边 Mac，各窗口独立 Dock 图标、⌘Tab 可切换、端到端加密。",
+      "url": "https://beam.win",
+      "category": "效率工具",
+      "tags": [
+        "PH #3",
+        "341 票",
+        "Hiten Shah",
+        "Mac Agent"
+      ],
+      "icon": "monitor",
+      "bg": "linear-gradient(135deg, #5f2c82 0%, #49a09d 100%)",
+      "tool": "Beam / macOS",
+      "hot": 0
+    },
+    {
+      "name": "Filee - 离线文件格式转换",
+      "desc": "开源离线文件格式转换工具，支持 255 种格式（图片 / PDF / Office / 音视频 / 电子书 / 压缩包）拖拽即转、零上传、无需安装 Office；GitHub 1.2 万★，隐私友好。",
+      "url": "https://github.com/KnifeLemon/Filee",
+      "category": "效率工具",
+      "tags": [
+        "1.2万★",
+        "开源",
+        "离线转换",
+        "255 格式"
+      ],
+      "icon": "files",
+      "bg": "linear-gradient(135deg, #00b09b 0%, #96c93d 100%)",
+      "tool": "Filee / 开源",
+      "hot": 0
+    },
+    {
+      "name": "xerj - 本地优先的 Agent 检索引擎",
+      "desc": "本地优先的搜索与 Agent 记忆引擎（Rust 单二进制），为 AI 智能体提供 BM25 全文 + 向量混合检索、代码搜索与 RAG，Elasticsearch 兼容 API；GitHub 1.55 万★。",
+      "url": "https://github.com/xerj-org/xerj",
+      "category": "AI 工具",
+      "tags": [
+        "1.55万★",
+        "开源",
+        "Rust",
+        "Agent 检索"
+      ],
+      "icon": "search",
+      "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
+      "tool": "xerj / 开源",
+      "hot": 0
+    },
+    {
+      "name": "magpie - 菜单栏里的 Agent 模型切换器",
+      "desc": "开源菜单栏工具，让 Claude Code、Codex 等编码智能体一键切换底层模型（DeepSeek / Kimi / Claude 等），按任务挑最划算的模型；GitHub 2.1 万★。",
+      "url": "https://github.com/yetone/magpie",
+      "category": "AI 工具",
+      "tags": [
+        "2.1万★",
+        "开源",
+        "模型切换",
+        "菜单栏"
+      ],
+      "icon": "cpu",
+      "bg": "linear-gradient(135deg, #0b8793 0%, #360033 100%)",
+      "tool": "magpie / 开源",
       "hot": 0
     }
   ],
