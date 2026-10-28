@@ -4,13 +4,15 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-25 23:34:55
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-28 13:15:41
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/undefined) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/undefined/)
+- [开源书籍宝库](https://github.com/soycodetrail/undefined) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/undefined/)
 
-## 📑 内容导航（673 个条目 / 15 个分类）
+## 📑 内容导航（679 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -343,6 +345,8 @@
   标签：1.55万★ / 开源 / Rust / Agent 检索
 - [magpie - 菜单栏里的 Agent 模型切换器](https://github.com/yetone/magpie) — 开源菜单栏工具，让 Claude Code、Codex 等编码智能体一键切换底层模型（DeepSeek / Kimi / Claude 等），按任务挑最划算的模型；GitHub 2.1 万★。  
   标签：2.1万★ / 开源 / 模型切换 / 菜单栏
+- [PlugThis - 一句话生成 Chrome 扩展](https://plugthis.ai) — Product Hunt 2026-07-10 当日榜 #2（442 票）：用自然语言一句话生成可直接上架的 Chrome 扩展，自动产出 manifest、popup、background 与打包文件，零前端基础也能发布。  
+  标签：PH #2 / 442 票 / Chrome 扩展 / AI 生成
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -715,6 +719,8 @@
   标签：PH #3 / 341 票 / Hiten Shah / Mac Agent
 - [Filee - 离线文件格式转换](https://github.com/KnifeLemon/Filee) — 开源离线文件格式转换工具，支持 255 种格式（图片 / PDF / Office / 音视频 / 电子书 / 压缩包）拖拽即转、零上传、无需安装 Office；GitHub 1.2 万★，隐私友好。  
   标签：1.2万★ / 开源 / 离线转换 / 255 格式
+- [Backgrind - 永远在线的多 Agent 置顶浮窗](https://backgrind.com/) — Product Hunt 2026-06-21 当日榜 #1（337 票）：把多个 AI Agent 钉在屏幕置顶浮窗里，随时唤起、并行协作；开源、可自托管，把智能体变成随手可及的工作面板。  
+  标签：PH #1 / 337 票 / Agent 浮窗 / 多 Agent
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1010,6 +1016,10 @@
   标签：PH #1 / 357票 / 开源 / AI 邮件
 - [Talanoa - 把邮件变成聊天](https://talanoa.email) — 隐私优先的本地桌面邮件客户端（Electron + Vue 3，独立开发者 BetterCallJohn 打造）：把杂乱邮件线程整理成干净的聊天式对话，本地 AI 帮你搜索、总结、撰写，统一 Gmail / Outlook / iCloud / IMAP 收件箱，数据不出本机、无云端同步。Product Hunt 当日榜 #1（335 票）。  
   标签：PH #1 / 335票 / 隐私优先 / 本地 AI
+- [Scarlett - 能真干活的 AI 同事](https://tryscarlett.ai) — Product Hunt 2026-07-10 当日榜 #1（573 票）：住在 Slack / iMessage 里的 AI 同事，不只是聊天，而是真正执行任务、协调团队、推进项目进度。  
+  标签：PH #1 / 573 票 / AI 同事 / Slack
+- [Atomic Mail Agentic - 可编程的 Agent 邮箱](https://atomicmail.io/agents) — Product Hunt 2026-06-21 当日榜 #2（252 票）：面向智能体的邮箱 API（基于 JMAP），让 AI Agent 拥有独立收件箱、能收发邮件、调用工具，把邮箱变成 Agent 的执行通道。  
+  标签：PH #2 / 252 票 / Agent 邮箱 / JMAP
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1186,6 +1196,8 @@
   标签：7.2万★ / 开源 / Rust / Photoshop 替代品
 - [awesome-design-md - 让 AI 生成品牌级 UI 的设计系统库](https://github.com/VoltAgent/awesome-design-md) — VoltAgent 出品的开源神库：收集 Claude、Stripe、Nike、Tesla 等真实网站的 DESIGN.md 设计系统文档，丢进项目即可让编码智能体生成贴合品牌视觉的 UI；GitHub 12.3 万★，是 vibe coding 时代最热门的 AI 辅助设计资源之一。  
   标签：12.3万★ / 开源 / 设计系统 / AI 辅助设计
+- [openpencil - 开源的 AI 矢量设计工具](https://github.com/ZSeven-W/openpencil) — GitHub 6.6K★ 的开源 AI 矢量设计工具：用自然语言驱动设计，内置 Agent 团队协同作图、生成可编辑的 SVG 矢量，对标 Figma 的开源替代。  
+  标签：6.6K★ / 开源 / AI 矢量设计 / Agent 团队
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1404,6 +1416,8 @@
   标签：PH 热榜 / 714+ 票 / 1400+ 创作者 / X 增长
 - [Publora - 给 AI Agent 的社媒发布 API](https://publora.com/) — 为 AI Agent 打造的全平台社媒发布 API：一句话让 Claude/Cursor 排期发布到 Instagram、TikTok、X 等 10 个平台。Product Hunt 周榜第 2（669 分），已有 2,200+ 活跃用户，支持 MCP。  
   标签：Product Hunt #2 / MCP / 10 平台
+- [ConnectMachine 2.0 - 会自我分发的 AI 名片](https://www.connectmachine.ai/) — Product Hunt 2026-10-01 当日榜 #1（443 票）：AI 数字名片，已积累 50,000+ 用户；自动生成可分享主页并跨社交平台分发，把人脉沉淀成可检索的资产。  
+  标签：PH #1 / 50,000+ 用户 / AI 名片 / 人脉管理
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:34:55.833Z",
+  "updatedAt": "2026-10-28T13:15:41.350Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -10452,6 +10452,102 @@
       "icon": "cpu",
       "bg": "linear-gradient(135deg, #0b8793 0%, #360033 100%)",
       "tool": "magpie / 开源",
+      "hot": 0
+    },
+    {
+      "name": "PlugThis - 一句话生成 Chrome 扩展",
+      "desc": "Product Hunt 2026-07-10 当日榜 #2（442 票）：用自然语言一句话生成可直接上架的 Chrome 扩展，自动产出 manifest、popup、background 与打包文件，零前端基础也能发布。",
+      "url": "https://plugthis.ai",
+      "category": "AI 工具",
+      "tags": [
+        "PH #2",
+        "442 票",
+        "Chrome 扩展",
+        "AI 生成"
+      ],
+      "icon": "puzzle",
+      "bg": "linear-gradient(135deg, #FF9E2C 0%, #FFD46B 100%)",
+      "tool": "PlugThis / Web",
+      "hot": 0
+    },
+    {
+      "name": "Scarlett - 能真干活的 AI 同事",
+      "desc": "Product Hunt 2026-07-10 当日榜 #1（573 票）：住在 Slack / iMessage 里的 AI 同事，不只是聊天，而是真正执行任务、协调团队、推进项目进度。",
+      "url": "https://tryscarlett.ai",
+      "category": "AI办公",
+      "tags": [
+        "PH #1",
+        "573 票",
+        "AI 同事",
+        "Slack"
+      ],
+      "icon": "users",
+      "bg": "linear-gradient(135deg, #FF6F91 0%, #FFC2D1 100%)",
+      "tool": "Scarlett / SaaS",
+      "hot": 0
+    },
+    {
+      "name": "ConnectMachine 2.0 - 会自我分发的 AI 名片",
+      "desc": "Product Hunt 2026-10-01 当日榜 #1（443 票）：AI 数字名片，已积累 50,000+ 用户；自动生成可分享主页并跨社交平台分发，把人脉沉淀成可检索的资产。",
+      "url": "https://www.connectmachine.ai/",
+      "category": "社交社区",
+      "tags": [
+        "PH #1",
+        "50,000+ 用户",
+        "AI 名片",
+        "人脉管理"
+      ],
+      "icon": "qr-code",
+      "bg": "linear-gradient(135deg, #6D5BFF 0%, #B66BFF 100%)",
+      "tool": "ConnectMachine / SaaS",
+      "hot": 0
+    },
+    {
+      "name": "Atomic Mail Agentic - 可编程的 Agent 邮箱",
+      "desc": "Product Hunt 2026-06-21 当日榜 #2（252 票）：面向智能体的邮箱 API（基于 JMAP），让 AI Agent 拥有独立收件箱、能收发邮件、调用工具，把邮箱变成 Agent 的执行通道。",
+      "url": "https://atomicmail.io/agents",
+      "category": "AI办公",
+      "tags": [
+        "PH #2",
+        "252 票",
+        "Agent 邮箱",
+        "JMAP"
+      ],
+      "icon": "mail",
+      "bg": "linear-gradient(135deg, #FF4D6D 0%, #C9184A 100%)",
+      "tool": "Atomic Mail / API",
+      "hot": 0
+    },
+    {
+      "name": "Backgrind - 永远在线的多 Agent 置顶浮窗",
+      "desc": "Product Hunt 2026-06-21 当日榜 #1（337 票）：把多个 AI Agent 钉在屏幕置顶浮窗里，随时唤起、并行协作；开源、可自托管，把智能体变成随手可及的工作面板。",
+      "url": "https://backgrind.com/",
+      "category": "效率工具",
+      "tags": [
+        "PH #1",
+        "337 票",
+        "Agent 浮窗",
+        "多 Agent"
+      ],
+      "icon": "layers",
+      "bg": "linear-gradient(135deg, #2EC4B6 0%, #6BFFB0 100%)",
+      "tool": "Backgrind / 开源",
+      "hot": 0
+    },
+    {
+      "name": "openpencil - 开源的 AI 矢量设计工具",
+      "desc": "GitHub 6.6K★ 的开源 AI 矢量设计工具：用自然语言驱动设计，内置 Agent 团队协同作图、生成可编辑的 SVG 矢量，对标 Figma 的开源替代。",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "category": "设计创意",
+      "tags": [
+        "6.6K★",
+        "开源",
+        "AI 矢量设计",
+        "Agent 团队"
+      ],
+      "icon": "pen-tool",
+      "bg": "linear-gradient(135deg, #3AA0FF 0%, #7BF2FF 100%)",
+      "tool": "openpencil / 开源",
       "hot": 0
     }
   ],
