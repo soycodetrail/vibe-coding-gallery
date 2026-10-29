@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T13:17:08.559Z",
+  "updatedAt": "2026-10-29T01:39:42.336Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -10548,6 +10548,102 @@
       "icon": "pen-tool",
       "bg": "linear-gradient(135deg, #3AA0FF 0%, #7BF2FF 100%)",
       "tool": "openpencil / 开源",
+      "hot": 0
+    },
+    {
+      "name": "Lagos Life - AI 一夜搭建的非洲都市生活模拟游戏",
+      "desc": "AI 一夜搭建的非洲都市生活模拟游戏：截至 2026-10-11 注册账户突破 1000 万、单局同时在线超 120 万人；并以 50 万美元种子轮、1000 万美元估值（Vatar 领投）验证商业潜力，是「vibe coding 做游戏」的现象级案例。",
+      "url": "https://lagoslife.app",
+      "category": "游戏",
+      "tags": [
+        "1000万+ 账户",
+        "120万+ 同服在线",
+        "$10M 估值",
+        "AI 生成游戏"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #FF8A00 0%, #FF2D55 100%)",
+      "tool": "Lagos Life / 游戏",
+      "hot": 0
+    },
+    {
+      "name": "Hyrax AI - 面向 AI 编程团队的代码库架构师",
+      "desc": "Product Hunt 2026-09-21 当日榜 #5（228 票）：面向 AI 编程团队的「代码库架构师」，自动梳理、可视化并重构大型代码库，让 Agent 与人类共享同一份结构化架构认知。",
+      "url": "https://hyrax.dev",
+      "category": "AI 工具",
+      "tags": [
+        "PH #5",
+        "228 票",
+        "代码库架构",
+        "AI 编程"
+      ],
+      "icon": "code-2",
+      "bg": "linear-gradient(135deg, #00C2A8 0%, #0084FF 100%)",
+      "tool": "Hyrax AI / SaaS",
+      "hot": 0
+    },
+    {
+      "name": "Meridian - 开源本地优先的 AI 工作日志",
+      "desc": "Product Hunt 2026-08-17 当日榜 #1（435 票）：开源（MIT）的本地优先 AI 工作日志，把每日工作流、笔记与 Agent 产出沉淀为结构化记录，主打隐私与离线可用的「个人工作记忆层」。",
+      "url": "https://github.com/Meridiona/meridian",
+      "category": "效率工具",
+      "tags": [
+        "PH #1",
+        "435 票",
+        "开源 MIT",
+        "本地优先"
+      ],
+      "icon": "book-open",
+      "bg": "linear-gradient(135deg, #7B4397 0%, #DC2430 100%)",
+      "tool": "Meridian / 开源",
+      "hot": 0
+    },
+    {
+      "name": "DeepCell - 职场截稿日生存包",
+      "desc": "Product Hunt 2026-10-22 当日榜 #1（341 票）：「职场截稿日生存包」，用 .deepcell 格式把文档、任务与 AI 协作封装进统一工作空间，帮打工人对抗 deadline 焦虑。",
+      "url": "https://deepcell.net",
+      "category": "AI办公",
+      "tags": [
+        "PH #1",
+        "341 票",
+        ".deepcell",
+        "办公协作"
+      ],
+      "icon": "calendar-clock",
+      "bg": "linear-gradient(135deg, #F27121 0%, #E94057 100%)",
+      "tool": "DeepCell / SaaS",
+      "hot": 0
+    },
+    {
+      "name": "Busabase - 开源的 Agent 系统记录库",
+      "desc": "Product Hunt 2026-10-09 当日榜 #1（约 355 票）、GitHub 592★ 的开源（MIT）「Agent 系统记录库」：让 Claude Code、Codex、Cursor 等智能体把产出写入同一份带审计轨迹的共享数据库，人审后才合并。",
+      "url": "https://busabase.com",
+      "category": "Agent",
+      "tags": [
+        "PH #1",
+        "592★",
+        "开源 MIT",
+        "Agent 记忆"
+      ],
+      "icon": "database",
+      "bg": "linear-gradient(135deg, #134E5E 0%, #71B280 100%)",
+      "tool": "Busabase / 开源",
+      "hot": 0
+    },
+    {
+      "name": "kōdlo - 端到端 B2B 销售工作台",
+      "desc": "Product Hunt 2026-10-11 当日榜 #2（约 263–278 票）：端到端 B2B 销售工作台，统一 ICP 挖掘、引用溯源深搜、个性化触达与 CRM，让获客到成交在同一份共享记忆层完成。",
+      "url": "https://kodlo.ai",
+      "category": "电商营销",
+      "tags": [
+        "PH #2",
+        "263+ 票",
+        "B2B 销售",
+        "统一上下文"
+      ],
+      "icon": "target",
+      "bg": "linear-gradient(135deg, #C31432 0%, #240B36 100%)",
+      "tool": "kōdlo / SaaS",
       "hot": 0
     }
   ],

@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-28 13:17:08
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-29 01:39:42
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（679 个条目 / 15 个分类）
+## 📑 内容导航（685 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -345,6 +345,8 @@
   标签：2.1万★ / 开源 / 模型切换 / 菜单栏
 - [PlugThis - 一句话生成 Chrome 扩展](https://plugthis.ai) — Product Hunt 2026-07-10 当日榜 #2（442 票）：用自然语言一句话生成可直接上架的 Chrome 扩展，自动产出 manifest、popup、background 与打包文件，零前端基础也能发布。  
   标签：PH #2 / 442 票 / Chrome 扩展 / AI 生成
+- [Hyrax AI - 面向 AI 编程团队的代码库架构师](https://hyrax.dev) — Product Hunt 2026-09-21 当日榜 #5（228 票）：面向 AI 编程团队的「代码库架构师」，自动梳理、可视化并重构大型代码库，让 Agent 与人类共享同一份结构化架构认知。  
+  标签：PH #5 / 228 票 / 代码库架构 / AI 编程
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -528,6 +530,8 @@
   标签：29.5k★ / 开源 / Agent 审计 / AI 安全
 - [ruflo - 多智能体编排的原始引擎](https://github.com/ruvnet/ruflo) — GitHub 7.8 万★ 的开源 Agent 编排框架：多智能体集群、自适应记忆、联邦与向量 RAG，原生支持 Claude Code / Codex / Hermes，被誉为「Agent 时代的原始引擎」。  
   标签：7.8万★ / 开源 / Agent 编排 / 多智能体
+- [Busabase - 开源的 Agent 系统记录库](https://busabase.com) — Product Hunt 2026-10-09 当日榜 #1（约 355 票）、GitHub 592★ 的开源（MIT）「Agent 系统记录库」：让 Claude Code、Codex、Cursor 等智能体把产出写入同一份带审计轨迹的共享数据库，人审后才合并。  
+  标签：PH #1 / 592★ / 开源 MIT / Agent 记忆
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -719,6 +723,8 @@
   标签：1.2万★ / 开源 / 离线转换 / 255 格式
 - [Backgrind - 永远在线的多 Agent 置顶浮窗](https://backgrind.com/) — Product Hunt 2026-06-21 当日榜 #1（337 票）：把多个 AI Agent 钉在屏幕置顶浮窗里，随时唤起、并行协作；开源、可自托管，把智能体变成随手可及的工作面板。  
   标签：PH #1 / 337 票 / Agent 浮窗 / 多 Agent
+- [Meridian - 开源本地优先的 AI 工作日志](https://github.com/Meridiona/meridian) — Product Hunt 2026-08-17 当日榜 #1（435 票）：开源（MIT）的本地优先 AI 工作日志，把每日工作流、笔记与 Agent 产出沉淀为结构化记录，主打隐私与离线可用的「个人工作记忆层」。  
+  标签：PH #1 / 435 票 / 开源 MIT / 本地优先
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -880,6 +886,8 @@
   标签：VibeBlitz #4 / 4 万+ 游玩 / PixiJS
 - [台北 GTA - vibe coding 爆红的网页城市模拟](https://taipei-gta.vercel.app) — 开发者用 AICodeWith 平台 vibe coding 撸出的网页版台北 GTA：自由探索西门町、台北车站等真实地标，93+ 任务、复古画风 100+FPS，上线 3 天吸引 120 万玩家同时在线。  
   标签：120万同时在线 / 网页游戏 / GTA 风格 / 3天爆红
+- [Lagos Life - AI 一夜搭建的非洲都市生活模拟游戏](https://lagoslife.app) — AI 一夜搭建的非洲都市生活模拟游戏：截至 2026-10-11 注册账户突破 1000 万、单局同时在线超 120 万人；并以 50 万美元种子轮、1000 万美元估值（Vatar 领投）验证商业潜力，是「vibe coding 做游戏」的现象级案例。  
+  标签：1000万+ 账户 / 120万+ 同服在线 / $10M 估值 / AI 生成游戏
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -1018,6 +1026,8 @@
   标签：PH #1 / 573 票 / AI 同事 / Slack
 - [Atomic Mail Agentic - 可编程的 Agent 邮箱](https://atomicmail.io/agents) — Product Hunt 2026-06-21 当日榜 #2（252 票）：面向智能体的邮箱 API（基于 JMAP），让 AI Agent 拥有独立收件箱、能收发邮件、调用工具，把邮箱变成 Agent 的执行通道。  
   标签：PH #2 / 252 票 / Agent 邮箱 / JMAP
+- [DeepCell - 职场截稿日生存包](https://deepcell.net) — Product Hunt 2026-10-22 当日榜 #1（341 票）：「职场截稿日生存包」，用 .deepcell 格式把文档、任务与 AI 协作封装进统一工作空间，帮打工人对抗 deadline 焦虑。  
+  标签：PH #1 / 341 票 / .deepcell / 办公协作
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1265,6 +1275,8 @@
   标签：PH #2 / 510票 / GEO / AI 搜索优化
 - [Outbid - 付费竞价排行榜](https://outbid.lol) — 德国独立开发者约 3 小时写出的付费竞价排行榜：出价即排名，上线 3 天涌入 114 万访客、狂揽 20.7 万美元收入，单笔最高出价 1.7 万美元；现仍在运营，是 2026 年最具话题度的 vibe coding 病毒式现象（全网涌现 170+ 仿品）。  
   标签：114万访客 / $20.7万收入 / 付费排行榜 / 病毒式
+- [kōdlo - 端到端 B2B 销售工作台](https://kodlo.ai) — Product Hunt 2026-10-11 当日榜 #2（约 263–278 票）：端到端 B2B 销售工作台，统一 ICP 挖掘、引用溯源深搜、个性化触达与 CRM，让获客到成交在同一份共享记忆层完成。  
+  标签：PH #2 / 263+ 票 / B2B 销售 / 统一上下文
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
