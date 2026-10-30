@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-29 07:42:22
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-30 02:00:34
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（685 个条目 / 15 个分类）
+## 📑 内容导航（690 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -1089,6 +1089,10 @@
   标签：Product Hunt #3 / AI 课程 / NVIDIA 合作
 - [Teachoo - 一步步引导你解题的 AI 导师](https://www.teachoo.com) — 由 iAsk.ai（累计近 10 亿次搜索）团队打造的免费 AI 导师：拍照或输入题目，用追问与提示一步步引导你真正理解解题过程，而非直接给答案。Product Hunt 当日榜（268 票），覆盖 K12 到考证全学科。  
   标签：Product Hunt 268 / 免费 AI 导师 / iAsk.ai 团队
+- [DeepTutor - 港大开源的终身 AI 导师](https://github.com/HKUDS/DeepTutor) — 香港大学 HKUDS 实验室开源的多智能体 + RAG 终身学习导师，GitHub 星标 47,000+（Apache-2.0）。覆盖 K12 到科研的多学科答疑、错题溯源与个性化学习路径，可本地部署，被全球教育者当作"24 小时不疲倦的一对一导师"。  
+  标签：47K+ Stars / Apache-2.0 / 多智能体 / 可本地部署
+- [WrestleAI - 19 岁少年用 AI 做的摔跤教练](https://wrestleai.app) — 19 岁、零代码基础的 George Lampropoulos 用 AI 应用生成器 Roar 做出的 AI 摔跤教练，下载量突破 100,000+、首月收入约 $17K。上传比赛视频即获 AI 逐帧技术拆解、个性化训练计划与数据追踪，靠摔跤达人冷启动推广走红。  
+  标签：100K+ 下载 / 首月 $17K / 零代码 / 视频分析
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1206,6 +1210,8 @@
   标签：12.3万★ / 开源 / 设计系统 / AI 辅助设计
 - [openpencil - 开源的 AI 矢量设计工具](https://github.com/ZSeven-W/openpencil) — GitHub 6.6K★ 的开源 AI 矢量设计工具：用自然语言驱动设计，内置 Agent 团队协同作图、生成可编辑的 SVG 矢量，对标 Figma 的开源替代。  
   标签：6.6K★ / 开源 / AI 矢量设计 / Agent 团队
+- [Flibbo - 非程序员做出来的 AI 内容超级 App](https://www.flibbo.com) — Instagram 90 万粉的电商老手 Sina Sinry 完全不会写代码，用 AI/低代码把各家前沿模型（Veo 3、Sora 2、Kling、Suno、GPT、Gemini、Grok、Claude）打包成一个 App，月经常性收入达 $78K、累计用户 500,000+、App Store 4.7 星 / 10,000+ 评价。  
+  标签：$78K MRR / 500K+ 用户 / 4.7 星 / 非程序员
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1383,6 +1389,8 @@
   标签：$60K/月 MRR / 10 万+ 用户 / GLP-1 追踪 / 22 岁 solo
 - [Lovon - 会倾听的 AI 心理疗愈师](https://lovon.app) — 语音优先的 AI 心理咨询伴侣：与拥有 40+ 年临床经验的 PhD 心理学家联合打造，基于 CBT 与情绪聚焦疗法温柔挑战非理性想法，而非一味附和；端到端加密、绝不用于训练。Product Hunt 2026-02-14 情人节登顶当日榜 #1（534+ 票），已获 85 万美元种子轮。  
   标签：PH #1 / 534+ 票 / $850K 种子轮 / 语音疗愈
+- [Gravl - AI 力量训练与增肌教练](https://gravl.ai) — 非程序员父子档用 Cursor 打造的 AI 力量训练 App，月经常性收入约 $440K、订阅用户 70,000+。按设备、动作与恢复状态生成周期化训练计划，自动调整容量与强度，被海外健身圈称为"口袋里的私人教练"。  
+  标签：$440K MRR / 70K+ 订阅 / 力量训练 / 非程序员
 
 <a id="cat-社交社区" name="cat-社交社区"></a>
 
@@ -1465,6 +1473,8 @@
   标签：1.2万★ / 开源 / Agent 记忆 / 上下文
 - [Articos - 用合成买家 persona 做用户调研](https://www.articos.com) — 通过 MCP 标准把「合成买家 persona」接入你的 AI 助手：在真实访谈前用匹配 ICP 的模拟用户测试文案、定位与落地页，经同行评审与真实用户研究吻合度达 86%（对标 Baymard / Nielsen Norman）。Product Hunt 当日热榜（358 票）。  
   标签：PH 热榜 / 358票 / 用户调研 / MCP
+- [Stella - 用 AI 显化你想要的任意事物](https://apps.apple.com/cn/app/stella-manifest-anything/id6757347283) — 非程序员 Sarah Pearl 用 Claude Code + Google AI Studio 独立打造的正念显化 App，上线即达约 $340K MRR、12,000 名付费用户、200K+ 下载，登顶多国生活方式榜。把"想要的事物"拆成可执行的每日显化练习，AI 陪你可视化、写肯定语、追踪情绪与进度。  
+  标签：$340K MRR / 12K 付费 / 200K+ 下载 / 非程序员
 
 <a id="cat-web应用" name="cat-web应用"></a>
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T07:42:22.478Z",
+  "updatedAt": "2026-10-30T02:00:34.751Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -10644,6 +10644,86 @@
       "icon": "target",
       "bg": "linear-gradient(135deg, #C31432 0%, #240B36 100%)",
       "tool": "kōdlo / SaaS",
+      "hot": 0
+    },
+    {
+      "name": "Stella - 用 AI 显化你想要的任意事物",
+      "desc": "非程序员 Sarah Pearl 用 Claude Code + Google AI Studio 独立打造的正念显化 App，上线即达约 $340K MRR、12,000 名付费用户、200K+ 下载，登顶多国生活方式榜。把\"想要的事物\"拆成可执行的每日显化练习，AI 陪你可视化、写肯定语、追踪情绪与进度。",
+      "url": "https://apps.apple.com/cn/app/stella-manifest-anything/id6757347283",
+      "category": "AI工具",
+      "tags": [
+        "$340K MRR",
+        "12K 付费",
+        "200K+ 下载",
+        "非程序员"
+      ],
+      "icon": "sparkles",
+      "bg": "linear-gradient(135deg, #C0392B 0%, #8E44AD 100%)",
+      "tool": "Claude Code / Google AI Studio",
+      "hot": 0
+    },
+    {
+      "name": "Gravl - AI 力量训练与增肌教练",
+      "desc": "非程序员父子档用 Cursor 打造的 AI 力量训练 App，月经常性收入约 $440K、订阅用户 70,000+。按设备、动作与恢复状态生成周期化训练计划，自动调整容量与强度，被海外健身圈称为\"口袋里的私人教练\"。",
+      "url": "https://gravl.ai",
+      "category": "医疗健康",
+      "tags": [
+        "$440K MRR",
+        "70K+ 订阅",
+        "力量训练",
+        "非程序员"
+      ],
+      "icon": "heart-pulse",
+      "bg": "linear-gradient(135deg, #093028 0%, #237A57 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "DeepTutor - 港大开源的终身 AI 导师",
+      "desc": "香港大学 HKUDS 实验室开源的多智能体 + RAG 终身学习导师，GitHub 星标 47,000+（Apache-2.0）。覆盖 K12 到科研的多学科答疑、错题溯源与个性化学习路径，可本地部署，被全球教育者当作\"24 小时不疲倦的一对一导师\"。",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "category": "教育学习",
+      "tags": [
+        "47K+ Stars",
+        "Apache-2.0",
+        "多智能体",
+        "可本地部署"
+      ],
+      "icon": "graduation-cap",
+      "bg": "linear-gradient(135deg, #3A1C71 0%, #D76D77 50%, #FFAF7B 100%)",
+      "tool": "HKUDS / 开源",
+      "hot": 0
+    },
+    {
+      "name": "WrestleAI - 19 岁少年用 AI 做的摔跤教练",
+      "desc": "19 岁、零代码基础的 George Lampropoulos 用 AI 应用生成器 Roar 做出的 AI 摔跤教练，下载量突破 100,000+、首月收入约 $17K。上传比赛视频即获 AI 逐帧技术拆解、个性化训练计划与数据追踪，靠摔跤达人冷启动推广走红。",
+      "url": "https://wrestleai.app",
+      "category": "教育学习",
+      "tags": [
+        "100K+ 下载",
+        "首月 $17K",
+        "零代码",
+        "视频分析"
+      ],
+      "icon": "trophy",
+      "bg": "linear-gradient(135deg, #654EA3 0%, #EAAFC7 100%)",
+      "tool": "Roar / AI 应用生成器",
+      "hot": 0
+    },
+    {
+      "name": "Flibbo - 非程序员做出来的 AI 内容超级 App",
+      "desc": "Instagram 90 万粉的电商老手 Sina Sinry 完全不会写代码，用 AI/低代码把各家前沿模型（Veo 3、Sora 2、Kling、Suno、GPT、Gemini、Grok、Claude）打包成一个 App，月经常性收入达 $78K、累计用户 500,000+、App Store 4.7 星 / 10,000+ 评价。",
+      "url": "https://www.flibbo.com",
+      "category": "设计创意",
+      "tags": [
+        "$78K MRR",
+        "500K+ 用户",
+        "4.7 星",
+        "非程序员"
+      ],
+      "icon": "video",
+      "bg": "linear-gradient(135deg, #2C3E50 0%, #FD746C 100%)",
+      "tool": "AI / 低代码",
       "hot": 0
     }
   ],
