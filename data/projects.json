@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T20:09:17.744Z",
+  "updatedAt": "2026-10-31T07:19:08.558Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -10724,6 +10724,86 @@
       "icon": "video",
       "bg": "linear-gradient(135deg, #2C3E50 0%, #FD746C 100%)",
       "tool": "AI / 低代码",
+      "hot": 0
+    },
+    {
+      "name": "Strawberry - 内置 AI 同事的浏览器",
+      "desc": "Product Hunt 2026-10-26 当日榜 #1（342 票）：内置 AI Companions 的桌面浏览器，可并行研究数百条销售线索、转录会议、自动跟进；已被 Lovable、ElevenLabs 等数百支团队采用。",
+      "url": "https://strawberrybrowser.com/",
+      "category": "AI 工具",
+      "tags": [
+        "PH #1",
+        "342 票",
+        "AI 浏览器",
+        "Companions"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #E63946 0%, #D4145A 100%)",
+      "tool": "Strawberry",
+      "hot": 0
+    },
+    {
+      "name": "/dev/null - 48 小时直播搭出的开发者社交网络",
+      "desc": "Product Hunt 2026-10-20 当日榜 #1（482 票），并在 Hacker News 与 X 全网爆火：JetBrains 办公室 48 小时直播从零搭出的开发者社交网络，用 GitHub 登录、发 \"commit\"、点 \"star\"；Vercel CEO Guillermo Rauch 盛赞 \"really well done\"，开源（615★）。",
+      "url": "https://dev-null.sh/",
+      "category": "社交社区",
+      "tags": [
+        "PH #1",
+        "482 票",
+        "48h 直播",
+        "开源"
+      ],
+      "icon": "users",
+      "bg": "linear-gradient(135deg, #3023AE 0%, #C86DD7 100%)",
+      "tool": "/dev/null / 开源",
+      "hot": 0
+    },
+    {
+      "name": "myPip - 用大白话做出能变现的游戏",
+      "desc": "Product Hunt 2026-10-24 当日榜 #2（266 票）：用大白话描述就能生成可玩游戏的 AI 游戏工坊，支持多人实时协作、手柄操控、扫码把自己变进游戏，还能内购上架；已有 140,000+ 人做出自己的游戏。",
+      "url": "https://mypip.dev/",
+      "category": "游戏",
+      "tags": [
+        "PH #2",
+        "266 票",
+        "140K+ 创作者",
+        "游戏工坊"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #FC6076 0%, #FF9A44 100%)",
+      "tool": "myPip",
+      "hot": 0
+    },
+    {
+      "name": "SurgePix - 能逐层编辑的 AI 视觉工作台",
+      "desc": "Product Hunt 2026-10-26 当日榜 #2（252 票）：AI 视觉创作平台，生成图像 / 幻灯片 / 海报后可逐层编辑、智能抠图换字、保持品牌一致；并提供开源 Agent Skills，让 Claude Code、Cursor 在终端直接出图改图。",
+      "url": "https://surgepix.ai/",
+      "category": "设计创意",
+      "tags": [
+        "PH #2",
+        "252 票",
+        "图层编辑",
+        "Agent 技能"
+      ],
+      "icon": "image",
+      "bg": "linear-gradient(135deg, #E55D87 0%, #5FC3E4 100%)",
+      "tool": "SurgePix",
+      "hot": 0
+    },
+    {
+      "name": "MOVO AI - 对话式长视频创作 Agent",
+      "desc": "Product Hunt 2026-10-23 当日榜 #2（295 票）：全球首款移动端长视频 Agent，用一段对话把想法变成 120 秒以上的成片，跨镜头保持角色与场景一致；官网称已获 10,000+ 创作者使用。",
+      "url": "https://movoai.pro/",
+      "category": "设计创意",
+      "tags": [
+        "PH #2",
+        "295 票",
+        "长视频 Agent",
+        "10K+ 创作者"
+      ],
+      "icon": "video",
+      "bg": "linear-gradient(135deg, #FBB03B 0%, #ed4266 100%)",
+      "tool": "MOVO AI",
       "hot": 0
     }
   ],

@@ -4,13 +4,15 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-30 20:09:17
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-31 07:19:08
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
+- [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（690 个条目 / 15 个分类）
+## 📑 内容导航（695 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -347,6 +349,8 @@
   标签：PH #2 / 442 票 / Chrome 扩展 / AI 生成
 - [Hyrax AI - 面向 AI 编程团队的代码库架构师](https://hyrax.dev) — Product Hunt 2026-09-21 当日榜 #5（228 票）：面向 AI 编程团队的「代码库架构师」，自动梳理、可视化并重构大型代码库，让 Agent 与人类共享同一份结构化架构认知。  
   标签：PH #5 / 228 票 / 代码库架构 / AI 编程
+- [Strawberry - 内置 AI 同事的浏览器](https://strawberrybrowser.com/) — Product Hunt 2026-10-26 当日榜 #1（342 票）：内置 AI Companions 的桌面浏览器，可并行研究数百条销售线索、转录会议、自动跟进；已被 Lovable、ElevenLabs 等数百支团队采用。  
+  标签：PH #1 / 342 票 / AI 浏览器 / Companions
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -888,6 +892,8 @@
   标签：120万同时在线 / 网页游戏 / GTA 风格 / 3天爆红
 - [Lagos Life - AI 一夜搭建的非洲都市生活模拟游戏](https://lagoslife.app) — AI 一夜搭建的非洲都市生活模拟游戏：截至 2026-10-11 注册账户突破 1000 万、单局同时在线超 120 万人；并以 50 万美元种子轮、1000 万美元估值（Vatar 领投）验证商业潜力，是「vibe coding 做游戏」的现象级案例。  
   标签：1000万+ 账户 / 120万+ 同服在线 / $10M 估值 / AI 生成游戏
+- [myPip - 用大白话做出能变现的游戏](https://mypip.dev/) — Product Hunt 2026-10-24 当日榜 #2（266 票）：用大白话描述就能生成可玩游戏的 AI 游戏工坊，支持多人实时协作、手柄操控、扫码把自己变进游戏，还能内购上架；已有 140,000+ 人做出自己的游戏。  
+  标签：PH #2 / 266 票 / 140K+ 创作者 / 游戏工坊
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -1212,6 +1218,10 @@
   标签：6.6K★ / 开源 / AI 矢量设计 / Agent 团队
 - [Flibbo - 非程序员做出来的 AI 内容超级 App](https://www.flibbo.com) — Instagram 90 万粉的电商老手 Sina Sinry 完全不会写代码，用 AI/低代码把各家前沿模型（Veo 3、Sora 2、Kling、Suno、GPT、Gemini、Grok、Claude）打包成一个 App，月经常性收入达 $78K、累计用户 500,000+、App Store 4.7 星 / 10,000+ 评价。  
   标签：$78K MRR / 500K+ 用户 / 4.7 星 / 非程序员
+- [SurgePix - 能逐层编辑的 AI 视觉工作台](https://surgepix.ai/) — Product Hunt 2026-10-26 当日榜 #2（252 票）：AI 视觉创作平台，生成图像 / 幻灯片 / 海报后可逐层编辑、智能抠图换字、保持品牌一致；并提供开源 Agent Skills，让 Claude Code、Cursor 在终端直接出图改图。  
+  标签：PH #2 / 252 票 / 图层编辑 / Agent 技能
+- [MOVO AI - 对话式长视频创作 Agent](https://movoai.pro/) — Product Hunt 2026-10-23 当日榜 #2（295 票）：全球首款移动端长视频 Agent，用一段对话把想法变成 120 秒以上的成片，跨镜头保持角色与场景一致；官网称已获 10,000+ 创作者使用。  
+  标签：PH #2 / 295 票 / 长视频 Agent / 10K+ 创作者
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1436,6 +1446,8 @@
   标签：Product Hunt #2 / MCP / 10 平台
 - [ConnectMachine 2.0 - 会自我分发的 AI 名片](https://www.connectmachine.ai/) — Product Hunt 2026-10-01 当日榜 #1（443 票）：AI 数字名片，已积累 50,000+ 用户；自动生成可分享主页并跨社交平台分发，把人脉沉淀成可检索的资产。  
   标签：PH #1 / 50,000+ 用户 / AI 名片 / 人脉管理
+- [/dev/null - 48 小时直播搭出的开发者社交网络](https://dev-null.sh/) — Product Hunt 2026-10-20 当日榜 #1（482 票），并在 Hacker News 与 X 全网爆火：JetBrains 办公室 48 小时直播从零搭出的开发者社交网络，用 GitHub 登录、发 "commit"、点 "star"；Vercel CEO Guillermo Rauch 盛赞 "really well done"，开源（615★）。  
+  标签：PH #1 / 482 票 / 48h 直播 / 开源
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 
