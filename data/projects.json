@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T15:19:20.180Z",
+  "updatedAt": "2026-11-03T21:37:00.750Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -10804,6 +10804,118 @@
       "icon": "video",
       "bg": "linear-gradient(135deg, #FBB03B 0%, #ed4266 100%)",
       "tool": "MOVO AI",
+      "hot": 0
+    },
+    {
+      "name": "Empacer - 面向小企业主的语音 AI 助手",
+      "desc": "Product Hunt 2026-10-29 当日榜 #1（447 票）：语音优先的 AI 助手，专为小企业主打造，用对话完成建站、客户跟进与日常经营；无技术门槛即可把想法变成可上线的业务。",
+      "url": "https://www.empacer.com/",
+      "category": "AI工具",
+      "tags": [
+        "PH #1",
+        "447 票",
+        "语音助手",
+        "小企业"
+      ],
+      "icon": "microphone",
+      "bg": "linear-gradient(135deg, #fc6076 0%, #ff9a44 100%)",
+      "tool": "Empacer",
+      "hot": 0
+    },
+    {
+      "name": "TheySaid 4.0 - 用合成测试员做用户验证",
+      "desc": "Product Hunt 2026-10-27 当日榜 #1（380 票）：客户验证平台，用 AI 合成测试员（Synthetic Testers）以对话形式快速收集真实用户反馈，替代漫长问卷；面向产品与增长团队。",
+      "url": "https://www.theysaid.io/v4",
+      "category": "AI办公",
+      "tags": [
+        "PH #1",
+        "380 票",
+        "用户验证",
+        "合成测试员"
+      ],
+      "icon": "users",
+      "bg": "linear-gradient(135deg, #5ee7df 0%, #b490ca 100%)",
+      "tool": "TheySaid",
+      "hot": 0
+    },
+    {
+      "name": "Vaani - 无代码语音 AI 平台",
+      "desc": "Product Hunt 2026-10-30 当日榜 #1（356 票）：用自然语言构建可打电话、能听懂并回应真实对话的语音 Agent，无需写代码即可上线语音交互场景。",
+      "url": "https://vaanivoice.ai/",
+      "category": "AI工具",
+      "tags": [
+        "PH #1",
+        "356 票",
+        "语音AI",
+        "无代码"
+      ],
+      "icon": "phone",
+      "bg": "linear-gradient(135deg, #08aeea 0%, #2af598 100%)",
+      "tool": "Vaani",
+      "hot": 0
+    },
+    {
+      "name": "Specsight - 从代码库读懂产品的可观察性平台",
+      "desc": "Product Hunt 2026-10-31 当日榜 #1（314 票）：产品可观察性工具，直接从代码库生成产品规格与运行洞察，让团队对齐「究竟在构建什么」；面向 AI 工程化场景。",
+      "url": "https://specsight.app/",
+      "category": "AI工具",
+      "tags": [
+        "PH #1",
+        "314 票",
+        "产品可观察性",
+        "AI 工程化"
+      ],
+      "icon": "map",
+      "bg": "linear-gradient(135deg, #ff5858 0%, #f09819 100%)",
+      "tool": "Specsight",
+      "hot": 0
+    },
+    {
+      "name": "Clears - 自主软件交付平台",
+      "desc": "Product Hunt 2026-08-17 当日榜 #3（367 票）：自主软件交付平台，用多 Agent 编排把需求一路推进到可部署交付物，减少人工交接与状态同步成本。",
+      "url": "https://www.clears.ai/",
+      "category": "AI工具",
+      "tags": [
+        "PH #3",
+        "367 票",
+        "自主软件交付",
+        "Agent 编排"
+      ],
+      "icon": "package",
+      "bg": "linear-gradient(135deg, #aa4b6b 0%, #6b6b83 100%)",
+      "tool": "Clears",
+      "hot": 0
+    },
+    {
+      "name": "NVIDIA SkillSpector - AI Agent 技能安全扫描器",
+      "desc": "NVIDIA 开源的 AI Agent 技能安全扫描工具，检测 Prompt 注入、权限越权与敏感信息泄露等风险，守护技能供应链安全；GitHub 24.2K★。",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "category": "AI工具",
+      "tags": [
+        "24.2K★",
+        "NVIDIA 开源",
+        "技能安全扫描",
+        "Prompt 注入防护"
+      ],
+      "icon": "shield",
+      "bg": "linear-gradient(135deg, #c94b4b 0%, #f0a500 100%)",
+      "tool": "SkillSpector",
+      "hot": 0
+    },
+    {
+      "name": "Postiz - Agentic 社交媒体调度平台",
+      "desc": "开源的 Agentic 社媒调度与增长平台，用 AI Agent 自动规划、撰写并排期多平台内容；GitHub 40.8K★，社区活跃，适合个人与团队的内容营销。",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "category": "电商营销",
+      "tags": [
+        "40.8K★",
+        "开源",
+        "社媒调度",
+        "Agentic"
+      ],
+      "icon": "share-2",
+      "bg": "linear-gradient(135deg, #1c92d2 0%, #f2fcfe 100%)",
+      "tool": "Postiz",
       "hot": 0
     }
   ],

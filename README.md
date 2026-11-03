@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-31 15:19:20 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-03 21:37:00 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（695 个条目 / 15 个分类）
+## 📑 内容导航（702 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -1034,6 +1034,8 @@
   标签：PH #2 / 252 票 / Agent 邮箱 / JMAP
 - [DeepCell - 职场截稿日生存包](https://deepcell.net) — Product Hunt 2026-10-22 当日榜 #1（341 票）：「职场截稿日生存包」，用 .deepcell 格式把文档、任务与 AI 协作封装进统一工作空间，帮打工人对抗 deadline 焦虑。  
   标签：PH #1 / 341 票 / .deepcell / 办公协作
+- [TheySaid 4.0 - 用合成测试员做用户验证](https://www.theysaid.io/v4) — Product Hunt 2026-10-27 当日榜 #1（380 票）：客户验证平台，用 AI 合成测试员（Synthetic Testers）以对话形式快速收集真实用户反馈，替代漫长问卷；面向产品与增长团队。  
+  标签：PH #1 / 380 票 / 用户验证 / 合成测试员
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1293,6 +1295,8 @@
   标签：114万访客 / $20.7万收入 / 付费排行榜 / 病毒式
 - [kōdlo - 端到端 B2B 销售工作台](https://kodlo.ai) — Product Hunt 2026-10-11 当日榜 #2（约 263–278 票）：端到端 B2B 销售工作台，统一 ICP 挖掘、引用溯源深搜、个性化触达与 CRM，让获客到成交在同一份共享记忆层完成。  
   标签：PH #2 / 263+ 票 / B2B 销售 / 统一上下文
+- [Postiz - Agentic 社交媒体调度平台](https://github.com/gitroomhq/postiz-app) — 开源的 Agentic 社媒调度与增长平台，用 AI Agent 自动规划、撰写并排期多平台内容；GitHub 40.8K★，社区活跃，适合个人与团队的内容营销。  
+  标签：40.8K★ / 开源 / 社媒调度 / Agentic
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1487,6 +1491,16 @@
   标签：PH 热榜 / 358票 / 用户调研 / MCP
 - [Stella - 用 AI 显化你想要的任意事物](https://apps.apple.com/cn/app/stella-manifest-anything/id6757347283) — 非程序员 Sarah Pearl 用 Claude Code + Google AI Studio 独立打造的正念显化 App，上线即达约 $340K MRR、12,000 名付费用户、200K+ 下载，登顶多国生活方式榜。把"想要的事物"拆成可执行的每日显化练习，AI 陪你可视化、写肯定语、追踪情绪与进度。  
   标签：$340K MRR / 12K 付费 / 200K+ 下载 / 非程序员
+- [Empacer - 面向小企业主的语音 AI 助手](https://www.empacer.com/) — Product Hunt 2026-10-29 当日榜 #1（447 票）：语音优先的 AI 助手，专为小企业主打造，用对话完成建站、客户跟进与日常经营；无技术门槛即可把想法变成可上线的业务。  
+  标签：PH #1 / 447 票 / 语音助手 / 小企业
+- [Vaani - 无代码语音 AI 平台](https://vaanivoice.ai/) — Product Hunt 2026-10-30 当日榜 #1（356 票）：用自然语言构建可打电话、能听懂并回应真实对话的语音 Agent，无需写代码即可上线语音交互场景。  
+  标签：PH #1 / 356 票 / 语音AI / 无代码
+- [Specsight - 从代码库读懂产品的可观察性平台](https://specsight.app/) — Product Hunt 2026-10-31 当日榜 #1（314 票）：产品可观察性工具，直接从代码库生成产品规格与运行洞察，让团队对齐「究竟在构建什么」；面向 AI 工程化场景。  
+  标签：PH #1 / 314 票 / 产品可观察性 / AI 工程化
+- [Clears - 自主软件交付平台](https://www.clears.ai/) — Product Hunt 2026-08-17 当日榜 #3（367 票）：自主软件交付平台，用多 Agent 编排把需求一路推进到可部署交付物，减少人工交接与状态同步成本。  
+  标签：PH #3 / 367 票 / 自主软件交付 / Agent 编排
+- [NVIDIA SkillSpector - AI Agent 技能安全扫描器](https://github.com/NVIDIA/SkillSpector) — NVIDIA 开源的 AI Agent 技能安全扫描工具，检测 Prompt 注入、权限越权与敏感信息泄露等风险，守护技能供应链安全；GitHub 24.2K★。  
+  标签：24.2K★ / NVIDIA 开源 / 技能安全扫描 / Prompt 注入防护
 
 <a id="cat-web应用" name="cat-web应用"></a>
 
