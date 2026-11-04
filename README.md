@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-03 21:37:00 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-04 21:53:09 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（702 个条目 / 15 个分类）
+## 📑 内容导航（707 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -894,6 +894,10 @@
   标签：1000万+ 账户 / 120万+ 同服在线 / $10M 估值 / AI 生成游戏
 - [myPip - 用大白话做出能变现的游戏](https://mypip.dev/) — Product Hunt 2026-10-24 当日榜 #2（266 票）：用大白话描述就能生成可玩游戏的 AI 游戏工坊，支持多人实时协作、手柄操控、扫码把自己变进游戏，还能内购上架；已有 140,000+ 人做出自己的游戏。  
   标签：PH #2 / 266 票 / 140K+ 创作者 / 游戏工坊
+- [群侠传：幸存者 - 武侠肉鸽](https://store.steampowered.com/app/4957110/) — B 站 70 万粉 AI 博主 Nenly 零游戏经验、靠 Godot + Claude Code/Codex 等 AI 工具 3 个月做出的武侠幸存者类游戏；Steam 免费、1681 篇评测 96% 好评（压倒性好评），曾 1548 人同时在线。  
+  标签：96% 好评 / Steam 免费 / 1681 评测 / 零经验 3 个月
+- [CODEX MORTIS - 亡灵弹幕肉鸽](https://store.steampowered.com/app/4084120/CODEX_MORTIS/) — solo 开发者 GROLAF 100% 用 AI（Claude/ChatGPT）做出的亡灵弹幕地狱游戏：自研 JS 引擎、350K+ 行 TypeScript、3450+ commits；Steam 1.0 含 200 法术/31 英雄/4 人联机，试玩平均停留 71 分钟（行业 4 倍），Asmongold 直播带火。  
+  标签：100% AI 开发 / Steam Deck 认证 / Asmongold 带火 / 71 分钟停留
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -945,6 +949,8 @@
   标签：4.2万★ / 开源 / 金融大模型 / 量化
 - [tiun. - AI 公司统一后端](https://tiun.io) — 苏黎世三人团队打造、Product Hunt 当日榜 #1（627 票）的 AI/SaaS 后端：把鉴权、支付（含 Merchant of Record）、客户数据库与分析合为一个系统，一行命令接入，已完成约 $250 万 pre-seed 融资。  
   标签：PH #1 / 627 票 / $2.5M 融资 / 统一后端
+- [SaaStr.ai - AI 估值计算器](https://www.saastr.ai/) — SaaStr 创始人 Jason Lemkin 用 Replit Agent + Claude Code 手搓的 SaaS 估值工具，输入 ARR/增长率即出可辩护估值区间；上线 45 天狂揽 50 万用户，每月处理数十万次估值计算。  
+  标签：50 万用户 / 45 天 / 估值工具 / 非技术创始人
 
 <a id="cat-ai办公" name="cat-ai办公"></a>
 
@@ -1340,6 +1346,8 @@
   标签：PH #3 / 384票 / AI 配音 / 发音纠错
 - [Tone Adapt - 用 AI 一键匹配吉他音色](https://www.toneadapt.com) — 21 岁学生 Kyan 用 Claude Code 从零 vibe coding 的吉他音色匹配工具：输入歌曲与你的器材，秒出适配的 amp/效果器参数；注册用户 10 万+、社区共享 9 万+ 音色、已上架 App Store，月收入约 $9.6K（营收数据经创始人直播对账验证）。  
   标签：10万用户 / $9.6K MRR / 吉他音色 / App Store
+- [Mineradio - 沉浸式 3D 音乐播放器](https://github.com/XxHuberrr/Mineradio) — 抖音爆火的沉浸式 Windows 桌面音乐播放器：粒子视觉、电影镜头与 3D 歌单架随节奏律动，登录网易云/QQ 音乐即可播放。开源（GPL-3.0），GitHub 6K+ Star，作者凭此狂揽 15 万粉丝。  
+  标签：6K+ Star / 开源 / 3D 视觉 / 抖音爆火
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 
@@ -1452,6 +1460,8 @@
   标签：PH #1 / 50,000+ 用户 / AI 名片 / 人脉管理
 - [/dev/null - 48 小时直播搭出的开发者社交网络](https://dev-null.sh/) — Product Hunt 2026-10-20 当日榜 #1（482 票），并在 Hacker News 与 X 全网爆火：JetBrains 办公室 48 小时直播从零搭出的开发者社交网络，用 GitHub 登录、发 "commit"、点 "star"；Vercel CEO Guillermo Rauch 盛赞 "really well done"，开源（615★）。  
   标签：PH #1 / 482 票 / 48h 直播 / 开源
+- [UpScrolled - 反算法社交平台](https://upscrolled.com/) — 用 Bolt.new + Vercel v0 打造的独立社交应用：默认时间线排序、无信息流操纵、不卖数据、无影子封禁。Google Play 下载量破 100 万、2.8 万条评分、4.7 星，被称为「人民的平台」。  
+  标签：100 万下载 / 4.7 星 / 反算法 / 隐私优先
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 

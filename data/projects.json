@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T21:37:00.750Z",
+  "updatedAt": "2026-11-04T21:53:09.589Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -10916,6 +10916,86 @@
       "icon": "share-2",
       "bg": "linear-gradient(135deg, #1c92d2 0%, #f2fcfe 100%)",
       "tool": "Postiz",
+      "hot": 0
+    },
+    {
+      "name": "Mineradio - 沉浸式 3D 音乐播放器",
+      "desc": "抖音爆火的沉浸式 Windows 桌面音乐播放器：粒子视觉、电影镜头与 3D 歌单架随节奏律动，登录网易云/QQ 音乐即可播放。开源（GPL-3.0），GitHub 6K+ Star，作者凭此狂揽 15 万粉丝。",
+      "url": "https://github.com/XxHuberrr/Mineradio",
+      "category": "音乐音频",
+      "tags": [
+        "6K+ Star",
+        "开源",
+        "3D 视觉",
+        "抖音爆火"
+      ],
+      "icon": "music",
+      "bg": "linear-gradient(135deg, #89216b 0%, #da4453 100%)",
+      "tool": "Electron + AI 视觉",
+      "hot": 0
+    },
+    {
+      "name": "SaaStr.ai - AI 估值计算器",
+      "desc": "SaaStr 创始人 Jason Lemkin 用 Replit Agent + Claude Code 手搓的 SaaS 估值工具，输入 ARR/增长率即出可辩护估值区间；上线 45 天狂揽 50 万用户，每月处理数十万次估值计算。",
+      "url": "https://www.saastr.ai/",
+      "category": "金融财经",
+      "tags": [
+        "50 万用户",
+        "45 天",
+        "估值工具",
+        "非技术创始人"
+      ],
+      "icon": "trending-up",
+      "bg": "linear-gradient(135deg, #1f4037 0%, #99f2c0 100%)",
+      "tool": "Replit Agent + Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "UpScrolled - 反算法社交平台",
+      "desc": "用 Bolt.new + Vercel v0 打造的独立社交应用：默认时间线排序、无信息流操纵、不卖数据、无影子封禁。Google Play 下载量破 100 万、2.8 万条评分、4.7 星，被称为「人民的平台」。",
+      "url": "https://upscrolled.com/",
+      "category": "社交社区",
+      "tags": [
+        "100 万下载",
+        "4.7 星",
+        "反算法",
+        "隐私优先"
+      ],
+      "icon": "users",
+      "bg": "linear-gradient(135deg, #3a7bd5 0%, #00d2ff 100%)",
+      "tool": "Bolt.new + Vercel v0",
+      "hot": 0
+    },
+    {
+      "name": "群侠传：幸存者 - 武侠肉鸽",
+      "desc": "B 站 70 万粉 AI 博主 Nenly 零游戏经验、靠 Godot + Claude Code/Codex 等 AI 工具 3 个月做出的武侠幸存者类游戏；Steam 免费、1681 篇评测 96% 好评（压倒性好评），曾 1548 人同时在线。",
+      "url": "https://store.steampowered.com/app/4957110/",
+      "category": "游戏",
+      "tags": [
+        "96% 好评",
+        "Steam 免费",
+        "1681 评测",
+        "零经验 3 个月"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #a40606 0%, #d98324 100%)",
+      "tool": "Godot + Claude Code + Codex",
+      "hot": 0
+    },
+    {
+      "name": "CODEX MORTIS - 亡灵弹幕肉鸽",
+      "desc": "solo 开发者 GROLAF 100% 用 AI（Claude/ChatGPT）做出的亡灵弹幕地狱游戏：自研 JS 引擎、350K+ 行 TypeScript、3450+ commits；Steam 1.0 含 200 法术/31 英雄/4 人联机，试玩平均停留 71 分钟（行业 4 倍），Asmongold 直播带火。",
+      "url": "https://store.steampowered.com/app/4084120/CODEX_MORTIS/",
+      "category": "游戏",
+      "tags": [
+        "100% AI 开发",
+        "Steam Deck 认证",
+        "Asmongold 带火",
+        "71 分钟停留"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #41295a 0%, #2F0743 100%)",
+      "tool": "Claude + ChatGPT（AI 驱动开发）",
       "hot": 0
     }
   ],
