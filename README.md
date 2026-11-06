@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-04 21:53:09 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-06 00:52:56 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（707 个条目 / 15 个分类）
+## 📑 内容导航（715 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -534,6 +534,10 @@
   标签：7.8万★ / 开源 / Agent 编排 / 多智能体
 - [Busabase - 开源的 Agent 系统记录库](https://busabase.com) — Product Hunt 2026-10-09 当日榜 #1（约 355 票）、GitHub 592★ 的开源（MIT）「Agent 系统记录库」：让 Claude Code、Codex、Cursor 等智能体把产出写入同一份带审计轨迹的共享数据库，人审后才合并。  
   标签：PH #1 / 592★ / 开源 MIT / Agent 记忆
+- [Karpathy Skills - 源自大神观察的 CLAUDE.md](https://github.com/multica-ai/andrej-karpathy-skills) — Multica AI 整理的单一 CLAUDE.md，提炼自 Andrej Karpathy 对 LLM 编码陷阱的公开观察，帮 Claude Code 少踩坑。GitHub 23 万+ Star，是 vibe coding 圈流传最广的「大师级」配置之一。  
+  标签：23万★ / Karpathy / CLAUDE.md / 编码避坑
+- [Herdr - 编码 Agent 的运行底座](https://github.com/herdrdev/herdr) — Herdr 是「编码 Agent 赖以生存的运行时」：自带浏览器、身份与持久化环境，让 Claude Code / Codex 类 Agent 真正上网冲浪、长程自动化。GitHub 4.8 万+ Star。  
+  标签：4.8万★ / Agent 运行时 / 浏览器自动化 / 持久化
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -1228,6 +1232,10 @@
   标签：PH #2 / 252 票 / 图层编辑 / Agent 技能
 - [MOVO AI - 对话式长视频创作 Agent](https://movoai.pro/) — Product Hunt 2026-10-23 当日榜 #2（295 票）：全球首款移动端长视频 Agent，用一段对话把想法变成 120 秒以上的成片，跨镜头保持角色与场景一致；官网称已获 10,000+ 创作者使用。  
   标签：PH #2 / 295 票 / 长视频 Agent / 10K+ 创作者
+- [Impeccable - 给 Coding Agent 的设计语言](https://github.com/pbakaus/impeccable) — Paul Bakaus（jQuery UI 作者）开源的「给编码 Agent 的设计词汇表」：24 条命令 + 62 条确定性规则，专治 AI 生成的「紫蓝渐变、灰字、嵌套卡片」AI 味。GitHub 10.4 万+ Star，登顶 GitHub Trending，被 HeyGen、tldraw 等团队采用。  
+  标签：10.4万★ / 设计词汇表 / 反 AI 味 / Paul Bakaus
+- [Hallmark - 反 AI 味设计技能](https://github.com/Nutlope/hallmark) — Nutlope（PI、RoomGPT 作者）开源的反 AI-slop 设计技能，给 Claude Code / Cursor / Codex 一套手工主题 + 浏览器 lint 流水线。GitHub 4.9 万+ Star，让 AI 写出的前端不再「千站一面」。  
+  标签：4.9万★ / 反 AI 味 / 设计主题 / Nutlope
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1509,6 +1517,14 @@
   标签：PH #3 / 367 票 / 自主软件交付 / Agent 编排
 - [NVIDIA SkillSpector - AI Agent 技能安全扫描器](https://github.com/NVIDIA/SkillSpector) — NVIDIA 开源的 AI Agent 技能安全扫描工具，检测 Prompt 注入、权限越权与敏感信息泄露等风险，守护技能供应链安全；GitHub 24.2K★。  
   标签：24.2K★ / NVIDIA 开源 / 技能安全扫描 / Prompt 注入防护
+- [Claude Code 官方插件目录](https://github.com/anthropics/claude-plugins-official) — Anthropic 官方维护的高质量 Claude Code 插件目录，统一分发经过审核的插件。GitHub 4.6 万+ Star，是 Agent 生态的「应用商店」入口。  
+  标签：4.6万★ / Anthropic 官方 / 插件目录 / Claude Code
+- [Vercel Skills - 开源 Agent 技能工具](https://github.com/vercel-labs/skills) — Vercel 实验室开源的 Agent 技能工具，一条 `npx skills` 即可发现、安装、管理给编码 Agent 用的技能。GitHub 3.8 万+ Star，是 Vercel 押注「技能即服务」的核心拼图。  
+  标签：3.8万★ / Vercel / npx skills / 技能管理
+- [Claude SEO - 通用 SEO 技能](https://github.com/AgriciDaniel/claude-seo) — AgriciDaniel 开源的通用 SEO 技能：26 个子技能 + 19 个子 Agent，覆盖技术 SEO、E-E-A-T、schema、GEO/AEO、反向链接等。GitHub 2.5 万+ Star，是给 Claude Code 接上的「增长外脑」。  
+  标签：2.5万★ / SEO 技能 / 26 子技能 / 增长
+- [Marketing Skills - 营销技能包](https://github.com/coreyhaines31/marketingskills) — Corey Haines（B2B SaaS 增长老将）开源的营销技能包，覆盖 CRO、文案、SEO、分析与增长工程，直接喂给 Claude Code 和 AI Agent。GitHub 5.9 万+ Star。  
+  标签：5.9万★ / 营销技能 / CRO / 增长工程
 
 <a id="cat-web应用" name="cat-web应用"></a>
 
