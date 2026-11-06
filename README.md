@@ -4,13 +4,15 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-06 19:59:59 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-06 21:36:07 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
+- [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（715 个条目 / 15 个分类）
+## 📑 内容导航（720 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -1044,6 +1046,8 @@
   标签：PH #1 / 341 票 / .deepcell / 办公协作
 - [TheySaid 4.0 - 用合成测试员做用户验证](https://www.theysaid.io/v4) — Product Hunt 2026-10-27 当日榜 #1（380 票）：客户验证平台，用 AI 合成测试员（Synthetic Testers）以对话形式快速收集真实用户反馈，替代漫长问卷；面向产品与增长团队。  
   标签：PH #1 / 380 票 / 用户验证 / 合成测试员
+- [Inbox Zero - 开源 AI 邮件助手](https://www.getinboxzero.com/) — 开源（AGPL）AI 邮件助手，自动分类、用你的语气预拟回复、拦截冷邮件、一键退订；GitHub 13K★、登上 GitHub Trending 与 Product Hunt 当日榜、25,000+ 用户，被誉为免费开源版 Superhuman。  
+  标签：13K★ / 开源 / AI 邮件 / 25K+ 用户
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1236,6 +1240,8 @@
   标签：10.4万★ / 设计词汇表 / 反 AI 味 / Paul Bakaus
 - [Hallmark - 反 AI 味设计技能](https://github.com/Nutlope/hallmark) — Nutlope（PI、RoomGPT 作者）开源的反 AI-slop 设计技能，给 Claude Code / Cursor / Codex 一套手工主题 + 浏览器 lint 流水线。GitHub 4.9 万+ Star，让 AI 写出的前端不再「千站一面」。  
   标签：4.9万★ / 反 AI 味 / 设计主题 / Nutlope
+- [AI Designer - AI UI 设计平台](https://aidesigner.ai/) — 单人创始人用 Cursor + Claude Code vibe coding 的 AI 设计平台，一句话生成高品质 UI / logo / 品牌套件 / 营销素材；Stripe 验证 MRR $8,338、283 个活跃订阅、约 15,000 用户。  
+  标签：AI 设计 / $8.3K MRR / Stripe 验证 / 15K 用户
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1354,6 +1360,8 @@
   标签：10万用户 / $9.6K MRR / 吉他音色 / App Store
 - [Mineradio - 沉浸式 3D 音乐播放器](https://github.com/XxHuberrr/Mineradio) — 抖音爆火的沉浸式 Windows 桌面音乐播放器：粒子视觉、电影镜头与 3D 歌单架随节奏律动，登录网易云/QQ 音乐即可播放。开源（GPL-3.0），GitHub 6K+ Star，作者凭此狂揽 15 万粉丝。  
   标签：6K+ Star / 开源 / 3D 视觉 / 抖音爆火
+- [ToneAdapt - 吉他音色匹配](https://toneadapt.com/) — 21 岁大学生用 Cursor + Claude Code 一周 vibe coding 出的吉他/贝斯音色匹配工具，输入任意歌曲即可按你的器材给出精准音色设置；月收入 $25K、用户 10 万+、1,400 网页订阅 + 397 移动订阅。  
+  标签：吉他音色 / $25K/月 / 10万+用户 / vibe coding
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 
@@ -1525,6 +1533,10 @@
   标签：2.5万★ / SEO 技能 / 26 子技能 / 增长
 - [Marketing Skills - 营销技能包](https://github.com/coreyhaines31/marketingskills) — Corey Haines（B2B SaaS 增长老将）开源的营销技能包，覆盖 CRO、文案、SEO、分析与增长工程，直接喂给 Claude Code 和 AI Agent。GitHub 5.9 万+ Star。  
   标签：5.9万★ / 营销技能 / CRO / 增长工程
+- [Voicy - AI 语音输入工具](https://usevoicy.com/) — 独立开发者为父亲打造的语音转文字应用，全局快捷键 anywhere 语音输入、99% 准确率、隐私优先（不上传录音训练 AI）；Stripe 验证 MRR ~$12K、1,495 位付费用户、累计收入 $19 万、10,000+ 用户。  
+  标签：语音输入 / $12K MRR / 隐私优先 / 10K+ 用户
+- [Unslop - 反 AI 审美降级技能](https://github.com/heydamir/unslop) — Claude Code 技能，自动检测「AI 味」UI（紫渐变、发光、emoji 标签、喊话式文案）并逐屏重设计为更有设计感的界面；GitHub 9.8K★，是 vibe coding 时代反「AI slop」的利器。  
+  标签：9.8K★ / Claude Code / 反 AI slop / UI 重设计
 
 <a id="cat-web应用" name="cat-web应用"></a>
 

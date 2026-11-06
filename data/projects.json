@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:59:59.959Z",
+  "updatedAt": "2026-11-06T21:36:07.117Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -11124,6 +11124,86 @@
       "icon": "target",
       "bg": "linear-gradient(135deg, #a8ff78 0%, #78ffd6 100%)",
       "tool": "Claude Code / AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Voicy - AI 语音输入工具",
+      "desc": "独立开发者为父亲打造的语音转文字应用，全局快捷键 anywhere 语音输入、99% 准确率、隐私优先（不上传录音训练 AI）；Stripe 验证 MRR ~$12K、1,495 位付费用户、累计收入 $19 万、10,000+ 用户。",
+      "url": "https://usevoicy.com/",
+      "category": "AI工具",
+      "tags": [
+        "语音输入",
+        "$12K MRR",
+        "隐私优先",
+        "10K+ 用户"
+      ],
+      "icon": "mic",
+      "bg": "linear-gradient(135deg, #1565c0 0%, #1e88e5 100%)",
+      "tool": "Vibe Coding / 独立开发",
+      "hot": 0
+    },
+    {
+      "name": "ToneAdapt - 吉他音色匹配",
+      "desc": "21 岁大学生用 Cursor + Claude Code 一周 vibe coding 出的吉他/贝斯音色匹配工具，输入任意歌曲即可按你的器材给出精准音色设置；月收入 $25K、用户 10 万+、1,400 网页订阅 + 397 移动订阅。",
+      "url": "https://toneadapt.com/",
+      "category": "音乐音频",
+      "tags": [
+        "吉他音色",
+        "$25K/月",
+        "10万+用户",
+        "vibe coding"
+      ],
+      "icon": "music",
+      "bg": "linear-gradient(135deg, #ed213a 0%, #93291c 100%)",
+      "tool": "Cursor / Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "AI Designer - AI UI 设计平台",
+      "desc": "单人创始人用 Cursor + Claude Code vibe coding 的 AI 设计平台，一句话生成高品质 UI / logo / 品牌套件 / 营销素材；Stripe 验证 MRR $8,338、283 个活跃订阅、约 15,000 用户。",
+      "url": "https://aidesigner.ai/",
+      "category": "设计创意",
+      "tags": [
+        "AI 设计",
+        "$8.3K MRR",
+        "Stripe 验证",
+        "15K 用户"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #5e35b1 0%, #8e24aa 100%)",
+      "tool": "Cursor / Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Inbox Zero - 开源 AI 邮件助手",
+      "desc": "开源（AGPL）AI 邮件助手，自动分类、用你的语气预拟回复、拦截冷邮件、一键退订；GitHub 13K★、登上 GitHub Trending 与 Product Hunt 当日榜、25,000+ 用户，被誉为免费开源版 Superhuman。",
+      "url": "https://www.getinboxzero.com/",
+      "category": "AI办公",
+      "tags": [
+        "13K★",
+        "开源",
+        "AI 邮件",
+        "25K+ 用户"
+      ],
+      "icon": "mail",
+      "bg": "linear-gradient(135deg, #1b5e20 0%, #43a047 100%)",
+      "tool": "Next.js / 开源",
+      "hot": 0
+    },
+    {
+      "name": "Unslop - 反 AI 审美降级技能",
+      "desc": "Claude Code 技能，自动检测「AI 味」UI（紫渐变、发光、emoji 标签、喊话式文案）并逐屏重设计为更有设计感的界面；GitHub 9.8K★，是 vibe coding 时代反「AI slop」的利器。",
+      "url": "https://github.com/heydamir/unslop",
+      "category": "AI工具",
+      "tags": [
+        "9.8K★",
+        "Claude Code",
+        "反 AI slop",
+        "UI 重设计"
+      ],
+      "icon": "shield",
+      "bg": "linear-gradient(135deg, #263238 0%, #455a64 100%)",
+      "tool": "Claude Code / 技能",
       "hot": 0
     }
   ],
