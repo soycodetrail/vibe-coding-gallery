@@ -4,13 +4,15 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-06 21:36:07 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-07 21:27:08 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
+- [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（720 个条目 / 15 个分类）
+## 📑 内容导航（725 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -1240,6 +1242,8 @@
   标签：4.9万★ / 反 AI 味 / 设计主题 / Nutlope
 - [AI Designer - AI UI 设计平台](https://aidesigner.ai/) — 单人创始人用 Cursor + Claude Code vibe coding 的 AI 设计平台，一句话生成高品质 UI / logo / 品牌套件 / 营销素材；Stripe 验证 MRR $8,338、283 个活跃订阅、约 15,000 用户。  
   标签：AI 设计 / $8.3K MRR / Stripe 验证 / 15K 用户
+- [Revid - AI 短视频生成](https://www.revid.ai/) — AI 短视频生成平台，输入文案/链接一键产出 TikTok/Reels 风格视频；创始人披露 MRR 约 $600K、14,258+ 创作者、月发 30K+ 视频、月渲染 100K+，是 vibe coding 做内容的高人气爆款。  
+  标签：~$600K MRR / 14K+ 创作者 / AI 视频 / 短视频
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1313,6 +1317,8 @@
   标签：PH #2 / 263+ 票 / B2B 销售 / 统一上下文
 - [Postiz - Agentic 社交媒体调度平台](https://github.com/gitroomhq/postiz-app) — 开源的 Agentic 社媒调度与增长平台，用 AI Agent 自动规划、撰写并排期多平台内容；GitHub 40.8K★，社区活跃，适合个人与团队的内容营销。  
   标签：40.8K★ / 开源 / 社媒调度 / Agentic
+- [Dropmagic - AI Shopify 商店生成器](https://dropmagic.ai/) — AI 驱动的 Shopify 商店生成器，一句话生成完整电商店铺与营销页；创始人公开披露 MRR $120K、累计 120K+ 店铺、50K+ 客户，是 vibe coding 做电商的高人气代表。  
+  标签：$120K MRR / 120K+ 店铺 / AI 电商 / Shopify
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1360,6 +1366,8 @@
   标签：6K+ Star / 开源 / 3D 视觉 / 抖音爆火
 - [ToneAdapt - 吉他音色匹配](https://toneadapt.com/) — 21 岁大学生用 Cursor + Claude Code 一周 vibe coding 出的吉他/贝斯音色匹配工具，输入任意歌曲即可按你的器材给出精准音色设置；月收入 $25K、用户 10 万+、1,400 网页订阅 + 397 移动订阅。  
   标签：吉他音色 / $25K/月 / 10万+用户 / vibe coding
+- [Neural Frames - AI 音乐视频生成](https://neuralframes.com/) — AI 音乐视频生成器，输入音轨即时生成律动匹配的视觉动画；第三方验证 MRR 约 $100K/月、累计 2M+ 视频、100K+ 艺术家使用，是 vibe coding 做音乐视觉的高人气工具。  
+  标签：~$100K/月 / 2M+ 视频 / AI 音乐视频 / 100K+ 艺术家
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 
@@ -1425,6 +1433,8 @@
   标签：PH #1 / 534+ 票 / $850K 种子轮 / 语音疗愈
 - [Gravl - AI 力量训练与增肌教练](https://gravl.ai) — 非程序员父子档用 Cursor 打造的 AI 力量训练 App，月经常性收入约 $440K、订阅用户 70,000+。按设备、动作与恢复状态生成周期化训练计划，自动调整容量与强度，被海外健身圈称为"口袋里的私人教练"。  
   标签：$440K MRR / 70K+ 订阅 / 力量训练 / 非程序员
+- [CalBuddy - 希伯来语 AI 卡路里追踪](https://calbuddy.tech/) — 用 Cursor 构建的 AI 卡路里追踪应用，主打希伯来语市场与对话式饮食记录；Starter Story 披露月收入约 $81K、数万用户，是 vibe coding 做垂直效率工具的高人气案例。  
+  标签：~$81K/月 / AI 健康 / 卡路里追踪 / 希伯来语
 
 <a id="cat-社交社区" name="cat-社交社区"></a>
 
@@ -1544,6 +1554,8 @@
   标签：PH #2 / 384 票 / AI 原生 / Agent Builder
 - [The Git City](https://thegitcity.com) — 把 GitHub 贡献历史渲染成一座可漫游的 3D 城市——每次 commit 都是一栋建筑。2026 年在巴西病毒式传播，24 小时 96K 观看、首日即靠广告产生收入，是 vibe coding 出圈的代表作。  
   标签：3D 城市 / GitHub 可视化 / 病毒传播 / Vibe Coding
+- [JustVibe - 生成式 UI 搜索引擎](https://justvibe.com/) — 面向开发者与设计者的生成式 UI 搜索引擎，输入想法即时返回可交互界面灵感；Product Hunt 2026-07-12 当日榜第 2 名（568 票），是 vibe coding 找灵感的高人气工具。  
+  标签：PH #2 / 568 票 / 生成式 UI / 灵感搜索
 
 
 ---

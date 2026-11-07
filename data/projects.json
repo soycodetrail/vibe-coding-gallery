@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:36:07.117Z",
+  "updatedAt": "2026-11-07T21:27:08.009Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -11204,6 +11204,86 @@
       "icon": "shield",
       "bg": "linear-gradient(135deg, #263238 0%, #455a64 100%)",
       "tool": "Claude Code / 技能",
+      "hot": 0
+    },
+    {
+      "name": "Dropmagic - AI Shopify 商店生成器",
+      "desc": "AI 驱动的 Shopify 商店生成器，一句话生成完整电商店铺与营销页；创始人公开披露 MRR $120K、累计 120K+ 店铺、50K+ 客户，是 vibe coding 做电商的高人气代表。",
+      "url": "https://dropmagic.ai/",
+      "category": "电商营销",
+      "tags": [
+        "$120K MRR",
+        "120K+ 店铺",
+        "AI 电商",
+        "Shopify"
+      ],
+      "icon": "shopping-cart",
+      "bg": "linear-gradient(135deg, #FF512F 0%, #1A2980 100%)",
+      "tool": "Vibe Coding / AI",
+      "hot": 0
+    },
+    {
+      "name": "JustVibe - 生成式 UI 搜索引擎",
+      "desc": "面向开发者与设计者的生成式 UI 搜索引擎，输入想法即时返回可交互界面灵感；Product Hunt 2026-07-12 当日榜第 2 名（568 票），是 vibe coding 找灵感的高人气工具。",
+      "url": "https://justvibe.com/",
+      "category": "Web应用",
+      "tags": [
+        "PH #2",
+        "568 票",
+        "生成式 UI",
+        "灵感搜索"
+      ],
+      "icon": "search",
+      "bg": "linear-gradient(135deg, #FF512F 0%, #26D0CE 100%)",
+      "tool": "Vibe Coding / Web",
+      "hot": 0
+    },
+    {
+      "name": "Revid - AI 短视频生成",
+      "desc": "AI 短视频生成平台，输入文案/链接一键产出 TikTok/Reels 风格视频；创始人披露 MRR 约 $600K、14,258+ 创作者、月发 30K+ 视频、月渲染 100K+，是 vibe coding 做内容的高人气爆款。",
+      "url": "https://www.revid.ai/",
+      "category": "设计创意",
+      "tags": [
+        "~$600K MRR",
+        "14K+ 创作者",
+        "AI 视频",
+        "短视频"
+      ],
+      "icon": "video",
+      "bg": "linear-gradient(135deg, #FF512F 0%, #614385 100%)",
+      "tool": "Vibe Coding / 视频",
+      "hot": 0
+    },
+    {
+      "name": "CalBuddy - 希伯来语 AI 卡路里追踪",
+      "desc": "用 Cursor 构建的 AI 卡路里追踪应用，主打希伯来语市场与对话式饮食记录；Starter Story 披露月收入约 $81K、数万用户，是 vibe coding 做垂直效率工具的高人气案例。",
+      "url": "https://calbuddy.tech/",
+      "category": "医疗健康",
+      "tags": [
+        "~$81K/月",
+        "AI 健康",
+        "卡路里追踪",
+        "希伯来语"
+      ],
+      "icon": "heart-pulse",
+      "bg": "linear-gradient(135deg, #FF512F 0%, #516395 100%)",
+      "tool": "Cursor / 移动端",
+      "hot": 0
+    },
+    {
+      "name": "Neural Frames - AI 音乐视频生成",
+      "desc": "AI 音乐视频生成器，输入音轨即时生成律动匹配的视觉动画；第三方验证 MRR 约 $100K/月、累计 2M+ 视频、100K+ 艺术家使用，是 vibe coding 做音乐视觉的高人气工具。",
+      "url": "https://neuralframes.com/",
+      "category": "音乐音频",
+      "tags": [
+        "~$100K/月",
+        "2M+ 视频",
+        "AI 音乐视频",
+        "100K+ 艺术家"
+      ],
+      "icon": "music",
+      "bg": "linear-gradient(135deg, #FF512F 0%, #FF61D2 100%)",
+      "tool": "Vibe Coding / 音乐",
       "hot": 0
     }
   ],
