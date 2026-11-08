@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-07 21:27:08 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-08 22:17:01 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（725 个条目 / 15 个分类）
+## 📑 内容导航（730 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -733,6 +733,8 @@
   标签：PH #1 / 337 票 / Agent 浮窗 / 多 Agent
 - [Meridian - 开源本地优先的 AI 工作日志](https://github.com/Meridiona/meridian) — Product Hunt 2026-08-17 当日榜 #1（435 票）：开源（MIT）的本地优先 AI 工作日志，把每日工作流、笔记与 Agent 产出沉淀为结构化记录，主打隐私与离线可用的「个人工作记忆层」。  
   标签：PH #1 / 435 票 / 开源 MIT / 本地优先
+- [GymStreak - AI 健身教练](https://gymstreak.com) — 单人 AI 健身 App，用 AR + 3D 动画实时纠正动作、自动生成训练计划；公开披露 MRR 约 $208K/月，是 vibe coding 做高变现移动应用的高人气代表。  
+  标签：~$208K/月 / AR+3D / AI 健身 / 动作纠正
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -902,6 +904,10 @@
   标签：96% 好评 / Steam 免费 / 1681 评测 / 零经验 3 个月
 - [CODEX MORTIS - 亡灵弹幕肉鸽](https://store.steampowered.com/app/4084120/CODEX_MORTIS/) — solo 开发者 GROLAF 100% 用 AI（Claude/ChatGPT）做出的亡灵弹幕地狱游戏：自研 JS 引擎、350K+ 行 TypeScript、3450+ commits；Steam 1.0 含 200 法术/31 英雄/4 人联机，试玩平均停留 71 分钟（行业 4 倍），Asmongold 直播带火。  
   标签：100% AI 开发 / Steam Deck 认证 / Asmongold 带火 / 71 分钟停留
+- [山寺 Sansatemple - 虚拟寺庙冥想](https://sansatemple.com) — 韩国开发者用 AI 30 分钟搭建的虚拟寺庙冥想体验，上线 3 天吸引 60 万+ 访问、一度冲垮服务器；以禅意场景与舒缓音效成为治愈系爆款。  
+  标签：60万+访问 / 服务器崩溃 / 治愈冥想 / 30分钟搭建
+- [《八十亿分之一》One in 8 Billion](https://1in8b.life) — 韩国开发者 Jin's Earth 用 Claude Opus 约 4 小时开发的人生模拟互动作品，单帖 5700 万+ 浏览、《勇者斗恶龙》堀井雄二转发、2 万+ 同时在线，是 vibe coding 的现象级叙事实验。  
+  标签：5700万浏览 / 堀井雄二转发 / 2万+在线 / 人生模拟
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -1244,6 +1250,8 @@
   标签：AI 设计 / $8.3K MRR / Stripe 验证 / 15K 用户
 - [Revid - AI 短视频生成](https://www.revid.ai/) — AI 短视频生成平台，输入文案/链接一键产出 TikTok/Reels 风格视频；创始人披露 MRR 约 $600K、14,258+ 创作者、月发 30K+ 视频、月渲染 100K+，是 vibe coding 做内容的高人气爆款。  
   标签：~$600K MRR / 14K+ 创作者 / AI 视频 / 短视频
+- [诗云 Poetry Cloud - AI 诗歌创作](https://shiyun.cohenjikan.com) — 抖音 135 万赞的 AI 诗歌创作平台，输入主题即生成意境诗画并配 AI 朗读；获主流媒体专题报道，是 vibe coding 做中文诗意内容的高人气作品。  
+  标签：抖音135万赞 / AI 诗歌 / 主流媒体 / AI 朗读
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1435,6 +1443,8 @@
   标签：$440K MRR / 70K+ 订阅 / 力量训练 / 非程序员
 - [CalBuddy - 希伯来语 AI 卡路里追踪](https://calbuddy.tech/) — 用 Cursor 构建的 AI 卡路里追踪应用，主打希伯来语市场与对话式饮食记录；Starter Story 披露月收入约 $81K、数万用户，是 vibe coding 做垂直效率工具的高人气案例。  
   标签：~$81K/月 / AI 健康 / 卡路里追踪 / 希伯来语
+- [Medvi - AI 医疗平台](https://medvi.ai) — 单人创始人 Matthew Gallagher 用 ChatGPT/Claude/Grok/Midjourney/Runway/ElevenLabs 多人协作式搭建的 AI 医疗平台，覆盖 50 万+ 患者、2025 年销售额 $401M、净利 16.2%，是单人 AI 创业标杆。  
+  标签：$401M销售额 / 50万+患者 / 单人AI创业 / 16.2%净利
 
 <a id="cat-社交社区" name="cat-社交社区"></a>
 

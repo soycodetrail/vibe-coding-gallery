@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T21:27:08.009Z",
+  "updatedAt": "2026-11-08T22:17:01.188Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -11284,6 +11284,86 @@
       "icon": "music",
       "bg": "linear-gradient(135deg, #FF512F 0%, #FF61D2 100%)",
       "tool": "Vibe Coding / 音乐",
+      "hot": 0
+    },
+    {
+      "name": "诗云 Poetry Cloud - AI 诗歌创作",
+      "desc": "抖音 135 万赞的 AI 诗歌创作平台，输入主题即生成意境诗画并配 AI 朗读；获主流媒体专题报道，是 vibe coding 做中文诗意内容的高人气作品。",
+      "url": "https://shiyun.cohenjikan.com",
+      "category": "设计创意",
+      "tags": [
+        "抖音135万赞",
+        "AI 诗歌",
+        "主流媒体",
+        "AI 朗读"
+      ],
+      "icon": "cloud",
+      "bg": "linear-gradient(135deg, #FF6FD8 0%, #3813C2 100%)",
+      "tool": "Claude / Cursor",
+      "hot": 0
+    },
+    {
+      "name": "山寺 Sansatemple - 虚拟寺庙冥想",
+      "desc": "韩国开发者用 AI 30 分钟搭建的虚拟寺庙冥想体验，上线 3 天吸引 60 万+ 访问、一度冲垮服务器；以禅意场景与舒缓音效成为治愈系爆款。",
+      "url": "https://sansatemple.com",
+      "category": "游戏",
+      "tags": [
+        "60万+访问",
+        "服务器崩溃",
+        "治愈冥想",
+        "30分钟搭建"
+      ],
+      "icon": "landmark",
+      "bg": "linear-gradient(135deg, #3CA55C 0%, #B5AC49 100%)",
+      "tool": "AI 辅助开发",
+      "hot": 0
+    },
+    {
+      "name": "《八十亿分之一》One in 8 Billion",
+      "desc": "韩国开发者 Jin's Earth 用 Claude Opus 约 4 小时开发的人生模拟互动作品，单帖 5700 万+ 浏览、《勇者斗恶龙》堀井雄二转发、2 万+ 同时在线，是 vibe coding 的现象级叙事实验。",
+      "url": "https://1in8b.life",
+      "category": "游戏",
+      "tags": [
+        "5700万浏览",
+        "堀井雄二转发",
+        "2万+在线",
+        "人生模拟"
+      ],
+      "icon": "globe",
+      "bg": "linear-gradient(135deg, #FEAC5E 0%, #C779D0 100%)",
+      "tool": "Claude Opus",
+      "hot": 0
+    },
+    {
+      "name": "GymStreak - AI 健身教练",
+      "desc": "单人 AI 健身 App，用 AR + 3D 动画实时纠正动作、自动生成训练计划；公开披露 MRR 约 $208K/月，是 vibe coding 做高变现移动应用的高人气代表。",
+      "url": "https://gymstreak.com",
+      "category": "效率工具",
+      "tags": [
+        "~$208K/月",
+        "AR+3D",
+        "AI 健身",
+        "动作纠正"
+      ],
+      "icon": "dumbbell",
+      "bg": "linear-gradient(135deg, #F7B733 0%, #ABBAAB 100%)",
+      "tool": "AI / 移动端",
+      "hot": 0
+    },
+    {
+      "name": "Medvi - AI 医疗平台",
+      "desc": "单人创始人 Matthew Gallagher 用 ChatGPT/Claude/Grok/Midjourney/Runway/ElevenLabs 多人协作式搭建的 AI 医疗平台，覆盖 50 万+ 患者、2025 年销售额 $401M、净利 16.2%，是单人 AI 创业标杆。",
+      "url": "https://medvi.ai",
+      "category": "医疗健康",
+      "tags": [
+        "$401M销售额",
+        "50万+患者",
+        "单人AI创业",
+        "16.2%净利"
+      ],
+      "icon": "stethoscope",
+      "bg": "linear-gradient(135deg, #A17FE0 0%, #5D9EFC 100%)",
+      "tool": "ChatGPT / Claude / Grok",
       "hot": 0
     }
   ],
