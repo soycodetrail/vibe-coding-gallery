@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:17:01.188Z",
+  "updatedAt": "2026-11-09T21:22:06.088Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -11364,6 +11364,91 @@
       "icon": "stethoscope",
       "bg": "linear-gradient(135deg, #A17FE0 0%, #5D9EFC 100%)",
       "tool": "ChatGPT / Claude / Grok",
+      "hot": 0
+    },
+    {
+      "name": "BridgeMind - 直播 vibe coding 冲 $1M 的 Agent 工作台",
+      "desc": "单人创始人 Matthew Miller 用 Claude Code / Codex 每天直播造 App，Day 238 做到 $250K ARR、10 万+ YouTube 订阅、1.4 万+ Discord 成员，是「直播 vibe coding 冲 $1M」现象级案例。",
+      "url": "https://www.bridgemind.ai/",
+      "category": "Agent",
+      "tags": [
+        "直播造App",
+        "AI Agent 工作台",
+        "ARR $250K",
+        "10万+ 订阅",
+        "Vibe Coding 运动"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #2C3E50 0%, #4CA1AF 100%)",
+      "tool": "Claude Code / Codex",
+      "hot": 0
+    },
+    {
+      "name": "Gizmo - AI 互动小程序平台",
+      "desc": "Atma Sciences 出品的 AI 互动小程序平台，用一句提示词即时生成可玩的互动小游戏、谜题与梗图，TikTok 式信息流 + 全球免费；2026 年 installs 突破 60 万、10-12 月增长 312%。",
+      "url": "https://gizmo.party/",
+      "category": "社交社区",
+      "tags": [
+        "AI 小程序",
+        "互动游戏",
+        "TikTok 式",
+        "零代码",
+        "60万+ 安装"
+      ],
+      "icon": "puzzle",
+      "bg": "linear-gradient(135deg, #FF6B6B 0%, #FFD93D 100%)",
+      "tool": "Atma Sciences / AI 生成",
+      "hot": 0
+    },
+    {
+      "name": "GlowUp - 零代码做出的 AI 妆容迁移 App",
+      "desc": "非技术创始人 Louis-David Paul-Hus 用 FlutterFlow 零代码做出 AI 妆容迁移 App，上传别人的妆秒变到自己脸上并推荐产品；靠 TikTok 日更做到约 $120 万 ARR、50 万+ 用户。",
+      "url": "https://www.glamai.co/",
+      "category": "设计创意",
+      "tags": [
+        "AI 妆容",
+        "零代码",
+        "FlutterFlow",
+        "TikTok 分发",
+        "ARR $1.2M"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #FF5F9E 0%, #FFC371 100%)",
+      "tool": "FlutterFlow（无代码）",
+      "hot": 0
+    },
+    {
+      "name": "Vugola - 19 岁零基础做的 AI 视频剪辑 Agent",
+      "desc": "19 岁零编程基础 Vadim 用 Lovable→Claude→Codex 做出 AI 视频剪辑 Agent，粘贴长视频链接即生成竖屏短视频；约 5 万注册、400+ 付费、月经常性收入约 $1.1 万。",
+      "url": "https://vugola.com",
+      "category": "设计创意",
+      "tags": [
+        "AI 视频剪辑",
+        "短视频",
+        "零代码",
+        "19岁",
+        "MRR $11K"
+      ],
+      "icon": "clapperboard",
+      "bg": "linear-gradient(135deg, #8E2DE2 0%, #4A00E0 100%)",
+      "tool": "Lovable / Claude / Codex",
+      "hot": 0
+    },
+    {
+      "name": "Glam Up - 非技术创始人做的 AI 美妆顾问",
+      "desc": "非技术创始人 Nicole 与合伙人用 AI 辅助（React Native）做出 AI 美妆顾问，上传自拍即获脸型、肤色与妆容分析；Google Play 100 万+ 下载、约 $15 万月经常性收入、半年破百万用户。",
+      "url": "https://glamup.ai/",
+      "category": "设计创意",
+      "tags": [
+        "AI 美妆",
+        "自拍分析",
+        "100万+ 下载",
+        "非技术创始人",
+        "MRR $150K"
+      ],
+      "icon": "heart",
+      "bg": "linear-gradient(135deg, #C33764 0%, #1D2671 100%)",
+      "tool": "React Native / AI 辅助",
       "hot": 0
     }
   ],

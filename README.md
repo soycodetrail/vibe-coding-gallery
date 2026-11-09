@@ -4,13 +4,15 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-08 22:17:01 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-09 21:22:06 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
+- [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（730 个条目 / 15 个分类）
+## 📑 内容导航（735 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -538,6 +540,8 @@
   标签：23万★ / Karpathy / CLAUDE.md / 编码避坑
 - [Herdr - 编码 Agent 的运行底座](https://github.com/herdrdev/herdr) — Herdr 是「编码 Agent 赖以生存的运行时」：自带浏览器、身份与持久化环境，让 Claude Code / Codex 类 Agent 真正上网冲浪、长程自动化。GitHub 4.8 万+ Star。  
   标签：4.8万★ / Agent 运行时 / 浏览器自动化 / 持久化
+- [BridgeMind - 直播 vibe coding 冲 $1M 的 Agent 工作台](https://www.bridgemind.ai/) — 单人创始人 Matthew Miller 用 Claude Code / Codex 每天直播造 App，Day 238 做到 $250K ARR、10 万+ YouTube 订阅、1.4 万+ Discord 成员，是「直播 vibe coding 冲 $1M」现象级案例。  
+  标签：直播造App / AI Agent 工作台 / ARR $250K / 10万+ 订阅 / Vibe Coding 运动
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -1250,6 +1254,12 @@
   标签：~$600K MRR / 14K+ 创作者 / AI 视频 / 短视频
 - [诗云 Poetry Cloud - AI 诗歌创作](https://shiyun.cohenjikan.com) — 抖音 135 万赞的 AI 诗歌创作平台，输入主题即生成意境诗画并配 AI 朗读；获主流媒体专题报道，是 vibe coding 做中文诗意内容的高人气作品。  
   标签：抖音135万赞 / AI 诗歌 / 主流媒体 / AI 朗读
+- [GlowUp - 零代码做出的 AI 妆容迁移 App](https://www.glamai.co/) — 非技术创始人 Louis-David Paul-Hus 用 FlutterFlow 零代码做出 AI 妆容迁移 App，上传别人的妆秒变到自己脸上并推荐产品；靠 TikTok 日更做到约 $120 万 ARR、50 万+ 用户。  
+  标签：AI 妆容 / 零代码 / FlutterFlow / TikTok 分发 / ARR $1.2M
+- [Vugola - 19 岁零基础做的 AI 视频剪辑 Agent](https://vugola.com) — 19 岁零编程基础 Vadim 用 Lovable→Claude→Codex 做出 AI 视频剪辑 Agent，粘贴长视频链接即生成竖屏短视频；约 5 万注册、400+ 付费、月经常性收入约 $1.1 万。  
+  标签：AI 视频剪辑 / 短视频 / 零代码 / 19岁 / MRR $11K
+- [Glam Up - 非技术创始人做的 AI 美妆顾问](https://glamup.ai/) — 非技术创始人 Nicole 与合伙人用 AI 辅助（React Native）做出 AI 美妆顾问，上传自拍即获脸型、肤色与妆容分析；Google Play 100 万+ 下载、约 $15 万月经常性收入、半年破百万用户。  
+  标签：AI 美妆 / 自拍分析 / 100万+ 下载 / 非技术创始人 / MRR $150K
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1492,6 +1502,8 @@
   标签：PH #1 / 482 票 / 48h 直播 / 开源
 - [UpScrolled - 反算法社交平台](https://upscrolled.com/) — 用 Bolt.new + Vercel v0 打造的独立社交应用：默认时间线排序、无信息流操纵、不卖数据、无影子封禁。Google Play 下载量破 100 万、2.8 万条评分、4.7 星，被称为「人民的平台」。  
   标签：100 万下载 / 4.7 星 / 反算法 / 隐私优先
+- [Gizmo - AI 互动小程序平台](https://gizmo.party/) — Atma Sciences 出品的 AI 互动小程序平台，用一句提示词即时生成可玩的互动小游戏、谜题与梗图，TikTok 式信息流 + 全球免费；2026 年 installs 突破 60 万、10-12 月增长 312%。  
+  标签：AI 小程序 / 互动游戏 / TikTok 式 / 零代码 / 60万+ 安装
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 
