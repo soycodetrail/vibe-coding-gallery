@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T21:22:06.088Z",
+  "updatedAt": "2026-11-10T21:15:41.786Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -11449,6 +11449,108 @@
       "icon": "heart",
       "bg": "linear-gradient(135deg, #C33764 0%, #1D2671 100%)",
       "tool": "React Native / AI 辅助",
+      "hot": 0
+    },
+    {
+      "name": "Orkas - 本地优先的多智能体 AI 桌面团队",
+      "desc": "开源（MIT）本地优先多智能体桌面应用：一个 Commander 协调 16 个 specialist agent，并能直接驱动你已有的 Claude Code、Codex、OpenClaw、OpenCode、Hermes 等编码智能体。GitHub 9.1K+ Star，支持 macOS/Windows/Linux。",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "category": "Agent",
+      "tags": [
+        "本地优先",
+        "多智能体",
+        "MIT 开源",
+        "GitHub 9.1K★",
+        "桌面应用"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #8B5CF6 0%, #6366F1 100%)",
+      "tool": "Claude Code / Codex / OpenClaw",
+      "hot": 0
+    },
+    {
+      "name": "agent-desktop - Vercel 出品的 AI 智能体电脑操控 CLI",
+      "desc": "Vercel Labs 开源的「computer use」CLI：让 AI 智能体像人一样操作真实桌面环境（点击、输入、读屏），为 agent 赋予图形界面操控能力。GitHub 19.5K+ Star，Rust 实现。",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "category": "Agent",
+      "tags": [
+        "computer use",
+        "AI 智能体",
+        "Rust",
+        "GitHub 19.5K★",
+        "开源"
+      ],
+      "icon": "monitor",
+      "bg": "linear-gradient(135deg, #0369A1 0%, #0E7490 100%)",
+      "tool": "Vercel Labs / Rust",
+      "hot": 0
+    },
+    {
+      "name": "OpenMausBot - 开源 Grok Bot 替代方案",
+      "desc": "milind-soni 开源（MIT）的 Grok Bot 替代：为智能体提供一个带虚拟机的运行环境，让 bot 可以像真人一样操作设备。GitHub 15.6K+ Star，是「AI 同事/机器人」赛道的高人气开源项目。",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "category": "Agent",
+      "tags": [
+        "Grok Bot",
+        "虚拟机",
+        "MIT 开源",
+        "GitHub 15.6K★",
+        "AI 机器人"
+      ],
+      "icon": "terminal",
+      "bg": "linear-gradient(135deg, #DC2626 0%, #EF4444 100%)",
+      "tool": "Grok / 开源",
+      "hot": 0
+    },
+    {
+      "name": "Claude-Code-Game-Studios - 把 Claude Code 变成游戏工作室",
+      "desc": "Donchitos 开源（MIT）的游戏开发模板：49 个专职 agent + 72 个工作流技能，完整复刻真实游戏工作室的三层指挥链（总监/部门主管/一线专家），支持 Godot/Unity/Unreal。GitHub 37K+ Star。",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "category": "游戏",
+      "tags": [
+        "游戏开发",
+        "多智能体",
+        "MIT 开源",
+        "GitHub 37K★",
+        "Godot/Unity"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #9333EA 0%, #D946EF 100%)",
+      "tool": "Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Rerun - 把 AI 订阅变成一队会排班的同事",
+      "desc": "rerun-build 开源（AGPL-3.0）的 AI 同事平台：每位同事有自己的工具、电脑与共享工作区，按排班/触发自动干活，发送/付款/删除前主动确认。Product Hunt 2026-11-05 当日榜第 3（248 票），GitHub 744 Star。",
+      "url": "https://github.com/rerun-build/rerun",
+      "category": "AI办公",
+      "tags": [
+        "AI 同事",
+        "定时任务",
+        "AGPL 开源",
+        "PH 当日第3",
+        "人机协同"
+      ],
+      "icon": "users",
+      "bg": "linear-gradient(135deg, #0F766E 0%, #2DD4BF 100%)",
+      "tool": "Claude / ChatGPT / 自托管",
+      "hot": 0
+    },
+    {
+      "name": "Canary - 用音乐学语言的 App",
+      "desc": "创作者 Ben Guez 用 AI 打造的「音乐版 Duolingo」：选歌看实时翻译、跟唱练发音、做测验，并和母语者练习对话。月经常性收入约 $25K、5 万+ 下载、2K+ 付费，Product Hunt 当日榜第 2，社区 18 万+。",
+      "url": "https://www.singwithcanary.com",
+      "category": "教育学习",
+      "tags": [
+        "语言学习",
+        "音乐",
+        "PH 当日第2",
+        "MRR $25K",
+        "5万+ 下载"
+      ],
+      "icon": "music",
+      "bg": "linear-gradient(135deg, #FACC15 0%, #D97706 100%)",
+      "tool": "AI / 移动端",
       "hot": 0
     }
   ],

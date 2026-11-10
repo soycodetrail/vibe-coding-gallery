@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-09 21:22:06 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-10 21:15:41 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（735 个条目 / 15 个分类）
+## 📑 内容导航（741 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -542,6 +542,12 @@
   标签：4.8万★ / Agent 运行时 / 浏览器自动化 / 持久化
 - [BridgeMind - 直播 vibe coding 冲 $1M 的 Agent 工作台](https://www.bridgemind.ai/) — 单人创始人 Matthew Miller 用 Claude Code / Codex 每天直播造 App，Day 238 做到 $250K ARR、10 万+ YouTube 订阅、1.4 万+ Discord 成员，是「直播 vibe coding 冲 $1M」现象级案例。  
   标签：直播造App / AI Agent 工作台 / ARR $250K / 10万+ 订阅 / Vibe Coding 运动
+- [Orkas - 本地优先的多智能体 AI 桌面团队](https://github.com/Orkas-AI/Orkas) — 开源（MIT）本地优先多智能体桌面应用：一个 Commander 协调 16 个 specialist agent，并能直接驱动你已有的 Claude Code、Codex、OpenClaw、OpenCode、Hermes 等编码智能体。GitHub 9.1K+ Star，支持 macOS/Windows/Linux。  
+  标签：本地优先 / 多智能体 / MIT 开源 / GitHub 9.1K★ / 桌面应用
+- [agent-desktop - Vercel 出品的 AI 智能体电脑操控 CLI](https://github.com/vercel-labs/agent-desktop) — Vercel Labs 开源的「computer use」CLI：让 AI 智能体像人一样操作真实桌面环境（点击、输入、读屏），为 agent 赋予图形界面操控能力。GitHub 19.5K+ Star，Rust 实现。  
+  标签：computer use / AI 智能体 / Rust / GitHub 19.5K★ / 开源
+- [OpenMausBot - 开源 Grok Bot 替代方案](https://github.com/milind-soni/OpenMausBot) — milind-soni 开源（MIT）的 Grok Bot 替代：为智能体提供一个带虚拟机的运行环境，让 bot 可以像真人一样操作设备。GitHub 15.6K+ Star，是「AI 同事/机器人」赛道的高人气开源项目。  
+  标签：Grok Bot / 虚拟机 / MIT 开源 / GitHub 15.6K★ / AI 机器人
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -910,6 +916,8 @@
   标签：60万+访问 / 服务器崩溃 / 治愈冥想 / 30分钟搭建
 - [《八十亿分之一》One in 8 Billion](https://1in8b.life) — 韩国开发者 Jin's Earth 用 Claude Opus 约 4 小时开发的人生模拟互动作品，单帖 5700 万+ 浏览、《勇者斗恶龙》堀井雄二转发、2 万+ 同时在线，是 vibe coding 的现象级叙事实验。  
   标签：5700万浏览 / 堀井雄二转发 / 2万+在线 / 人生模拟
+- [Claude-Code-Game-Studios - 把 Claude Code 变成游戏工作室](https://github.com/Donchitos/Claude-Code-Game-Studios) — Donchitos 开源（MIT）的游戏开发模板：49 个专职 agent + 72 个工作流技能，完整复刻真实游戏工作室的三层指挥链（总监/部门主管/一线专家），支持 Godot/Unity/Unreal。GitHub 37K+ Star。  
+  标签：游戏开发 / 多智能体 / MIT 开源 / GitHub 37K★ / Godot/Unity
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -1056,6 +1064,8 @@
   标签：PH #1 / 380 票 / 用户验证 / 合成测试员
 - [Inbox Zero - 开源 AI 邮件助手](https://www.getinboxzero.com/) — 开源（AGPL）AI 邮件助手，自动分类、用你的语气预拟回复、拦截冷邮件、一键退订；GitHub 13K★、登上 GitHub Trending 与 Product Hunt 当日榜、25,000+ 用户，被誉为免费开源版 Superhuman。  
   标签：13K★ / 开源 / AI 邮件 / 25K+ 用户
+- [Rerun - 把 AI 订阅变成一队会排班的同事](https://github.com/rerun-build/rerun) — rerun-build 开源（AGPL-3.0）的 AI 同事平台：每位同事有自己的工具、电脑与共享工作区，按排班/触发自动干活，发送/付款/删除前主动确认。Product Hunt 2026-11-05 当日榜第 3（248 票），GitHub 744 Star。  
+  标签：AI 同事 / 定时任务 / AGPL 开源 / PH 当日第3 / 人机协同
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1121,6 +1131,8 @@
   标签：47K+ Stars / Apache-2.0 / 多智能体 / 可本地部署
 - [WrestleAI - 19 岁少年用 AI 做的摔跤教练](https://wrestleai.app) — 19 岁、零代码基础的 George Lampropoulos 用 AI 应用生成器 Roar 做出的 AI 摔跤教练，下载量突破 100,000+、首月收入约 $17K。上传比赛视频即获 AI 逐帧技术拆解、个性化训练计划与数据追踪，靠摔跤达人冷启动推广走红。  
   标签：100K+ 下载 / 首月 $17K / 零代码 / 视频分析
+- [Canary - 用音乐学语言的 App](https://www.singwithcanary.com) — 创作者 Ben Guez 用 AI 打造的「音乐版 Duolingo」：选歌看实时翻译、跟唱练发音、做测验，并和母语者练习对话。月经常性收入约 $25K、5 万+ 下载、2K+ 付费，Product Hunt 当日榜第 2，社区 18 万+。  
+  标签：语言学习 / 音乐 / PH 当日第2 / MRR $25K / 5万+ 下载
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
