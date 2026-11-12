@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T21:15:41.786Z",
+  "updatedAt": "2026-11-12T21:26:41.982Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -11551,6 +11551,108 @@
       "icon": "music",
       "bg": "linear-gradient(135deg, #FACC15 0%, #D97706 100%)",
       "tool": "AI / 移动端",
+      "hot": 0
+    },
+    {
+      "name": "Peptide Tracker - 帮 10 万+ 人管理肽类与 GLP-1 方案",
+      "desc": "俄勒冈大学生用 AI 全程 vibe coding 打造（零订阅、纯免费），帮用户规划肽类 / GLP-1 注射排期、记录剂量与余量、追踪症状与健康趋势。App Store 4.9 星（2,600+ 评分）、累计 100,000+ 用户，覆盖 BPC-157、Tirzepatide 等数十种化合物。",
+      "url": "https://peptidetracker.ai/",
+      "category": "医疗健康",
+      "tags": [
+        "100K+ 用户",
+        "App Store 4.9 星",
+        "肽类追踪",
+        "GLP-1",
+        "免费"
+      ],
+      "icon": "heart-pulse",
+      "bg": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+      "tool": "vibe coding",
+      "hot": 0
+    },
+    {
+      "name": "Josie AI - 菲律宾榜首的虚拟助理技能教练",
+      "desc": "面向零基础用户的「虚拟助理 + AI 技能」陪练 App：每日 15 分钟短视频课，覆盖自由职业、AI 工具（ChatGPT / Claude / Gemini）与数字营销，配 24/7 AI 教练与结课证书。约 100K 下载、App Store 4.9 星、菲律宾教育榜第 1。",
+      "url": "https://josieai.com/",
+      "category": "教育学习",
+      "tags": [
+        "约100K 下载",
+        "App Store 4.9 星",
+        "菲律宾榜首",
+        "AI 教练",
+        "虚拟助理"
+      ],
+      "icon": "graduation-cap",
+      "bg": "linear-gradient(135deg, #14b8a6 0%, #0ea5e9 100%)",
+      "tool": "vibe coding",
+      "hot": 0
+    },
+    {
+      "name": "Runify - 首个「排位制」跑步 App",
+      "desc": "把跑步变成排位赛：每次记录或同步（Apple Watch / Garmin / Strava）都获得 XP、爬升段位、登上好友或全球排行榜。社区累计 100K+ 次跑步、500K+ 英里、4.8 星（626+ 评价），断更还会掉段——用「段位衰减」逼你坚持。",
+      "url": "https://www.runifyapp.com/",
+      "category": "效率工具",
+      "tags": [
+        "100K+ 跑步",
+        "500K+ 英里",
+        "App Store 4.8 星",
+        "排位赛",
+        "GPS"
+      ],
+      "icon": "activity",
+      "bg": "linear-gradient(135deg, #f97316 0%, #ef4444 100%)",
+      "tool": "vibe coding",
+      "hot": 0
+    },
+    {
+      "name": "ColorCraft - 一句话出 KDP 印前书",
+      "desc": "vibe coding（Cursor）打造的 Amazon KDP AI 出书工具：一个提示词生成涂色书 / 故事书 / 漫画 / 拼图书，自动做选题调研、排版与印前 PDF（含封面书脊）。Stripe 验证 MRR $1,632、累计生成 40,000+ 页、1,400+ 创作者，可接 Claude / ChatGPT 当 AI 助理。",
+      "url": "https://colorcraft.ai/",
+      "category": "电商营销",
+      "tags": [
+        "MRR $1.6K",
+        "40K+ 页",
+        "1,400+ 创作者",
+        "KDP 出书",
+        "Stripe 验证"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #f43f5e 0%, #a855f7 100%)",
+      "tool": "Cursor",
+      "hot": 0
+    },
+    {
+      "name": "DualShot Recorder - 一次拍摄双画幅",
+      "desc": "洛杉矶创作者 Derrick Downey Jr（社媒粉丝 100 万+）用 Claude 全程 vibe coding 打造：一次录制同时保存竖屏 + 横屏视频，解决创作者反复重拍痛点。上线 12 小时登顶 App Store 付费榜第 1、蝉联 8 天，4.7 星（1,000+ 评分），支持 4K / Apple Log / 防抖。",
+      "url": "https://ddjrproductions.com/dualshotrecorder",
+      "category": "设计创意",
+      "tags": [
+        "App Store 第1",
+        "4.7 星 1K+ 评分",
+        "双画幅录制",
+        "vibe coding",
+        "Claude"
+      ],
+      "icon": "video",
+      "bg": "linear-gradient(135deg, #3b82f6 0%, #06b6d4 100%)",
+      "tool": "Claude",
+      "hot": 0
+    },
+    {
+      "name": "Claw Code - 完全由 AI Agent 自治维护的开源项目",
+      "desc": "UltraWorkers 出品的 CLI 编码 Agent harness 的 Rust 实现，被称为「由 Agent 维护、零人工干预的博物馆展品」——是 vibe coding 的极致样本。GitHub 194.8K+ Star、1,876 commits，配 AGENTS.md / CLAUDE.md 让 Agent 自主规划、执行、验证与归档。",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "category": "Agent",
+      "tags": [
+        "194.8K+ Star",
+        "Rust",
+        "开源",
+        "AI 自治",
+        "Agent harness"
+      ],
+      "icon": "terminal",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "AI Agents 自治维护",
       "hot": 0
     }
   ],

@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-10 21:15:41 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-12 21:26:41 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（741 个条目 / 15 个分类）
+## 📑 内容导航（747 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -548,6 +548,8 @@
   标签：computer use / AI 智能体 / Rust / GitHub 19.5K★ / 开源
 - [OpenMausBot - 开源 Grok Bot 替代方案](https://github.com/milind-soni/OpenMausBot) — milind-soni 开源（MIT）的 Grok Bot 替代：为智能体提供一个带虚拟机的运行环境，让 bot 可以像真人一样操作设备。GitHub 15.6K+ Star，是「AI 同事/机器人」赛道的高人气开源项目。  
   标签：Grok Bot / 虚拟机 / MIT 开源 / GitHub 15.6K★ / AI 机器人
+- [Claw Code - 完全由 AI Agent 自治维护的开源项目](https://github.com/ultraworkers/claw-code) — UltraWorkers 出品的 CLI 编码 Agent harness 的 Rust 实现，被称为「由 Agent 维护、零人工干预的博物馆展品」——是 vibe coding 的极致样本。GitHub 194.8K+ Star、1,876 commits，配 AGENTS.md / CLAUDE.md 让 Agent 自主规划、执行、验证与归档。  
+  标签：194.8K+ Star / Rust / 开源 / AI 自治 / Agent harness
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -743,6 +745,8 @@
   标签：PH #1 / 435 票 / 开源 MIT / 本地优先
 - [GymStreak - AI 健身教练](https://gymstreak.com) — 单人 AI 健身 App，用 AR + 3D 动画实时纠正动作、自动生成训练计划；公开披露 MRR 约 $208K/月，是 vibe coding 做高变现移动应用的高人气代表。  
   标签：~$208K/月 / AR+3D / AI 健身 / 动作纠正
+- [Runify - 首个「排位制」跑步 App](https://www.runifyapp.com/) — 把跑步变成排位赛：每次记录或同步（Apple Watch / Garmin / Strava）都获得 XP、爬升段位、登上好友或全球排行榜。社区累计 100K+ 次跑步、500K+ 英里、4.8 星（626+ 评价），断更还会掉段——用「段位衰减」逼你坚持。  
+  标签：100K+ 跑步 / 500K+ 英里 / App Store 4.8 星 / 排位赛 / GPS
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1133,6 +1137,8 @@
   标签：100K+ 下载 / 首月 $17K / 零代码 / 视频分析
 - [Canary - 用音乐学语言的 App](https://www.singwithcanary.com) — 创作者 Ben Guez 用 AI 打造的「音乐版 Duolingo」：选歌看实时翻译、跟唱练发音、做测验，并和母语者练习对话。月经常性收入约 $25K、5 万+ 下载、2K+ 付费，Product Hunt 当日榜第 2，社区 18 万+。  
   标签：语言学习 / 音乐 / PH 当日第2 / MRR $25K / 5万+ 下载
+- [Josie AI - 菲律宾榜首的虚拟助理技能教练](https://josieai.com/) — 面向零基础用户的「虚拟助理 + AI 技能」陪练 App：每日 15 分钟短视频课，覆盖自由职业、AI 工具（ChatGPT / Claude / Gemini）与数字营销，配 24/7 AI 教练与结课证书。约 100K 下载、App Store 4.9 星、菲律宾教育榜第 1。  
+  标签：约100K 下载 / App Store 4.9 星 / 菲律宾榜首 / AI 教练 / 虚拟助理
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1272,6 +1278,8 @@
   标签：AI 视频剪辑 / 短视频 / 零代码 / 19岁 / MRR $11K
 - [Glam Up - 非技术创始人做的 AI 美妆顾问](https://glamup.ai/) — 非技术创始人 Nicole 与合伙人用 AI 辅助（React Native）做出 AI 美妆顾问，上传自拍即获脸型、肤色与妆容分析；Google Play 100 万+ 下载、约 $15 万月经常性收入、半年破百万用户。  
   标签：AI 美妆 / 自拍分析 / 100万+ 下载 / 非技术创始人 / MRR $150K
+- [DualShot Recorder - 一次拍摄双画幅](https://ddjrproductions.com/dualshotrecorder) — 洛杉矶创作者 Derrick Downey Jr（社媒粉丝 100 万+）用 Claude 全程 vibe coding 打造：一次录制同时保存竖屏 + 横屏视频，解决创作者反复重拍痛点。上线 12 小时登顶 App Store 付费榜第 1、蝉联 8 天，4.7 星（1,000+ 评分），支持 4K / Apple Log / 防抖。  
+  标签：App Store 第1 / 4.7 星 1K+ 评分 / 双画幅录制 / vibe coding / Claude
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1347,6 +1355,8 @@
   标签：40.8K★ / 开源 / 社媒调度 / Agentic
 - [Dropmagic - AI Shopify 商店生成器](https://dropmagic.ai/) — AI 驱动的 Shopify 商店生成器，一句话生成完整电商店铺与营销页；创始人公开披露 MRR $120K、累计 120K+ 店铺、50K+ 客户，是 vibe coding 做电商的高人气代表。  
   标签：$120K MRR / 120K+ 店铺 / AI 电商 / Shopify
+- [ColorCraft - 一句话出 KDP 印前书](https://colorcraft.ai/) — vibe coding（Cursor）打造的 Amazon KDP AI 出书工具：一个提示词生成涂色书 / 故事书 / 漫画 / 拼图书，自动做选题调研、排版与印前 PDF（含封面书脊）。Stripe 验证 MRR $1,632、累计生成 40,000+ 页、1,400+ 创作者，可接 Claude / ChatGPT 当 AI 助理。  
+  标签：MRR $1.6K / 40K+ 页 / 1,400+ 创作者 / KDP 出书 / Stripe 验证
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1465,6 +1475,8 @@
   标签：~$81K/月 / AI 健康 / 卡路里追踪 / 希伯来语
 - [Medvi - AI 医疗平台](https://medvi.ai) — 单人创始人 Matthew Gallagher 用 ChatGPT/Claude/Grok/Midjourney/Runway/ElevenLabs 多人协作式搭建的 AI 医疗平台，覆盖 50 万+ 患者、2025 年销售额 $401M、净利 16.2%，是单人 AI 创业标杆。  
   标签：$401M销售额 / 50万+患者 / 单人AI创业 / 16.2%净利
+- [Peptide Tracker - 帮 10 万+ 人管理肽类与 GLP-1 方案](https://peptidetracker.ai/) — 俄勒冈大学生用 AI 全程 vibe coding 打造（零订阅、纯免费），帮用户规划肽类 / GLP-1 注射排期、记录剂量与余量、追踪症状与健康趋势。App Store 4.9 星（2,600+ 评分）、累计 100,000+ 用户，覆盖 BPC-157、Tirzepatide 等数十种化合物。  
+  标签：100K+ 用户 / App Store 4.9 星 / 肽类追踪 / GLP-1 / 免费
 
 <a id="cat-社交社区" name="cat-社交社区"></a>
 
