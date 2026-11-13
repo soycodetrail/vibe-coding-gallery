@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-12 21:26:41 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-13 21:22:52 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（747 个条目 / 15 个分类）
+## 📑 内容导航（753 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -351,6 +351,8 @@
   标签：PH #5 / 228 票 / 代码库架构 / AI 编程
 - [Strawberry - 内置 AI 同事的浏览器](https://strawberrybrowser.com/) — Product Hunt 2026-10-26 当日榜 #1（342 票）：内置 AI Companions 的桌面浏览器，可并行研究数百条销售线索、转录会议、自动跟进；已被 Lovable、ElevenLabs 等数百支团队采用。  
   标签：PH #1 / 342 票 / AI 浏览器 / Companions
+- [Auday - Apple Watch 上的 AI 录音与灵感捕捉](https://auday.ai/) — 中科大 BaiFu 独立开发的 Apple Watch AI 录音应用，一键录音、本地 AI 实时转写与摘要，9.99 美元买断。国庆 7 天售出 30 万美元、24 小时阅读量破百万，登顶多国 App Store 付费榜第一，是「一个人 + vibe coding」引爆付费榜的现象级作品。  
+  标签：App Store 付费榜第一 / 7 天 $300K / Apple Watch / AI 录音 / 独立开发
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -747,6 +749,8 @@
   标签：~$208K/月 / AR+3D / AI 健身 / 动作纠正
 - [Runify - 首个「排位制」跑步 App](https://www.runifyapp.com/) — 把跑步变成排位赛：每次记录或同步（Apple Watch / Garmin / Strava）都获得 XP、爬升段位、登上好友或全球排行榜。社区累计 100K+ 次跑步、500K+ 英里、4.8 星（626+ 评价），断更还会掉段——用「段位衰减」逼你坚持。  
   标签：100K+ 跑步 / 500K+ 英里 / App Store 4.8 星 / 排位赛 / GPS
+- [PopTranslate - 图拉鼎的 Mac 划词翻译与改写神器](https://poptranslate.app/) — 图拉鼎（TuluDing）用 3-4 个月 vibe coding 打造的 macOS 划词翻译 / 改写工具，支持任意界面选中即译、语气改写与润色，是独立开发者借 AI 快速交付桌面生产力工具的标杆案例。  
+  标签：macOS 划词翻译 / 图拉鼎 / AI 改写 / 独立开发 / 生产力
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1139,6 +1143,10 @@
   标签：语言学习 / 音乐 / PH 当日第2 / MRR $25K / 5万+ 下载
 - [Josie AI - 菲律宾榜首的虚拟助理技能教练](https://josieai.com/) — 面向零基础用户的「虚拟助理 + AI 技能」陪练 App：每日 15 分钟短视频课，覆盖自由职业、AI 工具（ChatGPT / Claude / Gemini）与数字营销，配 24/7 AI 教练与结课证书。约 100K 下载、App Store 4.9 星、菲律宾教育榜第 1。  
   标签：约100K 下载 / App Store 4.9 星 / 菲律宾榜首 / AI 教练 / 虚拟助理
+- [PocketChef 口袋厨神 - 拍视频或冰箱就能生成菜谱的 AI 厨神](https://pocketchef.zhiheschool.com/) — 高中生唐嘉豪用 AI 开发的厨房助手：拍一段做菜视频或冰箱照片，AI 自动生成可执行的菜谱与步骤，App Store 评分 4.9，是「中学生 vibe coding 改变生活」的代表作。  
+  标签：App Store 4.9 / AI 菜谱 / 中学生开发 / 拍照生成 / 厨房助手
+- [AccelaStudy AI - 自适应学习平台（单人 + Claude 81 天造出）](https://accelastudy.ai/) — 创始人与 Claude 协作 81 天、生成 127 万行代码、申请 29 项专利打造的自适应学习平台，按学生节奏动态调整内容与难度，订阅制 $39/月，是「人 + AI 结对编程」规模化产出的范本。  
+  标签：127 万行代码 / 29 项专利 / $39/月 / 自适应学习 / AI 教育
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1280,6 +1288,8 @@
   标签：AI 美妆 / 自拍分析 / 100万+ 下载 / 非技术创始人 / MRR $150K
 - [DualShot Recorder - 一次拍摄双画幅](https://ddjrproductions.com/dualshotrecorder) — 洛杉矶创作者 Derrick Downey Jr（社媒粉丝 100 万+）用 Claude 全程 vibe coding 打造：一次录制同时保存竖屏 + 横屏视频，解决创作者反复重拍痛点。上线 12 小时登顶 App Store 付费榜第 1、蝉联 8 天，4.7 星（1,000+ 评分），支持 4K / Apple Log / 防抖。  
   标签：App Store 第1 / 4.7 星 1K+ 评分 / 双画幅录制 / vibe coding / Claude
+- [Photon Studio - 免费本地优先的开源 Photoshop 替代品](https://tenzen.studio/photon) — 独立开发者用 GPT-6 Astra 以 vibe coding 方式打造的本地优先图像编辑器，定位免费开源的 Photoshop 替代，约 2000 美元 token 成本、已积累 20,000+ 用户，强调隐私优先、离线可用。  
+  标签：20,000+ 用户 / 开源 / 本地优先 / Photoshop 替代 / 隐私优先
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1357,6 +1367,8 @@
   标签：$120K MRR / 120K+ 店铺 / AI 电商 / Shopify
 - [ColorCraft - 一句话出 KDP 印前书](https://colorcraft.ai/) — vibe coding（Cursor）打造的 Amazon KDP AI 出书工具：一个提示词生成涂色书 / 故事书 / 漫画 / 拼图书，自动做选题调研、排版与印前 PDF（含封面书脊）。Stripe 验证 MRR $1,632、累计生成 40,000+ 页、1,400+ 创作者，可接 Claude / ChatGPT 当 AI 助理。  
   标签：MRR $1.6K / 40K+ 页 / 1,400+ 创作者 / KDP 出书 / Stripe 验证
+- [Okara - 24 小时在线的 AI CMO 智能体](https://okara.ai/) — 前 Metaschool 创始人打造的 AI CMO（首席营销官）智能体，可自主完成品牌定位、内容营销与增长策略，已服务 10 万+ 中小商家，把原本高昂的营销团队能力封装成一个对话框。  
+  标签：10 万+ 商家 / AI CMO / 营销自动化 / 增长智能体 / 电商
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T21:26:41.982Z",
+  "updatedAt": "2026-11-13T21:22:52.858Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -11653,6 +11653,108 @@
       "icon": "terminal",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "AI Agents 自治维护",
+      "hot": 0
+    },
+    {
+      "name": "Auday - Apple Watch 上的 AI 录音与灵感捕捉",
+      "desc": "中科大 BaiFu 独立开发的 Apple Watch AI 录音应用，一键录音、本地 AI 实时转写与摘要，9.99 美元买断。国庆 7 天售出 30 万美元、24 小时阅读量破百万，登顶多国 App Store 付费榜第一，是「一个人 + vibe coding」引爆付费榜的现象级作品。",
+      "url": "https://auday.ai/",
+      "category": "AI 工具",
+      "tags": [
+        "App Store 付费榜第一",
+        "7 天 $300K",
+        "Apple Watch",
+        "AI 录音",
+        "独立开发"
+      ],
+      "icon": "mic",
+      "bg": "linear-gradient(135deg, #1A2980 0%, #26D0CE 100%)",
+      "tool": "Vibe Coding + Swift",
+      "hot": 0
+    },
+    {
+      "name": "Photon Studio - 免费本地优先的开源 Photoshop 替代品",
+      "desc": "独立开发者用 GPT-6 Astra 以 vibe coding 方式打造的本地优先图像编辑器，定位免费开源的 Photoshop 替代，约 2000 美元 token 成本、已积累 20,000+ 用户，强调隐私优先、离线可用。",
+      "url": "https://tenzen.studio/photon",
+      "category": "设计创意",
+      "tags": [
+        "20,000+ 用户",
+        "开源",
+        "本地优先",
+        "Photoshop 替代",
+        "隐私优先"
+      ],
+      "icon": "image",
+      "bg": "linear-gradient(135deg, #654EA3 0%, #EAAFC8 100%)",
+      "tool": "GPT-6 Astra Vibe Coding",
+      "hot": 0
+    },
+    {
+      "name": "PocketChef 口袋厨神 - 拍视频或冰箱就能生成菜谱的 AI 厨神",
+      "desc": "高中生唐嘉豪用 AI 开发的厨房助手：拍一段做菜视频或冰箱照片，AI 自动生成可执行的菜谱与步骤，App Store 评分 4.9，是「中学生 vibe coding 改变生活」的代表作。",
+      "url": "https://pocketchef.zhiheschool.com/",
+      "category": "教育学习",
+      "tags": [
+        "App Store 4.9",
+        "AI 菜谱",
+        "中学生开发",
+        "拍照生成",
+        "厨房助手"
+      ],
+      "icon": "utensils",
+      "bg": "linear-gradient(135deg, #F7971E 0%, #FFD200 100%)",
+      "tool": "Vibe Coding 中学生作品",
+      "hot": 0
+    },
+    {
+      "name": "Okara - 24 小时在线的 AI CMO 智能体",
+      "desc": "前 Metaschool 创始人打造的 AI CMO（首席营销官）智能体，可自主完成品牌定位、内容营销与增长策略，已服务 10 万+ 中小商家，把原本高昂的营销团队能力封装成一个对话框。",
+      "url": "https://okara.ai/",
+      "category": "电商营销",
+      "tags": [
+        "10 万+ 商家",
+        "AI CMO",
+        "营销自动化",
+        "增长智能体",
+        "电商"
+      ],
+      "icon": "megaphone",
+      "bg": "linear-gradient(135deg, #EC008C 0%, #FC6767 100%)",
+      "tool": "AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "AccelaStudy AI - 自适应学习平台（单人 + Claude 81 天造出）",
+      "desc": "创始人与 Claude 协作 81 天、生成 127 万行代码、申请 29 项专利打造的自适应学习平台，按学生节奏动态调整内容与难度，订阅制 $39/月，是「人 + AI 结对编程」规模化产出的范本。",
+      "url": "https://accelastudy.ai/",
+      "category": "教育学习",
+      "tags": [
+        "127 万行代码",
+        "29 项专利",
+        "$39/月",
+        "自适应学习",
+        "AI 教育"
+      ],
+      "icon": "graduation-cap",
+      "bg": "linear-gradient(135deg, #4776E6 0%, #8E54E9 100%)",
+      "tool": "Claude 结对编程",
+      "hot": 0
+    },
+    {
+      "name": "PopTranslate - 图拉鼎的 Mac 划词翻译与改写神器",
+      "desc": "图拉鼎（TuluDing）用 3-4 个月 vibe coding 打造的 macOS 划词翻译 / 改写工具，支持任意界面选中即译、语气改写与润色，是独立开发者借 AI 快速交付桌面生产力工具的标杆案例。",
+      "url": "https://poptranslate.app/",
+      "category": "效率工具",
+      "tags": [
+        "macOS 划词翻译",
+        "图拉鼎",
+        "AI 改写",
+        "独立开发",
+        "生产力"
+      ],
+      "icon": "languages",
+      "bg": "linear-gradient(135deg, #11998E 0%, #38EF7D 100%)",
+      "tool": "Vibe Coding (macOS)",
       "hot": 0
     }
   ],
