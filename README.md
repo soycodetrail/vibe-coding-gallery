@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-16 17:32:31 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-16 21:15:13 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（760 个条目 / 15 个分类）
+## 📑 内容导航（767 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -357,6 +357,8 @@
   标签：62.5K Star / 周增长榜首 / Agent 控制平面 / MIT 开源 / 多端同步
 - [ThinkRail - JetBrains 会自我进化的 Agentic IDE](https://github.com/JetBrains/thinkrail) — JetBrains 官方 incubator 项目、8,302★，入选 GitHub Trending Repository of the Day；围绕 pi coding agent 打造，用 spec graph + 可复用 skills 沉淀项目知识，工作区隔离、越用越懂你的代码库。  
   标签：8.3K Star / JetBrains 官方 / Trending of the Day / Spec-Driven / Agentic IDE
+- [craft-anything - 看懂并改造任意软件的 AI 工作台](https://github.com/storytold/craft-anything) — 知名逆向工程 Agent「rea」原班团队 storytold 的新作：让 AI 真正读懂任意软件「怎么运作」，再亲手把它改造、重写成你自己的版本。GitHub 3.4 万+ Star，2026-11 单周暴涨约 11,000★、冲上 GitHub Trending 周榜前列，Rust 编写、话题度极高。  
+  标签：3.4万 Star / 周涨 1.1 万 / 逆向工程 / rea 团队新作 / 开源
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -560,6 +562,8 @@
   标签：23.4K Star / DeepSeek 官方 / 主动式 Agent / 自动提 PR / MIT
 - [Elephant-Goldfish Model - Google 开源的设计与评审 Agent](https://github.com/google/elephant-goldfish-model) — Google 出品、20,237★（单周 +4,419★、增速榜第 2）；用带全新上下文的子 Agent 起草软件设计规格并交叉评审，把 Spec-Driven Development 做成可安装的 Claude Code / Codex / Gemini 插件，Apache 2.0 开源。  
   标签：20.2K Star / Google 开源 / 设计评审 / 多 Agent / Apache 2.0
+- [ARTEMIS - Google 开源的自然语言 Android 自动化 Agent](https://github.com/google/artemis) — Google 官方出品的 Agent 框架：把自然语言指令转成可靠的 Android 设备自动化操作，让 AI 真的「动手」完成手机上的真实任务。GitHub 1.75 万+ Star，2026-11 GitHub Trending 周榜新晋热门（单周 +5,500★），是移动端 GUI Agent 的标杆开源项目。  
+  标签：1.75万 Star / Google 开源 / Android 自动化 / GUI Agent / 周榜热门
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -761,6 +765,10 @@
   标签：macOS 划词翻译 / 图拉鼎 / AI 改写 / 独立开发 / 生产力
 - [billion-context - 让 100K 窗口跑数月长会话的上下文压缩代理](https://github.com/ranxianglei/billion-context) — 7,658★（单周 +2,185★、增速 +40%）；插在 Agent 与模型 API 之间做增量可逆压缩，官方数据 174,327 次调用 / 18.76B token 零窗口溢出、省约 5 倍 token，支持 Claude / Codex / Kimi / zcode 等 20+ 客户端。  
   标签：7.6K Star / 上下文压缩 / 省 5 倍 Token / 长会话 / MIT
+- [Auto Ontology - NVIDIA 开源的企业数据语义图谱](https://github.com/NVIDIA/auto-ontology) — NVIDIA 官方开源 Python 框架：在企业数据之上自动构建带语义的知识图谱层（元数据、定义、血缘），通过 MCP / CLI / API 暴露给 LLM Agent，把自然语言问题转成「有出处、可验证」的 SQL 答案。GitHub 1.3 万+ Star，2026-11 单日涨约 2,100★的 LLM 热门新秀。  
+  标签：1.3万 Star / NVIDIA 官方 / 知识图谱 / Text-to-SQL / 开源
+- [Plannotator - 让人始终掌控 Agent 的协作评审工作台](https://github.com/backnotprop/plannotator) — 「Stay in the loop」的 Agent 工作台：把规划、决策、标注、代码评审和团队反馈收拢到一处，一条命令即可把所有人意见回传给 Agent。GitHub 1.2 万+ Star，2026-11 GitHub Trending 周榜新秀，精准命中「Agent 能写之后，团队更需要评审与验收」的刚需。  
+  标签：1.2万 Star / Agent 评审 / 人机协作 / 代码标注 / Trending 新秀
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1302,6 +1310,8 @@
   标签：20,000+ 用户 / 开源 / 本地优先 / Photoshop 替代 / 隐私优先
 - [Kokonut UI - 给 AI 应用用的开源 React 组件库](https://kokonutui.com) — Product Hunt 2026-11-14 榜单热门（99 票）、2,359★；116 个开箱即用的 AI 组件（AI 输入框 / 结账 / 订单追踪等），Vercel OSS 支持、shadcn/ui 作者本人转发，一条命令或一句 prompt 即可安装。  
   标签：2.3K Star / 116 个组件 / Vercel OSS / MCP 安装 / PH 热榜
+- [Astryx - Meta 内部打磨 8 年的开源设计系统](https://github.com/meta/astryx) — Meta 开源设计系统，在内部驱动 13,000+ 应用、是公司史上使用最广的设计系统；150+ 无障碍组件、品牌级主题与 CLI，专为「人与 AI Agent 协同构建」而设计。GitHub 2.9 万+ Star，2026-11 登顶 GitHub 周榜涨星第一（单周 +13,501★），MIT 开源。  
+  标签：2.9万 Star / 周涨星榜首 / Meta 开源 / Agent Ready / 150+ 组件
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1432,6 +1442,10 @@
   标签：吉他音色 / $25K/月 / 10万+用户 / vibe coding
 - [Neural Frames - AI 音乐视频生成](https://neuralframes.com/) — AI 音乐视频生成器，输入音轨即时生成律动匹配的视觉动画；第三方验证 MRR 约 $100K/月、累计 2M+ 视频、100K+ 艺术家使用，是 vibe coding 做音乐视觉的高人气工具。  
   标签：~$100K/月 / 2M+ 视频 / AI 音乐视频 / 100K+ 艺术家
+- [Hypit - 用 AI Agent 一键复刻任意爆款视频](https://github.com/hypit-ai/hypit) — 「Clone any viral video with AI agents」——不只是写脚本，而是克隆整条工作流：换镜头、换素材、换配音，一条龙复刻爆款视频。GitHub 3 万+ Star，是 2026-11 增长最快的 AI 视频创作工具之一，让普通人也能批量产出病毒式短视频。  
+  标签：3万 Star / 视频复刻 / AI Agent / 爆款制造机 / 开源
+- [OpenFilm - 让任意编码 Agent 变成视频剪辑师的开源框架](https://github.com/openfilm/openfilm) — 「The open source AI video agent」：把任意 coding agent 变成能剪视频的 AI 视频智能体，用自然语言驱动完整的视频创作流程。GitHub 近 8,000★、2026-11 稳居 GitHub Trending 榜单，是开源 AI 视频 Agent 方向的代表作。  
+  标签：近8千 Star / AI 视频 Agent / 开源 / Trending 榜单 / 自然语言剪辑
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 

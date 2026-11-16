@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T17:32:31.001Z",
+  "updatedAt": "2026-11-16T21:15:13.867Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -11874,6 +11874,125 @@
       "icon": "megaphone",
       "bg": "linear-gradient(135deg, #0C3483 0%, #A2B6DF 100%)",
       "tool": "AI SEO Agent",
+      "hot": 0
+    },
+    {
+      "name": "Astryx - Meta 内部打磨 8 年的开源设计系统",
+      "desc": "Meta 开源设计系统，在内部驱动 13,000+ 应用、是公司史上使用最广的设计系统；150+ 无障碍组件、品牌级主题与 CLI，专为「人与 AI Agent 协同构建」而设计。GitHub 2.9 万+ Star，2026-11 登顶 GitHub 周榜涨星第一（单周 +13,501★），MIT 开源。",
+      "url": "https://github.com/meta/astryx",
+      "category": "设计创意",
+      "tags": [
+        "2.9万 Star",
+        "周涨星榜首",
+        "Meta 开源",
+        "Agent Ready",
+        "150+ 组件"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #1B1F3B 0%, #6D5DFC 100%)",
+      "tool": "Meta / React 19 + StyleX",
+      "hot": 0
+    },
+    {
+      "name": "craft-anything - 看懂并改造任意软件的 AI 工作台",
+      "desc": "知名逆向工程 Agent「rea」原班团队 storytold 的新作：让 AI 真正读懂任意软件「怎么运作」，再亲手把它改造、重写成你自己的版本。GitHub 3.4 万+ Star，2026-11 单周暴涨约 11,000★、冲上 GitHub Trending 周榜前列，Rust 编写、话题度极高。",
+      "url": "https://github.com/storytold/craft-anything",
+      "category": "AI 工具",
+      "tags": [
+        "3.4万 Star",
+        "周涨 1.1 万",
+        "逆向工程",
+        "rea 团队新作",
+        "开源"
+      ],
+      "icon": "hammer",
+      "bg": "linear-gradient(135deg, #123C4D 0%, #2E8B8B 100%)",
+      "tool": "storytold / Rust",
+      "hot": 0
+    },
+    {
+      "name": "Hypit - 用 AI Agent 一键复刻任意爆款视频",
+      "desc": "「Clone any viral video with AI agents」——不只是写脚本，而是克隆整条工作流：换镜头、换素材、换配音，一条龙复刻爆款视频。GitHub 3 万+ Star，是 2026-11 增长最快的 AI 视频创作工具之一，让普通人也能批量产出病毒式短视频。",
+      "url": "https://github.com/hypit-ai/hypit",
+      "category": "音乐音频",
+      "tags": [
+        "3万 Star",
+        "视频复刻",
+        "AI Agent",
+        "爆款制造机",
+        "开源"
+      ],
+      "icon": "film",
+      "bg": "linear-gradient(135deg, #8E0E00 0%, #E8A300 100%)",
+      "tool": "hypit / TypeScript",
+      "hot": 0
+    },
+    {
+      "name": "Auto Ontology - NVIDIA 开源的企业数据语义图谱",
+      "desc": "NVIDIA 官方开源 Python 框架：在企业数据之上自动构建带语义的知识图谱层（元数据、定义、血缘），通过 MCP / CLI / API 暴露给 LLM Agent，把自然语言问题转成「有出处、可验证」的 SQL 答案。GitHub 1.3 万+ Star，2026-11 单日涨约 2,100★的 LLM 热门新秀。",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "category": "效率工具",
+      "tags": [
+        "1.3万 Star",
+        "NVIDIA 官方",
+        "知识图谱",
+        "Text-to-SQL",
+        "开源"
+      ],
+      "icon": "network",
+      "bg": "linear-gradient(135deg, #76B900 0%, #1A4D2E 100%)",
+      "tool": "NVIDIA / Python + MCP",
+      "hot": 0
+    },
+    {
+      "name": "ARTEMIS - Google 开源的自然语言 Android 自动化 Agent",
+      "desc": "Google 官方出品的 Agent 框架：把自然语言指令转成可靠的 Android 设备自动化操作，让 AI 真的「动手」完成手机上的真实任务。GitHub 1.75 万+ Star，2026-11 GitHub Trending 周榜新晋热门（单周 +5,500★），是移动端 GUI Agent 的标杆开源项目。",
+      "url": "https://github.com/google/artemis",
+      "category": "Agent",
+      "tags": [
+        "1.75万 Star",
+        "Google 开源",
+        "Android 自动化",
+        "GUI Agent",
+        "周榜热门"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #1A73E8 0%, #A142F4 100%)",
+      "tool": "Google / Android Agent",
+      "hot": 0
+    },
+    {
+      "name": "Plannotator - 让人始终掌控 Agent 的协作评审工作台",
+      "desc": "「Stay in the loop」的 Agent 工作台：把规划、决策、标注、代码评审和团队反馈收拢到一处，一条命令即可把所有人意见回传给 Agent。GitHub 1.2 万+ Star，2026-11 GitHub Trending 周榜新秀，精准命中「Agent 能写之后，团队更需要评审与验收」的刚需。",
+      "url": "https://github.com/backnotprop/plannotator",
+      "category": "效率工具",
+      "tags": [
+        "1.2万 Star",
+        "Agent 评审",
+        "人机协作",
+        "代码标注",
+        "Trending 新秀"
+      ],
+      "icon": "eye",
+      "bg": "linear-gradient(135deg, #2B1B54 0%, #7C4DFF 100%)",
+      "tool": "plannotator / TypeScript",
+      "hot": 0
+    },
+    {
+      "name": "OpenFilm - 让任意编码 Agent 变成视频剪辑师的开源框架",
+      "desc": "「The open source AI video agent」：把任意 coding agent 变成能剪视频的 AI 视频智能体，用自然语言驱动完整的视频创作流程。GitHub 近 8,000★、2026-11 稳居 GitHub Trending 榜单，是开源 AI 视频 Agent 方向的代表作。",
+      "url": "https://github.com/openfilm/openfilm",
+      "category": "音乐音频",
+      "tags": [
+        "近8千 Star",
+        "AI 视频 Agent",
+        "开源",
+        "Trending 榜单",
+        "自然语言剪辑"
+      ],
+      "icon": "video",
+      "bg": "linear-gradient(135deg, #0A1931 0%, #D63268 100%)",
+      "tool": "openfilm / 开源",
       "hot": 0
     }
   ],
