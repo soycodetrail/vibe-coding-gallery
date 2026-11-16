@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-16 16:36:37 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-16 17:32:31 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（753 个条目 / 15 个分类）
+## 📑 内容导航（760 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -353,6 +353,10 @@
   标签：PH #1 / 342 票 / AI 浏览器 / Companions
 - [Auday - Apple Watch 上的 AI 录音与灵感捕捉](https://auday.ai/) — 中科大 BaiFu 独立开发的 Apple Watch AI 录音应用，一键录音、本地 AI 实时转写与摘要，9.99 美元买断。国庆 7 天售出 30 万美元、24 小时阅读量破百万，登顶多国 App Store 付费榜第一，是「一个人 + vibe coding」引爆付费榜的现象级作品。  
   标签：App Store 付费榜第一 / 7 天 $300K / Apple Watch / AI 录音 / 独立开发
+- [T3 Code - 任意设备掌控编码 Agent 的开源控制平面](https://github.com/pingdotgg/t3code) — 本周 GitHub 增长榜首（单周 +14,125★）、累计 62,503★；Theo（t3.gg）出品，把 Claude Code / Codex / Cursor 等统一到一个高速界面，桌面、网页、手机三端同步，Git worktree 与 PR 一键完成，MIT 开源。  
+  标签：62.5K Star / 周增长榜首 / Agent 控制平面 / MIT 开源 / 多端同步
+- [ThinkRail - JetBrains 会自我进化的 Agentic IDE](https://github.com/JetBrains/thinkrail) — JetBrains 官方 incubator 项目、8,302★，入选 GitHub Trending Repository of the Day；围绕 pi coding agent 打造，用 spec graph + 可复用 skills 沉淀项目知识，工作区隔离、越用越懂你的代码库。  
+  标签：8.3K Star / JetBrains 官方 / Trending of the Day / Spec-Driven / Agentic IDE
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -552,6 +556,10 @@
   标签：Grok Bot / 虚拟机 / MIT 开源 / GitHub 15.6K★ / AI 机器人
 - [Claw Code - 完全由 AI Agent 自治维护的开源项目](https://github.com/ultraworkers/claw-code) — UltraWorkers 出品的 CLI 编码 Agent harness 的 Rust 实现，被称为「由 Agent 维护、零人工干预的博物馆展品」——是 vibe coding 的极致样本。GitHub 194.8K+ Star、1,876 commits，配 AGENTS.md / CLAUDE.md 让 Agent 自主规划、执行、验证与归档。  
   标签：194.8K+ Star / Rust / 开源 / AI 自治 / Agent harness
+- [dsh-superagent - DeepSeek 主动式编程 Agent 研究原型](https://github.com/deepseek-ai/dsh-superagent-prototype) — DeepSeek 官方出品、23,473★（单周 +1,986★）；监听 GitHub / 飞书请求，自主开 work item、在独立会话中干活并直接回复一个 Pull Request，以「占用人类注意力尽可能少、交付价值尽可能多」为设计理念。  
+  标签：23.4K Star / DeepSeek 官方 / 主动式 Agent / 自动提 PR / MIT
+- [Elephant-Goldfish Model - Google 开源的设计与评审 Agent](https://github.com/google/elephant-goldfish-model) — Google 出品、20,237★（单周 +4,419★、增速榜第 2）；用带全新上下文的子 Agent 起草软件设计规格并交叉评审，把 Spec-Driven Development 做成可安装的 Claude Code / Codex / Gemini 插件，Apache 2.0 开源。  
+  标签：20.2K Star / Google 开源 / 设计评审 / 多 Agent / Apache 2.0
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -751,6 +759,8 @@
   标签：100K+ 跑步 / 500K+ 英里 / App Store 4.8 星 / 排位赛 / GPS
 - [PopTranslate - 图拉鼎的 Mac 划词翻译与改写神器](https://poptranslate.app/) — 图拉鼎（TuluDing）用 3-4 个月 vibe coding 打造的 macOS 划词翻译 / 改写工具，支持任意界面选中即译、语气改写与润色，是独立开发者借 AI 快速交付桌面生产力工具的标杆案例。  
   标签：macOS 划词翻译 / 图拉鼎 / AI 改写 / 独立开发 / 生产力
+- [billion-context - 让 100K 窗口跑数月长会话的上下文压缩代理](https://github.com/ranxianglei/billion-context) — 7,658★（单周 +2,185★、增速 +40%）；插在 Agent 与模型 API 之间做增量可逆压缩，官方数据 174,327 次调用 / 18.76B token 零窗口溢出、省约 5 倍 token，支持 Claude / Codex / Kimi / zcode 等 20+ 客户端。  
+  标签：7.6K Star / 上下文压缩 / 省 5 倍 Token / 长会话 / MIT
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1290,6 +1300,8 @@
   标签：App Store 第1 / 4.7 星 1K+ 评分 / 双画幅录制 / vibe coding / Claude
 - [Photon Studio - 免费本地优先的开源 Photoshop 替代品](https://tenzen.studio/photon) — 独立开发者用 GPT-6 Astra 以 vibe coding 方式打造的本地优先图像编辑器，定位免费开源的 Photoshop 替代，约 2000 美元 token 成本、已积累 20,000+ 用户，强调隐私优先、离线可用。  
   标签：20,000+ 用户 / 开源 / 本地优先 / Photoshop 替代 / 隐私优先
+- [Kokonut UI - 给 AI 应用用的开源 React 组件库](https://kokonutui.com) — Product Hunt 2026-11-14 榜单热门（99 票）、2,359★；116 个开箱即用的 AI 组件（AI 输入框 / 结账 / 订单追踪等），Vercel OSS 支持、shadcn/ui 作者本人转发，一条命令或一句 prompt 即可安装。  
+  标签：2.3K Star / 116 个组件 / Vercel OSS / MCP 安装 / PH 热榜
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1369,6 +1381,8 @@
   标签：MRR $1.6K / 40K+ 页 / 1,400+ 创作者 / KDP 出书 / Stripe 验证
 - [Okara - 24 小时在线的 AI CMO 智能体](https://okara.ai/) — 前 Metaschool 创始人打造的 AI CMO（首席营销官）智能体，可自主完成品牌定位、内容营销与增长策略，已服务 10 万+ 中小商家，把原本高昂的营销团队能力封装成一个对话框。  
   标签：10 万+ 商家 / AI CMO / 营销自动化 / 增长智能体 / 电商
+- [Rankfender - 面向人与 AI Agent 的 SEO / GEO 操作系统](https://rankfender.com) — Product Hunt 2026-11-06 当日榜 #1（PH 13 周年当天）；把 Google 与 ChatGPT / Claude / Gemini 等 8 个 AI 助手的品牌可见度审计、文章写作、WordPress 一键发布整合为一，起价 $89/月，G2 与 Product Hunt 均有真实好评。  
+  标签：PH 当日榜 #1 / GEO 操作系统 / 8 大 AI 助手 / $89/月起 / AI 写作发布
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 

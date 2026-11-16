@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T16:36:37.583Z",
+  "updatedAt": "2026-11-16T17:32:31.001Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -11755,6 +11755,125 @@
       "icon": "languages",
       "bg": "linear-gradient(135deg, #11998E 0%, #38EF7D 100%)",
       "tool": "Vibe Coding (macOS)",
+      "hot": 0
+    },
+    {
+      "name": "T3 Code - 任意设备掌控编码 Agent 的开源控制平面",
+      "desc": "本周 GitHub 增长榜首（单周 +14,125★）、累计 62,503★；Theo（t3.gg）出品，把 Claude Code / Codex / Cursor 等统一到一个高速界面，桌面、网页、手机三端同步，Git worktree 与 PR 一键完成，MIT 开源。",
+      "url": "https://github.com/pingdotgg/t3code",
+      "category": "AI 工具",
+      "tags": [
+        "62.5K Star",
+        "周增长榜首",
+        "Agent 控制平面",
+        "MIT 开源",
+        "多端同步"
+      ],
+      "icon": "network",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%)",
+      "tool": "Theo / t3.gg 开源",
+      "hot": 0
+    },
+    {
+      "name": "dsh-superagent - DeepSeek 主动式编程 Agent 研究原型",
+      "desc": "DeepSeek 官方出品、23,473★（单周 +1,986★）；监听 GitHub / 飞书请求，自主开 work item、在独立会话中干活并直接回复一个 Pull Request，以「占用人类注意力尽可能少、交付价值尽可能多」为设计理念。",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "category": "Agent",
+      "tags": [
+        "23.4K Star",
+        "DeepSeek 官方",
+        "主动式 Agent",
+        "自动提 PR",
+        "MIT"
+      ],
+      "icon": "git-merge",
+      "bg": "linear-gradient(135deg, #083344 0%, #0E7490 100%)",
+      "tool": "DeepSeek Harness",
+      "hot": 0
+    },
+    {
+      "name": "Elephant-Goldfish Model - Google 开源的设计与评审 Agent",
+      "desc": "Google 出品、20,237★（单周 +4,419★、增速榜第 2）；用带全新上下文的子 Agent 起草软件设计规格并交叉评审，把 Spec-Driven Development 做成可安装的 Claude Code / Codex / Gemini 插件，Apache 2.0 开源。",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "category": "Agent",
+      "tags": [
+        "20.2K Star",
+        "Google 开源",
+        "设计评审",
+        "多 Agent",
+        "Apache 2.0"
+      ],
+      "icon": "brain",
+      "bg": "linear-gradient(135deg, #2C3E50 0%, #3498DB 100%)",
+      "tool": "Google / Claude Code 插件",
+      "hot": 0
+    },
+    {
+      "name": "ThinkRail - JetBrains 会自我进化的 Agentic IDE",
+      "desc": "JetBrains 官方 incubator 项目、8,302★，入选 GitHub Trending Repository of the Day；围绕 pi coding agent 打造，用 spec graph + 可复用 skills 沉淀项目知识，工作区隔离、越用越懂你的代码库。",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "category": "AI 工具",
+      "tags": [
+        "8.3K Star",
+        "JetBrains 官方",
+        "Trending of the Day",
+        "Spec-Driven",
+        "Agentic IDE"
+      ],
+      "icon": "cpu",
+      "bg": "linear-gradient(135deg, #005AA7 0%, #FFFDE4 100%)",
+      "tool": "JetBrains (pi agent)",
+      "hot": 0
+    },
+    {
+      "name": "billion-context - 让 100K 窗口跑数月长会话的上下文压缩代理",
+      "desc": "7,658★（单周 +2,185★、增速 +40%）；插在 Agent 与模型 API 之间做增量可逆压缩，官方数据 174,327 次调用 / 18.76B token 零窗口溢出、省约 5 倍 token，支持 Claude / Codex / Kimi / zcode 等 20+ 客户端。",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "category": "效率工具",
+      "tags": [
+        "7.6K Star",
+        "上下文压缩",
+        "省 5 倍 Token",
+        "长会话",
+        "MIT"
+      ],
+      "icon": "layers",
+      "bg": "linear-gradient(135deg, #1D2B64 0%, #F8CDDA 100%)",
+      "tool": "ACP Kernel / 社区开源",
+      "hot": 0
+    },
+    {
+      "name": "Kokonut UI - 给 AI 应用用的开源 React 组件库",
+      "desc": "Product Hunt 2026-11-14 榜单热门（99 票）、2,359★；116 个开箱即用的 AI 组件（AI 输入框 / 结账 / 订单追踪等），Vercel OSS 支持、shadcn/ui 作者本人转发，一条命令或一句 prompt 即可安装。",
+      "url": "https://kokonutui.com",
+      "category": "设计创意",
+      "tags": [
+        "2.3K Star",
+        "116 个组件",
+        "Vercel OSS",
+        "MCP 安装",
+        "PH 热榜"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #4B1248 0%, #F0C27B 100%)",
+      "tool": "shadcn/ui + Motion",
+      "hot": 0
+    },
+    {
+      "name": "Rankfender - 面向人与 AI Agent 的 SEO / GEO 操作系统",
+      "desc": "Product Hunt 2026-11-06 当日榜 #1（PH 13 周年当天）；把 Google 与 ChatGPT / Claude / Gemini 等 8 个 AI 助手的品牌可见度审计、文章写作、WordPress 一键发布整合为一，起价 $89/月，G2 与 Product Hunt 均有真实好评。",
+      "url": "https://rankfender.com",
+      "category": "电商营销",
+      "tags": [
+        "PH 当日榜 #1",
+        "GEO 操作系统",
+        "8 大 AI 助手",
+        "$89/月起",
+        "AI 写作发布"
+      ],
+      "icon": "megaphone",
+      "bg": "linear-gradient(135deg, #0C3483 0%, #A2B6DF 100%)",
+      "tool": "AI SEO Agent",
       "hot": 0
     }
   ],
