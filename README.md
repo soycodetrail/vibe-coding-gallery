@@ -4,13 +4,15 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-14 23:54:51 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-16 16:36:37 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
+- [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（758 个条目 / 15 个分类）
+## 📑 内容导航（753 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -351,8 +353,6 @@
   标签：PH #1 / 342 票 / AI 浏览器 / Companions
 - [Auday - Apple Watch 上的 AI 录音与灵感捕捉](https://auday.ai/) — 中科大 BaiFu 独立开发的 Apple Watch AI 录音应用，一键录音、本地 AI 实时转写与摘要，9.99 美元买断。国庆 7 天售出 30 万美元、24 小时阅读量破百万，登顶多国 App Store 付费榜第一，是「一个人 + vibe coding」引爆付费榜的现象级作品。  
   标签：App Store 付费榜第一 / 7 天 $300K / Apple Watch / AI 录音 / 独立开发
-- [合乎周礼 - 把大白话写成「周礼体」的 AI 嘴替](https://hehuzhouli.com/) — B 站 UP 主 NFS360 用 vibe coding 做的梗文案生成器：输入大白话，选「温言相劝 / 大儒辩经 / 强行圆场 / 痛心疾首」等辞气，一键生成引经据典的「大周礼」发言，还能把周礼体翻回人话。原视频播放 148 万、网页试玩 14.7 万，已开源。  
-  标签：148 万播放 / 14.7 万试玩 / 开源 / 梗文案 / 周礼体
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -552,8 +552,6 @@
   标签：Grok Bot / 虚拟机 / MIT 开源 / GitHub 15.6K★ / AI 机器人
 - [Claw Code - 完全由 AI Agent 自治维护的开源项目](https://github.com/ultraworkers/claw-code) — UltraWorkers 出品的 CLI 编码 Agent harness 的 Rust 实现，被称为「由 Agent 维护、零人工干预的博物馆展品」——是 vibe coding 的极致样本。GitHub 194.8K+ Star、1,876 commits，配 AGENTS.md / CLAUDE.md 让 Agent 自主规划、执行、验证与归档。  
   标签：194.8K+ Star / Rust / 开源 / AI 自治 / Agent harness
-- [Glasshand - 给 AI Agent 租一台真 iPhone / Mac](https://glasshand.com/) — 把 Agent（Claude Code / Codex / Cursor 等）接到机房里的真实 iPhone 与 Mac：发 TikTok、跑 iOS 真机测试、收短信验证码都能做。2026-11-05 登 Product Hunt 当日榜前列（377+ 票、79 条评论），iPhone $60 / Mac $90 每月，独占设备、退租擦除。  
-  标签：PH 377 票 / 真机租用 / Claude Code / iOS 测试 / Agent 外设
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -928,8 +926,6 @@
   标签：5700万浏览 / 堀井雄二转发 / 2万+在线 / 人生模拟
 - [Claude-Code-Game-Studios - 把 Claude Code 变成游戏工作室](https://github.com/Donchitos/Claude-Code-Game-Studios) — Donchitos 开源（MIT）的游戏开发模板：49 个专职 agent + 72 个工作流技能，完整复刻真实游戏工作室的三层指挥链（总监/部门主管/一线专家），支持 Godot/Unity/Unreal。GitHub 37K+ Star。  
   标签：游戏开发 / 多智能体 / MIT 开源 / GitHub 37K★ / Godot/Unity
-- [Wanaka Studio - 首个 AI 原生 3D 游戏引擎](https://wanaka.studio/) — 一句话生成 AAA 级 3D 游戏：AI agent 在真引擎里完成建模、绑定、动画、音效与玩法，可视化编辑器同步修改，内置多人联机与一键发布，比 Claude Opus 5.5 + Unity 省 80% Token。2026-11-04 登 Product Hunt 当日榜 #1（453+ 票、104 条评论）。  
-  标签：PH #1 / 453 票 / 3D 游戏引擎 / 一键发布 / No-Code
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -1422,8 +1418,6 @@
   标签：吉他音色 / $25K/月 / 10万+用户 / vibe coding
 - [Neural Frames - AI 音乐视频生成](https://neuralframes.com/) — AI 音乐视频生成器，输入音轨即时生成律动匹配的视觉动画；第三方验证 MRR 约 $100K/月、累计 2M+ 视频、100K+ 艺术家使用，是 vibe coding 做音乐视觉的高人气工具。  
   标签：~$100K/月 / 2M+ 视频 / AI 音乐视频 / 100K+ 艺术家
-- [Soundverse - 310 万用户的 AI 音乐创作平台](https://soundverse.ai/) — 对话式 AI 音乐引擎 SAAR：一句话生成带人声与歌词的完整歌曲，支持 12+ 语言与「音乐 DNA」风格克隆。注册用户超 310 万；平台上 UG Beats 创作的《Chai Ki Tapri》被印度综艺翻唱后全网播放 / 观看破 5 亿、入驻超 100 万条 Instagram Reels，并获 Shark Tank India 投资。  
-  标签：310 万用户 / 5 亿播放 / Shark Tank / AI 音乐 / 12+ 语言
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 
@@ -1546,8 +1540,6 @@
   标签：100 万下载 / 4.7 星 / 反算法 / 隐私优先
 - [Gizmo - AI 互动小程序平台](https://gizmo.party/) — Atma Sciences 出品的 AI 互动小程序平台，用一句提示词即时生成可玩的互动小游戏、谜题与梗图，TikTok 式信息流 + 全球免费；2026 年 installs 突破 60 万、10-12 月增长 312%。  
   标签：AI 小程序 / 互动游戏 / TikTok 式 / 零代码 / 60万+ 安装
-- [Aippy - 用一句话做出的 AI 游戏版 TikTok](https://aippy.ai/) — AI 原生游戏社交平台：一句话生成可玩小游戏，社区刷着玩、Remix 再创作。上线一年全球下载破 300 万、月活近 200 万、用户自制游戏超 200 万个；2026 年 6 月完成数千万美元首轮融资，投后估值 2.5 亿美元（Glowill Capital 领投）。  
-  标签：300 万下载 / 200 万月活 / $2.5 亿估值 / UGC 游戏 / AI 原生
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 

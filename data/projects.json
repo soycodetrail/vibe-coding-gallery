@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T23:54:51.243Z",
+  "updatedAt": "2026-11-16T16:36:37.583Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -11755,91 +11755,6 @@
       "icon": "languages",
       "bg": "linear-gradient(135deg, #11998E 0%, #38EF7D 100%)",
       "tool": "Vibe Coding (macOS)",
-      "hot": 0
-    },
-    {
-      "name": "Aippy - 用一句话做出的 AI 游戏版 TikTok",
-      "desc": "AI 原生游戏社交平台：一句话生成可玩小游戏，社区刷着玩、Remix 再创作。上线一年全球下载破 300 万、月活近 200 万、用户自制游戏超 200 万个；2026 年 6 月完成数千万美元首轮融资，投后估值 2.5 亿美元（Glowill Capital 领投）。",
-      "url": "https://aippy.ai/",
-      "category": "社交社区",
-      "tags": [
-        "300 万下载",
-        "200 万月活",
-        "$2.5 亿估值",
-        "UGC 游戏",
-        "AI 原生"
-      ],
-      "icon": "gamepad-2",
-      "bg": "linear-gradient(135deg, #7C3AED 0%, #EC4899 100%)",
-      "tool": "Aippy / NADA AI",
-      "hot": 0
-    },
-    {
-      "name": "合乎周礼 - 把大白话写成「周礼体」的 AI 嘴替",
-      "desc": "B 站 UP 主 NFS360 用 vibe coding 做的梗文案生成器：输入大白话，选「温言相劝 / 大儒辩经 / 强行圆场 / 痛心疾首」等辞气，一键生成引经据典的「大周礼」发言，还能把周礼体翻回人话。原视频播放 148 万、网页试玩 14.7 万，已开源。",
-      "url": "https://hehuzhouli.com/",
-      "category": "AI 工具",
-      "tags": [
-        "148 万播放",
-        "14.7 万试玩",
-        "开源",
-        "梗文案",
-        "周礼体"
-      ],
-      "icon": "book-open",
-      "bg": "linear-gradient(135deg, #B91C1C 0%, #F59E0B 100%)",
-      "tool": "DeepSeek / Next.js",
-      "hot": 0
-    },
-    {
-      "name": "Wanaka Studio - 首个 AI 原生 3D 游戏引擎",
-      "desc": "一句话生成 AAA 级 3D 游戏：AI agent 在真引擎里完成建模、绑定、动画、音效与玩法，可视化编辑器同步修改，内置多人联机与一键发布，比 Claude Opus 5.5 + Unity 省 80% Token。2026-11-04 登 Product Hunt 当日榜 #1（453+ 票、104 条评论）。",
-      "url": "https://wanaka.studio/",
-      "category": "游戏",
-      "tags": [
-        "PH #1",
-        "453 票",
-        "3D 游戏引擎",
-        "一键发布",
-        "No-Code"
-      ],
-      "icon": "boxes",
-      "bg": "linear-gradient(135deg, #0EA5E9 0%, #6366F1 100%)",
-      "tool": "Wanaka Studio（AI 游戏引擎）",
-      "hot": 0
-    },
-    {
-      "name": "Soundverse - 310 万用户的 AI 音乐创作平台",
-      "desc": "对话式 AI 音乐引擎 SAAR：一句话生成带人声与歌词的完整歌曲，支持 12+ 语言与「音乐 DNA」风格克隆。注册用户超 310 万；平台上 UG Beats 创作的《Chai Ki Tapri》被印度综艺翻唱后全网播放 / 观看破 5 亿、入驻超 100 万条 Instagram Reels，并获 Shark Tank India 投资。",
-      "url": "https://soundverse.ai/",
-      "category": "音乐音频",
-      "tags": [
-        "310 万用户",
-        "5 亿播放",
-        "Shark Tank",
-        "AI 音乐",
-        "12+ 语言"
-      ],
-      "icon": "music",
-      "bg": "linear-gradient(135deg, #F43F5E 0%, #8B5CF6 100%)",
-      "tool": "Soundverse / SAAR",
-      "hot": 0
-    },
-    {
-      "name": "Glasshand - 给 AI Agent 租一台真 iPhone / Mac",
-      "desc": "把 Agent（Claude Code / Codex / Cursor 等）接到机房里的真实 iPhone 与 Mac：发 TikTok、跑 iOS 真机测试、收短信验证码都能做。2026-11-05 登 Product Hunt 当日榜前列（377+ 票、79 条评论），iPhone $60 / Mac $90 每月，独占设备、退租擦除。",
-      "url": "https://glasshand.com/",
-      "category": "Agent",
-      "tags": [
-        "PH 377 票",
-        "真机租用",
-        "Claude Code",
-        "iOS 测试",
-        "Agent 外设"
-      ],
-      "icon": "smartphone",
-      "bg": "linear-gradient(135deg, #059669 0%, #0EA5E9 100%)",
-      "tool": "Glasshand API",
       "hot": 0
     }
   ],
