@@ -4,13 +4,15 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-16 21:15:13 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-17 22:16:45 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
+- [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（767 个条目 / 15 个分类）
+## 📑 内容导航（775 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -357,6 +359,10 @@
   标签：8.3K Star / JetBrains 官方 / Trending of the Day / Spec-Driven / Agentic IDE
 - [craft-anything - 看懂并改造任意软件的 AI 工作台](https://github.com/storytold/craft-anything) — 知名逆向工程 Agent「rea」原班团队 storytold 的新作：让 AI 真正读懂任意软件「怎么运作」，再亲手把它改造、重写成你自己的版本。GitHub 3.4 万+ Star，2026-11 单周暴涨约 11,000★、冲上 GitHub Trending 周榜前列，Rust 编写、话题度极高。  
   标签：3.4万 Star / 周涨 1.1 万 / 逆向工程 / rea 团队新作 / 开源
+- [Scrapling - 能绕过反爬的开源网页抓取框架](https://github.com/D4Vinci/Scrapling) — 「The BEST Web Scraping framework」：从单次请求到整站爬取通吃，内置 Cloudflare 绕过、指纹伪装与自适应选择器，是 AI Agent 抓取真实网页数据的硬核基础设施。GitHub 10.4 万+ Star（API 实测 103,925★），2026-11 稳居 GitHub Trending，人气远超同类抓取库。  
+  标签：10.4万 Star / 网页抓取 / 反爬绕过 / AI 数据 / GitHub Trending
+- [Claude BugHunter - 让 Claude Code 变身漏洞猎手](https://github.com/elementalsouls/Claude-BugHunter) — 面向 Claude Code 的 bug 猎杀与外部红队技能包：82 个技能、15 条 slash 命令，沉淀 24 类核心漏洞的 681 个已披露报告模式，外加企业身份与基础设施攻击矩阵，把 AI 编码助手变成专业安全审计员。GitHub 近 9,000★（API 实测 8,996★），2026-11 GitHub Trending 安全类新秀。  
+  标签：近9千 Star / 安全审计 / 漏洞猎杀 / Claude Code / Trending 新秀
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -562,6 +568,8 @@
   标签：20.2K Star / Google 开源 / 设计评审 / 多 Agent / Apache 2.0
 - [ARTEMIS - Google 开源的自然语言 Android 自动化 Agent](https://github.com/google/artemis) — Google 官方出品的 Agent 框架：把自然语言指令转成可靠的 Android 设备自动化操作，让 AI 真的「动手」完成手机上的真实任务。GitHub 1.75 万+ Star，2026-11 GitHub Trending 周榜新晋热门（单周 +5,500★），是移动端 GUI Agent 的标杆开源项目。  
   标签：1.75万 Star / Google 开源 / Android 自动化 / GUI Agent / 周榜热门
+- [Worktrunk - 为并行 AI Agent 而生的 Git Worktree CLI](https://github.com/max-sixty/worktrunk) — 专为「多 AI Agent 并行干活」设计的 Git worktree 管理命令行工具：一条命令创建/切换/合并隔离分支，让 Claude Code、Codex 等各自在独立 worktree 里并行开发不再互相踩踏。GitHub 1.2 万+ Star（API 实测 12,595★），2026-11 GitHub Trending 周榜热门。  
+  标签：1.2万 Star / Git Worktree / 并行 Agent / CLI / Trending
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -767,6 +775,8 @@
   标签：1.3万 Star / NVIDIA 官方 / 知识图谱 / Text-to-SQL / 开源
 - [Plannotator - 让人始终掌控 Agent 的协作评审工作台](https://github.com/backnotprop/plannotator) — 「Stay in the loop」的 Agent 工作台：把规划、决策、标注、代码评审和团队反馈收拢到一处，一条命令即可把所有人意见回传给 Agent。GitHub 1.2 万+ Star，2026-11 GitHub Trending 周榜新秀，精准命中「Agent 能写之后，团队更需要评审与验收」的刚需。  
   标签：1.2万 Star / Agent 评审 / 人机协作 / 代码标注 / Trending 新秀
+- [Open Code Review - 阿里开源的生产级 AI 代码审查](https://github.com/alibaba/open-code-review) — 阿里开源、经淘宝规模实战检验的代码审查工具：确定性流水线 + LLM Agent 混合架构，给出精准到行级的评论，内置 NPE、线程安全、XSS、SQL 注入等多语言规则集，兼容 OpenAI 与 Anthropic 模型。GitHub 5.3 万+ Star（API 实测 53,649★），2026-11 GitHub Trending 热门。  
+  标签：5.3万 Star / 阿里开源 / 代码审查 / 行级评论 / Trending 热门
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -942,6 +952,8 @@
   标签：5700万浏览 / 堀井雄二转发 / 2万+在线 / 人生模拟
 - [Claude-Code-Game-Studios - 把 Claude Code 变成游戏工作室](https://github.com/Donchitos/Claude-Code-Game-Studios) — Donchitos 开源（MIT）的游戏开发模板：49 个专职 agent + 72 个工作流技能，完整复刻真实游戏工作室的三层指挥链（总监/部门主管/一线专家），支持 Godot/Unity/Unreal。GitHub 37K+ Star。  
   标签：游戏开发 / 多智能体 / MIT 开源 / GitHub 37K★ / Godot/Unity
+- [Slotbound 转运军团 - 48 小时狂赚 35.6 万美元的 AI 肉鸽塔防](https://store.steampowered.com/app/4459590/) — 零编程经验的独立开发者 OptimaArch 用 100% AI 生成的 6 个月做出这款「老虎机 + 自走战斗 + 塔防」肉鸽游戏：转动 3×3 老虎机召唤单位、用道具操控概率。2026-11 上线 Steam 后头 48 小时收入突破 35.6 万美元、销量 5 万份、同时在线峰值 9,377 人（新浪财经报道），被称作 vibe coding 做游戏的最佳成绩。  
+  标签：48h $35.6万 / 5万份销量 / AI 生成代码 / 肉鸽塔防 / Steam
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -1163,6 +1175,8 @@
   标签：App Store 4.9 / AI 菜谱 / 中学生开发 / 拍照生成 / 厨房助手
 - [AccelaStudy AI - 自适应学习平台（单人 + Claude 81 天造出）](https://accelastudy.ai/) — 创始人与 Claude 协作 81 天、生成 127 万行代码、申请 29 项专利打造的自适应学习平台，按学生节奏动态调整内容与难度，订阅制 $39/月，是「人 + AI 结对编程」规模化产出的范本。  
   标签：127 万行代码 / 29 项专利 / $39/月 / 自适应学习 / AI 教育
+- [Paper Orchestra - 谷歌多智能体自动写论文框架](https://github.com/google-research/paper-orchestra) — Google Research 开源的多智能体框架，把 AI 研究论文的写作流程拆给多个 Agent 分工协作自动完成。GitHub 2,800+ Star（API 实测 2,831★），2026-11 GitHub Trending 科研工具新秀，是「多 Agent 协作搞定复杂知识工作」的示范项目。  
+  标签：2.8千 Star / 谷歌研究 / 多智能体 / 论文写作 / 开源
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1310,6 +1324,10 @@
   标签：2.3K Star / 116 个组件 / Vercel OSS / MCP 安装 / PH 热榜
 - [Astryx - Meta 内部打磨 8 年的开源设计系统](https://github.com/meta/astryx) — Meta 开源设计系统，在内部驱动 13,000+ 应用、是公司史上使用最广的设计系统；150+ 无障碍组件、品牌级主题与 CLI，专为「人与 AI Agent 协同构建」而设计。GitHub 2.9 万+ Star，2026-11 登顶 GitHub 周榜涨星第一（单周 +13,501★），MIT 开源。  
   标签：2.9万 Star / 周涨星榜首 / Meta 开源 / Agent Ready / 150+ 组件
+- [React Bits - 最大的开源 React 动画交互组件库](https://github.com/DavidHDev/react-bits) — 「The largest open-source library of animated, interactive components」：数百个可直接复制粘贴的动画组件与效果，通过 shadcn CLI 安装，专治 AI 生成应用「能跑但不好看」的痛点，是让 vibe coding 产品界面更精致的首选设计资源。GitHub 5.2 万+ Star（API 实测 52,194★），2026-11 GitHub 涨星榜常客。  
+  标签：5.2万 Star / 动画组件 / shadcn CLI / UI 设计 / 开源
+- [Stitch Skills - 谷歌官方的 Agent 技能库](https://github.com/google-labs-code/stitch-skills) — Google Labs 官方出品、配合 Stitch MCP 使用的 Agent Skills 库：遵循 Agent Skills 开放标准，兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等主流编码 Agent，一句话把设计稿变成可运行界面。GitHub 1 万+ Star（API 实测 10,045★），谷歌官方设计 Agent 生态的代表作。  
+  标签：1万 Star / 谷歌官方 / Agent Skills / 设计到代码 / MCP
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 

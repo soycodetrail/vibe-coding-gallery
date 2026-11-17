@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T21:15:13.867Z",
+  "updatedAt": "2026-11-17T22:16:45.571Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -11993,6 +11993,142 @@
       "icon": "video",
       "bg": "linear-gradient(135deg, #0A1931 0%, #D63268 100%)",
       "tool": "openfilm / 开源",
+      "hot": 0
+    },
+    {
+      "name": "Scrapling - 能绕过反爬的开源网页抓取框架",
+      "desc": "「The BEST Web Scraping framework」：从单次请求到整站爬取通吃，内置 Cloudflare 绕过、指纹伪装与自适应选择器，是 AI Agent 抓取真实网页数据的硬核基础设施。GitHub 10.4 万+ Star（API 实测 103,925★），2026-11 稳居 GitHub Trending，人气远超同类抓取库。",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "category": "AI 工具",
+      "tags": [
+        "10.4万 Star",
+        "网页抓取",
+        "反爬绕过",
+        "AI 数据",
+        "GitHub Trending"
+      ],
+      "icon": "bug",
+      "bg": "linear-gradient(135deg, #081C15 0%, #52C41A 100%)",
+      "tool": "Scrapling / Python",
+      "hot": 0
+    },
+    {
+      "name": "Open Code Review - 阿里开源的生产级 AI 代码审查",
+      "desc": "阿里开源、经淘宝规模实战检验的代码审查工具：确定性流水线 + LLM Agent 混合架构，给出精准到行级的评论，内置 NPE、线程安全、XSS、SQL 注入等多语言规则集，兼容 OpenAI 与 Anthropic 模型。GitHub 5.3 万+ Star（API 实测 53,649★），2026-11 GitHub Trending 热门。",
+      "url": "https://github.com/alibaba/open-code-review",
+      "category": "效率工具",
+      "tags": [
+        "5.3万 Star",
+        "阿里开源",
+        "代码审查",
+        "行级评论",
+        "Trending 热门"
+      ],
+      "icon": "shield-check",
+      "bg": "linear-gradient(135deg, #1A0B2E 0%, #7B2FF7 100%)",
+      "tool": "open-code-review / Go + LLM",
+      "hot": 0
+    },
+    {
+      "name": "React Bits - 最大的开源 React 动画交互组件库",
+      "desc": "「The largest open-source library of animated, interactive components」：数百个可直接复制粘贴的动画组件与效果，通过 shadcn CLI 安装，专治 AI 生成应用「能跑但不好看」的痛点，是让 vibe coding 产品界面更精致的首选设计资源。GitHub 5.2 万+ Star（API 实测 52,194★），2026-11 GitHub 涨星榜常客。",
+      "url": "https://github.com/DavidHDev/react-bits",
+      "category": "设计创意",
+      "tags": [
+        "5.2万 Star",
+        "动画组件",
+        "shadcn CLI",
+        "UI 设计",
+        "开源"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #20124D 0%, #4CC9F0 100%)",
+      "tool": "React Bits / React + TypeScript",
+      "hot": 0
+    },
+    {
+      "name": "Worktrunk - 为并行 AI Agent 而生的 Git Worktree CLI",
+      "desc": "专为「多 AI Agent 并行干活」设计的 Git worktree 管理命令行工具：一条命令创建/切换/合并隔离分支，让 Claude Code、Codex 等各自在独立 worktree 里并行开发不再互相踩踏。GitHub 1.2 万+ Star（API 实测 12,595★），2026-11 GitHub Trending 周榜热门。",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "category": "Agent",
+      "tags": [
+        "1.2万 Star",
+        "Git Worktree",
+        "并行 Agent",
+        "CLI",
+        "Trending"
+      ],
+      "icon": "git-branch",
+      "bg": "linear-gradient(135deg, #0D2B1F 0%, #27AE60 100%)",
+      "tool": "worktrunk / Rust CLI",
+      "hot": 0
+    },
+    {
+      "name": "Claude BugHunter - 让 Claude Code 变身漏洞猎手",
+      "desc": "面向 Claude Code 的 bug 猎杀与外部红队技能包：82 个技能、15 条 slash 命令，沉淀 24 类核心漏洞的 681 个已披露报告模式，外加企业身份与基础设施攻击矩阵，把 AI 编码助手变成专业安全审计员。GitHub 近 9,000★（API 实测 8,996★），2026-11 GitHub Trending 安全类新秀。",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "category": "AI 工具",
+      "tags": [
+        "近9千 Star",
+        "安全审计",
+        "漏洞猎杀",
+        "Claude Code",
+        "Trending 新秀"
+      ],
+      "icon": "shield",
+      "bg": "linear-gradient(135deg, #3D0C02 0%, #F4A261 100%)",
+      "tool": "Claude Code Skill",
+      "hot": 0
+    },
+    {
+      "name": "Stitch Skills - 谷歌官方的 Agent 技能库",
+      "desc": "Google Labs 官方出品、配合 Stitch MCP 使用的 Agent Skills 库：遵循 Agent Skills 开放标准，兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等主流编码 Agent，一句话把设计稿变成可运行界面。GitHub 1 万+ Star（API 实测 10,045★），谷歌官方设计 Agent 生态的代表作。",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "category": "设计创意",
+      "tags": [
+        "1万 Star",
+        "谷歌官方",
+        "Agent Skills",
+        "设计到代码",
+        "MCP"
+      ],
+      "icon": "wand",
+      "bg": "linear-gradient(135deg, #18032A 0%, #B5179A 100%)",
+      "tool": "Stitch MCP / Agent Skills",
+      "hot": 0
+    },
+    {
+      "name": "Paper Orchestra - 谷歌多智能体自动写论文框架",
+      "desc": "Google Research 开源的多智能体框架，把 AI 研究论文的写作流程拆给多个 Agent 分工协作自动完成。GitHub 2,800+ Star（API 实测 2,831★），2026-11 GitHub Trending 科研工具新秀，是「多 Agent 协作搞定复杂知识工作」的示范项目。",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "category": "教育学习",
+      "tags": [
+        "2.8千 Star",
+        "谷歌研究",
+        "多智能体",
+        "论文写作",
+        "开源"
+      ],
+      "icon": "graduation-cap",
+      "bg": "linear-gradient(135deg, #001219 0%, #90BE6D 100%)",
+      "tool": "Paper Orchestra / Python",
+      "hot": 0
+    },
+    {
+      "name": "Slotbound 转运军团 - 48 小时狂赚 35.6 万美元的 AI 肉鸽塔防",
+      "desc": "零编程经验的独立开发者 OptimaArch 用 100% AI 生成的 6 个月做出这款「老虎机 + 自走战斗 + 塔防」肉鸽游戏：转动 3×3 老虎机召唤单位、用道具操控概率。2026-11 上线 Steam 后头 48 小时收入突破 35.6 万美元、销量 5 万份、同时在线峰值 9,377 人（新浪财经报道），被称作 vibe coding 做游戏的最佳成绩。",
+      "url": "https://store.steampowered.com/app/4459590/",
+      "category": "游戏",
+      "tags": [
+        "48h $35.6万",
+        "5万份销量",
+        "AI 生成代码",
+        "肉鸽塔防",
+        "Steam"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #14213D 0%, #FCA311 100%)",
+      "tool": "AI 全代码生成",
       "hot": 0
     }
   ],
