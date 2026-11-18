@@ -4,13 +4,15 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-17 22:16:45 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-18 22:16:17 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
+- [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（775 个条目 / 15 个分类）
+## 📑 内容导航（783 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -361,6 +363,10 @@
   标签：10.4万 Star / 网页抓取 / 反爬绕过 / AI 数据 / GitHub Trending
 - [Claude BugHunter - 让 Claude Code 变身漏洞猎手](https://github.com/elementalsouls/Claude-BugHunter) — 面向 Claude Code 的 bug 猎杀与外部红队技能包：82 个技能、15 条 slash 命令，沉淀 24 类核心漏洞的 681 个已披露报告模式，外加企业身份与基础设施攻击矩阵，把 AI 编码助手变成专业安全审计员。GitHub 近 9,000★（API 实测 8,996★），2026-11 GitHub Trending 安全类新秀。  
   标签：近9千 Star / 安全审计 / 漏洞猎杀 / Claude Code / Trending 新秀
+- [Anthropic Skills - 官方 Agent Skills 开放标准仓库](https://github.com/anthropics/skills) — Anthropic 官方出品的 Agent Skills 公开仓库，定义「一个 SKILL.md 文件夹就让 Claude 学会专项技能」的开放标准，覆盖文档创作、数据分析、PDF/Excel/PPT 生成到设计音乐等场景，是 Claude Code 生态最权威的技能范本。GitHub 19.7 万★（API 实测 197,155★），2026-11 稳居 GitHub 周增星榜前 3，是所有编码 Agent 技能体系的源头之作。  
+  标签：19.7万 Star / Anthropic 官方 / Agent Skills / 开放标准 / 周榜前三
+- [Obscura - 专为 AI Agent 打造的开源无头浏览器](https://github.com/h4ckf0r0day/obscura) — h4ckf0r0day 开源的 AI 无头浏览器，专为 Agent 自动化与网页抓取设计：把页面渲染成对模型友好的紧凑结构，让 Claude Code、Cursor 等编码 Agent 高效读取与操作网页。GitHub 3.6 万★（API 实测 36,378★），2026-11 单周涨星 5,000+ 登上 GitHub Trending，是 Agent 基础设施赛道的现象级新秀。  
+  标签：3.6万 Star / 周涨5000+ / 无头浏览器 / Agent 基建 / 开源
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -568,6 +574,8 @@
   标签：1.75万 Star / Google 开源 / Android 自动化 / GUI Agent / 周榜热门
 - [Worktrunk - 为并行 AI Agent 而生的 Git Worktree CLI](https://github.com/max-sixty/worktrunk) — 专为「多 AI Agent 并行干活」设计的 Git worktree 管理命令行工具：一条命令创建/切换/合并隔离分支，让 Claude Code、Codex 等各自在独立 worktree 里并行开发不再互相踩踏。GitHub 1.2 万+ Star（API 实测 12,595★），2026-11 GitHub Trending 周榜热门。  
   标签：1.2万 Star / Git Worktree / 并行 Agent / CLI / Trending
+- [Beacon - 让 AI 编码 Agent 拥有跨工具自我进化记忆](https://beacon.sh) — Asymptote Labs 开源的跨工具自我进化记忆层：把散落在 Claude Code、Cursor、Codex 等 20+ 编码工具里的会话经验，自动提炼成可复用的 Agent Skills，让一个工具踩过的坑另一个不再重犯。上线即登顶 Product Hunt 2026-11-02 日榜 #1（520 票），团队豪掷 550 万美元种子轮押注，GitHub 3,570★（API 实测），被 Karpathy 转发级话题热度刷屏。  
+  标签：PH 日榜#1 / 550万种子轮 / 3570 Star / 自我进化记忆 / 开源
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -775,6 +783,8 @@
   标签：1.2万 Star / Agent 评审 / 人机协作 / 代码标注 / Trending 新秀
 - [Open Code Review - 阿里开源的生产级 AI 代码审查](https://github.com/alibaba/open-code-review) — 阿里开源、经淘宝规模实战检验的代码审查工具：确定性流水线 + LLM Agent 混合架构，给出精准到行级的评论，内置 NPE、线程安全、XSS、SQL 注入等多语言规则集，兼容 OpenAI 与 Anthropic 模型。GitHub 5.3 万+ Star（API 实测 53,649★），2026-11 GitHub Trending 热门。  
   标签：5.3万 Star / 阿里开源 / 代码审查 / 行级评论 / Trending 热门
+- [CNVS - 用语音指挥一整支 AI 编码 Agent 军团](https://cnvs.dev) — 独立开发者 Max Blade 用 Claude Code + Codex 打造的 macOS 无限画布应用：把 Claude Code、Codex、Cursor 各自放进项目专属画布，配终端和实时浏览器，用语音统一指挥多个 Agent 协同干活。自 2026-06 上线以来 Stripe 已验证累计销售额 49,986 美元（TrustMRR 2026-10），作者靠直播「用 CNVS 造 CNVS」在 X 涨粉 2.48 万，是设计循环（design loop）vibe coding 的标杆案例。  
+  标签：$49986 销售额 / Stripe 已验证 / 语音指挥 Agent / 无限画布 / Swift
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1100,6 +1110,8 @@
   标签：13K★ / 开源 / AI 邮件 / 25K+ 用户
 - [Rerun - 把 AI 订阅变成一队会排班的同事](https://github.com/rerun-build/rerun) — rerun-build 开源（AGPL-3.0）的 AI 同事平台：每位同事有自己的工具、电脑与共享工作区，按排班/触发自动干活，发送/付款/删除前主动确认。Product Hunt 2026-11-05 当日榜第 3（248 票），GitHub 744 Star。  
   标签：AI 同事 / 定时任务 / AGPL 开源 / PH 当日第3 / 人机协同
+- [Alsona - 用购买信号自动约到销售的 AI Agent](https://alsona.com) — 曾做出首个云端 LinkedIn 自动化平台并已在 2021 年退出的团队新作：输入官网 30 秒生成 ICP 与话术，追踪招聘、融资、技术栈变更等 32+ 类购买信号，AI Agent 自动写出个性化开发信并帮你约会议。上线即拿下 Product Hunt 2026-11-10 日榜 #1（485 票、109 条评论），被 hunter Ben Lang 精选，是信号驱动型销售 Agent 的当日爆款。  
+  标签：PH 日榜#1 / 485 票 / 32+ 购买信号 / 销售 Agent / MCP
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1326,6 +1338,10 @@
   标签：5.2万 Star / 动画组件 / shadcn CLI / UI 设计 / 开源
 - [Stitch Skills - 谷歌官方的 Agent 技能库](https://github.com/google-labs-code/stitch-skills) — Google Labs 官方出品、配合 Stitch MCP 使用的 Agent Skills 库：遵循 Agent Skills 开放标准，兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等主流编码 Agent，一句话把设计稿变成可运行界面。GitHub 1 万+ Star（API 实测 10,045★），谷歌官方设计 Agent 生态的代表作。  
   标签：1万 Star / 谷歌官方 / Agent Skills / 设计到代码 / MCP
+- [Visualizee.ai - 一句话把 3D 草图渲染成照片级效果图](https://visualizee.ai) — Piotr Obidowski 用 Cursor + Claude Code 独立开发的 AI 建筑渲染 SaaS：上传 SketchUp/Revit 截图，用大白话描述「暖色黄昏的真实客厅」，即可保住布局和机位生成照片级效果图，还能圈选局部修改、一句话转短视频。Stripe 已验证 8,169 美元 MRR（TrustMRR 2026-10），Vibe Shipped 50 上榜作品，是 vibe coding 做垂直专业工具的营收范本。  
+  标签：$8169 MRR / Stripe 已验证 / AI 建筑渲染 / 独立开发 / Claude Code
+- [Clayzo - 给编码 Agent 用的动画引擎](https://clayzo.com) — 获 Afore Capital 投资的「编码 Agent 动画引擎」：一句 npx 命令装进 Claude Code、Codex、Cursor，你只描述运动效果，Agent 写动画、看结果、自动迭代，导出视频或直接在网页实时播放，WebGL 播放器体积仅 Rive 的零头。上线登上 Product Hunt 2026-11-02 日榜（194 票），把动画制作从手工关键帧变成一句话的事，是 design-meets-coding 的热门新工具。  
+  标签：PH 194 票 / Afore 投资 / 动画引擎 / Agent Skills / WebGL
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1407,6 +1423,8 @@
   标签：10 万+ 商家 / AI CMO / 营销自动化 / 增长智能体 / 电商
 - [Rankfender - 面向人与 AI Agent 的 SEO / GEO 操作系统](https://rankfender.com) — Product Hunt 2026-11-06 当日榜 #1（PH 13 周年当天）；把 Google 与 ChatGPT / Claude / Gemini 等 8 个 AI 助手的品牌可见度审计、文章写作、WordPress 一键发布整合为一，起价 $89/月，G2 与 Product Hunt 均有真实好评。  
   标签：PH 当日榜 #1 / GEO 操作系统 / 8 大 AI 助手 / $89/月起 / AI 写作发布
+- [Dageno AI 2.0 - 看清 AI 为何推荐竞品的 GEO 情报台](https://dageno.ai) — 免费查 12,000+ 细分市场、300 万+ 品牌的 GEO/AEO 情报平台：可视化 Apple、三星等品牌在 ChatGPT、Gemini、Perplexity 等 10+ 大模型里的可见度、引用来源与购物卡推荐，把「AI 为什么推荐对手」拆成可执行的增长动作。上线拿下 Product Hunt 2026-11-09 日榜 #2（375 票、63 条评论），是 AI 搜索时代营销人抢占心智的新刚需工具。  
+  标签：PH 日榜#2 / 375 票 / 12000+ 市场 / GEO/AEO / AI 搜索
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 

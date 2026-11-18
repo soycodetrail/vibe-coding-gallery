@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T22:16:45.571Z",
+  "updatedAt": "2026-11-18T22:16:17.686Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -12129,6 +12129,142 @@
       "icon": "gamepad-2",
       "bg": "linear-gradient(135deg, #14213D 0%, #FCA311 100%)",
       "tool": "AI 全代码生成",
+      "hot": 0
+    },
+    {
+      "name": "Beacon - 让 AI 编码 Agent 拥有跨工具自我进化记忆",
+      "desc": "Asymptote Labs 开源的跨工具自我进化记忆层：把散落在 Claude Code、Cursor、Codex 等 20+ 编码工具里的会话经验，自动提炼成可复用的 Agent Skills，让一个工具踩过的坑另一个不再重犯。上线即登顶 Product Hunt 2026-11-02 日榜 #1（520 票），团队豪掷 550 万美元种子轮押注，GitHub 3,570★（API 实测），被 Karpathy 转发级话题热度刷屏。",
+      "url": "https://beacon.sh",
+      "category": "Agent",
+      "tags": [
+        "PH 日榜#1",
+        "550万种子轮",
+        "3570 Star",
+        "自我进化记忆",
+        "开源"
+      ],
+      "icon": "brain-circuit",
+      "bg": "linear-gradient(135deg, #0A0F2C 0%, #5B4FE9 100%)",
+      "tool": "Beacon / Jev",
+      "hot": 0
+    },
+    {
+      "name": "Anthropic Skills - 官方 Agent Skills 开放标准仓库",
+      "desc": "Anthropic 官方出品的 Agent Skills 公开仓库，定义「一个 SKILL.md 文件夹就让 Claude 学会专项技能」的开放标准，覆盖文档创作、数据分析、PDF/Excel/PPT 生成到设计音乐等场景，是 Claude Code 生态最权威的技能范本。GitHub 19.7 万★（API 实测 197,155★），2026-11 稳居 GitHub 周增星榜前 3，是所有编码 Agent 技能体系的源头之作。",
+      "url": "https://github.com/anthropics/skills",
+      "category": "AI 工具",
+      "tags": [
+        "19.7万 Star",
+        "Anthropic 官方",
+        "Agent Skills",
+        "开放标准",
+        "周榜前三"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #1A2A1A 0%, #2E7D32 100%)",
+      "tool": "Claude Code / Agent Skills",
+      "hot": 0
+    },
+    {
+      "name": "Obscura - 专为 AI Agent 打造的开源无头浏览器",
+      "desc": "h4ckf0r0day 开源的 AI 无头浏览器，专为 Agent 自动化与网页抓取设计：把页面渲染成对模型友好的紧凑结构，让 Claude Code、Cursor 等编码 Agent 高效读取与操作网页。GitHub 3.6 万★（API 实测 36,378★），2026-11 单周涨星 5,000+ 登上 GitHub Trending，是 Agent 基础设施赛道的现象级新秀。",
+      "url": "https://github.com/h4ckf0r0day/obscura",
+      "category": "AI 工具",
+      "tags": [
+        "3.6万 Star",
+        "周涨5000+",
+        "无头浏览器",
+        "Agent 基建",
+        "开源"
+      ],
+      "icon": "eye",
+      "bg": "linear-gradient(135deg, #2D0B3F 0%, #B5179E 100%)",
+      "tool": "Obscura / Rust",
+      "hot": 0
+    },
+    {
+      "name": "Visualizee.ai - 一句话把 3D 草图渲染成照片级效果图",
+      "desc": "Piotr Obidowski 用 Cursor + Claude Code 独立开发的 AI 建筑渲染 SaaS：上传 SketchUp/Revit 截图，用大白话描述「暖色黄昏的真实客厅」，即可保住布局和机位生成照片级效果图，还能圈选局部修改、一句话转短视频。Stripe 已验证 8,169 美元 MRR（TrustMRR 2026-10），Vibe Shipped 50 上榜作品，是 vibe coding 做垂直专业工具的营收范本。",
+      "url": "https://visualizee.ai",
+      "category": "设计创意",
+      "tags": [
+        "$8169 MRR",
+        "Stripe 已验证",
+        "AI 建筑渲染",
+        "独立开发",
+        "Claude Code"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #12333A 0%, #17A398 100%)",
+      "tool": "Cursor + Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "CNVS - 用语音指挥一整支 AI 编码 Agent 军团",
+      "desc": "独立开发者 Max Blade 用 Claude Code + Codex 打造的 macOS 无限画布应用：把 Claude Code、Codex、Cursor 各自放进项目专属画布，配终端和实时浏览器，用语音统一指挥多个 Agent 协同干活。自 2026-06 上线以来 Stripe 已验证累计销售额 49,986 美元（TrustMRR 2026-10），作者靠直播「用 CNVS 造 CNVS」在 X 涨粉 2.48 万，是设计循环（design loop）vibe coding 的标杆案例。",
+      "url": "https://cnvs.dev",
+      "category": "效率工具",
+      "tags": [
+        "$49986 销售额",
+        "Stripe 已验证",
+        "语音指挥 Agent",
+        "无限画布",
+        "Swift"
+      ],
+      "icon": "mic",
+      "bg": "linear-gradient(135deg, #3D1B00 0%, #E65100 100%)",
+      "tool": "Claude Code + Codex",
+      "hot": 0
+    },
+    {
+      "name": "Alsona - 用购买信号自动约到销售的 AI Agent",
+      "desc": "曾做出首个云端 LinkedIn 自动化平台并已在 2021 年退出的团队新作：输入官网 30 秒生成 ICP 与话术，追踪招聘、融资、技术栈变更等 32+ 类购买信号，AI Agent 自动写出个性化开发信并帮你约会议。上线即拿下 Product Hunt 2026-11-10 日榜 #1（485 票、109 条评论），被 hunter Ben Lang 精选，是信号驱动型销售 Agent 的当日爆款。",
+      "url": "https://alsona.com",
+      "category": "AI办公",
+      "tags": [
+        "PH 日榜#1",
+        "485 票",
+        "32+ 购买信号",
+        "销售 Agent",
+        "MCP"
+      ],
+      "icon": "target",
+      "bg": "linear-gradient(135deg, #1B1B3A 0%, #7C6FE8 100%)",
+      "tool": "Alsona / AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Dageno AI 2.0 - 看清 AI 为何推荐竞品的 GEO 情报台",
+      "desc": "免费查 12,000+ 细分市场、300 万+ 品牌的 GEO/AEO 情报平台：可视化 Apple、三星等品牌在 ChatGPT、Gemini、Perplexity 等 10+ 大模型里的可见度、引用来源与购物卡推荐，把「AI 为什么推荐对手」拆成可执行的增长动作。上线拿下 Product Hunt 2026-11-09 日榜 #2（375 票、63 条评论），是 AI 搜索时代营销人抢占心智的新刚需工具。",
+      "url": "https://dageno.ai",
+      "category": "电商营销",
+      "tags": [
+        "PH 日榜#2",
+        "375 票",
+        "12000+ 市场",
+        "GEO/AEO",
+        "AI 搜索"
+      ],
+      "icon": "search",
+      "bg": "linear-gradient(135deg, #00303F 0%, #00838F 100%)",
+      "tool": "Dageno AI / GEO",
+      "hot": 0
+    },
+    {
+      "name": "Clayzo - 给编码 Agent 用的动画引擎",
+      "desc": "获 Afore Capital 投资的「编码 Agent 动画引擎」：一句 npx 命令装进 Claude Code、Codex、Cursor，你只描述运动效果，Agent 写动画、看结果、自动迭代，导出视频或直接在网页实时播放，WebGL 播放器体积仅 Rive 的零头。上线登上 Product Hunt 2026-11-02 日榜（194 票），把动画制作从手工关键帧变成一句话的事，是 design-meets-coding 的热门新工具。",
+      "url": "https://clayzo.com",
+      "category": "设计创意",
+      "tags": [
+        "PH 194 票",
+        "Afore 投资",
+        "动画引擎",
+        "Agent Skills",
+        "WebGL"
+      ],
+      "icon": "wand",
+      "bg": "linear-gradient(135deg, #2B0A2E 0%, #C2185B 100%)",
+      "tool": "Claude Code / Codex / Cursor",
       "hot": 0
     }
   ],
