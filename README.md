@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-18 22:16:17 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-19 21:54:22 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（783 个条目 / 15 个分类）
+## 📑 内容导航（790 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -98,6 +98,8 @@
   标签：YC 投资 / PH #2 376票 / 全栈 App / 一键发布
 - [Hotelist - Pieter Levels 用 AI 重做酒店评分](https://hotelist.com) — vibe coding 标杆人物 Pieter Levels（@levelsio）出品：用 AI 抓取真实旅客评价与实拍照片，重新给全球酒店打分，对抗 Airbnb 的 4.5-5.0 评分通胀与付费排名；覆盖 250+ 国家、数百连锁品牌，纯 AI 聚合、无人能买榜。  
   标签：Pieter Levels / AI 评分 / 酒店搜索 / 去通胀
+- [Floot - 在 Claude 与 ChatGPT 里对话式建站](https://floot.com) — Y Combinator 孵化的对话式全栈建站平台：把 Floot 作为 connector 接入 Claude、ChatGPT、Cursor，一句话描述即自动生成带数据库、登录、邮件、Stripe 支付与 SEO 的真实应用，一键发布到 Web 与应用商店，无需 git、终端或构建额度。2026-11-04 上线即登 Product Hunt 当日榜 #2（324 票、88 评论，Garry Tan 精选）。  
+  标签：PH 日榜#2 / 324 票 / YC 孵化 / 对话式建站 / Vibe Coding
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -367,6 +369,8 @@
   标签：19.7万 Star / Anthropic 官方 / Agent Skills / 开放标准 / 周榜前三
 - [Obscura - 专为 AI Agent 打造的开源无头浏览器](https://github.com/h4ckf0r0day/obscura) — h4ckf0r0day 开源的 AI 无头浏览器，专为 Agent 自动化与网页抓取设计：把页面渲染成对模型友好的紧凑结构，让 Claude Code、Cursor 等编码 Agent 高效读取与操作网页。GitHub 3.6 万★（API 实测 36,378★），2026-11 单周涨星 5,000+ 登上 GitHub Trending，是 Agent 基础设施赛道的现象级新秀。  
   标签：3.6万 Star / 周涨5000+ / 无头浏览器 / Agent 基建 / 开源
+- [Google Skills - 谷歌官方 Agent Skills 标准库](https://github.com/google/skills) — Google 官方为 Claude Code、Cursor、Codex 等 40+ 编码 Agent 打造的 Agent Skills 集合，覆盖 Google 搜索、地图、Gemini、Workspace 等产品能力，一行 npx skills add 即可安装。GitHub 24,451★（REST API 2026-11-20 实测），是继 Anthropic Skills 之后又一官方技能标准，把大厂工具链直接装进你的 Agent。  
+  标签：2.4万 Star / Google 官方 / Agent Skills / 编码 Agent / 开源
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -785,6 +789,8 @@
   标签：5.3万 Star / 阿里开源 / 代码审查 / 行级评论 / Trending 热门
 - [CNVS - 用语音指挥一整支 AI 编码 Agent 军团](https://cnvs.dev) — 独立开发者 Max Blade 用 Claude Code + Codex 打造的 macOS 无限画布应用：把 Claude Code、Codex、Cursor 各自放进项目专属画布，配终端和实时浏览器，用语音统一指挥多个 Agent 协同干活。自 2026-06 上线以来 Stripe 已验证累计销售额 49,986 美元（TrustMRR 2026-10），作者靠直播「用 CNVS 造 CNVS」在 X 涨粉 2.48 万，是设计循环（design loop）vibe coding 的标杆案例。  
   标签：$49986 销售额 / Stripe 已验证 / 语音指挥 Agent / 无限画布 / Swift
+- [Disc Image Studio - 把图片刻进光盘的人眼可见图案](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) — 用 C#/.NET 10 手写的多平台光盘盘面图像生成与刻录工具：导入任意图片即可算出符合 CD、DVD、单层蓝光物理层约束的数据，刻录后盘面呈现肉眼可见图案；支持图层排版、影调抖动、三阶段实盘标定与 ISO/WAV+CUE 导出。GitHub 10,323★（API 实测），GPL-3.0，把冷门硬件玩法做成完整工程。  
+  标签：1万 Star / 开源工具 / 光盘刻录 / 图像处理 / GPL-3.0
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1342,6 +1348,10 @@
   标签：$8169 MRR / Stripe 已验证 / AI 建筑渲染 / 独立开发 / Claude Code
 - [Clayzo - 给编码 Agent 用的动画引擎](https://clayzo.com) — 获 Afore Capital 投资的「编码 Agent 动画引擎」：一句 npx 命令装进 Claude Code、Codex、Cursor，你只描述运动效果，Agent 写动画、看结果、自动迭代，导出视频或直接在网页实时播放，WebGL 播放器体积仅 Rive 的零头。上线登上 Product Hunt 2026-11-02 日榜（194 票），把动画制作从手工关键帧变成一句话的事，是 design-meets-coding 的热门新工具。  
   标签：PH 194 票 / Afore 投资 / 动画引擎 / Agent Skills / WebGL
+- [Garden Skills - 中文社区的 Agent Skills 花园](https://github.com/ConardLi/garden-skills) — ConardLi（程序猿小卡）开源的中文 Agent Skills 合集：motion-showreel 用代码生成产品短片、web-design-engineer 精修网页设计、gpt-image-2 海报与 UI 视觉、beautiful-article 把 PDF/链接排版成精美文章、kb-retriever 分层检索本地知识库。GitHub 15,494★（API 实测），MIT 协议，是中文圈最实用的 Skills 工具箱。  
+  标签：1.5万 Star / 中文开源 / Agent Skills / 网页设计 / MIT
+- [Scenario Skills - 让 Agent 产出专业级图像视频与 3D](https://github.com/scenario-labs/skills) — MIT 开源的创意素材 Agent Skills：通过 Scenario MCP 让 Claude Code、Cursor、Copilot 等 70+ Agent 生成生产级图片、视频、音频、纹理、天空盒与 3D 资产，自动选模型、先算成本、锁定角色与品牌一致性，还能驱动 Blender、Maya、Unreal、Unity。GitHub 3,910★（API 实测），把「一句话出大片」变成可控工作流。  
+  标签：3900 Star / MIT 开源 / AI 视频 / 3D 资产 / Agent Skills
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1425,6 +1435,8 @@
   标签：PH 当日榜 #1 / GEO 操作系统 / 8 大 AI 助手 / $89/月起 / AI 写作发布
 - [Dageno AI 2.0 - 看清 AI 为何推荐竞品的 GEO 情报台](https://dageno.ai) — 免费查 12,000+ 细分市场、300 万+ 品牌的 GEO/AEO 情报平台：可视化 Apple、三星等品牌在 ChatGPT、Gemini、Perplexity 等 10+ 大模型里的可见度、引用来源与购物卡推荐，把「AI 为什么推荐对手」拆成可执行的增长动作。上线拿下 Product Hunt 2026-11-09 日榜 #2（375 票、63 条评论），是 AI 搜索时代营销人抢占心智的新刚需工具。  
   标签：PH 日榜#2 / 375 票 / 12000+ 市场 / GEO/AEO / AI 搜索
+- [AI Goofish Monitor - 闲鱼多任务智能监控与捡漏](https://github.com/Usagi-org/ai-goofish-monitor) — 基于 Playwright + AI 的闲鱼多任务实时/定时监控与智能分析系统，配备功能完善的后台管理 UI，支持包邮、最新发布、省市区三级区域等高级筛选，帮你从海量二手商品中精准锁定心仪好物。GitHub 20,262★（API 实测），登上 GitHub 趋势榜，是 AI + 自动化在二手电商场景的高人气实战。  
+  标签：2万 Star / 闲鱼监控 / Playwright / AI 分析 / GitHub Trending
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1478,6 +1490,8 @@
   标签：3万 Star / 视频复刻 / AI Agent / 爆款制造机 / 开源
 - [OpenFilm - 让任意编码 Agent 变成视频剪辑师的开源框架](https://github.com/openfilm/openfilm) — 「The open source AI video agent」：把任意 coding agent 变成能剪视频的 AI 视频智能体，用自然语言驱动完整的视频创作流程。GitHub 近 8,000★、2026-11 稳居 GitHub Trending 榜单，是开源 AI 视频 Agent 方向的代表作。  
   标签：近8千 Star / AI 视频 Agent / 开源 / Trending 榜单 / 自然语言剪辑
+- [Mountain Whisperer - 109 天做到 5.5 万美元月收入的 AI 口哨教练](https://www.mtnwispr.com) — Ryan Matthews 用 Claude Code + Codex 独立 vibe coding 的猎鸭/麋鹿叫声训练 App：对着手机吹口哨即得 0-100 分与一条关键改进建议，对标两届州冠军 Joel Turner 的录音。上线 109 天做到约 55,000 美元 MRR，45 分钟教学视频 15 万播放、40% 免费试用转付费，是「垂直刚需 + AI 音频评分 + 付费广告」的经典变现范本。  
+  标签：$55K MRR / 109 天 / AI 音频评分 / 独立开发 / Claude Code
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 

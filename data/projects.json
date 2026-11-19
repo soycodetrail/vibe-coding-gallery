@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T22:16:17.686Z",
+  "updatedAt": "2026-11-19T21:54:22.851Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -12265,6 +12265,125 @@
       "icon": "wand",
       "bg": "linear-gradient(135deg, #2B0A2E 0%, #C2185B 100%)",
       "tool": "Claude Code / Codex / Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Google Skills - 谷歌官方 Agent Skills 标准库",
+      "desc": "Google 官方为 Claude Code、Cursor、Codex 等 40+ 编码 Agent 打造的 Agent Skills 集合，覆盖 Google 搜索、地图、Gemini、Workspace 等产品能力，一行 npx skills add 即可安装。GitHub 24,451★（REST API 2026-11-20 实测），是继 Anthropic Skills 之后又一官方技能标准，把大厂工具链直接装进你的 Agent。",
+      "url": "https://github.com/google/skills",
+      "category": "AI 工具",
+      "tags": [
+        "2.4万 Star",
+        "Google 官方",
+        "Agent Skills",
+        "编码 Agent",
+        "开源"
+      ],
+      "icon": "brain",
+      "bg": "linear-gradient(135deg, #1a237e 0%, #00acc1 100%)",
+      "tool": "Google / Agent Skills",
+      "hot": 0
+    },
+    {
+      "name": "Garden Skills - 中文社区的 Agent Skills 花园",
+      "desc": "ConardLi（程序猿小卡）开源的中文 Agent Skills 合集：motion-showreel 用代码生成产品短片、web-design-engineer 精修网页设计、gpt-image-2 海报与 UI 视觉、beautiful-article 把 PDF/链接排版成精美文章、kb-retriever 分层检索本地知识库。GitHub 15,494★（API 实测），MIT 协议，是中文圈最实用的 Skills 工具箱。",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "category": "设计创意",
+      "tags": [
+        "1.5万 Star",
+        "中文开源",
+        "Agent Skills",
+        "网页设计",
+        "MIT"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #14452f 0%, #00897b 100%)",
+      "tool": "Claude Code / Cursor / Codex",
+      "hot": 0
+    },
+    {
+      "name": "Scenario Skills - 让 Agent 产出专业级图像视频与 3D",
+      "desc": "MIT 开源的创意素材 Agent Skills：通过 Scenario MCP 让 Claude Code、Cursor、Copilot 等 70+ Agent 生成生产级图片、视频、音频、纹理、天空盒与 3D 资产，自动选模型、先算成本、锁定角色与品牌一致性，还能驱动 Blender、Maya、Unreal、Unity。GitHub 3,910★（API 实测），把「一句话出大片」变成可控工作流。",
+      "url": "https://github.com/scenario-labs/skills",
+      "category": "设计创意",
+      "tags": [
+        "3900 Star",
+        "MIT 开源",
+        "AI 视频",
+        "3D 资产",
+        "Agent Skills"
+      ],
+      "icon": "sparkles",
+      "bg": "linear-gradient(135deg, #4a148c 0%, #e040fb 100%)",
+      "tool": "Scenario MCP / Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "AI Goofish Monitor - 闲鱼多任务智能监控与捡漏",
+      "desc": "基于 Playwright + AI 的闲鱼多任务实时/定时监控与智能分析系统，配备功能完善的后台管理 UI，支持包邮、最新发布、省市区三级区域等高级筛选，帮你从海量二手商品中精准锁定心仪好物。GitHub 20,262★（API 实测），登上 GitHub 趋势榜，是 AI + 自动化在二手电商场景的高人气实战。",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "category": "电商营销",
+      "tags": [
+        "2万 Star",
+        "闲鱼监控",
+        "Playwright",
+        "AI 分析",
+        "GitHub Trending"
+      ],
+      "icon": "shopping-bag",
+      "bg": "linear-gradient(135deg, #bf360c 0%, #ff7043 100%)",
+      "tool": "Playwright + AI",
+      "hot": 0
+    },
+    {
+      "name": "Disc Image Studio - 把图片刻进光盘的人眼可见图案",
+      "desc": "用 C#/.NET 10 手写的多平台光盘盘面图像生成与刻录工具：导入任意图片即可算出符合 CD、DVD、单层蓝光物理层约束的数据，刻录后盘面呈现肉眼可见图案；支持图层排版、影调抖动、三阶段实盘标定与 ISO/WAV+CUE 导出。GitHub 10,323★（API 实测），GPL-3.0，把冷门硬件玩法做成完整工程。",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "category": "效率工具",
+      "tags": [
+        "1万 Star",
+        "开源工具",
+        "光盘刻录",
+        "图像处理",
+        "GPL-3.0"
+      ],
+      "icon": "circle-dot",
+      "bg": "linear-gradient(135deg, #212121 0%, #757575 100%)",
+      "tool": "C# / .NET 10",
+      "hot": 0
+    },
+    {
+      "name": "Mountain Whisperer - 109 天做到 5.5 万美元月收入的 AI 口哨教练",
+      "desc": "Ryan Matthews 用 Claude Code + Codex 独立 vibe coding 的猎鸭/麋鹿叫声训练 App：对着手机吹口哨即得 0-100 分与一条关键改进建议，对标两届州冠军 Joel Turner 的录音。上线 109 天做到约 55,000 美元 MRR，45 分钟教学视频 15 万播放、40% 免费试用转付费，是「垂直刚需 + AI 音频评分 + 付费广告」的经典变现范本。",
+      "url": "https://www.mtnwispr.com",
+      "category": "音乐音频",
+      "tags": [
+        "$55K MRR",
+        "109 天",
+        "AI 音频评分",
+        "独立开发",
+        "Claude Code"
+      ],
+      "icon": "music",
+      "bg": "linear-gradient(135deg, #3949ab 0%, #ad1457 100%)",
+      "tool": "Claude Code + Codex",
+      "hot": 0
+    },
+    {
+      "name": "Floot - 在 Claude 与 ChatGPT 里对话式建站",
+      "desc": "Y Combinator 孵化的对话式全栈建站平台：把 Floot 作为 connector 接入 Claude、ChatGPT、Cursor，一句话描述即自动生成带数据库、登录、邮件、Stripe 支付与 SEO 的真实应用，一键发布到 Web 与应用商店，无需 git、终端或构建额度。2026-11-04 上线即登 Product Hunt 当日榜 #2（324 票、88 评论，Garry Tan 精选）。",
+      "url": "https://floot.com",
+      "category": "Web 应用",
+      "tags": [
+        "PH 日榜#2",
+        "324 票",
+        "YC 孵化",
+        "对话式建站",
+        "Vibe Coding"
+      ],
+      "icon": "rocket",
+      "bg": "linear-gradient(135deg, #4527a0 0%, #00695c 100%)",
+      "tool": "Claude / ChatGPT / Cursor",
       "hot": 0
     }
   ],
