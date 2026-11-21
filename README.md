@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-19 21:54:22 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-21 18:11:53 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（790 个条目 / 15 个分类）
+## 📑 内容导航（797 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -371,6 +371,8 @@
   标签：3.6万 Star / 周涨5000+ / 无头浏览器 / Agent 基建 / 开源
 - [Google Skills - 谷歌官方 Agent Skills 标准库](https://github.com/google/skills) — Google 官方为 Claude Code、Cursor、Codex 等 40+ 编码 Agent 打造的 Agent Skills 集合，覆盖 Google 搜索、地图、Gemini、Workspace 等产品能力，一行 npx skills add 即可安装。GitHub 24,451★（REST API 2026-11-20 实测），是继 Anthropic Skills 之后又一官方技能标准，把大厂工具链直接装进你的 Agent。  
   标签：2.4万 Star / Google 官方 / Agent Skills / 编码 Agent / 开源
+- [Scalekit - 让 Agent 安全调用 5.5 万个工具的 MCP 网关](https://www.scalekit.com) — 为生产环境 Agent 打造的 MCP 网关与身份层：一个端点接入 1100+ 连接器、55,000+ 工具，用户各自授权、令牌加密托管、按角色限定工具权限、每次调用全量可审计并支持 SOC 2/HIPAA。2026-11-03 登 Product Hunt 当日榜 #1（约 438 票），是 Agent 从「能聊」到「能安全地干活」的关键基础设施。  
+  标签：PH 日榜#1 / 438 票 / MCP 网关 / 55000+ 工具 / Agent 基建
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -580,6 +582,10 @@
   标签：1.2万 Star / Git Worktree / 并行 Agent / CLI / Trending
 - [Beacon - 让 AI 编码 Agent 拥有跨工具自我进化记忆](https://beacon.sh) — Asymptote Labs 开源的跨工具自我进化记忆层：把散落在 Claude Code、Cursor、Codex 等 20+ 编码工具里的会话经验，自动提炼成可复用的 Agent Skills，让一个工具踩过的坑另一个不再重犯。上线即登顶 Product Hunt 2026-11-02 日榜 #1（520 票），团队豪掷 550 万美元种子轮押注，GitHub 3,570★（API 实测），被 Karpathy 转发级话题热度刷屏。  
   标签：PH 日榜#1 / 550万种子轮 / 3570 Star / 自我进化记忆 / 开源
+- [Glasshand - 租一台真 iPhone 和 Mac 给 AI Agent 用](https://glasshand.com) — 给 AI Agent 配「真手」：数据中心里托管真实 iPhone 与 Mac（非模拟器），用一条提示词即可让 Claude Code、Codex、Cursor 远程租用，像真人一样发 TikTok/IG、叫 Uber、在 Xcode 写 iOS App 并在真机测试，还能配 eSIM 用自己的号码收验证码。由做出 Solid 的 MIT/伯克利/滑铁卢团队打造，已融资 600 万美元。2026-11-05 登 Product Hunt 当日榜 #1（约 401 票）。  
+  标签：PH 日榜#1 / $600万融资 / 真机 Agent / eSIM 验证码 / MIT 团队
+- [Plurai Simulation - 让 AI Agent 每次运行都变强的模拟世界](https://simulation.plurai.ai/connect) — 给 AI Agent 造一个隔离沙盒里的「模拟世界」做递归自我改进：把 Agent 可能遇到的所有情境与转移概率建成概率流图，自动扫描生成场景与评测、用模拟用户逐个跑并打分，诊断失败后给出有证据的修复方案，再用生产 trace 验证回归。一行命令接入 Claude Code、Codex、Cursor 等。2026-11-12 登 Product Hunt 当日榜 #1（约 418 票、139 评论）。  
+  标签：PH 日榜#1 / 418 票 / Agent 自我改进 / 模拟世界 / 回归评测
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -968,6 +974,8 @@
   标签：游戏开发 / 多智能体 / MIT 开源 / GitHub 37K★ / Godot/Unity
 - [Slotbound 转运军团 - 48 小时狂赚 35.6 万美元的 AI 肉鸽塔防](https://store.steampowered.com/app/4459590/) — 零编程经验的独立开发者 OptimaArch 用 100% AI 生成的 6 个月做出这款「老虎机 + 自走战斗 + 塔防」肉鸽游戏：转动 3×3 老虎机召唤单位、用道具操控概率。2026-11 上线 Steam 后头 48 小时收入突破 35.6 万美元、销量 5 万份、同时在线峰值 9,377 人（新浪财经报道），被称作 vibe coding 做游戏的最佳成绩。  
   标签：48h $35.6万 / 5万份销量 / AI 生成代码 / 肉鸽塔防 / Steam
+- [Wanaka Studio - 用一句话做可发布 3D 游戏的 AI 原生引擎](https://studio.wanaka.app) — 首个 AI 原生 3D 游戏引擎：自然语言生成场景后可在同步可视化编辑器里拖动素材、改地形与多人玩法，AI Agent 自带 30+ 原子引擎工具与自玩自测回滚闭环，一键链接发布。创始人 Yang Zhang 曾把字节 Helo 做到 5000 万 DAU、联合创办 AnswerAI（北美 Top3 教育 App、600 万用户），CTO 来自字节 Seed，团队兼具字节与米哈游背景。2026-11-04 上线即登 Product Hunt 当日榜 #1（约 500 票、118 评论）。  
+  标签：PH 日榜#1 / 500 票 / AI 游戏引擎 / 字节+米哈游团队 / 一键发布
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -1437,6 +1445,8 @@
   标签：PH 日榜#2 / 375 票 / 12000+ 市场 / GEO/AEO / AI 搜索
 - [AI Goofish Monitor - 闲鱼多任务智能监控与捡漏](https://github.com/Usagi-org/ai-goofish-monitor) — 基于 Playwright + AI 的闲鱼多任务实时/定时监控与智能分析系统，配备功能完善的后台管理 UI，支持包邮、最新发布、省市区三级区域等高级筛选，帮你从海量二手商品中精准锁定心仪好物。GitHub 20,262★（API 实测），登上 GitHub 趋势榜，是 AI + 自动化在二手电商场景的高人气实战。  
   标签：2万 Star / 闲鱼监控 / Playwright / AI 分析 / GitHub Trending
+- [RankSpot - 用 MCP 让 Agent 自动做 SEO 与 AI 搜索优化](https://rankspot.ai) — 按量付费（无订阅）的 SEO 与 AI 搜索执行层：2 分钟把 MCP 接进 Claude/ChatGPT，Agent 即读竞品排名、查 100+ 语言关键词与 AI 引用来源、写并发布文章、从邮箱发外链 pitch，所有动作需你批准后才执行，每篇文章约 3 美元。把过去要十几种工具、几百美元月费和每周数小时的工作收敛成一个会干活的 Agent。2026-11 登 Product Hunt 月榜前列（约 464 票、125 评论）。  
+  标签：PH 464 票 / 按量付费 / SEO+GEO / MCP / Agent 执行层
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1563,6 +1573,8 @@
   标签：$401M销售额 / 50万+患者 / 单人AI创业 / 16.2%净利
 - [Peptide Tracker - 帮 10 万+ 人管理肽类与 GLP-1 方案](https://peptidetracker.ai/) — 俄勒冈大学生用 AI 全程 vibe coding 打造（零订阅、纯免费），帮用户规划肽类 / GLP-1 注射排期、记录剂量与余量、追踪症状与健康趋势。App Store 4.9 星（2,600+ 评分）、累计 100,000+ 用户，覆盖 BPC-157、Tirzepatide 等数十种化合物。  
   标签：100K+ 用户 / App Store 4.9 星 / 肽类追踪 / GLP-1 / 免费
+- [PeptIQ - 一人用 AI 做的多肽追踪 App，月入 2 万美元](https://peptiq.io) — 软件工程师 Kris Chase 业余用 AI 独立 vibe coding 的多肽教育与剂量追踪 App：一句话记录注射、轮换部位、管理库存，并接入 Apple Health/Oura/WHOOP 与化验单对照睡眠、HRV、DEXA 变化。TrustMRR 显示近 30 天收入 19,930 美元（RevenueCat 已验证，2026-11-16）、累计 14 万美元，App Store 4.7 分 1000+ 评价、2.2 万账户、覆盖 100+ 国家，是垂直健康赛道 vibe coding 变现范本。  
+  标签：$19.9K/月 / RevenueCat 验证 / 2.2万用户 / AI 独立开发 / 健康追踪
 
 <a id="cat-社交社区" name="cat-社交社区"></a>
 
@@ -1614,6 +1626,8 @@
   标签：100 万下载 / 4.7 星 / 反算法 / 隐私优先
 - [Gizmo - AI 互动小程序平台](https://gizmo.party/) — Atma Sciences 出品的 AI 互动小程序平台，用一句提示词即时生成可玩的互动小游戏、谜题与梗图，TikTok 式信息流 + 全球免费；2026 年 installs 突破 60 万、10-12 月增长 312%。  
   标签：AI 小程序 / 互动游戏 / TikTok 式 / 零代码 / 60万+ 安装
+- [Teamily AI - 你和 AI Agent 团队在同一个 IM 里协同干活](https://teamily.ai) — AI 原生的「人机协作」即时通讯，把个人 Agent、Agent 团队与真人放进同一对话：内置网页/幻灯片/文档/仪表盘协作工作室，自主记忆会随每次对话自组织生长，语义路由为每个任务挑选最合适的模型组合，共享信息流里可一键 remix/fork 别人的 Agent。2026-11-03 登 Product Hunt 日榜 #2（约 387 票、185 评论），由两位资深 AI 研究者创办，覆盖 Web/iOS/Android/桌面端。  
+  标签：PH 日榜#2 / 387 票 / 人机协作 IM / Agent 社交网络 / 自进化记忆
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 

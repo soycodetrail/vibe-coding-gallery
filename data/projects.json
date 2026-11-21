@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T21:54:22.851Z",
+  "updatedAt": "2026-11-21T18:11:53.913Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -12384,6 +12384,125 @@
       "icon": "rocket",
       "bg": "linear-gradient(135deg, #4527a0 0%, #00695c 100%)",
       "tool": "Claude / ChatGPT / Cursor",
+      "hot": 0
+    },
+    {
+      "name": "Wanaka Studio - 用一句话做可发布 3D 游戏的 AI 原生引擎",
+      "desc": "首个 AI 原生 3D 游戏引擎：自然语言生成场景后可在同步可视化编辑器里拖动素材、改地形与多人玩法，AI Agent 自带 30+ 原子引擎工具与自玩自测回滚闭环，一键链接发布。创始人 Yang Zhang 曾把字节 Helo 做到 5000 万 DAU、联合创办 AnswerAI（北美 Top3 教育 App、600 万用户），CTO 来自字节 Seed，团队兼具字节与米哈游背景。2026-11-04 上线即登 Product Hunt 当日榜 #1（约 500 票、118 评论）。",
+      "url": "https://studio.wanaka.app",
+      "category": "游戏",
+      "tags": [
+        "PH 日榜#1",
+        "500 票",
+        "AI 游戏引擎",
+        "字节+米哈游团队",
+        "一键发布"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #0B3D2E 0%, #1B7A5A 100%)",
+      "tool": "Wanaka AI Agent / 自研引擎",
+      "hot": 0
+    },
+    {
+      "name": "Glasshand - 租一台真 iPhone 和 Mac 给 AI Agent 用",
+      "desc": "给 AI Agent 配「真手」：数据中心里托管真实 iPhone 与 Mac（非模拟器），用一条提示词即可让 Claude Code、Codex、Cursor 远程租用，像真人一样发 TikTok/IG、叫 Uber、在 Xcode 写 iOS App 并在真机测试，还能配 eSIM 用自己的号码收验证码。由做出 Solid 的 MIT/伯克利/滑铁卢团队打造，已融资 600 万美元。2026-11-05 登 Product Hunt 当日榜 #1（约 401 票）。",
+      "url": "https://glasshand.com",
+      "category": "Agent",
+      "tags": [
+        "PH 日榜#1",
+        "$600万融资",
+        "真机 Agent",
+        "eSIM 验证码",
+        "MIT 团队"
+      ],
+      "icon": "smartphone",
+      "bg": "linear-gradient(135deg, #1B2A4A 0%, #4A6FA5 100%)",
+      "tool": "Glasshand API / Claude Code / Codex",
+      "hot": 0
+    },
+    {
+      "name": "Scalekit - 让 Agent 安全调用 5.5 万个工具的 MCP 网关",
+      "desc": "为生产环境 Agent 打造的 MCP 网关与身份层：一个端点接入 1100+ 连接器、55,000+ 工具，用户各自授权、令牌加密托管、按角色限定工具权限、每次调用全量可审计并支持 SOC 2/HIPAA。2026-11-03 登 Product Hunt 当日榜 #1（约 438 票），是 Agent 从「能聊」到「能安全地干活」的关键基础设施。",
+      "url": "https://www.scalekit.com",
+      "category": "AI 工具",
+      "tags": [
+        "PH 日榜#1",
+        "438 票",
+        "MCP 网关",
+        "55000+ 工具",
+        "Agent 基建"
+      ],
+      "icon": "network",
+      "bg": "linear-gradient(135deg, #2D1B69 0%, #7C3AED 100%)",
+      "tool": "Scalekit AgentKit / MCP",
+      "hot": 0
+    },
+    {
+      "name": "PeptIQ - 一人用 AI 做的多肽追踪 App，月入 2 万美元",
+      "desc": "软件工程师 Kris Chase 业余用 AI 独立 vibe coding 的多肽教育与剂量追踪 App：一句话记录注射、轮换部位、管理库存，并接入 Apple Health/Oura/WHOOP 与化验单对照睡眠、HRV、DEXA 变化。TrustMRR 显示近 30 天收入 19,930 美元（RevenueCat 已验证，2026-11-16）、累计 14 万美元，App Store 4.7 分 1000+ 评价、2.2 万账户、覆盖 100+ 国家，是垂直健康赛道 vibe coding 变现范本。",
+      "url": "https://peptiq.io",
+      "category": "医疗健康",
+      "tags": [
+        "$19.9K/月",
+        "RevenueCat 验证",
+        "2.2万用户",
+        "AI 独立开发",
+        "健康追踪"
+      ],
+      "icon": "heart-pulse",
+      "bg": "linear-gradient(135deg, #1A3A2E 0%, #2E9E6B 100%)",
+      "tool": "AI vibe coding / 独立开发",
+      "hot": 0
+    },
+    {
+      "name": "Teamily AI - 你和 AI Agent 团队在同一个 IM 里协同干活",
+      "desc": "AI 原生的「人机协作」即时通讯，把个人 Agent、Agent 团队与真人放进同一对话：内置网页/幻灯片/文档/仪表盘协作工作室，自主记忆会随每次对话自组织生长，语义路由为每个任务挑选最合适的模型组合，共享信息流里可一键 remix/fork 别人的 Agent。2026-11-03 登 Product Hunt 日榜 #2（约 387 票、185 评论），由两位资深 AI 研究者创办，覆盖 Web/iOS/Android/桌面端。",
+      "url": "https://teamily.ai",
+      "category": "社交社区",
+      "tags": [
+        "PH 日榜#2",
+        "387 票",
+        "人机协作 IM",
+        "Agent 社交网络",
+        "自进化记忆"
+      ],
+      "icon": "message-circle",
+      "bg": "linear-gradient(135deg, #3B1D4E 0%, #9C27B0 100%)",
+      "tool": "Teamily Agent OS",
+      "hot": 0
+    },
+    {
+      "name": "Plurai Simulation - 让 AI Agent 每次运行都变强的模拟世界",
+      "desc": "给 AI Agent 造一个隔离沙盒里的「模拟世界」做递归自我改进：把 Agent 可能遇到的所有情境与转移概率建成概率流图，自动扫描生成场景与评测、用模拟用户逐个跑并打分，诊断失败后给出有证据的修复方案，再用生产 trace 验证回归。一行命令接入 Claude Code、Codex、Cursor 等。2026-11-12 登 Product Hunt 当日榜 #1（约 418 票、139 评论）。",
+      "url": "https://simulation.plurai.ai/connect",
+      "category": "Agent",
+      "tags": [
+        "PH 日榜#1",
+        "418 票",
+        "Agent 自我改进",
+        "模拟世界",
+        "回归评测"
+      ],
+      "icon": "orbit",
+      "bg": "linear-gradient(135deg, #0D47A1 0%, #1976D2 100%)",
+      "tool": "Plurai Plugin / Claude Code / Codex",
+      "hot": 0
+    },
+    {
+      "name": "RankSpot - 用 MCP 让 Agent 自动做 SEO 与 AI 搜索优化",
+      "desc": "按量付费（无订阅）的 SEO 与 AI 搜索执行层：2 分钟把 MCP 接进 Claude/ChatGPT，Agent 即读竞品排名、查 100+ 语言关键词与 AI 引用来源、写并发布文章、从邮箱发外链 pitch，所有动作需你批准后才执行，每篇文章约 3 美元。把过去要十几种工具、几百美元月费和每周数小时的工作收敛成一个会干活的 Agent。2026-11 登 Product Hunt 月榜前列（约 464 票、125 评论）。",
+      "url": "https://rankspot.ai",
+      "category": "电商营销",
+      "tags": [
+        "PH 464 票",
+        "按量付费",
+        "SEO+GEO",
+        "MCP",
+        "Agent 执行层"
+      ],
+      "icon": "search",
+      "bg": "linear-gradient(135deg, #0A1929 0%, #00838F 100%)",
+      "tool": "RankSpot MCP / Claude / ChatGPT",
       "hot": 0
     }
   ],
