@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T18:11:53.913Z",
+  "updatedAt": "2026-11-21T21:08:21.984Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -12503,6 +12503,125 @@
       "icon": "search",
       "bg": "linear-gradient(135deg, #0A1929 0%, #00838F 100%)",
       "tool": "RankSpot MCP / Claude / ChatGPT",
+      "hot": 0
+    },
+    {
+      "name": "Spec Kit - GitHub 官方的规格驱动开发工具包",
+      "desc": "GitHub 官方开源的 Spec-Driven Development（SDD）工具包，让「先写规格、再让 AI 编码」成为可复用流程：/constitute、/specify、/plan、/tasks、/implement 一套命令把需求翻译成规格、计划与任务清单，兼容 Claude Code、Codex、Cursor、Copilot 等主流 Agent。GitHub 150,894 Star、13,549 Fork，2026 年 11 月 GitHub Trending 现象级项目，被业界视为「vibe coding 走向工程化」的官方标准。",
+      "url": "https://github.com/github/spec-kit",
+      "category": "AI办公",
+      "tags": [
+        "150.8K Star",
+        "GitHub 官方",
+        "规格驱动开发",
+        "MIT",
+        "Trending"
+      ],
+      "icon": "file-code",
+      "bg": "linear-gradient(135deg, #1B5E20 0%, #2E7D32 100%)",
+      "tool": "GitHub Spec Kit / SDD",
+      "hot": 0
+    },
+    {
+      "name": "UI/UX Pro Max Skill - 让 AI 写出专业级设计的技能包",
+      "desc": "为编码 Agent 注入专业设计智能的 Skill：覆盖多平台 UI/UX 设计规范、配色排版、组件模式与落地页/移动端布局，让 Claude Code、Cursor、Codex 生成不再「千篇一律 AI 味」的界面。GitHub 152,417 Star、16,071 Fork，是全站星数最高的设计类 Agent Skill 之一，MIT 开源。",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "category": "设计创意",
+      "tags": [
+        "152.4K Star",
+        "设计技能包",
+        "AI 生成 UI",
+        "MIT",
+        "Trending"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #4A148C 0%, #7B1FA2 100%)",
+      "tool": "Claude Code / Cursor / Codex Skill",
+      "hot": 0
+    },
+    {
+      "name": "Academic Research Skills - 让 Agent 跑完科研全流程的技能库",
+      "desc": "把科研流程拆成可复用 Skill 给 Claude Code：研究 → 写作 → 评审 → 修订 → 定稿一条龙，覆盖文献综述、学术写作与同行评审，让 AI 按学术规范完成从选题到成稿的全流程。GitHub 57,971 Star、4,421 Fork，2026 年 11 月增长最快的教育科研类开源项目之一。",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "category": "教育学习",
+      "tags": [
+        "57.9K Star",
+        "科研技能库",
+        "学术写作",
+        "文献综述",
+        "开源"
+      ],
+      "icon": "graduation-cap",
+      "bg": "linear-gradient(135deg, #0D47A1 0%, #1565C0 100%)",
+      "tool": "Claude Code Skill",
+      "hot": 0
+    },
+    {
+      "name": "Kimi K3 in C - 纯 C99 在单 CPU 上跑通 2.78 万亿参数大模型",
+      "desc": "用零依赖的可移植 C99 从头实现推理引擎，在单颗 CPU、8.24GB 内存上跑通 2.78 万亿参数的 Kimi K3 MoE 大模型——不用 BLAS、不用框架、不用 GPU，从 8GB 笔记本到 128GB 工作站输出字节级一致。GitHub 12,516 Star、1,940 Fork，2026 年 11 月 GitHub Trending 上榜项目，Apache-2.0 开源。",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "category": "AI 工具",
+      "tags": [
+        "12.5K Star",
+        "2.78T 参数",
+        "单 CPU 推理",
+        "Apache-2.0",
+        "Trending"
+      ],
+      "icon": "cpu",
+      "bg": "linear-gradient(135deg, #37474F 0%, #546E7A 100%)",
+      "tool": "纯 C99 / AI 辅助实现",
+      "hot": 0
+    },
+    {
+      "name": "Maxma - 7×24 小时替你优化付费广告的 AI 队友",
+      "desc": "前宝洁、Asana 营销科学家创办的全自动付费广告 Agent：从搭建追踪、在 10+ 广告平台投放，到素材打标分析、真实增量效果测量与下一分钱该花在哪，端到端替你干完整个专家团队的活；任何改动都要你批准才执行，$99/月起。2026-11-10 登 Product Hunt 当日榜 #2（335 票、38 评论），是 AI 营销 Agent 赛道的新爆款。",
+      "url": "https://maxma.ai",
+      "category": "电商营销",
+      "tags": [
+        "PH 日榜#2",
+        "335 票",
+        "AI 广告 Agent",
+        "$99/月起",
+        "P&G 团队"
+      ],
+      "icon": "megaphone",
+      "bg": "linear-gradient(135deg, #B71C1C 0%, #D84315 100%)",
+      "tool": "AI Agent / Claude 风格助手",
+      "hot": 0
+    },
+    {
+      "name": "ClawsGO Science - 自带云实验室、能连跑数天写出论文的 AI 科研 Agent",
+      "desc": "把「研究问题 → 做实验 → 写成带引用的论文」全自动化的科研 Agent：每台任务配常开云工作站，预装 500+ 科研工具与 90+ 数据集（GATK、GROMACS、Quantum ESPRESSO、QGIS 等），Claude 与 GPT Agent 集群协同连跑数天并自我校验，最终交出 LaTeX 编译的引用论文——官网示例 24 页、17 图、59 参考文献。2026-11-01 登 Product Hunt 当日榜 #2（279 票、57 评论）。",
+      "url": "https://clawsgo.ai",
+      "category": "Agent",
+      "tags": [
+        "PH 日榜#2",
+        "279 票",
+        "AI 科研 Agent",
+        "云实验室",
+        "自动写论文"
+      ],
+      "icon": "flask-conical",
+      "bg": "linear-gradient(135deg, #006064 0%, #00838F 100%)",
+      "tool": "Claude Code + Codex / 自研长程 Agent",
+      "hot": 0
+    },
+    {
+      "name": "AXL - 给 AI 创始人用的 GTM 副驾，一句话跑 1200+ 营销动作",
+      "desc": "把落地页、问卷、直播、课程、邮件、CRM、AI 电话集成到一个系统的全栈 GTM 平台，并通过 MCP 给 Claude / ChatGPT / Cursor 开放 1,200+ 销售营销动作：「建个注册页、给新线索发欢迎邮件、开个 AI 客服接电话」一句话搞定；基于 100 万笔成交、300+ 信号训练的线索评分模型决定先联系谁。免费版含 500 联系人 / 每月 5000 封邮件。2026-11-08 登 Product Hunt 当日榜 #1（283 票、64 评论）。",
+      "url": "https://axl.tech",
+      "category": "电商营销",
+      "tags": [
+        "PH 日榜#1",
+        "283 票",
+        "GTM Copilot",
+        "1200+ MCP 动作",
+        "免费版"
+      ],
+      "icon": "target",
+      "bg": "linear-gradient(135deg, #3E2723 0%, #6D4C41 100%)",
+      "tool": "AXL MCP / Claude / ChatGPT / Cursor",
       "hot": 0
     }
   ],

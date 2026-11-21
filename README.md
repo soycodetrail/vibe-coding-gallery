@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-21 18:11:53 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-21 21:08:21 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（797 个条目 / 15 个分类）
+## 📑 内容导航（804 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -373,6 +373,8 @@
   标签：2.4万 Star / Google 官方 / Agent Skills / 编码 Agent / 开源
 - [Scalekit - 让 Agent 安全调用 5.5 万个工具的 MCP 网关](https://www.scalekit.com) — 为生产环境 Agent 打造的 MCP 网关与身份层：一个端点接入 1100+ 连接器、55,000+ 工具，用户各自授权、令牌加密托管、按角色限定工具权限、每次调用全量可审计并支持 SOC 2/HIPAA。2026-11-03 登 Product Hunt 当日榜 #1（约 438 票），是 Agent 从「能聊」到「能安全地干活」的关键基础设施。  
   标签：PH 日榜#1 / 438 票 / MCP 网关 / 55000+ 工具 / Agent 基建
+- [Kimi K3 in C - 纯 C99 在单 CPU 上跑通 2.78 万亿参数大模型](https://github.com/FareedKhan-dev/kimi-k3-in-c) — 用零依赖的可移植 C99 从头实现推理引擎，在单颗 CPU、8.24GB 内存上跑通 2.78 万亿参数的 Kimi K3 MoE 大模型——不用 BLAS、不用框架、不用 GPU，从 8GB 笔记本到 128GB 工作站输出字节级一致。GitHub 12,516 Star、1,940 Fork，2026 年 11 月 GitHub Trending 上榜项目，Apache-2.0 开源。  
+  标签：12.5K Star / 2.78T 参数 / 单 CPU 推理 / Apache-2.0 / Trending
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -586,6 +588,8 @@
   标签：PH 日榜#1 / $600万融资 / 真机 Agent / eSIM 验证码 / MIT 团队
 - [Plurai Simulation - 让 AI Agent 每次运行都变强的模拟世界](https://simulation.plurai.ai/connect) — 给 AI Agent 造一个隔离沙盒里的「模拟世界」做递归自我改进：把 Agent 可能遇到的所有情境与转移概率建成概率流图，自动扫描生成场景与评测、用模拟用户逐个跑并打分，诊断失败后给出有证据的修复方案，再用生产 trace 验证回归。一行命令接入 Claude Code、Codex、Cursor 等。2026-11-12 登 Product Hunt 当日榜 #1（约 418 票、139 评论）。  
   标签：PH 日榜#1 / 418 票 / Agent 自我改进 / 模拟世界 / 回归评测
+- [ClawsGO Science - 自带云实验室、能连跑数天写出论文的 AI 科研 Agent](https://clawsgo.ai) — 把「研究问题 → 做实验 → 写成带引用的论文」全自动化的科研 Agent：每台任务配常开云工作站，预装 500+ 科研工具与 90+ 数据集（GATK、GROMACS、Quantum ESPRESSO、QGIS 等），Claude 与 GPT Agent 集群协同连跑数天并自我校验，最终交出 LaTeX 编译的引用论文——官网示例 24 页、17 图、59 参考文献。2026-11-01 登 Product Hunt 当日榜 #2（279 票、57 评论）。  
+  标签：PH 日榜#2 / 279 票 / AI 科研 Agent / 云实验室 / 自动写论文
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -1126,6 +1130,8 @@
   标签：AI 同事 / 定时任务 / AGPL 开源 / PH 当日第3 / 人机协同
 - [Alsona - 用购买信号自动约到销售的 AI Agent](https://alsona.com) — 曾做出首个云端 LinkedIn 自动化平台并已在 2021 年退出的团队新作：输入官网 30 秒生成 ICP 与话术，追踪招聘、融资、技术栈变更等 32+ 类购买信号，AI Agent 自动写出个性化开发信并帮你约会议。上线即拿下 Product Hunt 2026-11-10 日榜 #1（485 票、109 条评论），被 hunter Ben Lang 精选，是信号驱动型销售 Agent 的当日爆款。  
   标签：PH 日榜#1 / 485 票 / 32+ 购买信号 / 销售 Agent / MCP
+- [Spec Kit - GitHub 官方的规格驱动开发工具包](https://github.com/github/spec-kit) — GitHub 官方开源的 Spec-Driven Development（SDD）工具包，让「先写规格、再让 AI 编码」成为可复用流程：/constitute、/specify、/plan、/tasks、/implement 一套命令把需求翻译成规格、计划与任务清单，兼容 Claude Code、Codex、Cursor、Copilot 等主流 Agent。GitHub 150,894 Star、13,549 Fork，2026 年 11 月 GitHub Trending 现象级项目，被业界视为「vibe coding 走向工程化」的官方标准。  
+  标签：150.8K Star / GitHub 官方 / 规格驱动开发 / MIT / Trending
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1201,6 +1207,8 @@
   标签：127 万行代码 / 29 项专利 / $39/月 / 自适应学习 / AI 教育
 - [Paper Orchestra - 谷歌多智能体自动写论文框架](https://github.com/google-research/paper-orchestra) — Google Research 开源的多智能体框架，把 AI 研究论文的写作流程拆给多个 Agent 分工协作自动完成。GitHub 2,800+ Star（API 实测 2,831★），2026-11 GitHub Trending 科研工具新秀，是「多 Agent 协作搞定复杂知识工作」的示范项目。  
   标签：2.8千 Star / 谷歌研究 / 多智能体 / 论文写作 / 开源
+- [Academic Research Skills - 让 Agent 跑完科研全流程的技能库](https://github.com/Imbad0202/academic-research-skills) — 把科研流程拆成可复用 Skill 给 Claude Code：研究 → 写作 → 评审 → 修订 → 定稿一条龙，覆盖文献综述、学术写作与同行评审，让 AI 按学术规范完成从选题到成稿的全流程。GitHub 57,971 Star、4,421 Fork，2026 年 11 月增长最快的教育科研类开源项目之一。  
+  标签：57.9K Star / 科研技能库 / 学术写作 / 文献综述 / 开源
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1360,6 +1368,8 @@
   标签：1.5万 Star / 中文开源 / Agent Skills / 网页设计 / MIT
 - [Scenario Skills - 让 Agent 产出专业级图像视频与 3D](https://github.com/scenario-labs/skills) — MIT 开源的创意素材 Agent Skills：通过 Scenario MCP 让 Claude Code、Cursor、Copilot 等 70+ Agent 生成生产级图片、视频、音频、纹理、天空盒与 3D 资产，自动选模型、先算成本、锁定角色与品牌一致性，还能驱动 Blender、Maya、Unreal、Unity。GitHub 3,910★（API 实测），把「一句话出大片」变成可控工作流。  
   标签：3900 Star / MIT 开源 / AI 视频 / 3D 资产 / Agent Skills
+- [UI/UX Pro Max Skill - 让 AI 写出专业级设计的技能包](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — 为编码 Agent 注入专业设计智能的 Skill：覆盖多平台 UI/UX 设计规范、配色排版、组件模式与落地页/移动端布局，让 Claude Code、Cursor、Codex 生成不再「千篇一律 AI 味」的界面。GitHub 152,417 Star、16,071 Fork，是全站星数最高的设计类 Agent Skill 之一，MIT 开源。  
+  标签：152.4K Star / 设计技能包 / AI 生成 UI / MIT / Trending
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1447,6 +1457,10 @@
   标签：2万 Star / 闲鱼监控 / Playwright / AI 分析 / GitHub Trending
 - [RankSpot - 用 MCP 让 Agent 自动做 SEO 与 AI 搜索优化](https://rankspot.ai) — 按量付费（无订阅）的 SEO 与 AI 搜索执行层：2 分钟把 MCP 接进 Claude/ChatGPT，Agent 即读竞品排名、查 100+ 语言关键词与 AI 引用来源、写并发布文章、从邮箱发外链 pitch，所有动作需你批准后才执行，每篇文章约 3 美元。把过去要十几种工具、几百美元月费和每周数小时的工作收敛成一个会干活的 Agent。2026-11 登 Product Hunt 月榜前列（约 464 票、125 评论）。  
   标签：PH 464 票 / 按量付费 / SEO+GEO / MCP / Agent 执行层
+- [Maxma - 7×24 小时替你优化付费广告的 AI 队友](https://maxma.ai) — 前宝洁、Asana 营销科学家创办的全自动付费广告 Agent：从搭建追踪、在 10+ 广告平台投放，到素材打标分析、真实增量效果测量与下一分钱该花在哪，端到端替你干完整个专家团队的活；任何改动都要你批准才执行，$99/月起。2026-11-10 登 Product Hunt 当日榜 #2（335 票、38 评论），是 AI 营销 Agent 赛道的新爆款。  
+  标签：PH 日榜#2 / 335 票 / AI 广告 Agent / $99/月起 / P&G 团队
+- [AXL - 给 AI 创始人用的 GTM 副驾，一句话跑 1200+ 营销动作](https://axl.tech) — 把落地页、问卷、直播、课程、邮件、CRM、AI 电话集成到一个系统的全栈 GTM 平台，并通过 MCP 给 Claude / ChatGPT / Cursor 开放 1,200+ 销售营销动作：「建个注册页、给新线索发欢迎邮件、开个 AI 客服接电话」一句话搞定；基于 100 万笔成交、300+ 信号训练的线索评分模型决定先联系谁。免费版含 500 联系人 / 每月 5000 封邮件。2026-11-08 登 Product Hunt 当日榜 #1（283 票、64 评论）。  
+  标签：PH 日榜#1 / 283 票 / GTM Copilot / 1200+ MCP 动作 / 免费版
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
