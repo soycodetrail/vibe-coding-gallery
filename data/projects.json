@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T21:08:21.984Z",
+  "updatedAt": "2026-11-22T21:07:41.104Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -12622,6 +12622,125 @@
       "icon": "target",
       "bg": "linear-gradient(135deg, #3E2723 0%, #6D4C41 100%)",
       "tool": "AXL MCP / Claude / ChatGPT / Cursor",
+      "hot": 0
+    },
+    {
+      "name": "S.Space - AutoGen 团队打造的人与 Agent 共享工作空间",
+      "desc": "由 AutoGen 背后的团队打造：把团队里每个人的 Claude Code、Codex 等 Agent 接进同一个共享工作区，Agent 之间能主动交接任务、沿用共享记忆，重要操作仍由人批准；2026-11-18 登 Product Hunt 当日榜 #1（379 票、122 评论），是协作型多 Agent 工具的新爆款。",
+      "url": "https://s.space",
+      "category": "Agent",
+      "tags": [
+        "PH 日榜#1",
+        "379 票",
+        "AutoGen 团队",
+        "多 Agent 协作",
+        "共享记忆"
+      ],
+      "icon": "network",
+      "bg": "linear-gradient(135deg, #1A237E 0%, #3949AB 100%)",
+      "tool": "AutoGen / Claude Code / Codex",
+      "hot": 0
+    },
+    {
+      "name": "TheBold - 用创业执行记录换取投资人会面的 AI 融资台",
+      "desc": "把融资准备变成可验证的门槛：跟踪并验证创业团队的真实进展与 traction、按投资人标准做针对性 AI 模拟面试，达标后才解锁配对投资人的日历直接预约；2026-11-17 登 Product Hunt 当日榜 #3（424 票、75 评论），把「找人引荐」改写成「先展示你做成了什么」。",
+      "url": "https://thebold.vc",
+      "category": "金融财经",
+      "tags": [
+        "PH 日榜#3",
+        "424 票",
+        "融资 Agent",
+        "AI 模拟面试",
+        "执行验证"
+      ],
+      "icon": "trending-up",
+      "bg": "linear-gradient(135deg, #0B3D2E 0%, #1B6E4A 100%)",
+      "tool": "AI Agent / 融资匹配",
+      "hot": 0
+    },
+    {
+      "name": "Creatify Max - 从策略到投放一条龙的视频广告 Agent",
+      "desc": "给一个商品链接或 brief，它就能生成视频广告、建好 Meta 与 TikTok 投放并持续盯数据、指出下一步该加预算还是暂停素材——但任何改动都要人批准才上线；出品方 Creatify 于 2025 年完成 $15.5M A 轮（WndrCo、Kindred Ventures 领投），2026-11 周 Product Hunt 榜第 3（427 票、143 评论）。",
+      "url": "https://creatify.ai/ad-agent",
+      "category": "电商营销",
+      "tags": [
+        "PH 周榜#3",
+        "427 票",
+        "$15.5M A轮",
+        "广告 Agent",
+        "视频生成"
+      ],
+      "icon": "megaphone",
+      "bg": "linear-gradient(135deg, #E65100 0%, #F57C00 100%)",
+      "tool": "Creatify AI / 视频广告 Agent",
+      "hot": 0
+    },
+    {
+      "name": "nanochat - Karpathy 出品、100 美元能买到的最好 ChatGPT",
+      "desc": "Andrej Karpathy 从零手写的极简全栈 ChatGPT 实现，可本地训练与推理，被称为「$100 能买到的最好 ChatGPT」，是学习大模型训练最受欢迎的开源教程项目；GitHub 60,779★、8,529 fork，MIT 许可。",
+      "url": "https://github.com/karpathy/nanochat",
+      "category": "教育学习",
+      "tags": [
+        "60.8K Star",
+        "Karpathy 出品",
+        "教育项目",
+        "本地训练",
+        "MIT"
+      ],
+      "icon": "brain",
+      "bg": "linear-gradient(135deg, #3F2B96 0%, #8242B5 100%)",
+      "tool": "PyTorch / 自研训练栈",
+      "hot": 0
+    },
+    {
+      "name": "Verse Engine by Ctruh - 把 3D 场景变成浏览器可打开的链接",
+      "desc": "把 Blender、Unity 或 Unreal 里的 3D 场景一键变成浏览器可直接打开的链接，客户不用下载工程或装应用就能自己走一圈，建筑漫游与产品展示少一次格式转换；2026-11 周 Product Hunt 榜第 7（324 票）。",
+      "url": "https://verse.ctruh.com/",
+      "category": "设计创意",
+      "tags": [
+        "PH 周榜#7",
+        "324 票",
+        "3D 场景分享",
+        "浏览器链接",
+        "建筑漫游"
+      ],
+      "icon": "box",
+      "bg": "linear-gradient(135deg, #311B92 0%, #512DA8 100%)",
+      "tool": "WebGL / 3D 引擎",
+      "hot": 0
+    },
+    {
+      "name": "Tripmojo - 让同游伙伴都在看同一份计划的旅行 Agent",
+      "desc": "把散落在预订邮件里的机票、酒店信息收进共享行程，再在群聊里投票、查地点、跟踪航班变化与分摊费用——解决「旅程已经开始了，大家还没看同一份计划」的真实痛点；2026-11 周 Product Hunt 榜第 9（303 票）。",
+      "url": "https://tripmojo.ai/",
+      "category": "Web 应用",
+      "tags": [
+        "PH 周榜#9",
+        "303 票",
+        "共享行程",
+        "群聊规划",
+        "费用分摊"
+      ],
+      "icon": "map",
+      "bg": "linear-gradient(135deg, #004D40 0%, #00796B 100%)",
+      "tool": "AI Agent / 行程规划",
+      "hot": 0
+    },
+    {
+      "name": "Saparo - 把优惠码、返现和信用卡优惠算到一张账上",
+      "desc": "在美国商店找同款同尺码商品，把优惠码、返现、符合条件的信用卡优惠连同税费运费一起算清实付总额，帮你把结账准备好（最后付款仍由你点）；更有用的是算清实付、而不是堆更多优惠券，2026-11 周 Product Hunt 榜第 6（339 票）。",
+      "url": "https://saparo.ai/",
+      "category": "效率工具",
+      "tags": [
+        "PH 周榜#6",
+        "339 票",
+        "优惠叠加",
+        "比价",
+        "实付计算"
+      ],
+      "icon": "tag",
+      "bg": "linear-gradient(135deg, #AD1457 0%, #D81B60 100%)",
+      "tool": "AI 购物 Agent",
       "hot": 0
     }
   ],

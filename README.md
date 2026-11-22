@@ -4,13 +4,15 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-21 21:08:21 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-22 21:07:41 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
+- [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（804 个条目 / 15 个分类）
+## 📑 内容导航（811 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -98,6 +100,8 @@
   标签：Pieter Levels / AI 评分 / 酒店搜索 / 去通胀
 - [Floot - 在 Claude 与 ChatGPT 里对话式建站](https://floot.com) — Y Combinator 孵化的对话式全栈建站平台：把 Floot 作为 connector 接入 Claude、ChatGPT、Cursor，一句话描述即自动生成带数据库、登录、邮件、Stripe 支付与 SEO 的真实应用，一键发布到 Web 与应用商店，无需 git、终端或构建额度。2026-11-04 上线即登 Product Hunt 当日榜 #2（324 票、88 评论，Garry Tan 精选）。  
   标签：PH 日榜#2 / 324 票 / YC 孵化 / 对话式建站 / Vibe Coding
+- [Tripmojo - 让同游伙伴都在看同一份计划的旅行 Agent](https://tripmojo.ai/) — 把散落在预订邮件里的机票、酒店信息收进共享行程，再在群聊里投票、查地点、跟踪航班变化与分摊费用——解决「旅程已经开始了，大家还没看同一份计划」的真实痛点；2026-11 周 Product Hunt 榜第 9（303 票）。  
+  标签：PH 周榜#9 / 303 票 / 共享行程 / 群聊规划 / 费用分摊
 
 <a id="cat-ai-工具" name="cat-ai-工具"></a>
 
@@ -588,6 +592,8 @@
   标签：PH 日榜#1 / 418 票 / Agent 自我改进 / 模拟世界 / 回归评测
 - [ClawsGO Science - 自带云实验室、能连跑数天写出论文的 AI 科研 Agent](https://clawsgo.ai) — 把「研究问题 → 做实验 → 写成带引用的论文」全自动化的科研 Agent：每台任务配常开云工作站，预装 500+ 科研工具与 90+ 数据集（GATK、GROMACS、Quantum ESPRESSO、QGIS 等），Claude 与 GPT Agent 集群协同连跑数天并自我校验，最终交出 LaTeX 编译的引用论文——官网示例 24 页、17 图、59 参考文献。2026-11-01 登 Product Hunt 当日榜 #2（279 票、57 评论）。  
   标签：PH 日榜#2 / 279 票 / AI 科研 Agent / 云实验室 / 自动写论文
+- [S.Space - AutoGen 团队打造的人与 Agent 共享工作空间](https://s.space) — 由 AutoGen 背后的团队打造：把团队里每个人的 Claude Code、Codex 等 Agent 接进同一个共享工作区，Agent 之间能主动交接任务、沿用共享记忆，重要操作仍由人批准；2026-11-18 登 Product Hunt 当日榜 #1（379 票、122 评论），是协作型多 Agent 工具的新爆款。  
+  标签：PH 日榜#1 / 379 票 / AutoGen 团队 / 多 Agent 协作 / 共享记忆
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -799,6 +805,8 @@
   标签：$49986 销售额 / Stripe 已验证 / 语音指挥 Agent / 无限画布 / Swift
 - [Disc Image Studio - 把图片刻进光盘的人眼可见图案](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) — 用 C#/.NET 10 手写的多平台光盘盘面图像生成与刻录工具：导入任意图片即可算出符合 CD、DVD、单层蓝光物理层约束的数据，刻录后盘面呈现肉眼可见图案；支持图层排版、影调抖动、三阶段实盘标定与 ISO/WAV+CUE 导出。GitHub 10,323★（API 实测），GPL-3.0，把冷门硬件玩法做成完整工程。  
   标签：1万 Star / 开源工具 / 光盘刻录 / 图像处理 / GPL-3.0
+- [Saparo - 把优惠码、返现和信用卡优惠算到一张账上](https://saparo.ai/) — 在美国商店找同款同尺码商品，把优惠码、返现、符合条件的信用卡优惠连同税费运费一起算清实付总额，帮你把结账准备好（最后付款仍由你点）；更有用的是算清实付、而不是堆更多优惠券，2026-11 周 Product Hunt 榜第 6（339 票）。  
+  标签：PH 周榜#6 / 339 票 / 优惠叠加 / 比价 / 实付计算
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1031,6 +1039,8 @@
   标签：PH #1 / 627 票 / $2.5M 融资 / 统一后端
 - [SaaStr.ai - AI 估值计算器](https://www.saastr.ai/) — SaaStr 创始人 Jason Lemkin 用 Replit Agent + Claude Code 手搓的 SaaS 估值工具，输入 ARR/增长率即出可辩护估值区间；上线 45 天狂揽 50 万用户，每月处理数十万次估值计算。  
   标签：50 万用户 / 45 天 / 估值工具 / 非技术创始人
+- [TheBold - 用创业执行记录换取投资人会面的 AI 融资台](https://thebold.vc) — 把融资准备变成可验证的门槛：跟踪并验证创业团队的真实进展与 traction、按投资人标准做针对性 AI 模拟面试，达标后才解锁配对投资人的日历直接预约；2026-11-17 登 Product Hunt 当日榜 #3（424 票、75 评论），把「找人引荐」改写成「先展示你做成了什么」。  
+  标签：PH 日榜#3 / 424 票 / 融资 Agent / AI 模拟面试 / 执行验证
 
 <a id="cat-ai办公" name="cat-ai办公"></a>
 
@@ -1207,6 +1217,8 @@
   标签：2.8千 Star / 谷歌研究 / 多智能体 / 论文写作 / 开源
 - [Academic Research Skills - 让 Agent 跑完科研全流程的技能库](https://github.com/Imbad0202/academic-research-skills) — 把科研流程拆成可复用 Skill 给 Claude Code：研究 → 写作 → 评审 → 修订 → 定稿一条龙，覆盖文献综述、学术写作与同行评审，让 AI 按学术规范完成从选题到成稿的全流程。GitHub 57,971 Star、4,421 Fork，2026 年 11 月增长最快的教育科研类开源项目之一。  
   标签：57.9K Star / 科研技能库 / 学术写作 / 文献综述 / 开源
+- [nanochat - Karpathy 出品、100 美元能买到的最好 ChatGPT](https://github.com/karpathy/nanochat) — Andrej Karpathy 从零手写的极简全栈 ChatGPT 实现，可本地训练与推理，被称为「$100 能买到的最好 ChatGPT」，是学习大模型训练最受欢迎的开源教程项目；GitHub 60,779★、8,529 fork，MIT 许可。  
+  标签：60.8K Star / Karpathy 出品 / 教育项目 / 本地训练 / MIT
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1368,6 +1380,8 @@
   标签：3900 Star / MIT 开源 / AI 视频 / 3D 资产 / Agent Skills
 - [UI/UX Pro Max Skill - 让 AI 写出专业级设计的技能包](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — 为编码 Agent 注入专业设计智能的 Skill：覆盖多平台 UI/UX 设计规范、配色排版、组件模式与落地页/移动端布局，让 Claude Code、Cursor、Codex 生成不再「千篇一律 AI 味」的界面。GitHub 152,417 Star、16,071 Fork，是全站星数最高的设计类 Agent Skill 之一，MIT 开源。  
   标签：152.4K Star / 设计技能包 / AI 生成 UI / MIT / Trending
+- [Verse Engine by Ctruh - 把 3D 场景变成浏览器可打开的链接](https://verse.ctruh.com/) — 把 Blender、Unity 或 Unreal 里的 3D 场景一键变成浏览器可直接打开的链接，客户不用下载工程或装应用就能自己走一圈，建筑漫游与产品展示少一次格式转换；2026-11 周 Product Hunt 榜第 7（324 票）。  
+  标签：PH 周榜#7 / 324 票 / 3D 场景分享 / 浏览器链接 / 建筑漫游
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1459,6 +1473,8 @@
   标签：PH 日榜#2 / 335 票 / AI 广告 Agent / $99/月起 / P&G 团队
 - [AXL - 给 AI 创始人用的 GTM 副驾，一句话跑 1200+ 营销动作](https://axl.tech) — 把落地页、问卷、直播、课程、邮件、CRM、AI 电话集成到一个系统的全栈 GTM 平台，并通过 MCP 给 Claude / ChatGPT / Cursor 开放 1,200+ 销售营销动作：「建个注册页、给新线索发欢迎邮件、开个 AI 客服接电话」一句话搞定；基于 100 万笔成交、300+ 信号训练的线索评分模型决定先联系谁。免费版含 500 联系人 / 每月 5000 封邮件。2026-11-08 登 Product Hunt 当日榜 #1（283 票、64 评论）。  
   标签：PH 日榜#1 / 283 票 / GTM Copilot / 1200+ MCP 动作 / 免费版
+- [Creatify Max - 从策略到投放一条龙的视频广告 Agent](https://creatify.ai/ad-agent) — 给一个商品链接或 brief，它就能生成视频广告、建好 Meta 与 TikTok 投放并持续盯数据、指出下一步该加预算还是暂停素材——但任何改动都要人批准才上线；出品方 Creatify 于 2025 年完成 $15.5M A 轮（WndrCo、Kindred Ventures 领投），2026-11 周 Product Hunt 榜第 3（427 票、143 评论）。  
+  标签：PH 周榜#3 / 427 票 / $15.5M A轮 / 广告 Agent / 视频生成
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
