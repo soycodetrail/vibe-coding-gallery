@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T21:07:41.104Z",
+  "updatedAt": "2026-11-24T01:23:11.870Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -12741,6 +12741,142 @@
       "icon": "tag",
       "bg": "linear-gradient(135deg, #AD1457 0%, #D81B60 100%)",
       "tool": "AI 购物 Agent",
+      "hot": 0
+    },
+    {
+      "name": "Chrome DevTools MCP - Google 官方让 AI 编码 Agent 操控真实浏览器的调试工具",
+      "desc": "Google Chrome 官方出品，通过 MCP 把真实 Chrome 的 DOM 检查、控制台、网络抓包与性能追踪能力交给 Claude Code、Gemini 等编码 Agent，让 Agent 自查页面、复现并修复前端 bug；GitHub 59,010 星，本周增长最快的开发者工具之一。",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "category": "效率工具",
+      "tags": [
+        "59K Star",
+        "Google 官方",
+        "浏览器自动化",
+        "MCP",
+        "前端调试"
+      ],
+      "icon": "bug",
+      "bg": "linear-gradient(135deg, #0B3C5D 0%, #328CC1 100%)",
+      "tool": "MCP / Chrome DevTools Protocol",
+      "hot": 0
+    },
+    {
+      "name": "AG-UI - 把 AI Agent 接入前端应用的开放交互协议",
+      "desc": "Agent-User Interaction Protocol，为 Agent 与前端之间建立标准化事件流协议，任意 Agent 后端都能无缝驱动 React/Vue 界面；2,159 fork、GitHub 21,354 星，正成为 Agent 前端集成的事实标准之一。",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "category": "Agent",
+      "tags": [
+        "21K Star",
+        "Agent 协议",
+        "前端集成",
+        "开源标准",
+        "事件流"
+      ],
+      "icon": "network",
+      "bg": "linear-gradient(135deg, #1F3A5F 0%, #3F88C5 100%)",
+      "tool": "TypeScript / 开放协议",
+      "hot": 0
+    },
+    {
+      "name": "Modern Web Guidance - Google 官方给编码 Agent 的 Web 开发最佳实践指南",
+      "desc": "Google Chrome 团队开源，把最新 Web 平台特性、废弃模式与性能陷阱整理成编码 Agent 可直接读取的结构化指南，帮 Agent 扫掉过时写法；本周暴涨 6,858 星登顶 GitHub 增长榜第二，累计 10,481 星。",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "category": "教育学习",
+      "tags": [
+        "10K Star",
+        "周增 6858",
+        "Web 最佳实践",
+        "Google 官方",
+        "Agent 指南"
+      ],
+      "icon": "book-open",
+      "bg": "linear-gradient(135deg, #123524 0%, #3E7B27 100%)",
+      "tool": "TypeScript / Google Chrome 官方",
+      "hot": 0
+    },
+    {
+      "name": "FFmpeg Skill - 让编码 Agent 在本地完成专业视频剪辑的技能包",
+      "desc": "把 42 个 FFmpeg 工具封装成 Claude Code 可直接加载的 Skill，剪片、转码、加字幕、抠音轨全在本地命令行完成，无需云端与付费 API；本周新增 2,998 星、累计 10,180 星，登顶 GitHub 视频技能类热榜。",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "category": "音乐音频",
+      "tags": [
+        "10K Star",
+        "周增 2998",
+        "视频剪辑",
+        "本地处理",
+        "Agent Skill"
+      ],
+      "icon": "film",
+      "bg": "linear-gradient(135deg, #4A0E4E 0%, #C44536 100%)",
+      "tool": "Claude Code Skill / FFmpeg",
+      "hot": 0
+    },
+    {
+      "name": "SoduWork - 把执行、审查与人工审批串成一条链的 Agent 工作流",
+      "desc": "面向真实团队协作的 Agent 工作台：Agent 负责执行、另一层负责审查、关键节点回到需求方批准，全程可追溯；上线 3 天暴涨 3,003 星、累计 7,049 星，登上 GitHub Trending 增速榜前十。",
+      "url": "https://github.com/mdiri-ai/SoduWork",
+      "category": "AI 工具",
+      "tags": [
+        "7K Star",
+        "3天涨3003",
+        "Agent 工作流",
+        "人机审批",
+        "Trending"
+      ],
+      "icon": "workflow",
+      "bg": "linear-gradient(135deg, #1B2A41 0%, #5C6B73 100%)",
+      "tool": "JavaScript / AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Home Assistant MCP - 让 Claude 与 ChatGPT 直接操控智能家居的官方桥接",
+      "desc": "Home Assistant 官方 MCP 服务，用自然语言配置、查询和自动化全屋设备，Claude、ChatGPT 等 AI 助手可直接接管灯光、空调与安防场景；GitHub 8,088 星，是智能家居与 AI Agent 结合最热门的开源项目。",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "category": "AI办公",
+      "tags": [
+        "8K Star",
+        "Home Assistant",
+        "智能家居",
+        "MCP",
+        "自然语言控制"
+      ],
+      "icon": "home",
+      "bg": "linear-gradient(135deg, #0E4D3C 0%, #37A58B 100%)",
+      "tool": "Python / MCP",
+      "hot": 0
+    },
+    {
+      "name": "Rust Anything - 记录行为再逐条回放，让 AI 把任意应用增量迁移到 Rust",
+      "desc": "由 erKam Yaman 开发，先录制应用的真实行为，再用这些用例对着增量 Rust 移植逐条回放验证，让重写成 Rust 这件事第一次可验收；上线 3 天新增 4,895 星、累计 8,655 星，冲上 GitHub Trending 增速榜第二。",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "category": "AI 工具",
+      "tags": [
+        "8.6K Star",
+        "3天涨4895",
+        "Rust 迁移",
+        "行为回放",
+        "AI 编码"
+      ],
+      "icon": "hammer",
+      "bg": "linear-gradient(135deg, #592F0D 0%, #C97B3C 100%)",
+      "tool": "Rust / Claude Code Skill",
+      "hot": 0
+    },
+    {
+      "name": "Prelulu - 与你视频对话的 AI 故事角色，把实时数字人带到消费级",
+      "desc": "把实时数字人 avatar 技术首次规模化到消费端：创建自己的 AI 角色，从文字角色扮演升级到面对面的实时视频对话，还能自行编写剧情；2026-11-04 登上 Product Hunt 当日榜第 3（271 票、53 条评论）。",
+      "url": "https://prelulu.ai/",
+      "category": "社交社区",
+      "tags": [
+        "PH 日榜#3",
+        "271 票",
+        "AI 角色扮演",
+        "实时视频",
+        "数字人"
+      ],
+      "icon": "message-circle",
+      "bg": "linear-gradient(135deg, #3A0D28 0%, #A63D6E 100%)",
+      "tool": "实时数字人 / AI 视频",
       "hot": 0
     }
   ],

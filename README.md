@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-22 21:07:41 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-24 01:23:11 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（811 个条目 / 15 个分类）
+## 📑 内容导航（819 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -375,6 +375,10 @@
   标签：PH 日榜#1 / 438 票 / MCP 网关 / 55000+ 工具 / Agent 基建
 - [Kimi K3 in C - 纯 C99 在单 CPU 上跑通 2.78 万亿参数大模型](https://github.com/FareedKhan-dev/kimi-k3-in-c) — 用零依赖的可移植 C99 从头实现推理引擎，在单颗 CPU、8.24GB 内存上跑通 2.78 万亿参数的 Kimi K3 MoE 大模型——不用 BLAS、不用框架、不用 GPU，从 8GB 笔记本到 128GB 工作站输出字节级一致。GitHub 12,516 Star、1,940 Fork，2026 年 11 月 GitHub Trending 上榜项目，Apache-2.0 开源。  
   标签：12.5K Star / 2.78T 参数 / 单 CPU 推理 / Apache-2.0 / Trending
+- [SoduWork - 把执行、审查与人工审批串成一条链的 Agent 工作流](https://github.com/mdiri-ai/SoduWork) — 面向真实团队协作的 Agent 工作台：Agent 负责执行、另一层负责审查、关键节点回到需求方批准，全程可追溯；上线 3 天暴涨 3,003 星、累计 7,049 星，登上 GitHub Trending 增速榜前十。  
+  标签：7K Star / 3天涨3003 / Agent 工作流 / 人机审批 / Trending
+- [Rust Anything - 记录行为再逐条回放，让 AI 把任意应用增量迁移到 Rust](https://github.com/erkamyaman/rust-anything) — 由 erKam Yaman 开发，先录制应用的真实行为，再用这些用例对着增量 Rust 移植逐条回放验证，让重写成 Rust 这件事第一次可验收；上线 3 天新增 4,895 星、累计 8,655 星，冲上 GitHub Trending 增速榜第二。  
+  标签：8.6K Star / 3天涨4895 / Rust 迁移 / 行为回放 / AI 编码
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -592,6 +596,8 @@
   标签：PH 日榜#2 / 279 票 / AI 科研 Agent / 云实验室 / 自动写论文
 - [S.Space - AutoGen 团队打造的人与 Agent 共享工作空间](https://s.space) — 由 AutoGen 背后的团队打造：把团队里每个人的 Claude Code、Codex 等 Agent 接进同一个共享工作区，Agent 之间能主动交接任务、沿用共享记忆，重要操作仍由人批准；2026-11-18 登 Product Hunt 当日榜 #1（379 票、122 评论），是协作型多 Agent 工具的新爆款。  
   标签：PH 日榜#1 / 379 票 / AutoGen 团队 / 多 Agent 协作 / 共享记忆
+- [AG-UI - 把 AI Agent 接入前端应用的开放交互协议](https://github.com/ag-ui-protocol/ag-ui) — Agent-User Interaction Protocol，为 Agent 与前端之间建立标准化事件流协议，任意 Agent 后端都能无缝驱动 React/Vue 界面；2,159 fork、GitHub 21,354 星，正成为 Agent 前端集成的事实标准之一。  
+  标签：21K Star / Agent 协议 / 前端集成 / 开源标准 / 事件流
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -805,6 +811,8 @@
   标签：1万 Star / 开源工具 / 光盘刻录 / 图像处理 / GPL-3.0
 - [Saparo - 把优惠码、返现和信用卡优惠算到一张账上](https://saparo.ai/) — 在美国商店找同款同尺码商品，把优惠码、返现、符合条件的信用卡优惠连同税费运费一起算清实付总额，帮你把结账准备好（最后付款仍由你点）；更有用的是算清实付、而不是堆更多优惠券，2026-11 周 Product Hunt 榜第 6（339 票）。  
   标签：PH 周榜#6 / 339 票 / 优惠叠加 / 比价 / 实付计算
+- [Chrome DevTools MCP - Google 官方让 AI 编码 Agent 操控真实浏览器的调试工具](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Google Chrome 官方出品，通过 MCP 把真实 Chrome 的 DOM 检查、控制台、网络抓包与性能追踪能力交给 Claude Code、Gemini 等编码 Agent，让 Agent 自查页面、复现并修复前端 bug；GitHub 59,010 星，本周增长最快的开发者工具之一。  
+  标签：59K Star / Google 官方 / 浏览器自动化 / MCP / 前端调试
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1138,6 +1146,8 @@
   标签：PH 日榜#1 / 485 票 / 32+ 购买信号 / 销售 Agent / MCP
 - [Spec Kit - GitHub 官方的规格驱动开发工具包](https://github.com/github/spec-kit) — GitHub 官方开源的 Spec-Driven Development（SDD）工具包，让「先写规格、再让 AI 编码」成为可复用流程：/constitute、/specify、/plan、/tasks、/implement 一套命令把需求翻译成规格、计划与任务清单，兼容 Claude Code、Codex、Cursor、Copilot 等主流 Agent。GitHub 150,894 Star、13,549 Fork，2026 年 11 月 GitHub Trending 现象级项目，被业界视为「vibe coding 走向工程化」的官方标准。  
   标签：150.8K Star / GitHub 官方 / 规格驱动开发 / MIT / Trending
+- [Home Assistant MCP - 让 Claude 与 ChatGPT 直接操控智能家居的官方桥接](https://github.com/homeassistant-ai/ha-mcp) — Home Assistant 官方 MCP 服务，用自然语言配置、查询和自动化全屋设备，Claude、ChatGPT 等 AI 助手可直接接管灯光、空调与安防场景；GitHub 8,088 星，是智能家居与 AI Agent 结合最热门的开源项目。  
+  标签：8K Star / Home Assistant / 智能家居 / MCP / 自然语言控制
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1217,6 +1227,8 @@
   标签：57.9K Star / 科研技能库 / 学术写作 / 文献综述 / 开源
 - [nanochat - Karpathy 出品、100 美元能买到的最好 ChatGPT](https://github.com/karpathy/nanochat) — Andrej Karpathy 从零手写的极简全栈 ChatGPT 实现，可本地训练与推理，被称为「$100 能买到的最好 ChatGPT」，是学习大模型训练最受欢迎的开源教程项目；GitHub 60,779★、8,529 fork，MIT 许可。  
   标签：60.8K Star / Karpathy 出品 / 教育项目 / 本地训练 / MIT
+- [Modern Web Guidance - Google 官方给编码 Agent 的 Web 开发最佳实践指南](https://github.com/GoogleChrome/modern-web-guidance-src) — Google Chrome 团队开源，把最新 Web 平台特性、废弃模式与性能陷阱整理成编码 Agent 可直接读取的结构化指南，帮 Agent 扫掉过时写法；本周暴涨 6,858 星登顶 GitHub 增长榜第二，累计 10,481 星。  
+  标签：10K Star / 周增 6858 / Web 最佳实践 / Google 官方 / Agent 指南
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1528,6 +1540,8 @@
   标签：近8千 Star / AI 视频 Agent / 开源 / Trending 榜单 / 自然语言剪辑
 - [Mountain Whisperer - 109 天做到 5.5 万美元月收入的 AI 口哨教练](https://www.mtnwispr.com) — Ryan Matthews 用 Claude Code + Codex 独立 vibe coding 的猎鸭/麋鹿叫声训练 App：对着手机吹口哨即得 0-100 分与一条关键改进建议，对标两届州冠军 Joel Turner 的录音。上线 109 天做到约 55,000 美元 MRR，45 分钟教学视频 15 万播放、40% 免费试用转付费，是「垂直刚需 + AI 音频评分 + 付费广告」的经典变现范本。  
   标签：$55K MRR / 109 天 / AI 音频评分 / 独立开发 / Claude Code
+- [FFmpeg Skill - 让编码 Agent 在本地完成专业视频剪辑的技能包](https://github.com/kajisho5/ffmpeg-skill) — 把 42 个 FFmpeg 工具封装成 Claude Code 可直接加载的 Skill，剪片、转码、加字幕、抠音轨全在本地命令行完成，无需云端与付费 API；本周新增 2,998 星、累计 10,180 星，登顶 GitHub 视频技能类热榜。  
+  标签：10K Star / 周增 2998 / 视频剪辑 / 本地处理 / Agent Skill
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 
@@ -1654,6 +1668,8 @@
   标签：AI 小程序 / 互动游戏 / TikTok 式 / 零代码 / 60万+ 安装
 - [Teamily AI - 你和 AI Agent 团队在同一个 IM 里协同干活](https://teamily.ai) — AI 原生的「人机协作」即时通讯，把个人 Agent、Agent 团队与真人放进同一对话：内置网页/幻灯片/文档/仪表盘协作工作室，自主记忆会随每次对话自组织生长，语义路由为每个任务挑选最合适的模型组合，共享信息流里可一键 remix/fork 别人的 Agent。2026-11-03 登 Product Hunt 日榜 #2（约 387 票、185 评论），由两位资深 AI 研究者创办，覆盖 Web/iOS/Android/桌面端。  
   标签：PH 日榜#2 / 387 票 / 人机协作 IM / Agent 社交网络 / 自进化记忆
+- [Prelulu - 与你视频对话的 AI 故事角色，把实时数字人带到消费级](https://prelulu.ai/) — 把实时数字人 avatar 技术首次规模化到消费端：创建自己的 AI 角色，从文字角色扮演升级到面对面的实时视频对话，还能自行编写剧情；2026-11-04 登上 Product Hunt 当日榜第 3（271 票、53 条评论）。  
+  标签：PH 日榜#3 / 271 票 / AI 角色扮演 / 实时视频 / 数字人
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 
