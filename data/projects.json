@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T02:49:31.951Z",
+  "updatedAt": "2026-11-25T22:24:28.288Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -13013,6 +13013,108 @@
       "icon": "music",
       "bg": "linear-gradient(135deg, #2D1B4E 0%, #7B4FA8 100%)",
       "tool": "Web / Firebase",
+      "hot": 0
+    },
+    {
+      "name": "App Store Compliance - 上架前自动排查拒审风险的 AI 技能包",
+      "desc": "把 124 条真实拒审模式、112 个合规截止日期（EU AI Act / DSA / COPPA 等）做成 Claude Code、Codex 可直接调用的提交前检查 Playbook，帮 AI 生成的应用少踩审核坑；GitHub 6,416 星，2026-11-25 单日暴涨 928 星冲上 GitHub Trending。",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "category": "效率工具",
+      "tags": [
+        "6.4K 星",
+        "单日+928",
+        "124 拒审模式",
+        "上架合规",
+        "开源技能包"
+      ],
+      "icon": "shield-check",
+      "bg": "linear-gradient(135deg, #1E3A5F 0%, #3B82C4 100%)",
+      "tool": "Claude Code Skill",
+      "hot": 0
+    },
+    {
+      "name": "OpenSRE - 给 CI/CD 自动排障的开源 SRE Agent",
+      "desc": "面向 CI/CD 可靠性的开源 Agent，自动定位流水线故障并给出根因分析，把值班排障经验沉淀成可复用规则；GitHub 15,484 星、当日新增约 398 星持续登上 GitHub Trending，被开发者称为「开源 SRE 可靠性智能体」。",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "category": "Agent",
+      "tags": [
+        "15.5K 星",
+        "CI/CD 排障",
+        "自动根因",
+        "开源 SRE",
+        "Trending"
+      ],
+      "icon": "workflow",
+      "bg": "linear-gradient(135deg, #0D2B2B 0%, #1F7A6B 100%)",
+      "tool": "Python / AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "AutoClip - 一个链接一键出片的开源 AI 视频剪辑",
+      "desc": "把播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面与发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts；GitHub 16,092 星、单日新增 980 星登顶 GitHub Trending，是国产开源 AI 剪辑的爆款。",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "category": "设计创意",
+      "tags": [
+        "16.1K 星",
+        "单日+980",
+        "一键出片",
+        "自动字幕",
+        "开源"
+      ],
+      "icon": "film",
+      "bg": "linear-gradient(135deg, #3D1F1F 0%, #B0413E 100%)",
+      "tool": "AI 视频剪辑 / Python",
+      "hot": 0
+    },
+    {
+      "name": "Composio - 让 AI Agent 连接 1000+ 应用的工具网关",
+      "desc": "用 TypeScript / Python SDK 给 Agent 提供跨 1000+ 应用的认证工具与统一调用能力，是 Agent 生态最主流的工具集成层之一；GitHub 31,292 星，被大量开源 Agent 项目作为标准工具底座。",
+      "url": "https://github.com/ComposioHQ/composio",
+      "category": "Agent",
+      "tags": [
+        "31.3K 星",
+        "1000+ 应用",
+        "Agent 工具网关",
+        "认证集成",
+        "开源"
+      ],
+      "icon": "network",
+      "bg": "linear-gradient(135deg, #1A2E4A 0%, #2E6FA8 100%)",
+      "tool": "TypeScript / Python",
+      "hot": 0
+    },
+    {
+      "name": "Zoom Slides - 会议记录一键变成可编辑演示文稿",
+      "desc": "Zoom 官方 AI 演示工具，把会议转录、摘要、文档与想法直接转成带布局、视觉和演讲者备注的可编辑 PPT，还能用 AI 逐页润色并导出 PowerPoint；2026-11-16 登上 Product Hunt 当日榜第 1（299 票、101 条评论）。",
+      "url": "https://slides.zoom.us/",
+      "category": "AI办公",
+      "tags": [
+        "PH 日榜#1",
+        "299 票",
+        "会议转 PPT",
+        "Zoom 官方",
+        "可编辑"
+      ],
+      "icon": "file-text",
+      "bg": "linear-gradient(135deg, #2B1E42 0%, #7C4DBF 100%)",
+      "tool": "Zoom AI",
+      "hot": 0
+    },
+    {
+      "name": "AI Context Flow 2.0 - 跨所有 AI Agent 共享的可回滚记忆层",
+      "desc": "通过 MCP 让 Claude、ChatGPT、Grok、Cursor 共享同一份上下文，按项目或客户分桶、记录完整版本历史并支持一键回滚，避免 AI 记忆散落各处；官方称已有 5,000+ 人使用，2026-11-21 登上 Product Hunt 当日榜第 2（241 票、45 条评论）。",
+      "url": "https://plurality.network/ai-context-flow/",
+      "category": "AI工具",
+      "tags": [
+        "PH 日榜#2",
+        "241 票",
+        "5000+ 用户",
+        "MCP 记忆层",
+        "版本回滚"
+      ],
+      "icon": "database",
+      "bg": "linear-gradient(135deg, #2D1B3D 0%, #6B3FA0 100%)",
+      "tool": "MCP / AI Agent",
       "hot": 0
     }
   ],

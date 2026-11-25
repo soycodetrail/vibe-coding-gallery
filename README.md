@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-25 02:49:31 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-25 22:24:28 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（827 个条目 / 15 个分类）
+## 📑 内容导航（833 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -602,6 +602,10 @@
   标签：21K Star / Agent 协议 / 前端集成 / 开源标准 / 事件流
 - [LoopForge - 腾讯开源的自托管编码 Agent 交付工作流编排器](https://github.com/Tencent/LoopForge) — 腾讯开源的自托管交付工作流，用脚本与人工审批关卡编排 CodeBuddy、Codex 与 Claude Code 协同完成编码任务，让编码 Agent 的产出可控、可追溯；GitHub 实测 5,986 星、单周暴涨 4,599 星，冲上 GitHub Trending 周榜第 7。  
   标签：6K Star / 周增4599 / 腾讯开源 / 自托管 / Agent 编排
+- [OpenSRE - 给 CI/CD 自动排障的开源 SRE Agent](https://github.com/Tracer-Cloud/opensre) — 面向 CI/CD 可靠性的开源 Agent，自动定位流水线故障并给出根因分析，把值班排障经验沉淀成可复用规则；GitHub 15,484 星、当日新增约 398 星持续登上 GitHub Trending，被开发者称为「开源 SRE 可靠性智能体」。  
+  标签：15.5K 星 / CI/CD 排障 / 自动根因 / 开源 SRE / Trending
+- [Composio - 让 AI Agent 连接 1000+ 应用的工具网关](https://github.com/ComposioHQ/composio) — 用 TypeScript / Python SDK 给 Agent 提供跨 1000+ 应用的认证工具与统一调用能力，是 Agent 生态最主流的工具集成层之一；GitHub 31,292 星，被大量开源 Agent 项目作为标准工具底座。  
+  标签：31.3K 星 / 1000+ 应用 / Agent 工具网关 / 认证集成 / 开源
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -821,6 +825,8 @@
   标签：PH 日榜#3 / 274 票 / Agent 工作流 / MCP / Mac
 - [Codemany - 把 GitHub Actions 账单从每月 215 美元砍到 4 美元](https://codemany.com) — 在自己的 Mac 或 Linux 上跑 GitHub Actions，每个任务分配一台全新 VM，官方实测快 3 倍且无按分钟计费，CI 账单从 10 月的 215 美元降到 11 月的 4 美元；2026-11-21 登上 Product Hunt 当日榜第 3（195 票）。  
   标签：PH 日榜#3 / 195 票 / CI 提速3倍 / 自托管 / 省钱
+- [App Store Compliance - 上架前自动排查拒审风险的 AI 技能包](https://github.com/mjmirza/app-store-compliance) — 把 124 条真实拒审模式、112 个合规截止日期（EU AI Act / DSA / COPPA 等）做成 Claude Code、Codex 可直接调用的提交前检查 Playbook，帮 AI 生成的应用少踩审核坑；GitHub 6,416 星，2026-11-25 单日暴涨 928 星冲上 GitHub Trending。  
+  标签：6.4K 星 / 单日+928 / 124 拒审模式 / 上架合规 / 开源技能包
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1158,6 +1164,8 @@
   标签：8K Star / Home Assistant / 智能家居 / MCP / 自然语言控制
 - [HiringNow - 每 5 分钟扫描 24 万个招聘页的 AI 求职 Agent](https://hiringnow.ai) — 每 5 分钟监控 247,000+ 家公司招聘页，比主流招聘平台更早发现新职位，按个人画像匹配岗位、定制简历与求职信，在用户批准后代为投递并回执追踪；2026-11-14 登上 Product Hunt 当日榜第 1（302 票、28 条评论）。  
   标签：PH 日榜#1 / 302 票 / 24万招聘页 / 简历定制 / 自动投递
+- [Zoom Slides - 会议记录一键变成可编辑演示文稿](https://slides.zoom.us/) — Zoom 官方 AI 演示工具，把会议转录、摘要、文档与想法直接转成带布局、视觉和演讲者备注的可编辑 PPT，还能用 AI 逐页润色并导出 PowerPoint；2026-11-16 登上 Product Hunt 当日榜第 1（299 票、101 条评论）。  
+  标签：PH 日榜#1 / 299 票 / 会议转 PPT / Zoom 官方 / 可编辑
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1404,6 +1412,8 @@
   标签：PH 周榜#7 / 324 票 / 3D 场景分享 / 浏览器链接 / 建筑漫游
 - [Templify AI - 不会剪辑也能做爆款短视频的 iPhone 内容编辑器](https://templify.ai) — 一体化视频、照片与轮播图编辑器，1,200+ 设计模板把随手拍变成 Reels、TikTok 与 Shorts，内置 AI 剪辑、节拍同步、自动字幕与去背景；团队自述累计 100 万+下载、300 万+视频、App Store 4.8 星，2026-11-13 登上 Product Hunt 当日榜第 1（391 票）。  
   标签：PH 日榜#1 / 391 票 / 100万下载 / 4.8 星 / 1200+ 模板
+- [AutoClip - 一个链接一键出片的开源 AI 视频剪辑](https://github.com/zhouxiaoka/autoclip) — 把播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面与发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts；GitHub 16,092 星、单日新增 980 星登顶 GitHub Trending，是国产开源 AI 剪辑的爆款。  
+  标签：16.1K 星 / 单日+980 / 一键出片 / 自动字幕 / 开源
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1747,6 +1757,8 @@
   标签：语音输入 / $12K MRR / 隐私优先 / 10K+ 用户
 - [Unslop - 反 AI 审美降级技能](https://github.com/heydamir/unslop) — Claude Code 技能，自动检测「AI 味」UI（紫渐变、发光、emoji 标签、喊话式文案）并逐屏重设计为更有设计感的界面；GitHub 9.8K★，是 vibe coding 时代反「AI slop」的利器。  
   标签：9.8K★ / Claude Code / 反 AI slop / UI 重设计
+- [AI Context Flow 2.0 - 跨所有 AI Agent 共享的可回滚记忆层](https://plurality.network/ai-context-flow/) — 通过 MCP 让 Claude、ChatGPT、Grok、Cursor 共享同一份上下文，按项目或客户分桶、记录完整版本历史并支持一键回滚，避免 AI 记忆散落各处；官方称已有 5,000+ 人使用，2026-11-21 登上 Product Hunt 当日榜第 2（241 票、45 条评论）。  
+  标签：PH 日榜#2 / 241 票 / 5000+ 用户 / MCP 记忆层 / 版本回滚
 
 <a id="cat-web应用" name="cat-web应用"></a>
 
