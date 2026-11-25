@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-24 01:23:11 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-25 02:49:31 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（819 个条目 / 15 个分类）
+## 📑 内容导航（827 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -379,6 +379,8 @@
   标签：7K Star / 3天涨3003 / Agent 工作流 / 人机审批 / Trending
 - [Rust Anything - 记录行为再逐条回放，让 AI 把任意应用增量迁移到 Rust](https://github.com/erkamyaman/rust-anything) — 由 erKam Yaman 开发，先录制应用的真实行为，再用这些用例对着增量 Rust 移植逐条回放验证，让重写成 Rust 这件事第一次可验收；上线 3 天新增 4,895 星、累计 8,655 星，冲上 GitHub Trending 增速榜第二。  
   标签：8.6K Star / 3天涨4895 / Rust 迁移 / 行为回放 / AI 编码
+- [Kolbo.AI - 一个订阅聚合 100 多种 AI 模型的创作工作台](https://kolbo.ai) — 用 Lovable、Cursor 与 Claude Code 打造的「AI 模型超市」，把 GPT、Claude、Midjourney、Suno、Kling、Veo、Flux、ElevenLabs 等 100+ 模型装进同一共享积分池；截至 2026-11-21 月经常性收入 48,223 美元、748 个付费订阅、累计营收 446,995 美元，经 Stripe / TrustMRR 验证，是 MissumAI 榜单上收入最高的 vibe coding 作品。  
+  标签：$48K MRR / Stripe 验证 / 748 订阅 / 100+ 模型 / AI 聚合
 
 <a id="cat-agent" name="cat-agent"></a>
 
@@ -598,6 +600,8 @@
   标签：PH 日榜#1 / 379 票 / AutoGen 团队 / 多 Agent 协作 / 共享记忆
 - [AG-UI - 把 AI Agent 接入前端应用的开放交互协议](https://github.com/ag-ui-protocol/ag-ui) — Agent-User Interaction Protocol，为 Agent 与前端之间建立标准化事件流协议，任意 Agent 后端都能无缝驱动 React/Vue 界面；2,159 fork、GitHub 21,354 星，正成为 Agent 前端集成的事实标准之一。  
   标签：21K Star / Agent 协议 / 前端集成 / 开源标准 / 事件流
+- [LoopForge - 腾讯开源的自托管编码 Agent 交付工作流编排器](https://github.com/Tencent/LoopForge) — 腾讯开源的自托管交付工作流，用脚本与人工审批关卡编排 CodeBuddy、Codex 与 Claude Code 协同完成编码任务，让编码 Agent 的产出可控、可追溯；GitHub 实测 5,986 星、单周暴涨 4,599 星，冲上 GitHub Trending 周榜第 7。  
+  标签：6K Star / 周增4599 / 腾讯开源 / 自托管 / Agent 编排
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -813,6 +817,10 @@
   标签：PH 周榜#6 / 339 票 / 优惠叠加 / 比价 / 实付计算
 - [Chrome DevTools MCP - Google 官方让 AI 编码 Agent 操控真实浏览器的调试工具](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Google Chrome 官方出品，通过 MCP 把真实 Chrome 的 DOM 检查、控制台、网络抓包与性能追踪能力交给 Claude Code、Gemini 等编码 Agent，让 Agent 自查页面、复现并修复前端 bug；GitHub 59,010 星，本周增长最快的开发者工具之一。  
   标签：59K Star / Google 官方 / 浏览器自动化 / MCP / 前端调试
+- [Toone - 把 Grokbot 变成可编排 Agent 工作流平台的 Mac 应用](https://trytoone.com) — 被称为「Grokbot 遇上 n8n」，用自然语言搭建精确的 Agent 工作流，每个节点都是可选模型的 Agent 对话或确定性自动步骤，支持中途暂停续跑、实时协作与 MCP；2026-11-18 登上 Product Hunt 当日榜第 3（274 票、49 条评论）。  
+  标签：PH 日榜#3 / 274 票 / Agent 工作流 / MCP / Mac
+- [Codemany - 把 GitHub Actions 账单从每月 215 美元砍到 4 美元](https://codemany.com) — 在自己的 Mac 或 Linux 上跑 GitHub Actions，每个任务分配一台全新 VM，官方实测快 3 倍且无按分钟计费，CI 账单从 10 月的 215 美元降到 11 月的 4 美元；2026-11-21 登上 Product Hunt 当日榜第 3（195 票）。  
+  标签：PH 日榜#3 / 195 票 / CI 提速3倍 / 自托管 / 省钱
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1148,6 +1156,8 @@
   标签：150.8K Star / GitHub 官方 / 规格驱动开发 / MIT / Trending
 - [Home Assistant MCP - 让 Claude 与 ChatGPT 直接操控智能家居的官方桥接](https://github.com/homeassistant-ai/ha-mcp) — Home Assistant 官方 MCP 服务，用自然语言配置、查询和自动化全屋设备，Claude、ChatGPT 等 AI 助手可直接接管灯光、空调与安防场景；GitHub 8,088 星，是智能家居与 AI Agent 结合最热门的开源项目。  
   标签：8K Star / Home Assistant / 智能家居 / MCP / 自然语言控制
+- [HiringNow - 每 5 分钟扫描 24 万个招聘页的 AI 求职 Agent](https://hiringnow.ai) — 每 5 分钟监控 247,000+ 家公司招聘页，比主流招聘平台更早发现新职位，按个人画像匹配岗位、定制简历与求职信，在用户批准后代为投递并回执追踪；2026-11-14 登上 Product Hunt 当日榜第 1（302 票、28 条评论）。  
+  标签：PH 日榜#1 / 302 票 / 24万招聘页 / 简历定制 / 自动投递
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1392,6 +1402,8 @@
   标签：152.4K Star / 设计技能包 / AI 生成 UI / MIT / Trending
 - [Verse Engine by Ctruh - 把 3D 场景变成浏览器可打开的链接](https://verse.ctruh.com/) — 把 Blender、Unity 或 Unreal 里的 3D 场景一键变成浏览器可直接打开的链接，客户不用下载工程或装应用就能自己走一圈，建筑漫游与产品展示少一次格式转换；2026-11 周 Product Hunt 榜第 7（324 票）。  
   标签：PH 周榜#7 / 324 票 / 3D 场景分享 / 浏览器链接 / 建筑漫游
+- [Templify AI - 不会剪辑也能做爆款短视频的 iPhone 内容编辑器](https://templify.ai) — 一体化视频、照片与轮播图编辑器，1,200+ 设计模板把随手拍变成 Reels、TikTok 与 Shorts，内置 AI 剪辑、节拍同步、自动字幕与去背景；团队自述累计 100 万+下载、300 万+视频、App Store 4.8 星，2026-11-13 登上 Product Hunt 当日榜第 1（391 票）。  
+  标签：PH 日榜#1 / 391 票 / 100万下载 / 4.8 星 / 1200+ 模板
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1542,6 +1554,8 @@
   标签：$55K MRR / 109 天 / AI 音频评分 / 独立开发 / Claude Code
 - [FFmpeg Skill - 让编码 Agent 在本地完成专业视频剪辑的技能包](https://github.com/kajisho5/ffmpeg-skill) — 把 42 个 FFmpeg 工具封装成 Claude Code 可直接加载的 Skill，剪片、转码、加字幕、抠音轨全在本地命令行完成，无需云端与付费 API；本周新增 2,998 星、累计 10,180 星，登顶 GitHub 视频技能类热榜。  
   标签：10K Star / 周增 2998 / 视频剪辑 / 本地处理 / Agent Skill
+- [Backspin - 在浏览器里跟着真实唱盘学打碟的交互课程](https://backspin-dj.web.app) — 把双黑胶唱盘与混音台搬进浏览器，21 节短视频课程手把手教混音、对拍、EQ 与搓盘，点「Show me」先演示再让你上手并精准指出错在哪，内置练习曲目、无需设备与账号；2026-11-21 登上 Product Hunt 当日榜第 7（99 票）。  
+  标签：PH 日榜#7 / 99 票 / 浏览器打碟 / 21 节课 / 免费
 
 <a id="cat-医疗健康" name="cat-医疗健康"></a>
 
@@ -1615,6 +1629,8 @@
   标签：100K+ 用户 / App Store 4.9 星 / 肽类追踪 / GLP-1 / 免费
 - [PeptIQ - 一人用 AI 做的多肽追踪 App，月入 2 万美元](https://peptiq.io) — 软件工程师 Kris Chase 业余用 AI 独立 vibe coding 的多肽教育与剂量追踪 App：一句话记录注射、轮换部位、管理库存，并接入 Apple Health/Oura/WHOOP 与化验单对照睡眠、HRV、DEXA 变化。TrustMRR 显示近 30 天收入 19,930 美元（RevenueCat 已验证，2026-11-16）、累计 14 万美元，App Store 4.7 分 1000+ 评价、2.2 万账户、覆盖 100+ 国家，是垂直健康赛道 vibe coding 变现范本。  
   标签：$19.9K/月 / RevenueCat 验证 / 2.2万用户 / AI 独立开发 / 健康追踪
+- [Brawler - 用 AI 给拳击动作打分的手机私教](https://wrestleai.app) — 上传空击、沙袋或对练视频，AI 自动评分站架、防守、步伐、组合拳与头部移动；据创始人自述由 Rork 一口气生成 10 万行代码，RevenueCat 验证近 30 天收入 55,118 美元、超 10 万次下载、App Store 4.8 星，是无技术背景创作者 vibe coding 的代表作。  
+  标签：$55K/30天 / RevenueCat 验证 / 10万+下载 / 4.8 星 / AI 健身
 
 <a id="cat-社交社区" name="cat-社交社区"></a>
 

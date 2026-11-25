@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T01:23:11.870Z",
+  "updatedAt": "2026-11-25T02:49:31.951Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -12877,6 +12877,142 @@
       "icon": "message-circle",
       "bg": "linear-gradient(135deg, #3A0D28 0%, #A63D6E 100%)",
       "tool": "实时数字人 / AI 视频",
+      "hot": 0
+    },
+    {
+      "name": "LoopForge - 腾讯开源的自托管编码 Agent 交付工作流编排器",
+      "desc": "腾讯开源的自托管交付工作流，用脚本与人工审批关卡编排 CodeBuddy、Codex 与 Claude Code 协同完成编码任务，让编码 Agent 的产出可控、可追溯；GitHub 实测 5,986 星、单周暴涨 4,599 星，冲上 GitHub Trending 周榜第 7。",
+      "url": "https://github.com/Tencent/LoopForge",
+      "category": "Agent",
+      "tags": [
+        "6K Star",
+        "周增4599",
+        "腾讯开源",
+        "自托管",
+        "Agent 编排"
+      ],
+      "icon": "workflow",
+      "bg": "linear-gradient(135deg, #102A43 0%, #3D6E8E 100%)",
+      "tool": "Go / CodeBuddy + Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Toone - 把 Grokbot 变成可编排 Agent 工作流平台的 Mac 应用",
+      "desc": "被称为「Grokbot 遇上 n8n」，用自然语言搭建精确的 Agent 工作流，每个节点都是可选模型的 Agent 对话或确定性自动步骤，支持中途暂停续跑、实时协作与 MCP；2026-11-18 登上 Product Hunt 当日榜第 3（274 票、49 条评论）。",
+      "url": "https://trytoone.com",
+      "category": "效率工具",
+      "tags": [
+        "PH 日榜#3",
+        "274 票",
+        "Agent 工作流",
+        "MCP",
+        "Mac"
+      ],
+      "icon": "network",
+      "bg": "linear-gradient(135deg, #4A1D6E 0%, #B85BB5 100%)",
+      "tool": "AI Agent / 工作流编排",
+      "hot": 0
+    },
+    {
+      "name": "Codemany - 把 GitHub Actions 账单从每月 215 美元砍到 4 美元",
+      "desc": "在自己的 Mac 或 Linux 上跑 GitHub Actions，每个任务分配一台全新 VM，官方实测快 3 倍且无按分钟计费，CI 账单从 10 月的 215 美元降到 11 月的 4 美元；2026-11-21 登上 Product Hunt 当日榜第 3（195 票）。",
+      "url": "https://codemany.com",
+      "category": "效率工具",
+      "tags": [
+        "PH 日榜#3",
+        "195 票",
+        "CI 提速3倍",
+        "自托管",
+        "省钱"
+      ],
+      "icon": "git-branch",
+      "bg": "linear-gradient(135deg, #1B3A4B 0%, #2E8B8B 100%)",
+      "tool": "自托管 CI / Rust",
+      "hot": 0
+    },
+    {
+      "name": "Kolbo.AI - 一个订阅聚合 100 多种 AI 模型的创作工作台",
+      "desc": "用 Lovable、Cursor 与 Claude Code 打造的「AI 模型超市」，把 GPT、Claude、Midjourney、Suno、Kling、Veo、Flux、ElevenLabs 等 100+ 模型装进同一共享积分池；截至 2026-11-21 月经常性收入 48,223 美元、748 个付费订阅、累计营收 446,995 美元，经 Stripe / TrustMRR 验证，是 MissumAI 榜单上收入最高的 vibe coding 作品。",
+      "url": "https://kolbo.ai",
+      "category": "AI 工具",
+      "tags": [
+        "$48K MRR",
+        "Stripe 验证",
+        "748 订阅",
+        "100+ 模型",
+        "AI 聚合"
+      ],
+      "icon": "boxes",
+      "bg": "linear-gradient(135deg, #2D1B4E 0%, #6A3FA0 100%)",
+      "tool": "Lovable + Cursor + Claude Code",
+      "hot": 0
+    },
+    {
+      "name": "Brawler - 用 AI 给拳击动作打分的手机私教",
+      "desc": "上传空击、沙袋或对练视频，AI 自动评分站架、防守、步伐、组合拳与头部移动；据创始人自述由 Rork 一口气生成 10 万行代码，RevenueCat 验证近 30 天收入 55,118 美元、超 10 万次下载、App Store 4.8 星，是无技术背景创作者 vibe coding 的代表作。",
+      "url": "https://wrestleai.app",
+      "category": "医疗健康",
+      "tags": [
+        "$55K/30天",
+        "RevenueCat 验证",
+        "10万+下载",
+        "4.8 星",
+        "AI 健身"
+      ],
+      "icon": "activity",
+      "bg": "linear-gradient(135deg, #3B0D0D 0%, #A32D2D 100%)",
+      "tool": "Rork",
+      "hot": 0
+    },
+    {
+      "name": "HiringNow - 每 5 分钟扫描 24 万个招聘页的 AI 求职 Agent",
+      "desc": "每 5 分钟监控 247,000+ 家公司招聘页，比主流招聘平台更早发现新职位，按个人画像匹配岗位、定制简历与求职信，在用户批准后代为投递并回执追踪；2026-11-14 登上 Product Hunt 当日榜第 1（302 票、28 条评论）。",
+      "url": "https://hiringnow.ai",
+      "category": "AI办公",
+      "tags": [
+        "PH 日榜#1",
+        "302 票",
+        "24万招聘页",
+        "简历定制",
+        "自动投递"
+      ],
+      "icon": "briefcase",
+      "bg": "linear-gradient(135deg, #0B3D2E 0%, #2E8B57 100%)",
+      "tool": "AI Agent / 求职自动化",
+      "hot": 0
+    },
+    {
+      "name": "Templify AI - 不会剪辑也能做爆款短视频的 iPhone 内容编辑器",
+      "desc": "一体化视频、照片与轮播图编辑器，1,200+ 设计模板把随手拍变成 Reels、TikTok 与 Shorts，内置 AI 剪辑、节拍同步、自动字幕与去背景；团队自述累计 100 万+下载、300 万+视频、App Store 4.8 星，2026-11-13 登上 Product Hunt 当日榜第 1（391 票）。",
+      "url": "https://templify.ai",
+      "category": "设计创意",
+      "tags": [
+        "PH 日榜#1",
+        "391 票",
+        "100万下载",
+        "4.8 星",
+        "1200+ 模板"
+      ],
+      "icon": "clapperboard",
+      "bg": "linear-gradient(135deg, #4A154B 0%, #E1306C 100%)",
+      "tool": "AI 视频编辑 / Swift",
+      "hot": 0
+    },
+    {
+      "name": "Backspin - 在浏览器里跟着真实唱盘学打碟的交互课程",
+      "desc": "把双黑胶唱盘与混音台搬进浏览器，21 节短视频课程手把手教混音、对拍、EQ 与搓盘，点「Show me」先演示再让你上手并精准指出错在哪，内置练习曲目、无需设备与账号；2026-11-21 登上 Product Hunt 当日榜第 7（99 票）。",
+      "url": "https://backspin-dj.web.app",
+      "category": "音乐音频",
+      "tags": [
+        "PH 日榜#7",
+        "99 票",
+        "浏览器打碟",
+        "21 节课",
+        "免费"
+      ],
+      "icon": "music",
+      "bg": "linear-gradient(135deg, #2D1B4E 0%, #7B4FA8 100%)",
+      "tool": "Web / Firebase",
       "hot": 0
     }
   ],
