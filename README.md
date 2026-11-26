@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-25 22:24:28 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-26 22:35:09 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（833 个条目 / 15 个分类）
+## 📑 内容导航（839 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -606,6 +606,8 @@
   标签：15.5K 星 / CI/CD 排障 / 自动根因 / 开源 SRE / Trending
 - [Composio - 让 AI Agent 连接 1000+ 应用的工具网关](https://github.com/ComposioHQ/composio) — 用 TypeScript / Python SDK 给 Agent 提供跨 1000+ 应用的认证工具与统一调用能力，是 Agent 生态最主流的工具集成层之一；GitHub 31,292 星，被大量开源 Agent 项目作为标准工具底座。  
   标签：31.3K 星 / 1000+ 应用 / Agent 工具网关 / 认证集成 / 开源
+- [Cindy - 开箱即用的开源 AI Agent](https://github.com/makecindy/cindy) — 中文团队打造的开源 AI Agent，主打「想到，就能做到」，内置工具链与技能开箱即用，能自主完成真实任务；GitHub 10,696 星，一周内高频迭代，是国产 Agent 新锐。  
+  标签：10.7K 星 / 国产开源 / 开箱即用 / 自主任务 / Agent
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -827,6 +829,8 @@
   标签：PH 日榜#3 / 195 票 / CI 提速3倍 / 自托管 / 省钱
 - [App Store Compliance - 上架前自动排查拒审风险的 AI 技能包](https://github.com/mjmirza/app-store-compliance) — 把 124 条真实拒审模式、112 个合规截止日期（EU AI Act / DSA / COPPA 等）做成 Claude Code、Codex 可直接调用的提交前检查 Playbook，帮 AI 生成的应用少踩审核坑；GitHub 6,416 星，2026-11-25 单日暴涨 928 星冲上 GitHub Trending。  
   标签：6.4K 星 / 单日+928 / 124 拒审模式 / 上架合规 / 开源技能包
+- [BMAD-METHOD - 敏捷 AI 驱动开发方法框架](https://github.com/bmad-code-org/BMAD-METHOD) — 把 AI 编码变成有纪律的敏捷流程：分析师、产品经理、架构师、开发者、QA 多角色协作，覆盖从头脑风暴到上线的完整链路；GitHub 55,792 星，是与 Spec Kit 齐名的爆款 AI 开发方法论项目。  
+  标签：55.8K 星 / 敏捷开发 / 多角色协作 / SDD / 开源
 
 <a id="cat-游戏" name="cat-游戏"></a>
 
@@ -1247,6 +1251,8 @@
   标签：60.8K Star / Karpathy 出品 / 教育项目 / 本地训练 / MIT
 - [Modern Web Guidance - Google 官方给编码 Agent 的 Web 开发最佳实践指南](https://github.com/GoogleChrome/modern-web-guidance-src) — Google Chrome 团队开源，把最新 Web 平台特性、废弃模式与性能陷阱整理成编码 Agent 可直接读取的结构化指南，帮 Agent 扫掉过时写法；本周暴涨 6,858 星登顶 GitHub 增长榜第二，累计 10,481 星。  
   标签：10K Star / 周增 6858 / Web 最佳实践 / Google 官方 / Agent 指南
+- [Obsidian Skills - 让 AI Agent 读懂你的知识库](https://github.com/obsidianmd/obsidian-skills) — Obsidian 官方出品的 Agent Skills，教 AI 助手原生使用 Obsidian 与 Markdown、Bases、JSON Canvas 等开放格式，让笔记库变成可被 Agent 读写的结构化知识；GitHub 53,961 星，官方维护持续更新。  
+  标签：54K 星 / Obsidian 官方 / 知识管理 / PKM / 开源
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1414,6 +1420,10 @@
   标签：PH 日榜#1 / 391 票 / 100万下载 / 4.8 星 / 1200+ 模板
 - [AutoClip - 一个链接一键出片的开源 AI 视频剪辑](https://github.com/zhouxiaoka/autoclip) — 把播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面与发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts；GitHub 16,092 星、单日新增 980 星登顶 GitHub Trending，是国产开源 AI 剪辑的爆款。  
   标签：16.1K 星 / 单日+980 / 一键出片 / 自动字幕 / 开源
+- [emilkowalski Skills - 设计师与工程师的 Agent 技能库](https://github.com/emilkowalski/skills) — 知名开源作者 emilkowalski 打造的 Skills 合集，把设计判断与前端工程经验沉淀成可复用技能，让 AI 编码助手产出更专业、更有品味的界面；GitHub 60,064 星，为热门 Agent Skills 仓库之一。  
+  标签：60K 星 / 设计品味 / 前端工程 / Agent Skills / 开源
+- [Screen Studio 4.0 - 像改文字一样剪辑录屏](https://screen.studio/) — Mac 上口碑爆棚的屏幕录制工具，自动完成缩放、运镜、音效与构图；4.0 带来玻璃放大镜、按转录文本剪辑、摄像头抠图、自动隐藏敏感信息、ProRes 与 4 倍速导出；2026-11-01 登上 Product Hunt 当日榜第 1（400+ 票）。  
+  标签：PH 日榜#1 / 400+ 票 / 录屏工具 / 文本剪辑 / ProRes
 
 <a id="cat-电商营销" name="cat-电商营销"></a>
 
@@ -1759,6 +1769,8 @@
   标签：9.8K★ / Claude Code / 反 AI slop / UI 重设计
 - [AI Context Flow 2.0 - 跨所有 AI Agent 共享的可回滚记忆层](https://plurality.network/ai-context-flow/) — 通过 MCP 让 Claude、ChatGPT、Grok、Cursor 共享同一份上下文，按项目或客户分桶、记录完整版本历史并支持一键回滚，避免 AI 记忆散落各处；官方称已有 5,000+ 人使用，2026-11-21 登上 Product Hunt 当日榜第 2（241 票、45 条评论）。  
   标签：PH 日榜#2 / 241 票 / 5000+ 用户 / MCP 记忆层 / 版本回滚
+- [CodeGraph - 给 AI 编程助手装上的代码知识图谱](https://github.com/colbymchenry/codegraph) — 把整个代码库预索引成知识图谱，代码改动自动同步，让 Claude Code、Cursor、Codex、Gemini 查询时精确定位而非整文件读取，100% 本地运行大幅省 token；GitHub 78,780 星，连续登上 GitHub Trending TypeScript 日榜（最高第 10 名）。  
+  标签：78.8K 星 / GitHub Trending / 代码知识图谱 / 省 Token / 开源
 
 <a id="cat-web应用" name="cat-web应用"></a>
 

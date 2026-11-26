@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T22:24:28.288Z",
+  "updatedAt": "2026-11-26T22:35:09.676Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -13115,6 +13115,108 @@
       "icon": "database",
       "bg": "linear-gradient(135deg, #2D1B3D 0%, #6B3FA0 100%)",
       "tool": "MCP / AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "CodeGraph - 给 AI 编程助手装上的代码知识图谱",
+      "desc": "把整个代码库预索引成知识图谱，代码改动自动同步，让 Claude Code、Cursor、Codex、Gemini 查询时精确定位而非整文件读取，100% 本地运行大幅省 token；GitHub 78,780 星，连续登上 GitHub Trending TypeScript 日榜（最高第 10 名）。",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "category": "AI工具",
+      "tags": [
+        "78.8K 星",
+        "GitHub Trending",
+        "代码知识图谱",
+        "省 Token",
+        "开源"
+      ],
+      "icon": "network",
+      "bg": "linear-gradient(135deg, #4A1D6E 0%, #8E44AD 100%)",
+      "tool": "TypeScript / MCP",
+      "hot": 0
+    },
+    {
+      "name": "emilkowalski Skills - 设计师与工程师的 Agent 技能库",
+      "desc": "知名开源作者 emilkowalski 打造的 Skills 合集，把设计判断与前端工程经验沉淀成可复用技能，让 AI 编码助手产出更专业、更有品味的界面；GitHub 60,064 星，为热门 Agent Skills 仓库之一。",
+      "url": "https://github.com/emilkowalski/skills",
+      "category": "设计创意",
+      "tags": [
+        "60K 星",
+        "设计品味",
+        "前端工程",
+        "Agent Skills",
+        "开源"
+      ],
+      "icon": "palette",
+      "bg": "linear-gradient(135deg, #2B1846 0%, #6A3E8C 100%)",
+      "tool": "Agent Skills",
+      "hot": 0
+    },
+    {
+      "name": "BMAD-METHOD - 敏捷 AI 驱动开发方法框架",
+      "desc": "把 AI 编码变成有纪律的敏捷流程：分析师、产品经理、架构师、开发者、QA 多角色协作，覆盖从头脑风暴到上线的完整链路；GitHub 55,792 星，是与 Spec Kit 齐名的爆款 AI 开发方法论项目。",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "category": "效率工具",
+      "tags": [
+        "55.8K 星",
+        "敏捷开发",
+        "多角色协作",
+        "SDD",
+        "开源"
+      ],
+      "icon": "workflow",
+      "bg": "linear-gradient(135deg, #0B3D2E 0%, #1E7A5F 100%)",
+      "tool": "Markdown / AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Obsidian Skills - 让 AI Agent 读懂你的知识库",
+      "desc": "Obsidian 官方出品的 Agent Skills，教 AI 助手原生使用 Obsidian 与 Markdown、Bases、JSON Canvas 等开放格式，让笔记库变成可被 Agent 读写的结构化知识；GitHub 53,961 星，官方维护持续更新。",
+      "url": "https://github.com/obsidianmd/obsidian-skills",
+      "category": "教育学习",
+      "tags": [
+        "54K 星",
+        "Obsidian 官方",
+        "知识管理",
+        "PKM",
+        "开源"
+      ],
+      "icon": "book-open",
+      "bg": "linear-gradient(135deg, #1B2A41 0%, #3E6E9E 100%)",
+      "tool": "Agent Skills",
+      "hot": 0
+    },
+    {
+      "name": "Cindy - 开箱即用的开源 AI Agent",
+      "desc": "中文团队打造的开源 AI Agent，主打「想到，就能做到」，内置工具链与技能开箱即用，能自主完成真实任务；GitHub 10,696 星，一周内高频迭代，是国产 Agent 新锐。",
+      "url": "https://github.com/makecindy/cindy",
+      "category": "Agent",
+      "tags": [
+        "10.7K 星",
+        "国产开源",
+        "开箱即用",
+        "自主任务",
+        "Agent"
+      ],
+      "icon": "bot",
+      "bg": "linear-gradient(135deg, #5C2A1A 0%, #C06A3E 100%)",
+      "tool": "TypeScript / AI Agent",
+      "hot": 0
+    },
+    {
+      "name": "Screen Studio 4.0 - 像改文字一样剪辑录屏",
+      "desc": "Mac 上口碑爆棚的屏幕录制工具，自动完成缩放、运镜、音效与构图；4.0 带来玻璃放大镜、按转录文本剪辑、摄像头抠图、自动隐藏敏感信息、ProRes 与 4 倍速导出；2026-11-01 登上 Product Hunt 当日榜第 1（400+ 票）。",
+      "url": "https://screen.studio/",
+      "category": "设计创意",
+      "tags": [
+        "PH 日榜#1",
+        "400+ 票",
+        "录屏工具",
+        "文本剪辑",
+        "ProRes"
+      ],
+      "icon": "video",
+      "bg": "linear-gradient(135deg, #1E3A5F 0%, #4A7FB5 100%)",
+      "tool": "Electron / AI",
       "hot": 0
     }
   ],
