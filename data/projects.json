@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:35:09.676Z",
+  "updatedAt": "2026-11-27T22:43:44.327Z",
   "items": [
     {
       "name": "Todo App - Apple 风格",
@@ -13217,6 +13217,125 @@
       "icon": "video",
       "bg": "linear-gradient(135deg, #1E3A5F 0%, #4A7FB5 100%)",
       "tool": "Electron / AI",
+      "hot": 0
+    },
+    {
+      "name": "autoresearch - Karpathy 让 AI 自己搞科研的实验场",
+      "desc": "Andrej Karpathy 出品：让编码 Agent 在单 GPU 的 nanochat 训练环境里自主改代码、每 5 分钟跑一轮实验、按 val_bpb 指标自动保留或回滚改进，630 行代码把「AI 做科研」变成可复现循环；GitHub 100,708 星、13.8K fork，登上 Hacker News 热榜（208 分），是自主研究 Agent 的现象级项目。",
+      "url": "https://github.com/karpathy/autoresearch",
+      "category": "AI工具",
+      "tags": [
+        "100.7K 星",
+        "Karpathy 出品",
+        "Hacker News",
+        "自主研究",
+        "开源"
+      ],
+      "icon": "flask-conical",
+      "bg": "linear-gradient(135deg, #5B21B6 0%, #7C3AED 100%)",
+      "tool": "Claude Code / Codex",
+      "hot": 0
+    },
+    {
+      "name": "深入理解 AI Agent - 李博杰的开源 Agent 教科书",
+      "desc": "李博杰所著《深入理解 AI Agent：设计原理与工程实践》开源主仓库，放出全书正文、编译版 PDF 与 109 个可运行实验，系统讲透 Agent 的设计原理与工程落地，被开发者称为「Agent 领域的圣经」；GitHub 60,114 星、6,795 fork，稳居 AI 学习类榜单前列。",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "category": "教育学习",
+      "tags": [
+        "60.1K 星",
+        "109 个实验",
+        "中文原创",
+        "Agent 教程",
+        "开源书"
+      ],
+      "icon": "book-open",
+      "bg": "linear-gradient(135deg, #2E1065 0%, #4C1D95 100%)",
+      "tool": "Python / Markdown",
+      "hot": 0
+    },
+    {
+      "name": "AstrBot - 一个框架接入所有 IM 平台的 AI Agent",
+      "desc": "一站式多平台 AI Agent 与聊天机器人框架，打通 QQ、企业微信、飞书、钉钉、Telegram、Slack 等主流 IM，集成大模型、多模态、MCP、Skills、知识库、Agent 沙箱与 1000+ 插件，被称为「OpenClaw 的国产替代」；GitHub 47,647 星、3,693 fork，持续高频迭代。",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "category": "社交社区",
+      "tags": [
+        "47.6K 星",
+        "多平台 IM",
+        "1000+ 插件",
+        "Agent 沙箱",
+        "开源"
+      ],
+      "icon": "message-circle",
+      "bg": "linear-gradient(135deg, #0C4A6E 0%, #0E7490 100%)",
+      "tool": "Python / LLM",
+      "hot": 0
+    },
+    {
+      "name": "mini-swe-agent - 100 行代码解决 GitHub Issue 的极简 Agent",
+      "desc": "SWE-bench / SWE-agent 团队出品的极简编码 Agent：整个 Agent 类只有约 100 行 Python，只给模型 bash 一个工具、无需复杂配置，却在 SWE-bench Verified 上拿下 74%+ 的成绩，支持本地或 Docker 运行、任意模型接入；GitHub 10,143 星、MIT 开源，是「少即是多」的 Agent 典范。",
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "category": "Agent",
+      "tags": [
+        "10.1K 星",
+        "100 行代码",
+        "SWE-bench 74%",
+        "极简 Agent",
+        "MIT"
+      ],
+      "icon": "terminal",
+      "bg": "linear-gradient(135deg, #134E4A 0%, #0D9488 100%)",
+      "tool": "Python / LiteLLM",
+      "hot": 0
+    },
+    {
+      "name": "PokeBonk - 一人用 AI 两周搓出的 3D 宝可梦割草爆款",
+      "desc": "西班牙独立开发者 Charcher 借助 Blender + Claude Opus 生成 3D 资产、AI 辅助写代码，两周独自完成的 3D 宝可梦幸存者游戏：关都 151 只宝可梦、进化链、属性克制、多人联机一应俱全；2026-10-14 上线后预告片吸引 100 万人围观、注册玩家突破 50.4 万、数日内总玩家破 100 万，服务器被挤爆紧急扩容，登顶国内外游戏热榜。",
+      "url": "https://pokebonk.com/",
+      "category": "游戏",
+      "tags": [
+        "100 万+玩家",
+        "一人开发",
+        "两周完成",
+        "3D 割草",
+        "宝可梦"
+      ],
+      "icon": "gamepad-2",
+      "bg": "linear-gradient(135deg, #831843 0%, #BE185D 100%)",
+      "tool": "Blender + Claude Opus / Three.js",
+      "hot": 0
+    },
+    {
+      "name": "MyClaw 3.0 - 给每个人配一支永不休眠的 AI 团队",
+      "desc": "用 OpenClaw、Claude Code、Codex、Hermes Agent 等引擎组建 AI 同事，每人独立角色、工具、技能与 50+ 模型选择，共享记忆跑在常驻云电脑上、关掉笔记本也能干活，支持从 Web、Slack、Telegram、WhatsApp 派活；2026-11-25 登上 Product Hunt 当日榜第 1（337 票、61 评论）。",
+      "url": "https://myclaw.ai/",
+      "category": "AI办公",
+      "tags": [
+        "PH 日榜#1",
+        "337 票",
+        "AI 团队",
+        "共享记忆",
+        "50+ 模型"
+      ],
+      "icon": "users",
+      "bg": "linear-gradient(135deg, #7C2D12 0%, #C2410C 100%)",
+      "tool": "OpenClaw / Claude Code / Codex",
+      "hot": 0
+    },
+    {
+      "name": "distribution.dev - 一次投放覆盖整个开发者广告网络",
+      "desc": "由 daily.dev 与 DEV（dev.to）等开发者社区联合构建的开发者广告网络，设置一个广告活动即可同时在多个头部开发者网站投放、内容自动适配各站风格；2026-11-24 登上 Product Hunt 当日榜第 1（284 票），是独立开发者做增长的新型弹药房。",
+      "url": "https://distribution.dev/",
+      "category": "电商营销",
+      "tags": [
+        "PH 日榜#1",
+        "284 票",
+        "开发者广告",
+        "一次投放",
+        "增长"
+      ],
+      "icon": "megaphone",
+      "bg": "linear-gradient(135deg, #713F12 0%, #A16207 100%)",
+      "tool": "Web / Ad Network",
       "hot": 0
     }
   ],

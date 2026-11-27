@@ -4,13 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[Vibe Coding 作品展](https://soycodetrail.top/vibe-coding)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-26 22:35:09 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-27 22:43:44 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（839 个条目 / 15 个分类）
+## 📑 内容导航（846 个条目 / 15 个分类）
 
 - [📁 Web 应用](#cat-web-应用)
 - [📁 AI 工具](#cat-ai-工具)
@@ -608,6 +608,8 @@
   标签：31.3K 星 / 1000+ 应用 / Agent 工具网关 / 认证集成 / 开源
 - [Cindy - 开箱即用的开源 AI Agent](https://github.com/makecindy/cindy) — 中文团队打造的开源 AI Agent，主打「想到，就能做到」，内置工具链与技能开箱即用，能自主完成真实任务；GitHub 10,696 星，一周内高频迭代，是国产 Agent 新锐。  
   标签：10.7K 星 / 国产开源 / 开箱即用 / 自主任务 / Agent
+- [mini-swe-agent - 100 行代码解决 GitHub Issue 的极简 Agent](https://github.com/SWE-agent/mini-swe-agent) — SWE-bench / SWE-agent 团队出品的极简编码 Agent：整个 Agent 类只有约 100 行 Python，只给模型 bash 一个工具、无需复杂配置，却在 SWE-bench Verified 上拿下 74%+ 的成绩，支持本地或 Docker 运行、任意模型接入；GitHub 10,143 星、MIT 开源，是「少即是多」的 Agent 典范。  
+  标签：10.1K 星 / 100 行代码 / SWE-bench 74% / 极简 Agent / MIT
 
 <a id="cat-效率工具" name="cat-效率工具"></a>
 
@@ -1010,6 +1012,8 @@
   标签：48h $35.6万 / 5万份销量 / AI 生成代码 / 肉鸽塔防 / Steam
 - [Wanaka Studio - 用一句话做可发布 3D 游戏的 AI 原生引擎](https://studio.wanaka.app) — 首个 AI 原生 3D 游戏引擎：自然语言生成场景后可在同步可视化编辑器里拖动素材、改地形与多人玩法，AI Agent 自带 30+ 原子引擎工具与自玩自测回滚闭环，一键链接发布。创始人 Yang Zhang 曾把字节 Helo 做到 5000 万 DAU、联合创办 AnswerAI（北美 Top3 教育 App、600 万用户），CTO 来自字节 Seed，团队兼具字节与米哈游背景。2026-11-04 上线即登 Product Hunt 当日榜 #1（约 500 票、118 评论）。  
   标签：PH 日榜#1 / 500 票 / AI 游戏引擎 / 字节+米哈游团队 / 一键发布
+- [PokeBonk - 一人用 AI 两周搓出的 3D 宝可梦割草爆款](https://pokebonk.com/) — 西班牙独立开发者 Charcher 借助 Blender + Claude Opus 生成 3D 资产、AI 辅助写代码，两周独自完成的 3D 宝可梦幸存者游戏：关都 151 只宝可梦、进化链、属性克制、多人联机一应俱全；2026-10-14 上线后预告片吸引 100 万人围观、注册玩家突破 50.4 万、数日内总玩家破 100 万，服务器被挤爆紧急扩容，登顶国内外游戏热榜。  
+  标签：100 万+玩家 / 一人开发 / 两周完成 / 3D 割草 / 宝可梦
 
 <a id="cat-金融财经" name="cat-金融财经"></a>
 
@@ -1170,6 +1174,8 @@
   标签：PH 日榜#1 / 302 票 / 24万招聘页 / 简历定制 / 自动投递
 - [Zoom Slides - 会议记录一键变成可编辑演示文稿](https://slides.zoom.us/) — Zoom 官方 AI 演示工具，把会议转录、摘要、文档与想法直接转成带布局、视觉和演讲者备注的可编辑 PPT，还能用 AI 逐页润色并导出 PowerPoint；2026-11-16 登上 Product Hunt 当日榜第 1（299 票、101 条评论）。  
   标签：PH 日榜#1 / 299 票 / 会议转 PPT / Zoom 官方 / 可编辑
+- [MyClaw 3.0 - 给每个人配一支永不休眠的 AI 团队](https://myclaw.ai/) — 用 OpenClaw、Claude Code、Codex、Hermes Agent 等引擎组建 AI 同事，每人独立角色、工具、技能与 50+ 模型选择，共享记忆跑在常驻云电脑上、关掉笔记本也能干活，支持从 Web、Slack、Telegram、WhatsApp 派活；2026-11-25 登上 Product Hunt 当日榜第 1（337 票、61 评论）。  
+  标签：PH 日榜#1 / 337 票 / AI 团队 / 共享记忆 / 50+ 模型
 
 <a id="cat-教育学习" name="cat-教育学习"></a>
 
@@ -1253,6 +1259,8 @@
   标签：10K Star / 周增 6858 / Web 最佳实践 / Google 官方 / Agent 指南
 - [Obsidian Skills - 让 AI Agent 读懂你的知识库](https://github.com/obsidianmd/obsidian-skills) — Obsidian 官方出品的 Agent Skills，教 AI 助手原生使用 Obsidian 与 Markdown、Bases、JSON Canvas 等开放格式，让笔记库变成可被 Agent 读写的结构化知识；GitHub 53,961 星，官方维护持续更新。  
   标签：54K 星 / Obsidian 官方 / 知识管理 / PKM / 开源
+- [深入理解 AI Agent - 李博杰的开源 Agent 教科书](https://github.com/bojieli/ai-agent-book) — 李博杰所著《深入理解 AI Agent：设计原理与工程实践》开源主仓库，放出全书正文、编译版 PDF 与 109 个可运行实验，系统讲透 Agent 的设计原理与工程落地，被开发者称为「Agent 领域的圣经」；GitHub 60,114 星、6,795 fork，稳居 AI 学习类榜单前列。  
+  标签：60.1K 星 / 109 个实验 / 中文原创 / Agent 教程 / 开源书
 
 <a id="cat-设计创意" name="cat-设计创意"></a>
 
@@ -1517,6 +1525,8 @@
   标签：PH 日榜#1 / 283 票 / GTM Copilot / 1200+ MCP 动作 / 免费版
 - [Creatify Max - 从策略到投放一条龙的视频广告 Agent](https://creatify.ai/ad-agent) — 给一个商品链接或 brief，它就能生成视频广告、建好 Meta 与 TikTok 投放并持续盯数据、指出下一步该加预算还是暂停素材——但任何改动都要人批准才上线；出品方 Creatify 于 2025 年完成 $15.5M A 轮（WndrCo、Kindred Ventures 领投），2026-11 周 Product Hunt 榜第 3（427 票、143 评论）。  
   标签：PH 周榜#3 / 427 票 / $15.5M A轮 / 广告 Agent / 视频生成
+- [distribution.dev - 一次投放覆盖整个开发者广告网络](https://distribution.dev/) — 由 daily.dev 与 DEV（dev.to）等开发者社区联合构建的开发者广告网络，设置一个广告活动即可同时在多个头部开发者网站投放、内容自动适配各站风格；2026-11-24 登上 Product Hunt 当日榜第 1（284 票），是独立开发者做增长的新型弹药房。  
+  标签：PH 日榜#1 / 284 票 / 开发者广告 / 一次投放 / 增长
 
 <a id="cat-音乐音频" name="cat-音乐音频"></a>
 
@@ -1706,6 +1716,8 @@
   标签：PH 日榜#2 / 387 票 / 人机协作 IM / Agent 社交网络 / 自进化记忆
 - [Prelulu - 与你视频对话的 AI 故事角色，把实时数字人带到消费级](https://prelulu.ai/) — 把实时数字人 avatar 技术首次规模化到消费端：创建自己的 AI 角色，从文字角色扮演升级到面对面的实时视频对话，还能自行编写剧情；2026-11-04 登上 Product Hunt 当日榜第 3（271 票、53 条评论）。  
   标签：PH 日榜#3 / 271 票 / AI 角色扮演 / 实时视频 / 数字人
+- [AstrBot - 一个框架接入所有 IM 平台的 AI Agent](https://github.com/AstrBotDevs/AstrBot) — 一站式多平台 AI Agent 与聊天机器人框架，打通 QQ、企业微信、飞书、钉钉、Telegram、Slack 等主流 IM，集成大模型、多模态、MCP、Skills、知识库、Agent 沙箱与 1000+ 插件，被称为「OpenClaw 的国产替代」；GitHub 47,647 星、3,693 fork，持续高频迭代。  
+  标签：47.6K 星 / 多平台 IM / 1000+ 插件 / Agent 沙箱 / 开源
 
 <a id="cat-ai工具" name="cat-ai工具"></a>
 
@@ -1771,6 +1783,8 @@
   标签：PH 日榜#2 / 241 票 / 5000+ 用户 / MCP 记忆层 / 版本回滚
 - [CodeGraph - 给 AI 编程助手装上的代码知识图谱](https://github.com/colbymchenry/codegraph) — 把整个代码库预索引成知识图谱，代码改动自动同步，让 Claude Code、Cursor、Codex、Gemini 查询时精确定位而非整文件读取，100% 本地运行大幅省 token；GitHub 78,780 星，连续登上 GitHub Trending TypeScript 日榜（最高第 10 名）。  
   标签：78.8K 星 / GitHub Trending / 代码知识图谱 / 省 Token / 开源
+- [autoresearch - Karpathy 让 AI 自己搞科研的实验场](https://github.com/karpathy/autoresearch) — Andrej Karpathy 出品：让编码 Agent 在单 GPU 的 nanochat 训练环境里自主改代码、每 5 分钟跑一轮实验、按 val_bpb 指标自动保留或回滚改进，630 行代码把「AI 做科研」变成可复现循环；GitHub 100,708 星、13.8K fork，登上 Hacker News 热榜（208 分），是自主研究 Agent 的现象级项目。  
+  标签：100.7K 星 / Karpathy 出品 / Hacker News / 自主研究 / 开源
 
 <a id="cat-web应用" name="cat-web应用"></a>
 
